@@ -1,8 +1,11 @@
 name: Update data
 
 on:
-    schedule:
-        - cron: '*/15 * * * *'
+  schedule:
+    - cron: '0 0 * * *'  # This means the workflow will run every 15 minutes
+  push:
+    branches:
+      - main  # This means the workflow will also run on every push to the 'main' branch
 
 jobs:
     update_data:
