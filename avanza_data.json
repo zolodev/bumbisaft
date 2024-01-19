@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-01-19 14:08:33"
+                "LastUpdated": "2024-01-19 14:14:54"
             },
             {
                 "Name": "Pictet-Digital R USD",
@@ -26,7 +26,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-01-19 14:08:35"
+                "LastUpdated": "2024-01-19 14:14:58"
             },
             {
                 "Name": "BGF Euro-Markets A2",
@@ -39,7 +39,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-01-19 14:08:39"
+                "LastUpdated": "2024-01-19 14:15:04"
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -52,7 +52,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-01-19 14:08:41"
+                "LastUpdated": "2024-01-19 14:15:06"
             },
             {
                 "Name": "Swedbank Robur Small Cap Europe A",
@@ -65,13 +65,26 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-01-19 14:08:42"
+                "LastUpdated": "2024-01-19 14:15:07"
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 14.382935377078212,
+                "Yesterday": 12.352691510131825,
+                "LastWeek": 7.0996689424347945,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-01-19 14:15:15"
+            },
             {
                 "Name": "BGF World Technology A2",
                 "PPMCode": "446088",
@@ -83,20 +96,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-01-19 14:08:47"
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 11.555221095090463,
-                "Yesterday": 11.126576563017382,
-                "LastWeek": 3.622046296017582,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-01-19 14:08:50"
+                "LastUpdated": "2024-01-19 14:15:17"
             },
             {
                 "Name": "Franklin Technology A Acc USD",
@@ -109,7 +109,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-01-19 14:08:52"
+                "LastUpdated": "2024-01-19 14:15:22"
             },
             {
                 "Name": "Lannebo Teknik",
@@ -122,7 +122,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-01-19 14:08:55"
+                "LastUpdated": "2024-01-19 14:15:27"
             }
         ]
     }
