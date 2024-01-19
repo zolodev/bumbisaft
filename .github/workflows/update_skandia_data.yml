@@ -8,7 +8,7 @@ on:
             - main # This means the workflow will also run on every push to the 'main' branch
 
 jobs:
-    update_data:
+    update_skandia_data:
         runs-on: ubuntu-latest
 
         steps:
