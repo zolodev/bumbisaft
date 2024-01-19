@@ -17,12 +17,12 @@ TITLE = "Skandia"
 
 def write_HAR_file(filename=None, har_to_write=""):
     # Write the information to a new JSON file
-    if TITLE is not None:
+    if filename is not None:
         with open('HAR_'+filename+'.har', 'w') as f:
-        f.write(json.dumps(har_to_write, indent=4, sort_keys=True))
+            f.write(json.dumps(har_to_write, indent=4, sort_keys=True))
     else:
         with open('HAR_Data.har', 'w') as f:
-        f.write(json.dumps(har_to_write, indent=4, sort_keys=True))
+            f.write(json.dumps(har_to_write, indent=4, sort_keys=True))
 
 
 
@@ -83,7 +83,7 @@ def find_HAR_content_by_req(filename, part_to_find=""):
 
                 # Save the json information to a file for further processing
                 with open(filename+'_data.json', 'w') as f:
-                f.write(json.dumps(json.loads(res_content), indent=4, sort_keys=True))
+                    f.write(json.dumps(json.loads(res_content), indent=4, sort_keys=True))
 
     
 
