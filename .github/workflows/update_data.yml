@@ -1,4 +1,4 @@
-name: Update avanza data
+name: Update data
 
 on:
     schedule:
@@ -9,6 +9,8 @@ on:
 
 jobs:
     update_avanza_data:
+        name: Update Avanza data
+
         runs-on: ubuntu-latest
 
         steps:
@@ -27,6 +29,41 @@ jobs:
 
             - name: Run script
               run: python fetchData.py # Replace with your script's filename
+
+            - name: Commit and push
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add .
+                  git commit -m "Update data" -a || echo "No changes to commit"
+                  git push
+
+    update_skandia_data:
+        name: Update Skandia data
+        needs: update_avanza_data
+
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Check out code
+              uses: actions/checkout@v2
+
+            - name: Set up Python
+              uses: actions/setup-python@v2
+              with:
+                  python-version: "3.x"
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install requests
+                  pip install selenium-wire
+                  pip install haralyzer
+                  pip3 install packaging
+                  pip install setuptools
+
+            - name: Run script
+              run: python fetchSkandiaData.py # Replace with your script's filename
 
             - name: Commit and push
               run: |
