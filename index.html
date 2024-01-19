@@ -12,11 +12,9 @@
             margin-top: 20px;
         }
 
-        .data-item {
+        pre {
             background-color: #f5f5f5;
             padding: 10px;
-            margin-bottom: 10px;
-            border-radius: 5px;
         }
     </style>
 </head>
@@ -33,13 +31,11 @@
         fetch(url)
             .then(response => response.json())
             .then(data => {
-                // Create a div for each item in the data
-                for (const item in data) {
-                    const div = document.createElement('div');
-                    div.className = 'data-item';
-                    div.textContent = `${item}: ${data[item]}`;
-                    document.getElementById('dataContainer').appendChild(div);
-                }
+                // Convert the JSON data to a string with indentation
+                const dataStr = JSON.stringify(data, null, 2);
+
+                // Display the data in a <pre> element
+                document.getElementById('dataContainer').innerHTML = `<pre>${dataStr}</pre>`;
             })
             .catch(error => console.error('Error:', error));
     </script>
