@@ -8,6 +8,7 @@
 
 import requests
 import json
+from datetime import datetime
 
 # Helper Function to print object to json
 # For example: json.dumps(listToPrint, default=obj_dict, indent=4) 
@@ -33,8 +34,9 @@ class FundData(object):
     TrendWeek = ""
     TrendAwesome = ""
     Label = ""
+    LastUpdated = ""
 
-    def __init__(self, name, ppmcode, url, current, yesterday, lastWeek, trendDay, trendWeek, trendAwesome, label):
+    def __init__(self, name, ppmcode, url, current, yesterday, lastWeek, trendDay, trendWeek, trendAwesome, label, lastUpdated):
         self.Name = name
         self.PPMCode = ppmcode
         self.URL = url
@@ -45,6 +47,7 @@ class FundData(object):
         self.TrendWeek = trendWeek
         self.TrendAwesome = trendAwesome
         self.Label = label
+        self.LastUpdated = lastUpdated
 
     def to_json(self): 
         return json.dumps(self, indent = 4, default=lambda o: o.__dict__) 
@@ -122,6 +125,11 @@ def get_funds_from_ListView(label :str, funds_list :list):
             if (dict_trend["day"] == "\u25b2" and dict_trend["week"] == "\u25b2"):
                 bAwesome = "💪"
 
+
+            # Get current date and time
+            now = datetime.now()
+            dt_string = now.strftime("%Y-%m-%d %H:%M:%S") # YYYY-MM-DD HH:MM:SS
+            
             fundDataObj = {}
             fundDataObj = FundData(name = fund_name, 
                                     ppmcode = single_response_data["ppmCode"],
@@ -132,7 +140,8 @@ def get_funds_from_ListView(label :str, funds_list :list):
                                     trendDay = dict_trend["day"],
                                     trendWeek = dict_trend["week"],
                                     trendAwesome = bAwesome,
-                                    label = label)
+                                    label = label,
+                                    lastUpdated = str(dt_string))
             
             fundDataList_to_return.append(fundDataObj)
 
