@@ -4,6 +4,15 @@
 <body>
     <h1>Hello World</h1>
     <p>I'm hosted with GitHub Pages.</p>
+
+    <script>
+        (function () {
+            fetch('https://zolodev.github.io/auto-python/data.json')
+                .then((response) => response.json())
+                .then((json) => console.log(json));
+        })();
+
+    </script>
 </body>
 
 </html>
