@@ -27,6 +27,7 @@ jobs:
                   pip install selenium-wire
                   pip install haralyzer
                   pip3 install packaging
+                  pip install setuptools
 
             - name: Run script
               run: python fetchSkandiaData.py # Replace with your script's filename
