@@ -33,7 +33,7 @@ jobs:
 
             - name: Update Avanza data
               run: python fetchAvanzaData.py # Get data from Avanza
-            - name: Update skandia data
+            - name: Update Skandia data
               run: python fetchSkandiaData.py # Get data from Skandia
 
             - name: Commit and push
