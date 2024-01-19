@@ -115,25 +115,26 @@ def get_funds_from_ListView(label :str, funds_list :list):
         single_response_data = json.loads(single_response.text)
 
         if single_response_data["ppmCode"] is not None:
-        dict_trend = get_fund_trend_by_id(current_fund_id)
+            dict_trend = get_fund_trend_by_id(current_fund_id)
 
-        # Set flex, when trend for day and week both point upwards
-        bAwesome = ""
-        if (dict_trend["day"] == "\u25b2" and dict_trend["week"] == "\u25b2"): bAwesome = "💪"
+            # Set flex, when trend for day and week both point upwards
+            bAwesome = ""
+            if (dict_trend["day"] == "\u25b2" and dict_trend["week"] == "\u25b2"):
+                bAwesome = "💪"
 
-        fundDataObj = {}
-        fundDataObj = FundData(name = fund_name, 
-                                ppmcode = single_response_data["ppmCode"],
-                                url = fund_url,
-                                current = dict_trend["day_current_value"],
-                                yesterday = dict_trend["day_prev_value"],
-                                lastWeek = dict_trend["week_prev_value"],
-                                trendDay = dict_trend["day"],
-                                trendWeek = dict_trend["week"],
-                                trendAwesome = bAwesome,
-                                label = label)
-        
-        fundDataList_to_return.append(fundDataObj)
+            fundDataObj = {}
+            fundDataObj = FundData(name = fund_name, 
+                                    ppmcode = single_response_data["ppmCode"],
+                                    url = fund_url,
+                                    current = dict_trend["day_current_value"],
+                                    yesterday = dict_trend["day_prev_value"],
+                                    lastWeek = dict_trend["week_prev_value"],
+                                    trendDay = dict_trend["day"],
+                                    trendWeek = dict_trend["week"],
+                                    trendAwesome = bAwesome,
+                                    label = label)
+            
+            fundDataList_to_return.append(fundDataObj)
 
     return fundDataList_to_return
 
