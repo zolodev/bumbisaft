@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JSON Data Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .data-container {
+            margin-top: 20px;
+        }
+
+        pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>JSON Data</h1>
+    <div class="data-container" id="dataContainer"></div>
+
+    <script>
+        // URL of the JSON data
+        const url = 'https://raw.githubusercontent.com/zolodev/auto-python/main/Skandia_data.json';
+
+        // Fetch the JSON data from the URL
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                // Convert the JSON data to a string with indentation
+                const dataStr = JSON.stringify(data, null, 2);
+
+                // Display the data in a <pre> element
+                document.getElementById('dataContainer').innerHTML = `<pre>${dataStr}</pre>`;
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
+</body>
+
+</html>
