@@ -32,7 +32,7 @@ jobs:
                   pip install setuptools
 
             - name: Update Avanza data
-              run: python fetchData.py # Get data from Avanza
+              run: python fetchAvanzaData.py # Get data from Avanza
             - name: Update skandia data
               run: python fetchSkandiaData.py # Get data from Skandia
 

@@ -186,7 +186,7 @@ def run():
     print(avanza_dailys_and_weeklys_funds_data)
 
     if avanza_dailys_and_weeklys_funds_data is not None:
-        with open('data.json', 'w') as f:
+        with open('avanza_data.json', 'w') as f:
                 f.write(avanza_dailys_and_weeklys_funds_data)
 
 
