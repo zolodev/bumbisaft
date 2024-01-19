@@ -37,46 +37,9 @@
     <div id="dataContainer"></div>
 
     <script>
-        // // JSON data
-        // const data = [
-        //     {
-        //         "Label": "DAILYS",
-        //         "FundData": [
-        //             {
-        //                 "Name": "BGF World Technology A2",
-        //                 "PPMCode": "446088",
-        //                 "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-        //                 "Current": 11.312695140549705,
-        //                 "Yesterday": 8.313373938829322,
-        //                 "LastWeek": 5.002788972617496,
-        //                 "TrendDay": "▲",
-        //                 "TrendWeek": "▲",
-        //                 "TrendAwesome": "💪",
-        //                 "Label": "DAILYS",
-        //                 "LastUpdated": "2024-01-19 10:39:23"
-        //             }
-        //         ]
-        //     },
-        //     {
-        //         "Label": "WEEKLYS",
-        //         "FundData": [
-        //             {
-        //                 "Name": "BGF World Technology A2",
-        //                 "PPMCode": "446088",
-        //                 "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-        //                 "Current": 11.312695140549705,
-        //                 "Yesterday": 8.313373938829322,
-        //                 "LastWeek": 5.002788972617496,
-        //                 "TrendDay": "▲",
-        //                 "TrendWeek": "▲",
-        //                 "TrendAwesome": "💪",
-        //                 "Label": "WEEKLYS",
-        //                 "LastUpdated": "2024-01-19 10:39:43"
-        //             }
-        //         ]
-        //     }
-        // ];
+
         var data = "";
+        
         // URL of the JSON data
         const url = 'https://raw.githubusercontent.com/zolodev/auto-python/main/data.json';
 
@@ -85,10 +48,7 @@
             .then(response => response.json())
             .then(rec_data => {
                 // Convert the JSON data to a string with indentation
-                data = rec_data;//JSON.stringify(rec_data, null, 2);
-
-                // Display the data in a <pre> element
-                // document.getElementById('dataContainer').innerHTML = `<pre>${dataStr}</pre>`;
+                data = rec_data;
 
                 // Iterate over the data
                 data.forEach(item => {
