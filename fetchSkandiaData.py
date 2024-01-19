@@ -6,7 +6,7 @@
 # Description   : This is a test to get fund information from Skandia
 #****************************************************************************
 
-
+import os
 import json
 from seleniumwire import webdriver
 from haralyzer import HarParser, HarPage
@@ -94,6 +94,9 @@ def run():
 
     find_HAR_content_by_req(TITLE, "/api/fundlist/desktop")
 
+    # Delete the HAR file because it could be large and unnecessary to have it in the repo
+    os.remove("HAR_Skandia.har")
+    
 
 if __name__ == "__main__":
     run()
