@@ -181,5 +181,5 @@ def run():
                 f.write(avanza_dailys_and_weeklys_funds_data)
 
 
-#if __name__ = "__main__":
+if __name__ = "__main__":
     run()
