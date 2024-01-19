@@ -1,0 +1,39 @@
+name: Update skandia data
+
+on:
+    schedule:
+        - cron: "0 12 * * *" # This means the workflow will run once a day at 12:00
+    push:
+        branches:
+            - main # This means the workflow will also run on every push to the 'main' branch
+
+jobs:
+    update_data:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Check out code
+              uses: actions/checkout@v2
+
+            - name: Set up Python
+              uses: actions/setup-python@v2
+              with:
+                  python-version: "3.x"
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install requests
+                  pip install selenium-wire
+                  pip install haralyzer
+
+            - name: Run script
+              run: python fetchSkandiaData.py # Replace with your script's filename
+
+            - name: Commit and push
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add .
+                  git commit -m "Update data" -a || echo "No changes to commit"
+                  git push
