@@ -6,38 +6,117 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            padding: 10px;
         }
 
-        .data-container {
-            margin-top: 20px;
+        .label {
+            font-size: 20px;
+            color: #555;
         }
 
-        pre {
+        .data-item {
             background-color: #f5f5f5;
             padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+        .data-item p {
+            margin: 0;
+            padding: 2px;
+        }
+
+        .data-item p span {
+            font-weight: bold;
         }
     </style>
 </head>
 
 <body>
     <h1>JSON Data</h1>
-    <div class="data-container" id="dataContainer"></div>
+    <div id="dataContainer"></div>
 
     <script>
+        // // JSON data
+        // const data = [
+        //     {
+        //         "Label": "DAILYS",
+        //         "FundData": [
+        //             {
+        //                 "Name": "BGF World Technology A2",
+        //                 "PPMCode": "446088",
+        //                 "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+        //                 "Current": 11.312695140549705,
+        //                 "Yesterday": 8.313373938829322,
+        //                 "LastWeek": 5.002788972617496,
+        //                 "TrendDay": "▲",
+        //                 "TrendWeek": "▲",
+        //                 "TrendAwesome": "💪",
+        //                 "Label": "DAILYS",
+        //                 "LastUpdated": "2024-01-19 10:39:23"
+        //             }
+        //         ]
+        //     },
+        //     {
+        //         "Label": "WEEKLYS",
+        //         "FundData": [
+        //             {
+        //                 "Name": "BGF World Technology A2",
+        //                 "PPMCode": "446088",
+        //                 "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+        //                 "Current": 11.312695140549705,
+        //                 "Yesterday": 8.313373938829322,
+        //                 "LastWeek": 5.002788972617496,
+        //                 "TrendDay": "▲",
+        //                 "TrendWeek": "▲",
+        //                 "TrendAwesome": "💪",
+        //                 "Label": "WEEKLYS",
+        //                 "LastUpdated": "2024-01-19 10:39:43"
+        //             }
+        //         ]
+        //     }
+        // ];
+        var data = "";
         // URL of the JSON data
         const url = 'https://raw.githubusercontent.com/zolodev/auto-python/main/data.json';
 
         // Fetch the JSON data from the URL
         fetch(url)
             .then(response => response.json())
-            .then(data => {
+            .then(rec_data => {
                 // Convert the JSON data to a string with indentation
-                const dataStr = JSON.stringify(data, null, 2);
+                data = rec_data;//JSON.stringify(rec_data, null, 2);
 
                 // Display the data in a <pre> element
-                document.getElementById('dataContainer').innerHTML = `<pre>${dataStr}</pre>`;
+                // document.getElementById('dataContainer').innerHTML = `<pre>${dataStr}</pre>`;
             })
             .catch(error => console.error('Error:', error));
+
+        // Iterate over the data
+        data.forEach(item => {
+            // Create a div for the label
+            const labelDiv = document.createElement('div');
+            labelDiv.className = 'label';
+            labelDiv.textContent = item.Label;
+            document.getElementById('dataContainer').appendChild(labelDiv);
+
+            // Iterate over the FundData array
+            item.FundData.forEach(fund => {
+                // Create a div for each fund
+                const div = document.createElement('div');
+                div.className = 'data-item';
+
+                // Add each property of the fund as a paragraph
+                for (const prop in fund) {
+                    const p = document.createElement('p');
+                    p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
+                    div.appendChild(p);
+                }
+
+                // Append the div to the container
+                document.getElementById('dataContainer').appendChild(div);
+            });
+        });
     </script>
 </body>
 
