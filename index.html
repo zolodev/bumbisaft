@@ -68,7 +68,11 @@
                         // Add each property of the fund as a paragraph
                         for (const prop in fund) {
                             const p = document.createElement('p');
-                            p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
+                            if (prop === "URL") {
+                                p.innerHTML = `<span>${prop}:</span> <a href="${fund[prop]}">${fund[prop]}</a>`;
+                            } else {
+                                p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
+                            }
                             div.appendChild(p);
                         }
 
