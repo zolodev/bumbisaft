@@ -89,34 +89,35 @@
 
                 // Display the data in a <pre> element
                 // document.getElementById('dataContainer').innerHTML = `<pre>${dataStr}</pre>`;
+
+                // Iterate over the data
+                data.forEach(item => {
+                    // Create a div for the label
+                    const labelDiv = document.createElement('div');
+                    labelDiv.className = 'label';
+                    labelDiv.textContent = item.Label;
+                    document.getElementById('dataContainer').appendChild(labelDiv);
+
+                    // Iterate over the FundData array
+                    item.FundData.forEach(fund => {
+                        // Create a div for each fund
+                        const div = document.createElement('div');
+                        div.className = 'data-item';
+
+                        // Add each property of the fund as a paragraph
+                        for (const prop in fund) {
+                            const p = document.createElement('p');
+                            p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
+                            div.appendChild(p);
+                        }
+
+                        // Append the div to the container
+                        document.getElementById('dataContainer').appendChild(div);
+                    });
+                });
             })
             .catch(error => console.error('Error:', error));
 
-        // Iterate over the data
-        data.forEach(item => {
-            // Create a div for the label
-            const labelDiv = document.createElement('div');
-            labelDiv.className = 'label';
-            labelDiv.textContent = item.Label;
-            document.getElementById('dataContainer').appendChild(labelDiv);
-
-            // Iterate over the FundData array
-            item.FundData.forEach(fund => {
-                // Create a div for each fund
-                const div = document.createElement('div');
-                div.className = 'data-item';
-
-                // Add each property of the fund as a paragraph
-                for (const prop in fund) {
-                    const p = document.createElement('p');
-                    p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
-                    div.appendChild(p);
-                }
-
-                // Append the div to the container
-                document.getElementById('dataContainer').appendChild(div);
-            });
-        });
     </script>
 </body>
 
