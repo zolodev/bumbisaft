@@ -2,7 +2,7 @@ name: Update data
 
 on:
     schedule:
-        - cron: "0 12 * * *" # This means the workflow will run once a day at 12:00
+        - cron: "0 12 * * 1-5" # This means the workflow will run once a day at 12:00
     push:
         branches:
             - main # This means the workflow will also run on every push to the 'main' branch
