@@ -141,7 +141,7 @@ def get_funds_from_ListView(label :str, funds_list :list):
                                     trendWeek = dict_trend["week"],
                                     trendAwesome = bAwesome,
                                     label = label,
-                                    lastUpdated = str(dt_string))
+                                    lastUpdated = str(dt_string) + "(UTC)")
             
             fundDataList_to_return.append(fundDataObj)
 
