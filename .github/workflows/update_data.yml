@@ -30,6 +30,7 @@ jobs:
                   pip install haralyzer
                   pip3 install packaging
                   pip install setuptools
+                  pip install typing-extensions
 
             - name: Update Avanza data
               run: python fetchAvanzaData.py # Get data from Avanza
