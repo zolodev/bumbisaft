@@ -1,4 +1,6 @@
-# auto-python
+# Bumbisaft
+> We all stand on the shoulders of the giants that came before us.
+
 A test project where I try to combine a few technologies and automation
 
 ## Github Actions
