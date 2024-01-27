@@ -148,7 +148,7 @@ def filter_skandia_json_data(filename="Skandia"):
                 fund_isin = skandia_data[i]["isin"]
                 fund_currency = skandia_data[i]["currency"]
             
-                fund_url_base = "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista?collections=Fondf%C3%B6rs%C3%A4kring#/fund/details/[isin]/[currency]"
+                fund_url_base = "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/[isin]/[currency]"
                 
                 fund_url = fund_url_base.replace("[isin]", str(fund_isin))
                 fund_url = fund_url.replace("[currency]", str(fund_currency))
