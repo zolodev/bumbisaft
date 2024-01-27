@@ -186,6 +186,7 @@ def run():
     
     # Delete the HAR file because it could be large and unnecessary to have it in the repo
     os.remove("HAR_Skandia.har")
+    os.remove("Skandia_data.json")
     
 
 if __name__ == "__main__":
