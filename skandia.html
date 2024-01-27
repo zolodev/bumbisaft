@@ -2,145 +2,73 @@
 <html>
 
 <head>
+    <title>Display Skandia JSON Data</title>
     <style>
-        /* Add some style to the chart */
-        .chart {
-            width: 600px;
-            height: 400px;
-            border: 1px solid black;
-            position: relative;
+        body {
+            font-family: Arial, sans-serif;
         }
 
-        /* Add some style to the bars */
-        .bar {
-            width: 10%;
-            height: 0;
-            background-color: gray;
-            margin: 5px;
-            border-radius: 5px;
-            transition: 0.3s;
-            position: absolute;
+        .data-container {
+            margin-top: 20px;
         }
 
-        /* Add some style to the tooltips */
-        .tooltip {
-            width: 150px;
-            height: 100px;
-            background-color: white;
-            border: 1px solid black;
+        pre {
+            background-color: #f5f5f5;
             padding: 10px;
-            display: none;
-            position: absolute;
         }
 
-        /* Add some style to the active bar and show the tooltip */
-        .active {
-            background-color: blue;
+        .data-item {
+            background-color: #f5f5f5;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
         }
 
-        .active .tooltip {
-            display: block;
+        .data-item p {
+            margin: 0;
+            padding: 2px;
+        }
+
+        .data-item p span {
+            font-weight: bold;
         }
     </style>
 </head>
 
 <body>
-    <h1>Display JSON Data in HTML</h1>
-    <p>This is a simple example of how to fetch and display JSON data in HTML using CSS3 and JavaScript.</p>
-    <p>The chart shows the price of each fund as a bar, and when you click on the bar, it shows the name, type, and date
-        of the fund.</p>
-    <div id="chart">
-        <!-- This is where the chart will be appended -->
-    </div>
+    <h1>Skandia - JSON Data</h1>
+    <a href="./index.html">Display Avanza funds JSON data</a>
+    <div class="data-container" id="dataContainer"></div>
+
     <script>
-        // Get the chart element
-        var chart = document.getElementById("chart");
+        // URL of the JSON data
+        const url = 'https://raw.githubusercontent.com/zolodev/auto-python/main/Skandia_data_filtered.json';
 
-        // Define the URL of the JSON file
-        var url = "https://raw.githubusercontent.com/zolodev/bumbisaft/main/Skandia_data_filtered.json";
+        // Fetch the JSON data from the URL
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(fund => {
+                    // Create a div for each fund
+                    const div = document.createElement('div');
+                    div.className = 'data-item';
 
-        // Define a function to fetch and display the JSON data
-        var displayJSON = function (url) {
-            // Use the fetch API to get the JSON data
-            fetch(url)
-                .then(function (response) {
-                    // Return the JSON data as a JavaScript object
-                    return response.json();
-                })
-                .then(function (data) {
-                    // Use the JavaScript object to create the chart
-                    // Define the maximum height of the bars
-                    var maxHeight = 300;
-
-                    // Define the maximum price of the funds
-                    var maxPrice = Math.max.apply(Math, data.map(function (fund) {
-                        return fund.price;
-                    }));
-
-                    // Define a function to calculate the height of the bars based on the price
-                    var calculateHeight = function (price) {
-                        return (price / maxPrice) * maxHeight;
-                    };
-
-                    // Create a bar element for each fund object and append it to the chart
-                    for (var i = 0; i < data.length; i++) {
-                        // Create a bar element
-                        var bar = document.createElement("div");
-                        bar.classList.add("bar");
-
-                        // Set the height of the bar based on the price
-                        bar.style.height = calculateHeight(data[i].price) + "px";
-
-                        // Set the bottom of the bar to 0
-                        bar.style.bottom = 0;
-
-                        // Set the left of the bar based on the index
-                        bar.style.left = (i * 11) + "%";
-
-                        // Create a tooltip element and append it to the bar
-                        var tooltip = document.createElement("div");
-                        tooltip.classList.add("tooltip");
-
-                        // Set the innerHTML of the tooltip to the name, type, and date of the fund
-                        tooltip.innerHTML = "Name: " + data[i].name + "<br>" +
-                            "Type: " + data[i].type + "<br>" +
-                            "Date: " + data[i].date;
-
-                        // Set the bottom of the tooltip to the height of the bar plus 10px
-                        tooltip.style.bottom = calculateHeight(data[i].price) + 10 + "px";
-
-                        // Set the left of the tooltip to the center of the bar minus half of the tooltip width
-                        tooltip.style.left = (i * 11) + 5 - (tooltip.offsetWidth / 2) + "%";
-
-                        // Append the tooltip to the bar
-                        bar.appendChild(tooltip);
-
-                        // Append the bar to the chart
-                        chart.appendChild(bar);
+                    // Add each property of the fund as a paragraph
+                    for (const prop in fund) {
+                        const p = document.createElement('p');
+                        if (prop === "URL") {
+                            p.innerHTML = `<span>${prop}:</span> <a href="${fund[prop]}">${fund[prop]}</a>`;
+                        } else {
+                            p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
+                        }
+                        div.appendChild(p);
                     }
-                })
-                .catch(function (error) {
-                    // If there is an error, display it in the chart element
-                    chart.innerHTML = "Error: " + error;
+
+                    // Append the div to the container
+                    document.getElementById('dataContainer').appendChild(div);
                 });
-        };
-
-        // Define a function to handle the click event on the chart
-        var handleClick = function (event) {
-            // Get the target of the event
-            var target = event.target;
-
-            // If the target is a bar, toggle the active class
-            if (target.classList.contains("bar")) {
-                target.classList.toggle("active");
-            }
-        };
-
-        // Add an event listener to the chart element
-        chart.addEventListener("click", handleClick);
-
-        // Display the JSON data from the URL
-        displayJSON(url);
+            })
+            .catch(error => console.error('Error:', error));
     </script>
 </body>
 
