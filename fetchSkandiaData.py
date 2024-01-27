@@ -111,7 +111,7 @@ def find_HAR_content_by_req(filename, part_to_find=""):
 
 def filter_skandia_json_data(filename="Skandia"):
     skandia_data = ""
-    with open('/content/'+filename+'_data.json') as f:
+    with open(filename+'_data.json') as f:
         skandia_data = json.load(f)
 
     filtered_funds = []
