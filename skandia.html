@@ -39,6 +39,22 @@
 <body>
     <h1>Skandia - JSON Data</h1>
     <a href="./index.html">Display Avanza funds JSON data</a>
+    <h2>Viktig information</h2>
+    <p>Informationen är filtrerad och sorterad efter följande:</p>
+    <ul>
+        <li>Filter:
+            <ul>
+                <li>Förutsätter att fonden är en Fondförsäkring</li>
+                <li>Endast fonder där historiskt gått bra (positivt).</li>
+            </ul>
+        </li>
+        <li>
+            Sorterad: Största förändringen "dag", fallande ordning
+        </li>
+    </ul>
+    <div style="font-size: large;">
+        <p>Antal fonder: <b><span id="list_count" style="color: rgb(51, 162, 77);"></span></b> stycken.</p>
+    </div>
     <div class="data-container" id="dataContainer"></div>
 
     <script>
@@ -49,6 +65,8 @@
         fetch(url)
             .then(response => response.json())
             .then(data => {
+                document.getElementById('list_count').innerHTML = data.length;
+
                 data.forEach(fund => {
                     // Create a div for each fund
                     const div = document.createElement('div');
