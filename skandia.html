@@ -2,79 +2,145 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@latest">
     <style>
-        /* Add your custom CSS here */
-        table {
-            border-collapse: collapse;
+        /* Add some style to the chart */
+        .chart {
+            width: 600px;
+            height: 400px;
+            border: 1px solid black;
+            position: relative;
         }
 
-        th,
-        td {
+        /* Add some style to the bars */
+        .bar {
+            width: 10%;
+            height: 0;
+            background-color: gray;
+            margin: 5px;
+            border-radius: 5px;
+            transition: 0.3s;
+            position: absolute;
+        }
+
+        /* Add some style to the tooltips */
+        .tooltip {
+            width: 150px;
+            height: 100px;
+            background-color: white;
             border: 1px solid black;
             padding: 10px;
+            display: none;
+            position: absolute;
+        }
+
+        /* Add some style to the active bar and show the tooltip */
+        .active {
+            background-color: blue;
+        }
+
+        .active .tooltip {
+            display: block;
         }
     </style>
 </head>
 
 <body>
-    <h1>Skandia - JSON Data</h1>
-    <a href="./index.html">Display Avanza funds JSON data</a>
-    <div id="table-container">
-        <!-- This is where the table will be appended -->
+    <h1>Display JSON Data in HTML</h1>
+    <p>This is a simple example of how to fetch and display JSON data in HTML using CSS3 and JavaScript.</p>
+    <p>The chart shows the price of each fund as a bar, and when you click on the bar, it shows the name, type, and date
+        of the fund.</p>
+    <div id="chart">
+        <!-- This is where the chart will be appended -->
     </div>
     <script>
-        // Get the div element where the table will be appended
-        const tableContainer = document.getElementById("table-container");
+        // Get the chart element
+        var chart = document.getElementById("chart");
 
-        // Fetch the JSON data from the URL
-        fetch("https://raw.githubusercontent.com/zolodev/bumbisaft/main/Skandia_data_filtered.json")
-            .then(response => response.json()) // Convert the response to a JSON object
-            .then(data => { // Use the JSON object to create the table
-                // Create a table element
-                const table = document.createElement("table");
+        // Define the URL of the JSON file
+        var url = "https://raw.githubusercontent.com/zolodev/bumbisaft/main/Skandia_data_filtered.json";
 
-                // Create a thead element and append it to the table
-                const thead = document.createElement("thead");
-                table.appendChild(thead);
+        // Define a function to fetch and display the JSON data
+        var displayJSON = function (url) {
+            // Use the fetch API to get the JSON data
+            fetch(url)
+                .then(function (response) {
+                    // Return the JSON data as a JavaScript object
+                    return response.json();
+                })
+                .then(function (data) {
+                    // Use the JavaScript object to create the chart
+                    // Define the maximum height of the bars
+                    var maxHeight = 300;
 
-                // Create a tr element and append it to the thead
-                const tr = document.createElement("tr");
-                thead.appendChild(tr);
+                    // Define the maximum price of the funds
+                    var maxPrice = Math.max.apply(Math, data.map(function (fund) {
+                        return fund.price;
+                    }));
 
-                // Get an array of the property names of the fund object
-                const keys = Object.keys(data[0]);
+                    // Define a function to calculate the height of the bars based on the price
+                    var calculateHeight = function (price) {
+                        return (price / maxPrice) * maxHeight;
+                    };
 
-                // Create a th element for each property name and append it to the tr
-                for (let i = 0; i < keys.length; i++) {
-                    const th = document.createElement("th");
-                    th.innerHTML = keys[i]; // Set the innerHTML of the th to the property name
-                    tr.appendChild(th);
-                }
+                    // Create a bar element for each fund object and append it to the chart
+                    for (var i = 0; i < data.length; i++) {
+                        // Create a bar element
+                        var bar = document.createElement("div");
+                        bar.classList.add("bar");
 
-                // Create a tbody element and append it to the table
-                const tbody = document.createElement("tbody");
-                table.appendChild(tbody);
+                        // Set the height of the bar based on the price
+                        bar.style.height = calculateHeight(data[i].price) + "px";
 
-                // Create a tr element for each fund object and append it to the tbody
-                for (let i = 0; i < data.length; i++) {
-                    const tr = document.createElement("tr");
-                    tbody.appendChild(tr);
+                        // Set the bottom of the bar to 0
+                        bar.style.bottom = 0;
 
-                    // Get an array of the property values of the fund object
-                    const values = Object.values(data[i]);
+                        // Set the left of the bar based on the index
+                        bar.style.left = (i * 11) + "%";
 
-                    // Create a td element for each property value and append it to the tr
-                    for (let j = 0; j < values.length; j++) {
-                        const td = document.createElement("td");
-                        td.innerHTML = values[j]; // Set the innerHTML of the td to the property value
-                        tr.appendChild(td);
+                        // Create a tooltip element and append it to the bar
+                        var tooltip = document.createElement("div");
+                        tooltip.classList.add("tooltip");
+
+                        // Set the innerHTML of the tooltip to the name, type, and date of the fund
+                        tooltip.innerHTML = "Name: " + data[i].name + "<br>" +
+                            "Type: " + data[i].type + "<br>" +
+                            "Date: " + data[i].date;
+
+                        // Set the bottom of the tooltip to the height of the bar plus 10px
+                        tooltip.style.bottom = calculateHeight(data[i].price) + 10 + "px";
+
+                        // Set the left of the tooltip to the center of the bar minus half of the tooltip width
+                        tooltip.style.left = (i * 11) + 5 - (tooltip.offsetWidth / 2) + "%";
+
+                        // Append the tooltip to the bar
+                        bar.appendChild(tooltip);
+
+                        // Append the bar to the chart
+                        chart.appendChild(bar);
                     }
-                }
+                })
+                .catch(function (error) {
+                    // If there is an error, display it in the chart element
+                    chart.innerHTML = "Error: " + error;
+                });
+        };
 
-                // Append the table to the div element
-                tableContainer.appendChild(table);
-            });
+        // Define a function to handle the click event on the chart
+        var handleClick = function (event) {
+            // Get the target of the event
+            var target = event.target;
+
+            // If the target is a bar, toggle the active class
+            if (target.classList.contains("bar")) {
+                target.classList.toggle("active");
+            }
+        };
+
+        // Add an event listener to the chart element
+        chart.addEventListener("click", handleClick);
+
+        // Display the JSON data from the URL
+        displayJSON(url);
     </script>
 </body>
 
