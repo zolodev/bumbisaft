@@ -121,50 +121,51 @@ def filter_skandia_json_data(filename="Skandia"):
         if "Fondf\u00f6rs\u00e4kring" not in skandia_data[i]["collections"]:
             continue
 
-    returnOneDay = float(skandia_data[i]["returnOneDay"]) if skandia_data[i]["returnOneDay"] is not None else 0
-    returnOneWeek = float(skandia_data[i]["returnOneWeek"]) if skandia_data[i]["returnOneWeek"] is not None else 0
-    returnOneMonth = float(skandia_data[i]["returnOneMonth"]) if skandia_data[i]["returnOneMonth"] is not None else 0
-    returnThreeMonths = float(skandia_data[i]["returnThreeMonths"]) if skandia_data[i]["returnThreeMonths"] is not None else 0
-    returnSixMonths = float(skandia_data[i]["returnSixMonths"]) if skandia_data[i]["returnSixMonths"] is not None else 0
-    returnThisYear = float(skandia_data[i]["returnThisYear"]) if skandia_data[i]["returnThisYear"] is not None else 0
-    returnOneYear = float(skandia_data[i]["returnOneYear"]) if skandia_data[i]["returnOneYear"] is not None else 0
-    returnThreeYears = float(skandia_data[i]["returnThreeYears"]) if skandia_data[i]["returnThreeYears"] is not None else 0
-    returnFiveYears = float(skandia_data[i]["returnFiveYears"]) if skandia_data[i]["returnFiveYears"] is not None else 0
-    returnTenYears = float(skandia_data[i]["returnTenYears"]) if skandia_data[i]["returnTenYears"] is not None else 0
+        returnOneDay = float(skandia_data[i]["returnOneDay"]) if skandia_data[i]["returnOneDay"] is not None else 0
+        returnOneWeek = float(skandia_data[i]["returnOneWeek"]) if skandia_data[i]["returnOneWeek"] is not None else 0
+        returnOneMonth = float(skandia_data[i]["returnOneMonth"]) if skandia_data[i]["returnOneMonth"] is not None else 0
+        returnThreeMonths = float(skandia_data[i]["returnThreeMonths"]) if skandia_data[i]["returnThreeMonths"] is not None else 0
+        returnSixMonths = float(skandia_data[i]["returnSixMonths"]) if skandia_data[i]["returnSixMonths"] is not None else 0
+        returnThisYear = float(skandia_data[i]["returnThisYear"]) if skandia_data[i]["returnThisYear"] is not None else 0
+        returnOneYear = float(skandia_data[i]["returnOneYear"]) if skandia_data[i]["returnOneYear"] is not None else 0
+        returnThreeYears = float(skandia_data[i]["returnThreeYears"]) if skandia_data[i]["returnThreeYears"] is not None else 0
+        returnFiveYears = float(skandia_data[i]["returnFiveYears"]) if skandia_data[i]["returnFiveYears"] is not None else 0
+        returnTenYears = float(skandia_data[i]["returnTenYears"]) if skandia_data[i]["returnTenYears"] is not None else 0
 
 
-    # Check all values to be positive before adding the fund to the list
-    if( returnOneDay > 0 and
-        returnOneWeek > 0 and
-        returnOneMonth> 0 and
-        returnThreeMonths > 0 and
-        returnSixMonths > 0 and
-        returnThisYear > 0 and
-        returnOneYear > 0 and
-        returnThreeYears > 0 and
-        returnFiveYears > 0 and
-        returnTenYears > 0):
-            fund_name = skandia_data[i]["name"]
-            fund_isin = skandia_data[i]["isin"]
-            fund_currency = skandia_data[i]["currency"]
+        # Check all values to be positive before adding the fund to the list
+        if( returnOneDay > 0 and
+            returnOneWeek > 0 and
+            returnOneMonth> 0 and
+            returnThreeMonths > 0 and
+            returnSixMonths > 0 and
+            returnThisYear > 0 and
+            returnOneYear > 0 and
+            returnThreeYears > 0 and
+            returnFiveYears > 0 and
+            returnTenYears > 0):
+                fund_name = skandia_data[i]["name"]
+                fund_isin = skandia_data[i]["isin"]
+                fund_currency = skandia_data[i]["currency"]
             
-            fund_url_base = "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista?collections=Fondf%C3%B6rs%C3%A4kring#/fund/details/[isin]/[currency]"
-            fund_url = fund_url_base.replace("[isin]", str(fund_isin))
-            fund_url = fund_url.replace("[currency]", str(fund_currency))
+                fund_url_base = "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista?collections=Fondf%C3%B6rs%C3%A4kring#/fund/details/[isin]/[currency]"
+                
+                fund_url = fund_url_base.replace("[isin]", str(fund_isin))
+                fund_url = fund_url.replace("[currency]", str(fund_currency))
             
-            # Get current date and time
-            now = datetime.now()
-            dt_string = now.strftime("%Y-%m-%d %H:%M:%S") # YYYY-MM-DD HH:MM:SS
-            
-            fundDataObj = {}
-            fundDataObj = FundData( name = fund_name,
-                                    isin = fund_isin,
-                                    url = fund_url,
-                                    lastUpdated = str(dt_string) + " (UTC)",
-                                    day = returnOneDay,
-                                    week = returnOneWeek)
+                # Get current date and time
+                now = datetime.now()
+                dt_string = now.strftime("%Y-%m-%d %H:%M:%S") # YYYY-MM-DD HH:MM:SS
+                
+                fundDataObj = {}
+                fundDataObj = FundData( name = fund_name,
+                                        isin = fund_isin,
+                                        url = fund_url,
+                                        lastUpdated = str(dt_string) + " (UTC)",
+                                        day = returnOneDay,
+                                        week = returnOneWeek)
 
-            filtered_funds.append(fundDataObj)
+                filtered_funds.append(fundDataObj)
 
     with open(filename+'_data_filtered.json', 'w') as f:
         f.write(json.dumps(filtered_funds, indent=4, default=lambda o: o.__dict__))
