@@ -168,12 +168,12 @@ def filter_skandia_json_data(filename="Skandia"):
                 filtered_funds.append(fundDataObj)
 
     # Sort the list based on the day
-    filtered_funds.sort(key=operator.itemgetter('Day'))
+    sorted_filtered_funds = sorted(filtered_funds, key=lambda fundDataObj: fundDataObj.Day, reverse=True)
 
     with open(filename+'_data_filtered.json', 'w') as f:
-        f.write(json.dumps(filtered_funds, indent=4, default=lambda o: o.__dict__))
+        f.write(json.dumps(sorted_filtered_funds, indent=4, default=lambda o: o.__dict__))
 
-    return filtered_funds
+    return sorted_filtered_funds
 
 
 def run():
