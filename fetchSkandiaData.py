@@ -7,7 +7,7 @@
 #****************************************************************************
 
 import os
-import json
+import json, operator
 from seleniumwire import webdriver
 from haralyzer import HarParser, HarPage
 from datetime import datetime
@@ -169,7 +169,7 @@ def filter_skandia_json_data(filename="Skandia"):
 
     # Sort the list based on the day
     filtered_funds.sort(key=operator.itemgetter('Day'))
-    
+
     with open(filename+'_data_filtered.json', 'w') as f:
         f.write(json.dumps(filtered_funds, indent=4, default=lambda o: o.__dict__))
 
