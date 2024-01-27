@@ -2,121 +2,74 @@
 <html>
 
 <head>
-    <title>Display Skandia JSON Data</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@latest">
     <style>
-        /* Use the @tailwind directive to inject Tailwind's base, components, and utilities styles */
-        @tailwind base;
-        @tailwind components;
-        @tailwind utilities;
+        /* Add your custom CSS here */
+        ul {
+            list-style-type: none;
+        }
 
-        /* Use the @layer directive to add custom styles that reference Tailwind's utility classes */
-        @layer components {
-
-            /* Define a card component with a width of 300px, a height of 400px, a margin of 20px, a border radius of 10px, a box shadow, and a perspective of 1000px */
-            .card {
-                @apply w-72 h-96 m-5 rounded-lg shadow-lg;
-                perspective: 1000px;
-            }
-
-            /* Define a card-inner component with the same width and height as the card, a position of relative, and a transition of 0.6s */
-            .card-inner {
-                @apply w-full h-full relative;
-                transition: 0.6s;
-                transform-style: preserve-3d;
-            }
-
-            /* Define a card-face component with the same width and height as the card, a position of absolute, a backface visibility of hidden, a display of flex, a flex direction of column, a justify content of center, an align items of center, and a text align of center */
-            .card-face {
-                @apply w-full h-full absolute backface-hidden flex flex-col justify-center items-center text-center;
-            }
-
-            /* Define a card-front component with a background color of blue and a text color of white */
-            .card-front {
-                @apply bg-blue-500 text-white;
-            }
-
-            /* Define a card-back component with a background color of yellow and a text color of black, and a rotation of 180 degrees along the y-axis */
-            .card-back {
-                @apply bg-yellow-500 text-black;
-                transform: rotateY(180deg);
-            }
-
-            /* Define a hover effect for the card-inner component that rotates it 180 degrees along the y-axis */
-            .card:hover .card-inner {
-                transform: rotateY(180deg);
-            }
+        li {
+            margin: 10px;
         }
     </style>
 </head>
 
 <body>
-    <h1>Skandia - JSON Data</h1>
-    <a href="./index.html">Display Avanza funds JSON data</a>
-    <div id="card-container" class="flex flex-wrap justify-center p-10">
-        <!-- This is where the cards will be appended -->
+    <div id="list-container">
+        <!-- This is where the list will be appended -->
     </div>
-
-
     <script>
-        // Get the div element where the cards will be appended
-        const cardContainer = document.getElementById("card-container");
+        // Get the div element where the list will be appended
+        const listContainer = document.getElementById("list-container");
 
         // Fetch the JSON data from the URL
-        fetch(
-            "https://raw.githubusercontent.com/zolodev/bumbisaft/main/Skandia_data_filtered.json"
-        )
-            .then((response) => response.json()) // Convert the response to a JSON object
-            .then((data) => {
-                // Use the JSON object to create the cards
-                // Create a card element for each fund object and append it to the card container
+        fetch("https://raw.githubusercontent.com/zolodev/bumbisaft/main/Skandia_data_filtered.json")
+            .then(response => response.json()) // Convert the response to a JSON object
+            .then(data => { // Use the JSON object to create the list
+                // Create a ul element
+                const list = document.createElement("ul");
+
+                // Create a li element for each fund object and append it to the list
                 for (let i = 0; i < data.length; i++) {
-                    const card = document.createElement("div");
-                    card.classList.add("card");
-                    cardContainer.appendChild(card);
+                    const li = document.createElement("li");
+                    list.appendChild(li);
 
-                    // Create a card-inner element and append it to the card
-                    const cardInner = document.createElement("div");
-                    cardInner.classList.add("card-inner");
-                    card.appendChild(cardInner);
+                    // Get an array of the property names and values as key-value pairs
+                    const entries = Object.entries(data[i]);
 
-                    // Create a card-front element and append it to the card-inner
-                    const cardFront = document.createElement("div");
-                    cardFront.classList.add("card-face", "card-front");
-                    cardInner.appendChild(cardFront);
+                    // Create a span element for each key-value pair and append it to the li
+                    for (let j = 0; j < entries.length; j++) {
+                        const span = document.createElement("span");
+                        li.appendChild(span);
 
-                    // Create a h3 element for the name of the fund and append it to the card-front
-                    const name = document.createElement("h3");
-                    name.textContent = data[i].name;
-                    cardFront.appendChild(name);
+                        // Get the key and the value from the entry
+                        const key = entries[j][0];
+                        const value = entries[j][1];
 
-                    // Create a p element for the price of the fund and append it to the card-front
-                    const price = document.createElement("p");
-                    price.textContent = data[i].price;
-                    cardFront.appendChild(price);
+                        // Set the innerHTML of the span to the key and the value
+                        span.innerHTML = key + ": " + value;
 
-                    // Create a p element for the type of the fund and append it to the card-front
-                    const type = document.createElement("p");
-                    type.textContent = data[i].type;
-                    cardFront.appendChild(type);
+                        // If the value is an object, create another ul element and append it to the span
+                        if (typeof value === "object") {
+                            const ul = document.createElement("ul");
+                            span.appendChild(ul);
 
-                    // Create a card-back element and append it to the card-inner
-                    const cardBack = document.createElement("div");
-                    cardBack.classList.add("card-face", "card-back");
-                    cardInner.appendChild(cardBack);
+                            // Create a li element for each nested property and append it to the ul
+                            for (let k = 0; k < value.length; k++) {
+                                const li = document.createElement("li");
+                                ul.appendChild(li);
 
-                    // Create a p element for the short description of the fund and append it to the card-back
-                    const shortDescription = document.createElement("p");
-                    shortDescription.innerHTML = data[i].shortDescription;
-                    cardBack.appendChild(shortDescription);
-
-                    // Create a p element for the date of the fund and append it to the card-back
-                    const date = document.createElement("p");
-                    date.textContent = data[i].date;
-                    cardBack.appendChild(date);
+                                // Set the innerHTML of the li to the nested property
+                                li.innerHTML = value[k];
+                            }
+                        }
+                    }
                 }
-            });
 
+                // Append the list to the div element
+                listContainer.appendChild(list);
+            });
     </script>
 </body>
 
