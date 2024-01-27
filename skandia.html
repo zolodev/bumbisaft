@@ -57,7 +57,7 @@
                     for (const prop in fund) {
                         const p = document.createElement('p');
                         if (prop === "URL") {
-                            p.innerHTML = `<span>${prop}:</span> <a href="${fund[prop]}">${fund[prop]}</a>`;
+                            p.innerHTML = `<span>${prop}:</span> <a href="${fund[prop]}" target="_blank">${fund[prop]}</a>`;
                         } else {
                             p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
                         }
