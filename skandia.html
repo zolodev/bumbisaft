@@ -5,70 +5,75 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@latest">
     <style>
         /* Add your custom CSS here */
-        ul {
-            list-style-type: none;
+        table {
+            border-collapse: collapse;
         }
 
-        li {
-            margin: 10px;
+        th,
+        td {
+            border: 1px solid black;
+            padding: 10px;
         }
     </style>
 </head>
 
 <body>
-    <div id="list-container">
-        <!-- This is where the list will be appended -->
+    <h1>Skandia - JSON Data</h1>
+    <a href="./index.html">Display Avanza funds JSON data</a>
+    <div id="table-container">
+        <!-- This is where the table will be appended -->
     </div>
     <script>
-        // Get the div element where the list will be appended
-        const listContainer = document.getElementById("list-container");
+        // Get the div element where the table will be appended
+        const tableContainer = document.getElementById("table-container");
 
         // Fetch the JSON data from the URL
         fetch("https://raw.githubusercontent.com/zolodev/bumbisaft/main/Skandia_data_filtered.json")
             .then(response => response.json()) // Convert the response to a JSON object
-            .then(data => { // Use the JSON object to create the list
-                // Create a ul element
-                const list = document.createElement("ul");
+            .then(data => { // Use the JSON object to create the table
+                // Create a table element
+                const table = document.createElement("table");
 
-                // Create a li element for each fund object and append it to the list
+                // Create a thead element and append it to the table
+                const thead = document.createElement("thead");
+                table.appendChild(thead);
+
+                // Create a tr element and append it to the thead
+                const tr = document.createElement("tr");
+                thead.appendChild(tr);
+
+                // Get an array of the property names of the fund object
+                const keys = Object.keys(data[0]);
+
+                // Create a th element for each property name and append it to the tr
+                for (let i = 0; i < keys.length; i++) {
+                    const th = document.createElement("th");
+                    th.innerHTML = keys[i]; // Set the innerHTML of the th to the property name
+                    tr.appendChild(th);
+                }
+
+                // Create a tbody element and append it to the table
+                const tbody = document.createElement("tbody");
+                table.appendChild(tbody);
+
+                // Create a tr element for each fund object and append it to the tbody
                 for (let i = 0; i < data.length; i++) {
-                    const li = document.createElement("li");
-                    list.appendChild(li);
+                    const tr = document.createElement("tr");
+                    tbody.appendChild(tr);
 
-                    // Get an array of the property names and values as key-value pairs
-                    const entries = Object.entries(data[i]);
+                    // Get an array of the property values of the fund object
+                    const values = Object.values(data[i]);
 
-                    // Create a span element for each key-value pair and append it to the li
-                    for (let j = 0; j < entries.length; j++) {
-                        const span = document.createElement("span");
-                        li.appendChild(span);
-
-                        // Get the key and the value from the entry
-                        const key = entries[j][0];
-                        const value = entries[j][1];
-
-                        // Set the innerHTML of the span to the key and the value
-                        span.innerHTML = key + ": " + value;
-
-                        // If the value is an object, create another ul element and append it to the span
-                        if (typeof value === "object") {
-                            const ul = document.createElement("ul");
-                            span.appendChild(ul);
-
-                            // Create a li element for each nested property and append it to the ul
-                            for (let k = 0; k < value.length; k++) {
-                                const li = document.createElement("li");
-                                ul.appendChild(li);
-
-                                // Set the innerHTML of the li to the nested property
-                                li.innerHTML = value[k];
-                            }
-                        }
+                    // Create a td element for each property value and append it to the tr
+                    for (let j = 0; j < values.length; j++) {
+                        const td = document.createElement("td");
+                        td.innerHTML = values[j]; // Set the innerHTML of the td to the property value
+                        tr.appendChild(td);
                     }
                 }
 
-                // Append the list to the div element
-                listContainer.appendChild(list);
+                // Append the table to the div element
+                tableContainer.appendChild(table);
             });
     </script>
 </body>
