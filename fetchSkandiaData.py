@@ -49,7 +49,7 @@ def write_HAR_file(filename=None, har_to_write=""):
 
 
 
-def write_HAR_from_URL(filename, URL, WAIT_SECONDS=15, WRITE_TO_FILE=True):
+def write_HAR_from_URL(filename, URL, WAIT_SECONDS=29, WRITE_TO_FILE=True):
     # Chrome options configurations
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--headless=new")
