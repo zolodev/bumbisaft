@@ -9,8 +9,8 @@
 import os
 import json, operator
 from seleniumwire import webdriver
-from webdriver.common.by import By
-from webdriver.support.wait import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
 from haralyzer import HarParser, HarPage
 from datetime import datetime
 
