@@ -68,7 +68,11 @@ def write_HAR_from_URL(filename, URL, WAIT_SECONDS=29, WRITE_TO_FILE=True):
 
     # Get the URL contents
     driver.get(URL)
-    driver.implicitly_wait(WAIT_SECONDS)
+    revealed = driver.find_element(By.ID, "fundListOverview")
+    wait = WebDriverWait(driver, timeout=WAIT_SECONDS)
+    wait.until(lambda d : revealed.is_displayed())
+    
+    #driver.implicitly_wait(WAIT_SECONDS)
 
     # Store the HAR data in a new variable
     har_to_return = json.loads(driver.har)
