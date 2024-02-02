@@ -1,0 +1,149 @@
+/* DOM ELEMENTS */
+
+body {
+  background-color: #e7e7e7;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  font-weight: 600;
+  color: #272727;
+}
+
+strong {
+  font-size: 16px;
+}
+
+/* STYLES */
+
+.banner {
+  width: 100%;
+  height: 50px;
+  background-color: #00c281;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px;
+}
+
+.banner > h1 {
+  margin: 0 16px 0 0;
+  padding: 0;
+}
+
+.banner-divider {
+  font-size: 30px;
+}
+
+.banner > a {
+  margin: 0 0 0 16px;
+}
+
+.notice {
+  background-color: #d7d7d7;
+  padding: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  margin-bottom: 16px;
+}
+
+.data-container {
+  flex: 1;
+  padding: 0 16px 16px 16px;
+  overflow: auto;
+}
+
+.data-item {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 3px 1px -2px #0003, 0 2px 2px #00000024, 0 1px 5px #0000001f;
+}
+
+.data-item-name {
+  padding: 8px 8px 0 8px;
+  font-weight: 600;
+}
+
+.data-item-ppmcode {
+  font-size: 14px;
+  padding: 8px;
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.16);
+}
+
+.data-item-updated,
+.data-item-link {
+  padding: 8px;
+  font-size: 12px;
+}
+
+.data-item-worth,
+.data-item-trend {
+  padding: 8px;
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.16);
+}
+
+.data-item-worth-label,
+.data-item-trend-label {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.data-item-worth-container,
+.data-item-trend-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+
+.data-item-worth-container > div,
+.data-item-trend-container > div {
+  flex: 1;
+}
+
+.data-item-worth-current,
+.data-item-worth-yesterday,
+.data-item-worth-lastweek,
+.data-item-trend-day,
+.data-item-trend-week,
+.data-item-trend-awe {
+  font-size: 12px;
+  text-align: center;
+}
+
+.data-item-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 8px;
+}
+
+.data-item-trend-up {
+  color: lime;
+  font-size: 16px;
+}
+
+.data-item-trend-down {
+  color: crimson;
+  font-size: 16px;
+}
+
+.data-item-trend-awe {
+  font-size: 16px;
+}
+
+.label {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 16px 0;
+}

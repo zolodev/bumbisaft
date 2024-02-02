@@ -1,60 +1,34 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <link rel="icon" type="image/x-icon" href="https://zolodev.github.io/bumbisaft/favicon.ico">
-    <title>Display Skandia JSON Data</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-
-        .data-container {
-            margin-top: 20px;
-        }
-
-        pre {
-            background-color: #f5f5f5;
-            padding: 10px;
-        }
-
-        .data-item {
-            background-color: #f5f5f5;
-            padding: 10px;
-            margin-bottom: 10px;
-            border-radius: 5px;
-        }
-
-        .data-item p {
-            margin: 0;
-            padding: 2px;
-        }
-
-        .data-item p span {
-            font-weight: bold;
-        }
-    </style>
+    <title>Skandia</title>
+    <link href="app.css" rel="stylesheet">
 </head>
 
 <body>
-    <h1>Skandia - JSON Data</h1>
-    <a href="./index.html">Display Avanza funds JSON data</a>
-    <h2>Viktig information</h2>
-    <p>Informationen är filtrerad och sorterad efter följande:</p>
-    <ul>
-        <li>Filter:
-            <ul>
-                <li>Förutsätter att fonden är en Fondförsäkring</li>
-                <li>Endast fonder där historiskt gått bra (positivt).</li>
-            </ul>
-        </li>
-        <li>
-            Sorterad: Största förändringen "dag", fallande ordning
-        </li>
-    </ul>
-    <div style="font-size: large;">
-        <p>Antal fonder: <b><span id="list_count" style="color: rgb(51, 162, 77);"></span></b> stycken.</p>
+    <div class="banner" style="background-color:#538f73;color:white;">
+        <h1>Skandia</h1>
+        <span class="bannder-divider">/</span>
+        <a href="./index.html">Avanza</a>
     </div>
+    <div class="notice">
+        <h2>Viktig information</h2>
+        <p>Informationen är filtrerad och sorterad efter följande:</p>
+        <ul>
+            <li>Filter:
+                <ul>
+                    <li>Förutsätter att fonden är en Fondförsäkring</li>
+                    <li>Endast fonder där historiskt gått bra (positivt).</li>
+                </ul>
+            </li>
+            <li>
+                Sorterad: Största förändringen "dag", fallande ordning
+            </li>
+        </ul>
+    </div>
+
     <div class="data-container" id="dataContainer"></div>
 
     <script>
@@ -65,27 +39,43 @@
         fetch(url)
             .then(response => response.json())
             .then(data => {
-                document.getElementById('list_count').innerHTML = data.length;
+
+                const containerDiv = document.createElement('div');
+                containerDiv.className = 'data-item-container';
+                document.getElementById('dataContainer').appendChild(containerDiv);
 
                 data.forEach(fund => {
                     // Create a div for each fund
                     const div = document.createElement('div');
                     div.className = 'data-item';
 
-                    // Add each property of the fund as a paragraph
-                    for (const prop in fund) {
-                        const p = document.createElement('p');
-                        if (prop === "URL") {
-                            p.innerHTML = `<span>${prop}:</span> <a href="${fund[prop]}" target="_blank">${fund[prop]}</a>`;
-                        } else {
-                            p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
-                        }
-                        div.appendChild(p);
-                    }
+                    div.innerHTML += `
+                        <div class='data-item-name'>${fund['Name']}</div>
+                        <div class='data-item-ppmcode'>${fund['isin']}</div>
+                        <div class='data-item-worth'>
+                            <div class='data-item-worth-label'>Worth</div>
+                            <div class='data-item-worth-container'>
+                                <div class="data-item-worth-current">
+                                    <div>Day</div>
+                                    <div><strong>${fund['Day'].toFixed(3)}</strong></div>
+                                </div>
+                                <div class="data-item-worth-yesterday">
+                                    <div>Week</div>
+                                    <div><strong>${fund['Week'].toFixed(3)}</strong></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='data-item-updated'><em>${fund['LastUpdated']}</em></div>
+                        <div class='data-item-link'>
+                            <a href='${fund['URL']}' target='_blank'>${fund['URL']}</a>
+                        </div>
+                        `;
 
                     // Append the div to the container
-                    document.getElementById('dataContainer').appendChild(div);
+                    containerDiv.appendChild(div);
                 });
+
+                document.getElementById('dataContainer').appendChild(containerDiv);
             })
             .catch(error => console.error('Error:', error));
     </script>

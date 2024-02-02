@@ -1,45 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <link rel="icon" type="image/x-icon" href="https://zolodev.github.io/bumbisaft/favicon.ico">
-    <title>Display Avanza JSON Data</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            padding: 10px;
-        }
-
-        .label {
-            font-size: 20px;
-            color: #555;
-        }
-
-        .data-item {
-            background-color: #f5f5f5;
-            padding: 10px;
-            margin-bottom: 10px;
-            border-radius: 5px;
-        }
-
-        .data-item p {
-            margin: 0;
-            padding: 2px;
-        }
-
-        .data-item p span {
-            font-weight: bold;
-        }
-    </style>
+    <title>Avanza</title>
+    <link href="app.css" rel="stylesheet">
 </head>
 
 <body>
-    <h1>Avanza - JSON Data</h1>
-    <a href="./skandia.html">Display Skandia funds JSON data</a>
-    <div id="dataContainer"></div>
+    <div class="banner">
+        <h1>Avanza</h1>
+        <span class="banner-divider">/</span>
+        <a href="./skandia.html">Skandia</a>
+    </div>
+    
+    <div id="dataContainer" class="data-container"></div>
 
     <script>
-
         var data = "";
 
         // URL of the JSON data
@@ -60,25 +37,66 @@
                     labelDiv.textContent = item.Label;
                     document.getElementById('dataContainer').appendChild(labelDiv);
 
+                    const containerDiv = document.createElement('div');
+                    containerDiv.className = 'data-item-container';
+                    document.getElementById('dataContainer').appendChild(containerDiv);
+
                     // Iterate over the FundData array
                     item.FundData.forEach(fund => {
                         // Create a div for each fund
                         const div = document.createElement('div');
                         div.className = 'data-item';
 
-                        // Add each property of the fund as a paragraph
-                        for (const prop in fund) {
-                            const p = document.createElement('p');
-                            if (prop === "URL") {
-                                p.innerHTML = `<span>${prop}:</span> <a href="${fund[prop]}" target="_blank">${fund[prop]}</a>`;
-                            } else {
-                                p.innerHTML = `<span>${prop}:</span> ${fund[prop]}`;
-                            }
-                            div.appendChild(p);
-                        }
+                        const trendDay = fund['TrendDay'];
+                        const trendDayGood = trendDay === '\u25b2';
+                        const trendWeek = fund['TrendWeek'];
+                        const trendWeekGood = trendWeek === '\u25b2';
+
+                        // Build the content
+                        div.innerHTML += `
+                        <div class='data-item-name'>${fund['Name']}</div>
+                        <div class='data-item-ppmcode'>${fund['PPMCode']}</div>
+                        <div class='data-item-worth'>
+                            <div class='data-item-worth-label'>Worth</div>
+                            <div class='data-item-worth-container'>
+                                <div class="data-item-worth-current">
+                                    <div>Current</div>
+                                    <div><strong>${fund['Current'].toFixed(3)}</strong></div>
+                                </div>
+                                <div class="data-item-worth-yesterday">
+                                    <div>Yesterday</div>
+                                    <div><strong>${fund['Yesterday'].toFixed(3)}</strong></div>
+                                </div>
+                                <div class="data-item-worth-lastweek">
+                                    <div>Last week</div>
+                                    <div><strong>${fund['LastWeek'].toFixed(3)}</strong></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='data-item-trend'>
+                            <div class='data-item-trend-label'>Trend</div>
+                            <div class='data-item-trend-container'>
+                                <div class="data-item-trend-day">
+                                    <div>Day</div>
+                                    <div class="${trendDayGood ? 'data-item-trend-up' : 'data-item-trend-down'}">${trendDay}</div>
+                                </div>
+                                <div class="data-item-trend-week">
+                                    <div>Week</div>
+                                    <div class="${trendWeekGood ? 'data-item-trend-up' : 'data-item-trend-down'}">${trendWeek}</div>
+                                </div>
+                                <div class="data-item-trend-awe">
+                                    <div>${fund['TrendAwesome']}</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='data-item-updated'><em>${fund['LastUpdated']}</em></div>
+                        <div class='data-item-link'>
+                            <a href='${fund['URL']}' target='_blank'>${fund['URL']}</a>
+                        </div>
+                        `;
 
                         // Append the div to the container
-                        document.getElementById('dataContainer').appendChild(div);
+                        containerDiv.appendChild(div);
                     });
                 });
             })
