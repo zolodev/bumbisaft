@@ -1,7 +1,47 @@
 [
     {
         "Label": "DAILYS",
-        "FundData": []
+        "FundData": [
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 15.621770401372165,
+                "Yesterday": 13.405393271463195,
+                "LastWeek": 18.65787807433636,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-02-13 12:19:55 (UTC)"
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 1.9354198372262366,
+                "Yesterday": 0.1422616290610755,
+                "LastWeek": -0.430093297161388,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-02-13 12:19:57 (UTC)"
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 20.127871327474963,
+                "Yesterday": 18.292754434426463,
+                "LastWeek": 24.629655544178704,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-02-13 12:20:00 (UTC)"
+            }
+        ]
     },
     {
         "Label": "WEEKLYS",
@@ -17,20 +57,20 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-02-12 12:21:05 (UTC)"
+                "LastUpdated": "2024-02-13 12:20:08 (UTC)"
             },
             {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 19.84888260241348,
-                "Yesterday": 18.921874670682097,
-                "LastWeek": 15.785597362178258,
-                "TrendDay": "\u25b2",
+                "Name": "SEB Emerging Marketsfond",
+                "PPMCode": "950774",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
+                "Current": 3.951613460356066,
+                "Yesterday": 4.593405226906904,
+                "LastWeek": 1.2238257421365035,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-02-12 12:21:12 (UTC)"
+                "LastUpdated": "2024-02-13 12:20:12 (UTC)"
             }
         ]
     }
