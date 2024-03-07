@@ -1,34 +1,7 @@
 [
     {
         "Label": "DAILYS",
-        "FundData": [
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -6.921453779911721,
-                "Yesterday": -9.953155176229684,
-                "LastWeek": -16.4888732391095,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-03-06 12:21:19 (UTC)"
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 14.479654174556098,
-                "Yesterday": 13.161373298560243,
-                "LastWeek": 10.510521238969654,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-03-06 12:21:27 (UTC)"
-            }
-        ]
+        "FundData": []
     },
     {
         "Label": "WEEKLYS",
@@ -37,27 +10,27 @@
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -6.921453779911721,
-                "Yesterday": -9.953155176229684,
-                "LastWeek": -16.4888732391095,
+                "Current": -5.978934644240399,
+                "Yesterday": -6.762487444513626,
+                "LastWeek": -15.963758317467114,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-06 12:21:32 (UTC)"
+                "LastUpdated": "2024-03-07 12:20:25 (UTC)"
             },
             {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 0.6378897502723629,
-                "Yesterday": -0.3746165245830405,
-                "LastWeek": -2.904830859556856,
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 1.4224561107963731,
+                "Yesterday": 0.8443141436957322,
+                "LastWeek": -0.3173876228350547,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-06 12:21:39 (UTC)"
+                "LastUpdated": "2024-03-07 12:20:34 (UTC)"
             }
         ]
     }
