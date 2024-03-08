@@ -1,7 +1,47 @@
 [
     {
         "Label": "DAILYS",
-        "FundData": []
+        "FundData": [
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": -2.177574077062422,
+                "Yesterday": -3.9613483346906864,
+                "LastWeek": -6.295973339930414,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-03-08 12:20:34 (UTC)"
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": -0.4226229610587563,
+                "Yesterday": -2.2175321170410354,
+                "LastWeek": -2.490390809947522,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-03-08 12:20:35 (UTC)"
+            },
+            {
+                "Name": "Fondita Nordic Micro Cap B",
+                "PPMCode": "785493",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
+                "Current": 6.367511062509062,
+                "Yesterday": 4.694461344509097,
+                "LastWeek": 4.281299605073976,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-03-08 12:20:39 (UTC)"
+            }
+        ]
     },
     {
         "Label": "WEEKLYS",
@@ -10,27 +50,40 @@
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -5.978934644240399,
-                "Yesterday": -6.762487444513626,
-                "LastWeek": -15.963758317467114,
+                "Current": -3.4277786644987027,
+                "Yesterday": -4.076051651503737,
+                "LastWeek": -14.264263523656842,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-07 12:20:25 (UTC)"
+                "LastUpdated": "2024-03-08 12:20:44 (UTC)"
             },
             {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 1.4224561107963731,
-                "Yesterday": 0.8443141436957322,
-                "LastWeek": -0.3173876228350547,
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": -4.120759138973529,
+                "Yesterday": -5.199991475257755,
+                "LastWeek": -6.846743042869343,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-07 12:20:34 (UTC)"
+                "LastUpdated": "2024-03-08 12:20:46 (UTC)"
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": -2.177574077062422,
+                "Yesterday": -3.9613483346906864,
+                "LastWeek": -6.295973339930414,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-03-08 12:20:49 (UTC)"
             }
         ]
     }
