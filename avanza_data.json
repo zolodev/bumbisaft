@@ -1,34 +1,7 @@
 [
     {
         "Label": "DAILYS",
-        "FundData": [
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": -1.9774923252649905,
-                "Yesterday": -3.9453884582990493,
-                "LastWeek": -2.810156540124347,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-03-20 12:20:39 (UTC)"
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 19.233926345429452,
-                "Yesterday": 17.329668003047903,
-                "LastWeek": 19.387000682720597,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-03-20 12:20:43 (UTC)"
-            }
-        ]
+        "FundData": []
     },
     {
         "Label": "WEEKLYS",
@@ -37,53 +10,40 @@
                 "Name": "BGF World Energy A2",
                 "PPMCode": "517748",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 10.89825982196838,
-                "Yesterday": 9.572799440339717,
-                "LastWeek": 3.47880595396146,
+                "Current": 10.008570583385165,
+                "Yesterday": 9.6893083481448,
+                "LastWeek": 2.4123870824233697,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-20 12:20:50 (UTC)"
+                "LastUpdated": "2024-03-21 12:20:32 (UTC)"
             },
             {
                 "Name": "Franklin Natural Resources A(acc)USD",
                 "PPMCode": "532558",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 6.83453770457884,
-                "Yesterday": 6.082098798862371,
-                "LastWeek": 0.5386030630762927,
+                "Current": 9.370886540174656,
+                "Yesterday": 8.197930754729219,
+                "LastWeek": 3.137492119959702,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-20 12:20:52 (UTC)"
+                "LastUpdated": "2024-03-21 12:20:34 (UTC)"
             },
             {
-                "Name": "BGF Natural Resources Fund Class A2 USD",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": 0.9447439764157606,
-                "Yesterday": 0.6736386533696003,
-                "LastWeek": -3.512633902837925,
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
+                "PPMCode": "456475",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
+                "Current": 19.006613561411445,
+                "Yesterday": 17.324836526105226,
+                "LastWeek": 13.365647312767297,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-20 12:20:55 (UTC)"
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": -4.14286919159111,
-                "Yesterday": -3.2833836078283767,
-                "LastWeek": -6.5070612911625565,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-20 12:20:57 (UTC)"
+                "LastUpdated": "2024-03-21 12:20:41 (UTC)"
             }
         ]
     }
