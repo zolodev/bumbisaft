@@ -12,7 +12,7 @@ This project uses Github actions. Both scheduled and when this project updates (
 
 ## Auto updates (schedule)
 
-The project runs Github actions and updates the files `avanza_data.json` and `Skandia_data_filtered.json`, every Monday to Friday at 17:00. 
+The project runs Github actions and updates the files `avanza_data.json` and `Skandia_data_filtered.json`, every Monday to Friday at 18:00. 
 
 ## Misc
 
