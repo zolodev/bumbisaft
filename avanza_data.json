@@ -3,36 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 20.494033153179295,
-                "Yesterday": 18.45913888788131,
-                "LastWeek": 13.123435743044725,
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 20.281681321350092,
+                "Yesterday": 18.413113988361438,
+                "LastWeek": 12.873415182934611,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-03-25 17:08:53 (UTC)"
+                "LastUpdated": "2024-03-25 19:26:59 (UTC)"
             },
             {
-                "Name": "Indecap Guide Sverige C",
-                "PPMCode": "106849",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
-                "Current": 8.889615164637641,
-                "Yesterday": 8.885529863550932,
-                "LastWeek": 7.4842715908162525,
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": 9.032697659933127,
+                "Yesterday": 7.416449135024827,
+                "LastWeek": 3.8787172722673793,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-03-25 17:08:57 (UTC)"
+                "LastUpdated": "2024-03-25 19:27:01 (UTC)"
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 20.404005769284474,
+                "Yesterday": 18.68263675262797,
+                "LastWeek": 13.22564954778915,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-03-25 19:27:02 (UTC)"
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 3.127692086406587,
+                "Yesterday": 2.0088667756518546,
+                "LastWeek": -2.176346449191192,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-03-25 19:27:07 (UTC)"
+            },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
                 "PPMCode": "313742",
@@ -44,7 +70,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-25 17:09:02 (UTC)"
+                "LastUpdated": "2024-03-25 19:27:09 (UTC)"
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -57,20 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-25 17:09:06 (UTC)"
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 20.494033153179295,
-                "Yesterday": 18.45913888788131,
-                "LastWeek": 13.123435743044725,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-25 17:09:09 (UTC)"
+                "LastUpdated": "2024-03-25 19:27:13 (UTC)"
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
@@ -83,7 +96,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-03-25 17:09:10 (UTC)"
+                "LastUpdated": "2024-03-25 19:27:16 (UTC)"
             }
         ]
     }
