@@ -1,41 +1,33 @@
 [
     {
-        "Name": "BlackRock India",
-        "isin": "LU0248272758",
-        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0248272758/USD",
-        "LastUpdated": "2024-04-08 18:11:02 (UTC)",
-        "Day": 1.26,
-        "Week": 2.37
-    },
-    {
         "Name": "Carnegie Sverige",
         "isin": "SE0000429789",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0000429789/SEK",
-        "LastUpdated": "2024-04-08 18:11:02 (UTC)",
+        "LastUpdated": "2024-04-08 20:09:11 (UTC)",
         "Day": 0.79,
         "Week": 0.29
-    },
-    {
-        "Name": "Acadian Emerging Markets",
-        "isin": "IE00BH7Y7K21",
-        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/IE00BH7Y7K21/USD",
-        "LastUpdated": "2024-04-08 18:11:02 (UTC)",
-        "Day": 0.67,
-        "Week": 0.55
     },
     {
         "Name": "Lannebo Sverige Plus",
         "isin": "SE0002686584",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0002686584/SEK",
-        "LastUpdated": "2024-04-08 18:11:02 (UTC)",
+        "LastUpdated": "2024-04-08 20:09:11 (UTC)",
         "Day": 0.61,
         "Week": 1.39
+    },
+    {
+        "Name": "BlackRock Natural Resources",
+        "isin": "LU0612318385",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0612318385/USD",
+        "LastUpdated": "2024-04-08 20:09:11 (UTC)",
+        "Day": 0.51,
+        "Week": 1.79
     },
     {
         "Name": "\u00d6hman FRN (SEKH)",
         "isin": "SE0004951283",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0004951283/SEK",
-        "LastUpdated": "2024-04-08 18:11:02 (UTC)",
+        "LastUpdated": "2024-04-08 20:09:11 (UTC)",
         "Day": 0.07,
         "Week": 0.22
     },
@@ -43,15 +35,23 @@
         "Name": "Carnegie Likviditet",
         "isin": "SE0000429854",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0000429854/SEK",
-        "LastUpdated": "2024-04-08 18:11:02 (UTC)",
+        "LastUpdated": "2024-04-08 20:09:11 (UTC)",
         "Day": 0.03,
         "Week": 0.13
+    },
+    {
+        "Name": "BlackRock India",
+        "isin": "LU0248272758",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0248272758/USD",
+        "LastUpdated": "2024-04-08 20:09:11 (UTC)",
+        "Day": 0.02,
+        "Week": 1.36
     },
     {
         "Name": "Carnegie Corporate Bond",
         "isin": "LU0075898915",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0075898915/SEK",
-        "LastUpdated": "2024-04-08 18:11:02 (UTC)",
+        "LastUpdated": "2024-04-08 20:09:11 (UTC)",
         "Day": 0.01,
         "Week": 0.2
     }
