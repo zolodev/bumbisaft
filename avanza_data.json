@@ -3,30 +3,56 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": 8.402253796223984,
-                "Yesterday": 7.053500727343352,
-                "LastWeek": 3.3268584232126397,
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": 21.995302002272798,
+                "Yesterday": 18.925407518300556,
+                "LastWeek": 21.979153158867263,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-05 22:07:11 (UTC)"
+                "LastUpdated": "2024-04-08 02:17:05 (UTC)"
             },
             {
-                "Name": "Pictet-Emerging Markets R USD",
-                "PPMCode": "404236",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2186",
-                "Current": 12.103571694086607,
-                "Yesterday": 11.57733097826629,
-                "LastWeek": 10.785384717929142,
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 22.441087358207415,
+                "Yesterday": 19.50994470606616,
+                "LastWeek": 22.79391408317949,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-08 02:17:07 (UTC)"
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 17.095368273202507,
+                "Yesterday": 15.027849341578422,
+                "LastWeek": 9.543292880413295,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-05 22:07:12 (UTC)"
+                "LastUpdated": "2024-04-08 02:17:12 (UTC)"
+            },
+            {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": 12.439399994814632,
+                "Yesterday": 10.706136952083012,
+                "LastWeek": 14.090883443394473,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-08 02:17:18 (UTC)"
             }
         ]
     },
@@ -44,7 +70,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-05 22:07:18 (UTC)"
+                "LastUpdated": "2024-04-08 02:17:25 (UTC)"
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -57,7 +83,20 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-05 22:07:20 (UTC)"
+                "LastUpdated": "2024-04-08 02:17:28 (UTC)"
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 17.095368273202507,
+                "Yesterday": 15.027849341578422,
+                "LastWeek": 9.543292880413295,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-08 02:17:32 (UTC)"
             }
         ]
     }
