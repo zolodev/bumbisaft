@@ -3,6 +3,45 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 20.516592656887788,
+                "Yesterday": 17.624965537339442,
+                "LastWeek": 8.591847488858791,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-09 20:07:05 (UTC)"
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 9.567988482078478,
+                "Yesterday": 7.191765331616382,
+                "LastWeek": 1.4550320716584488,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-09 20:07:06 (UTC)"
+            },
+            {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": 0.34428368373687535,
+                "Yesterday": -1.0421520802431263,
+                "LastWeek": -2.0673542299402974,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-09 20:07:10 (UTC)"
+            },
+            {
                 "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
@@ -13,20 +52,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-09 18:08:21 (UTC)"
-            },
-            {
-                "Name": "Skandia Sm\u00e5bolag Sverige",
-                "PPMCode": "103606",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
-                "Current": 10.581953463652825,
-                "Yesterday": 9.159455913371307,
-                "LastWeek": 9.719984720399923,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-09 18:08:22 (UTC)"
+                "LastUpdated": "2024-04-09 20:07:11 (UTC)"
             },
             {
                 "Name": "\u00d6hman Sm\u00e5bolagsfond A",
@@ -39,7 +65,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-09 18:08:24 (UTC)"
+                "LastUpdated": "2024-04-09 20:07:13 (UTC)"
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -52,7 +78,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-09 18:08:25 (UTC)"
+                "LastUpdated": "2024-04-09 20:07:14 (UTC)"
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -65,7 +91,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-09 18:08:26 (UTC)"
+                "LastUpdated": "2024-04-09 20:07:16 (UTC)"
             },
             {
                 "Name": "\u00d6hman Sweden Micro Cap A",
@@ -78,7 +104,20 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-09 18:08:27 (UTC)"
+                "LastUpdated": "2024-04-09 20:07:17 (UTC)"
+            },
+            {
+                "Name": "BGF Natural Resources Fund Class A2 USD",
+                "PPMCode": "536806",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
+                "Current": 12.065800961840816,
+                "Yesterday": 10.84415380798182,
+                "LastWeek": 5.669945557860775,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-09 20:07:19 (UTC)"
             }
         ]
     },
@@ -89,14 +128,14 @@
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 17.08457171675927,
-                "Yesterday": 16.423992920568555,
-                "LastWeek": 5.99698455691816,
+                "Current": 20.516592656887788,
+                "Yesterday": 17.624965537339442,
+                "LastWeek": 8.591847488858791,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-09 18:08:38 (UTC)"
+                "LastUpdated": "2024-04-09 20:07:24 (UTC)"
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -109,7 +148,20 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-09 18:08:40 (UTC)"
+                "LastUpdated": "2024-04-09 20:07:27 (UTC)"
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 9.567988482078478,
+                "Yesterday": 7.191765331616382,
+                "LastWeek": 1.4550320716584488,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-09 20:07:30 (UTC)"
             }
         ]
     }
