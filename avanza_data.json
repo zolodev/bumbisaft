@@ -13,20 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-11 14:06:20 (UTC)"
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 10.46136773963305,
-                "Yesterday": 7.362085242043754,
-                "LastWeek": 5.353974845447943,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-11 14:06:22 (UTC)"
+                "LastUpdated": "2024-04-11 16:07:34 (UTC)"
             },
             {
                 "Name": "SEB Asienfond ex Japan A",
@@ -39,7 +26,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-11 14:06:29 (UTC)"
+                "LastUpdated": "2024-04-11 16:07:39 (UTC)"
             },
             {
                 "Name": "BGF China A2",
@@ -52,7 +39,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-11 14:06:30 (UTC)"
+                "LastUpdated": "2024-04-11 16:07:40 (UTC)"
             },
             {
                 "Name": "Swedbank Robur Access Asien A",
@@ -65,26 +52,26 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-11 14:06:31 (UTC)"
+                "LastUpdated": "2024-04-11 16:07:41 (UTC)"
+            },
+            {
+                "Name": "Carnegie Indienfond A",
+                "PPMCode": "505586",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
+                "Current": 5.504667087351253,
+                "Yesterday": 3.1403772245320094,
+                "LastWeek": 3.481751834466419,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-11 16:07:44 (UTC)"
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 16.71407624448743,
-                "Yesterday": 14.51598357896618,
-                "LastWeek": 8.01450857624076,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-11 14:06:35 (UTC)"
-            },
             {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
@@ -96,7 +83,33 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-11 14:06:39 (UTC)"
+                "LastUpdated": "2024-04-11 16:07:51 (UTC)"
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 15.687827597362796,
+                "Yesterday": 16.33309835043303,
+                "LastWeek": 10.915003678760813,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-11 16:07:53 (UTC)"
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 8.420109500922408,
+                "Yesterday": 8.5293338966116,
+                "LastWeek": 5.327114871268044,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-11 16:07:54 (UTC)"
             }
         ]
     }
