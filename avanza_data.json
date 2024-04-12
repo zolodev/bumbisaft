@@ -3,6 +3,19 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Asienfond A",
+                "PPMCode": "385401",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/146",
+                "Current": 11.47246372828879,
+                "Yesterday": 8.697825243118645,
+                "LastWeek": 7.170583244307191,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-12 10:06:57 (UTC)"
+            },
+            {
                 "Name": "Carnegie Indienfond A",
                 "PPMCode": "505586",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
@@ -13,7 +26,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-12 08:08:55 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:00 (UTC)"
             },
             {
                 "Name": "Franklin Technology A Acc USD",
@@ -26,7 +39,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-12 08:08:57 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:01 (UTC)"
             },
             {
                 "Name": "Franklin Biotechnology Discv A(acc)USD",
@@ -39,7 +52,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-12 08:08:59 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:03 (UTC)"
             },
             {
                 "Name": "AGCM Asia Growth RC SEK",
@@ -52,7 +65,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-12 08:09:03 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:08 (UTC)"
             }
         ]
     },
@@ -70,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-12 08:09:08 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:11 (UTC)"
             },
             {
                 "Name": "BGF World Gold A2",
@@ -83,7 +96,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-12 08:09:09 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:12 (UTC)"
             },
             {
                 "Name": "Franklin Biotechnology Discv A(acc)USD",
@@ -96,7 +109,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-12 08:09:13 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:18 (UTC)"
             },
             {
                 "Name": "Franklin US Opportunities A(acc)USD",
@@ -109,7 +122,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-12 08:09:14 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:18 (UTC)"
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -122,20 +135,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-12 08:09:16 (UTC)"
-            },
-            {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": 10.381017025664786,
-                "Yesterday": 7.629360546290432,
-                "LastWeek": 4.358955727020648,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-12 08:09:18 (UTC)"
+                "LastUpdated": "2024-04-12 10:07:20 (UTC)"
             }
         ]
     }
