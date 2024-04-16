@@ -3,56 +3,43 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Handelsbanken Sverige 100 Ind Cri A1 SEK",
-                "PPMCode": "465914",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/315116",
-                "Current": 10.74606612562303,
-                "Yesterday": 9.840557396727654,
-                "LastWeek": 10.712142167479975,
+                "Name": "Avanza Zero",
+                "PPMCode": "734491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/41567",
+                "Current": 9.634853220076394,
+                "Yesterday": 8.924326201351596,
+                "LastWeek": 9.533349360258567,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-16 18:08:49 (UTC)"
+                "LastUpdated": "2024-04-16 20:07:12 (UTC)"
             },
             {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 17.04096643001459,
-                "Yesterday": 16.102233745830688,
-                "LastWeek": 17.197355136264488,
+                "Name": "Evli Aktieindex B",
+                "PPMCode": "610410",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/416835",
+                "Current": 9.484807845704537,
+                "Yesterday": 8.777477285655722,
+                "LastWeek": 9.398447257276699,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-16 20:07:14 (UTC)"
+            },
+            {
+                "Name": "Aktiespararna Topp Sverige A",
+                "PPMCode": "290072",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1961",
+                "Current": 9.150450708255828,
+                "Yesterday": 8.494777507511806,
+                "LastWeek": 9.186936614680215,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-16 18:08:51 (UTC)"
-            },
-            {
-                "Name": "SEB Sverige Expanderad",
-                "PPMCode": "158261",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1984",
-                "Current": 12.171734433744822,
-                "Yesterday": 11.299077172000967,
-                "LastWeek": 12.31189893104973,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-16 18:08:52 (UTC)"
-            },
-            {
-                "Name": "SEB Sweden Equity C (SEK)",
-                "PPMCode": "846527",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1907",
-                "Current": 11.97483592251693,
-                "Yesterday": 11.120106708429836,
-                "LastWeek": 12.116184775467685,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-16 18:08:54 (UTC)"
+                "LastUpdated": "2024-04-16 20:07:16 (UTC)"
             }
         ]
     },
@@ -70,20 +57,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-16 18:08:57 (UTC)"
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 7.988592913143296,
-                "Yesterday": 8.100498987311488,
-                "LastWeek": 6.284095784783915,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-16 18:09:04 (UTC)"
+                "LastUpdated": "2024-04-16 20:07:21 (UTC)"
             }
         ]
     }
