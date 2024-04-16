@@ -3,19 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 15.194096579134891,
-                "Yesterday": 12.812463929798316,
-                "LastWeek": 12.759701557182176,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-16 14:07:25 (UTC)"
-            },
-            {
                 "Name": "Tundra Sustainable Frontier Fund A SEK",
                 "PPMCode": "861229",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
@@ -26,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-16 14:07:30 (UTC)"
+                "LastUpdated": "2024-04-16 16:08:55 (UTC)"
             },
             {
                 "Name": "Swedbank Robur Access Sverige A",
@@ -39,26 +26,13 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-16 14:07:41 (UTC)"
+                "LastUpdated": "2024-04-16 16:09:02 (UTC)"
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 15.194096579134891,
-                "Yesterday": 12.812463929798316,
-                "LastWeek": 12.759701557182176,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-16 14:07:44 (UTC)"
-            },
             {
                 "Name": "BGF World Mining A2",
                 "PPMCode": "481911",
@@ -70,20 +44,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-16 14:07:45 (UTC)"
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 17.744698236697943,
-                "Yesterday": 18.326015943791138,
-                "LastWeek": 12.44822307355961,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-16 14:07:48 (UTC)"
+                "LastUpdated": "2024-04-16 16:09:05 (UTC)"
             },
             {
                 "Name": "BGF World Gold A2",
@@ -96,7 +57,20 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-16 14:07:53 (UTC)"
+                "LastUpdated": "2024-04-16 16:09:09 (UTC)"
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 11.933465968513946,
+                "Yesterday": 13.321618388590718,
+                "LastWeek": 9.879436144734703,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-16 16:09:11 (UTC)"
             }
         ]
     }
