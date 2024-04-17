@@ -3,6 +3,58 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 27.856189647009057,
+                "Yesterday": 23.32408801598479,
+                "LastWeek": 21.93400804318003,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-17 18:08:56 (UTC)"
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 15.13031807726043,
+                "Yesterday": 11.805058026461081,
+                "LastWeek": 10.829314582002446,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-17 18:08:57 (UTC)"
+            },
+            {
+                "Name": "BGF Natural Resources Fund Class A2 USD",
+                "PPMCode": "536806",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
+                "Current": 16.365186578087275,
+                "Yesterday": 13.682910485714098,
+                "LastWeek": 13.568871906502594,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-17 18:08:59 (UTC)"
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 15.296957829261556,
+                "Yesterday": 12.971911734183283,
+                "LastWeek": 15.268727387251133,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-17 18:09:01 (UTC)"
+            },
+            {
                 "Name": "Simplicity Norden",
                 "PPMCode": "484980",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1660",
@@ -13,7 +65,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-17 16:09:29 (UTC)"
+                "LastUpdated": "2024-04-17 18:09:06 (UTC)"
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -26,33 +78,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-17 16:09:30 (UTC)"
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": 14.586882832537428,
-                "Yesterday": 13.638545865931494,
-                "LastWeek": 14.729349946104438,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-17 16:09:43 (UTC)"
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 13.58741913398694,
-                "Yesterday": 12.659529494872299,
-                "LastWeek": 13.737904081603622,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-17 16:09:44 (UTC)"
+                "LastUpdated": "2024-04-17 18:09:08 (UTC)"
             }
         ]
     },
@@ -70,20 +96,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-17 16:09:48 (UTC)"
-            },
-            {
-                "Name": "Fidelity Global High Yield A-Acc-USD",
-                "PPMCode": "277491",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/343415",
-                "Current": 6.146465434642881,
-                "Yesterday": 6.126275085437001,
-                "LastWeek": 4.252818969604657,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-17 16:10:01 (UTC)"
+                "LastUpdated": "2024-04-17 18:09:11 (UTC)"
             }
         ]
     }
