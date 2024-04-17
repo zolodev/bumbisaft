@@ -3,6 +3,32 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Simplicity Norden",
+                "PPMCode": "484980",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1660",
+                "Current": 13.409031398033767,
+                "Yesterday": 11.65107476969222,
+                "LastWeek": 14.163631602751792,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-17 16:09:29 (UTC)"
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 16.33416870485276,
+                "Yesterday": 14.541464555510403,
+                "LastWeek": 10.501379441310071,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-17 16:09:30 (UTC)"
+            },
+            {
                 "Name": "Franklin US Opportunities A(acc)USD",
                 "PPMCode": "384107",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
@@ -13,7 +39,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-17 14:06:35 (UTC)"
+                "LastUpdated": "2024-04-17 16:09:43 (UTC)"
             },
             {
                 "Name": "Franklin Technology A Acc USD",
@@ -26,7 +52,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-17 14:06:36 (UTC)"
+                "LastUpdated": "2024-04-17 16:09:44 (UTC)"
             }
         ]
     },
@@ -37,14 +63,27 @@
                 "Name": "Allianz China A Shares AT USD",
                 "PPMCode": "933359",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 12.39380015119063,
-                "Yesterday": 13.321618388590718,
-                "LastWeek": 9.879436144734703,
-                "TrendDay": "\u25bc",
+                "Current": 16.33416870485276,
+                "Yesterday": 14.541464555510403,
+                "LastWeek": 10.501379441310071,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-17 14:06:43 (UTC)"
+                "LastUpdated": "2024-04-17 16:09:48 (UTC)"
+            },
+            {
+                "Name": "Fidelity Global High Yield A-Acc-USD",
+                "PPMCode": "277491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/343415",
+                "Current": 6.146465434642881,
+                "Yesterday": 6.126275085437001,
+                "LastWeek": 4.252818969604657,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-17 16:10:01 (UTC)"
             }
         ]
     }
