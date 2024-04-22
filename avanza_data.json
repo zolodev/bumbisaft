@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-22 20:08:11 (UTC)"
+                "LastUpdated": "2024-04-22 22:08:21 (UTC)"
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -26,26 +26,12 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-22 20:08:13 (UTC)"
+                "LastUpdated": "2024-04-22 22:08:22 (UTC)"
             }
         ]
     },
     {
         "Label": "WEEKLYS",
-        "FundData": [
-            {
-                "Name": "Lannebo Sverige Plus",
-                "PPMCode": "490292",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
-                "Current": 10.38112522686025,
-                "Yesterday": 8.82032667876587,
-                "LastWeek": 9.147005444646084,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-22 20:08:33 (UTC)"
-            }
-        ]
+        "FundData": []
     }
 ]
