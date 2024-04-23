@@ -3,6 +3,19 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "AGCM Asia Growth RC SEK",
+                "PPMCode": "938845",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
+                "Current": 16.76006113092207,
+                "Yesterday": 14.48675496688742,
+                "LastWeek": 16.817371370351502,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-23 12:13:10 (UTC)"
+            },
+            {
                 "Name": "Templeton Emerging Markets A(acc)USD",
                 "PPMCode": "425067",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
@@ -13,7 +26,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 10:07:25 (UTC)"
+                "LastUpdated": "2024-04-23 12:13:13 (UTC)"
             }
         ]
     },
@@ -31,7 +44,33 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-23 10:07:33 (UTC)"
+                "LastUpdated": "2024-04-23 12:13:22 (UTC)"
+            },
+            {
+                "Name": "UB Infra A",
+                "PPMCode": "780411",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/600081",
+                "Current": 2.9336256232232896,
+                "Yesterday": 2.3154596534212133,
+                "LastWeek": 1.1388880814114148,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-23 12:13:23 (UTC)"
+            },
+            {
+                "Name": "AGCM Asia Growth RC SEK",
+                "PPMCode": "938845",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
+                "Current": 16.76006113092207,
+                "Yesterday": 14.48675496688742,
+                "LastWeek": 16.817371370351502,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-23 12:13:24 (UTC)"
             },
             {
                 "Name": "Nordea Indienfond",
@@ -44,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-23 10:07:34 (UTC)"
+                "LastUpdated": "2024-04-23 12:13:26 (UTC)"
             }
         ]
     }
