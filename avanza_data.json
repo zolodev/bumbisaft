@@ -3,6 +3,19 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Templeton Emerging Markets A(acc)USD",
+                "PPMCode": "425067",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
+                "Current": 9.840606343956416,
+                "Yesterday": 7.992720956560396,
+                "LastWeek": 12.79829862503573,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-23 02:19:28 (UTC)"
+            },
+            {
                 "Name": "Carnegie Fastighetsfond Norden A",
                 "PPMCode": "320176",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
@@ -13,7 +26,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 00:31:48 (UTC)"
+                "LastUpdated": "2024-04-23 02:19:31 (UTC)"
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -26,12 +39,39 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 00:31:49 (UTC)"
+                "LastUpdated": "2024-04-23 02:19:33 (UTC)"
             }
         ]
     },
     {
         "Label": "WEEKLYS",
-        "FundData": []
+        "FundData": [
+            {
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": 8.440550455553412,
+                "Yesterday": 7.708617502911485,
+                "LastWeek": 4.8763319406325545,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-23 02:19:41 (UTC)"
+            },
+            {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": 8.990305252598588,
+                "Yesterday": 7.740582517730813,
+                "LastWeek": 9.245476403287602,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-23 02:19:49 (UTC)"
+            }
+        ]
     }
 ]
