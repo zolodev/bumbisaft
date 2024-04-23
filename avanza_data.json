@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 06:09:19 (UTC)"
+                "LastUpdated": "2024-04-23 08:09:39 (UTC)"
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -26,7 +26,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 06:09:21 (UTC)"
+                "LastUpdated": "2024-04-23 08:09:42 (UTC)"
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -39,13 +39,26 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 06:09:23 (UTC)"
+                "LastUpdated": "2024-04-23 08:09:44 (UTC)"
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 6.630595628574247,
+                "Yesterday": 5.42108200208112,
+                "LastWeek": 4.078109521366806,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-23 08:09:50 (UTC)"
+            },
             {
                 "Name": "Nordea Indienfond",
                 "PPMCode": "469692",
@@ -57,7 +70,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-23 06:09:29 (UTC)"
+                "LastUpdated": "2024-04-23 08:09:53 (UTC)"
             },
             {
                 "Name": "Franklin India A(acc)USD",
@@ -70,7 +83,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-23 06:09:34 (UTC)"
+                "LastUpdated": "2024-04-23 08:10:00 (UTC)"
             }
         ]
     }
