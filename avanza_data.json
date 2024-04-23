@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 16:08:32 (UTC)"
+                "LastUpdated": "2024-04-23 18:08:36 (UTC)"
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -26,7 +26,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 16:08:34 (UTC)"
+                "LastUpdated": "2024-04-23 18:08:38 (UTC)"
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -39,7 +39,20 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-23 16:08:35 (UTC)"
+                "LastUpdated": "2024-04-23 18:08:39 (UTC)"
+            },
+            {
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 9.526051730016718,
+                "Yesterday": 7.554920521521696,
+                "LastWeek": 9.603987725080774,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-23 18:08:41 (UTC)"
             }
         ]
     },
@@ -47,30 +60,56 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 13.078057551587799,
-                "Yesterday": 10.918191611324874,
-                "LastWeek": 13.08986215732968,
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 16.076341401108525,
+                "Yesterday": 14.333915084270698,
+                "LastWeek": 13.598861525285013,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-23 16:08:45 (UTC)"
+                "LastUpdated": "2024-04-23 18:08:44 (UTC)"
             },
             {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 13.219471929057262,
-                "Yesterday": 11.082323087485978,
-                "LastWeek": 13.49579922744644,
+                "Name": "Lannebo Sverige",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": 10.875287923659096,
+                "Yesterday": 9.772951628825268,
+                "LastWeek": 8.52254030931226,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-23 16:08:46 (UTC)"
+                "LastUpdated": "2024-04-23 18:08:46 (UTC)"
+            },
+            {
+                "Name": "Lannebo Sverige Plus",
+                "PPMCode": "490292",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
+                "Current": 10.315461197073281,
+                "Yesterday": 9.427851745232097,
+                "LastWeek": 8.1564111790812,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-23 18:08:47 (UTC)"
+            },
+            {
+                "Name": "Aktie-Ansvar Sverige A",
+                "PPMCode": "344739",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1901",
+                "Current": 7.391963608794539,
+                "Yesterday": 6.116139120545868,
+                "LastWeek": 5.263220242608044,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-23 18:08:51 (UTC)"
             }
         ]
     }
