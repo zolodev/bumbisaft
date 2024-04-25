@@ -3,19 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 12.363970530417328,
-                "Yesterday": 8.971530731644418,
-                "LastWeek": 9.062733074695013,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-25 14:03:56 (UTC)"
-            },
-            {
                 "Name": "Barings Hong Kong China A USD Inc",
                 "PPMCode": "334409",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
@@ -26,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-25 14:04:01 (UTC)"
+                "LastUpdated": "2024-04-25 16:08:42 (UTC)"
             },
             {
                 "Name": "Nordea Kinafond",
@@ -39,7 +26,33 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-25 14:04:09 (UTC)"
+                "LastUpdated": "2024-04-25 16:08:47 (UTC)"
+            },
+            {
+                "Name": "Pictet-Clean Energy Transition R USD",
+                "PPMCode": "887497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
+                "Current": 4.147965578255267,
+                "Yesterday": 1.2946010477587246,
+                "LastWeek": 7.121699087737975,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-25 16:08:48 (UTC)"
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 12.264974124382128,
+                "Yesterday": 9.191235178569256,
+                "LastWeek": 8.196554049135708,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-25 16:08:49 (UTC)"
             }
         ]
     },
@@ -57,7 +70,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-25 14:04:13 (UTC)"
+                "LastUpdated": "2024-04-25 16:08:53 (UTC)"
             },
             {
                 "Name": "Nordea Kinafond",
@@ -70,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-25 14:04:15 (UTC)"
+                "LastUpdated": "2024-04-25 16:08:54 (UTC)"
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -83,7 +96,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-25 14:04:16 (UTC)"
+                "LastUpdated": "2024-04-25 16:08:55 (UTC)"
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -96,20 +109,20 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-25 14:04:19 (UTC)"
+                "LastUpdated": "2024-04-25 16:08:56 (UTC)"
             },
             {
                 "Name": "Allianz China Equity A USD",
                 "PPMCode": "753731",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 12.363970530417328,
-                "Yesterday": 8.971530731644418,
-                "LastWeek": 9.062733074695013,
+                "Current": 10.2593558279554,
+                "Yesterday": 10.069789191310452,
+                "LastWeek": 5.2914651254179494,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-25 14:04:21 (UTC)"
+                "LastUpdated": "2024-04-25 16:08:58 (UTC)"
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -122,7 +135,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-25 14:04:25 (UTC)"
+                "LastUpdated": "2024-04-25 16:09:01 (UTC)"
             }
         ]
     }
