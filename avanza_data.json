@@ -3,56 +3,82 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "AMF Aktiefond Sm\u00e5bolag",
-                "PPMCode": "269357",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
-                "Current": 4.424169238338033,
-                "Yesterday": 6.784739925756958,
-                "LastWeek": 4.784650476318262,
-                "TrendDay": "\u25bc",
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 10.35047806926833,
+                "Yesterday": 6.160014000031804,
+                "LastWeek": 5.665240148273048,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-26 18:08:29 (UTC)"
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 9.151632201234149,
+                "Yesterday": 5.858024400584112,
+                "LastWeek": 10.558198690470576,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 16:09:19 (UTC)"
+                "LastUpdated": "2024-04-26 18:08:32 (UTC)"
             },
             {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 16.875342422622168,
-                "Yesterday": 14.044258439147447,
-                "LastWeek": 15.276134904315782,
+                "Name": "AMF Aktiefond Sm\u00e5bolag",
+                "PPMCode": "269357",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
+                "Current": 6.86939342161468,
+                "Yesterday": 3.8916773458635925,
+                "LastWeek": 3.967321657411356,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 16:09:23 (UTC)"
+                "LastUpdated": "2024-04-26 18:08:35 (UTC)"
             },
             {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 15.002627697317031,
-                "Yesterday": 12.546389670374975,
-                "LastWeek": 8.417663874383775,
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 9.506329113924057,
+                "Yesterday": 6.518987341772159,
+                "LastWeek": 7.68354430379746,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 16:09:27 (UTC)"
+                "LastUpdated": "2024-04-26 18:08:38 (UTC)"
             },
             {
-                "Name": "Simplicity Norden",
-                "PPMCode": "484980",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1660",
-                "Current": 10.912504174968616,
-                "Yesterday": 8.749582503138429,
-                "LastWeek": 9.740057816117112,
+                "Name": "Swedbank Robur Sm\u00e5bolagsfond Sverige A",
+                "PPMCode": "856682",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2008",
+                "Current": 8.541330549492265,
+                "Yesterday": 5.632532979026291,
+                "LastWeek": 5.784378855461705,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 16:09:30 (UTC)"
+                "LastUpdated": "2024-04-26 18:08:40 (UTC)"
+            },
+            {
+                "Name": "Lannebo Teknik",
+                "PPMCode": "771030",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
+                "Current": 2.1266073194856565,
+                "Yesterday": -0.5440158259149329,
+                "LastWeek": 1.879327398615245,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-26 18:08:47 (UTC)"
             }
         ]
     },
@@ -70,7 +96,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 16:09:33 (UTC)"
+                "LastUpdated": "2024-04-26 18:08:52 (UTC)"
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -83,7 +109,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 16:09:34 (UTC)"
+                "LastUpdated": "2024-04-26 18:08:54 (UTC)"
             }
         ]
     }
