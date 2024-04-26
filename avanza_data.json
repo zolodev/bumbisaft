@@ -3,19 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 17.623842022113003,
-                "Yesterday": 14.379380811994622,
-                "LastWeek": 13.450731435083432,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 00:31:41 (UTC)"
-            },
-            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Asienfond A",
                 "PPMCode": "385401",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/146",
@@ -26,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 00:31:46 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:13 (UTC)"
             },
             {
                 "Name": "\u00d6hman Emerging Markets A",
@@ -39,7 +26,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 00:31:50 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:16 (UTC)"
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -52,7 +39,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 00:31:51 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:18 (UTC)"
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
@@ -65,7 +52,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 00:31:53 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:19 (UTC)"
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Tillv\u00e4xtmarknad Index A",
@@ -78,7 +65,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 00:31:54 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:21 (UTC)"
             }
         ]
     },
@@ -96,20 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 00:31:58 (UTC)"
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 17.623842022113003,
-                "Yesterday": 14.379380811994622,
-                "LastWeek": 13.450731435083432,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 00:31:59 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:25 (UTC)"
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -122,7 +96,20 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 00:32:00 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:26 (UTC)"
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 16.61343791238937,
+                "Yesterday": 16.35173601507603,
+                "LastWeek": 10.417407508714797,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-26 02:18:27 (UTC)"
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -135,7 +122,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 00:32:03 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:30 (UTC)"
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -148,7 +135,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 00:32:05 (UTC)"
+                "LastUpdated": "2024-04-26 02:18:33 (UTC)"
             }
         ]
     }
