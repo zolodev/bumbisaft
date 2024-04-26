@@ -3,6 +3,19 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 27.444927871634167,
+                "Yesterday": 22.53244037100942,
+                "LastWeek": 26.054991124047895,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-26 22:07:19 (UTC)"
+            },
+            {
                 "Name": "Pictet-Digital R USD",
                 "PPMCode": "296749",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
@@ -13,7 +26,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:37 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:21 (UTC)"
             },
             {
                 "Name": "C Worldwide Sweden Small Cap 1A",
@@ -26,20 +39,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:38 (UTC)"
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 27.444927871634167,
-                "Yesterday": 22.53244037100942,
-                "LastWeek": 26.054991124047895,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:40 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:22 (UTC)"
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -52,7 +52,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:43 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:25 (UTC)"
             },
             {
                 "Name": "BGF World Technology A2",
@@ -65,7 +65,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:44 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:26 (UTC)"
             },
             {
                 "Name": "BGF World Mining A2",
@@ -78,7 +78,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:45 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:27 (UTC)"
             },
             {
                 "Name": "BGF Latin American A2",
@@ -91,7 +91,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:46 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:28 (UTC)"
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -104,20 +104,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:48 (UTC)"
-            },
-            {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": 8.319869677229914,
-                "Yesterday": 5.023915714520876,
-                "LastWeek": 6.95389731389399,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 20:07:52 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:29 (UTC)"
             }
         ]
     },
@@ -135,7 +122,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 20:07:53 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:34 (UTC)"
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -148,7 +135,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 20:07:56 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:37 (UTC)"
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -161,7 +148,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 20:07:57 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:39 (UTC)"
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -174,7 +161,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-26 20:07:58 (UTC)"
+                "LastUpdated": "2024-04-26 22:07:41 (UTC)"
             }
         ]
     }
