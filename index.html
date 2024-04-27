@@ -13,7 +13,7 @@
         <span class="banner-divider">/</span>
         <a href="./skandia.html">Skandia</a>
     </div>
-    
+
     <div id="dataContainer" class="data-container"></div>
 
     <script>
@@ -45,7 +45,7 @@
                     item.FundData.forEach(fund => {
                         // Create a div for each fund
                         const div = document.createElement('div');
-                        div.className = 'data-item';
+                        div.className = (fund.history === true) ? 'data-item-avanza-history-item' : 'data-item';
 
                         const trendDay = fund['TrendDay'];
                         const trendDayGood = trendDay === '\u25b2';

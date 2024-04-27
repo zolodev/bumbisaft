@@ -37,6 +37,7 @@ class FundData(object):
     TrendAwesome = ""
     Label = ""
     LastUpdated = ""
+    history = false
 
     def __init__(self, name, ppmcode, url, current, yesterday, lastWeek, trendDay, trendWeek, trendAwesome, label, lastUpdated):
         self.Name = name
@@ -89,7 +90,7 @@ def get_history_data(github_user:str = "zolodev",
     merged_WEEKLYS = []
 
     for obj in merged_data:
-        obj["HISTORY"] = True
+        obj["history"] = True
         if "Label" in obj and obj["Label"] == "DAILYS":
             merged_DAILYS.append(obj)
         else:
@@ -186,7 +187,8 @@ def get_funds_from_ListView(label :str, funds_list :list):
                                     trendWeek = dict_trend["week"],
                                     trendAwesome = bAwesome,
                                     label = label,
-                                    lastUpdated = str(dt_string) + " (UTC)")
+                                    lastUpdated = str(dt_string) + " (UTC)",
+                                    history = false)
             
             fundDataList_to_return.append(fundDataObj)
 
