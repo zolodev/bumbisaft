@@ -8,7 +8,8 @@
 
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
+
 
 # Helper Function to print object to json
 # For example: json.dumps(listToPrint, default=obj_dict, indent=4) 
@@ -52,6 +53,48 @@ class FundData(object):
     def to_json(self): 
         return json.dumps(self, indent = 4, default=lambda o: o.__dict__) 
 
+
+
+def get_history_data(github_user:str = "zolodev", 
+                    repo:str = "bumbisaft", 
+                    file:str = "avanza_data.json"):
+
+
+    # Calculate the timestamp for one week ago
+    now = datetime.now()
+    one_week_ago = now - timedelta(days=7)
+    timestamp_since = int(one_week_ago.timestamp())
+    timestamp_until = int(datetime.now().timestamp())
+
+    url = f"https://api.github.com/repos/{owner}/{repo}/commits?path={file}&since={timestamp_since}&until={timestamp_until}"
+    print(url)
+    response = requests.get(url)
+    data = json.loads(response.text)
+    #print(json.dumps(data, indent=4))
+    list_sha = []
+    for single_sha in data:
+    list_sha.append(single_sha["sha"])
+
+    merged_data = []
+    for sha in list_sha:
+    template_url = f"https://raw.githubusercontent.com/zolodev/bumbisaft/{sha}/avanza_data.json"
+    response_tmp = requests.get(template_url)
+    data_single = json.loads(response_tmp.text)
+    merged_data += data_single[0]["FundData"] # Get all DAILYS
+    merged_data += data_single[1]["FundData"] # Get all WEEKLYS
+
+
+    merged_DAILYS = []
+    merged_WEEKLYS = []
+
+    for obj in merged_data:
+    if "Label" in obj and obj["Label"] == "DAILYS":
+        merged_DAILYS.append(obj)
+    else:
+        merged_WEEKLYS.append(obj)
+
+    return {"DAILYS": merged_DAILYS, "WEEKLYS":merged_WEEKLYS}
+
 def get_fund_trend_by_id(single_fund_id :int):
     dict_to_return = {}
     
@@ -94,7 +137,6 @@ def get_fund_trend_by_id(single_fund_id :int):
         dict_to_return["week"] = "-"
 
     return dict_to_return
-
 
 def get_funds_from_ListView(label :str, funds_list :list):
     fundDataList_to_return = []
@@ -147,7 +189,6 @@ def get_funds_from_ListView(label :str, funds_list :list):
 
     return fundDataList_to_return
 
-
 def run():
     fund_list_url = "https://www.avanza.se/_api/fund-guide/list"
 
@@ -173,8 +214,14 @@ def run():
     fundListViewsWeeklyData = json.loads(fund_list_weekly_response.text)
     fundListViewsDailyData = json.loads(fund_list_daily_response.text)
 
+    # Fetch previously 7 days of history data
+    dict_history = get_history_data()
+    
     listDailyFunds = get_funds_from_ListView("DAILYS", fundListViewsDailyData)
+    listDailyFunds = dict_history["DAILYS"]
+    
     listWeeklyFunds = get_funds_from_ListView("WEEKLYS", fundListViewsWeeklyData)
+    listWeeklyFunds = dict_history["WEEKLYS"]
 
     fundDataListDaily = FundDataList("DAILYS", listDailyFunds)
     fundDataListWeekly = FundDataList("WEEKLYS", listWeeklyFunds)
@@ -188,7 +235,6 @@ def run():
     if avanza_dailys_and_weeklys_funds_data is not None:
         with open('avanza_data.json', 'w') as f:
                 f.write(avanza_dailys_and_weeklys_funds_data)
-
 
 if __name__ == "__main__":
     run()
