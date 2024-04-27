@@ -39,7 +39,7 @@ class FundData(object):
     LastUpdated = ""
     history = False
 
-    def __init__(self, name, ppmcode, url, current, yesterday, lastWeek, trendDay, trendWeek, trendAwesome, label, lastUpdated):
+    def __init__(self, name, ppmcode, url, current, yesterday, lastWeek, trendDay, trendWeek, trendAwesome, label, lastUpdated, history):
         self.Name = name
         self.PPMCode = ppmcode
         self.URL = url
@@ -51,6 +51,7 @@ class FundData(object):
         self.TrendAwesome = trendAwesome
         self.Label = label
         self.LastUpdated = lastUpdated
+        self.history = history
 
     def to_json(self): 
         return json.dumps(self, indent = 4, default=lambda o: o.__dict__) 
