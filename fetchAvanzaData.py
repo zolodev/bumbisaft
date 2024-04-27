@@ -56,7 +56,8 @@ class FundData(object):
     def to_json(self): 
         return json.dumps(self, indent = 4, default=lambda o: o.__dict__) 
 
-
+def check_name(name_to_check, list_to_check):
+    return any(obj['Name'] == name_to_check for obj in list_to_check)
 
 def get_history_data(github_user:str = "zolodev", 
                     repo:str = "bumbisaft", 
@@ -93,12 +94,14 @@ def get_history_data(github_user:str = "zolodev",
     for obj in merged_data:
         if any("HISTORY" in obj for key in obj):
             del obj["HISTORY"]
-            
+
         obj["history"] = True
         if "Label" in obj and obj["Label"] == "DAILYS":
-            merged_DAILYS.append(obj)
+            if not check_name(obj["Name"], merged_DAILYS):
+                merged_DAILYS.append(obj)
         else:
-            merged_WEEKLYS.append(obj)
+            if not check_name(obj["Name"], merged_WEEKLYS):
+                merged_WEEKLYS.append(obj)
 
     # Return a dict for each type
     return {"DAILYS": merged_DAILYS, "WEEKLYS":merged_WEEKLYS}
