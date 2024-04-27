@@ -37,7 +37,7 @@ class FundData(object):
     TrendAwesome = ""
     Label = ""
     LastUpdated = ""
-    history = false
+    history = False
 
     def __init__(self, name, ppmcode, url, current, yesterday, lastWeek, trendDay, trendWeek, trendAwesome, label, lastUpdated):
         self.Name = name
@@ -188,7 +188,7 @@ def get_funds_from_ListView(label :str, funds_list :list):
                                     trendAwesome = bAwesome,
                                     label = label,
                                     lastUpdated = str(dt_string) + " (UTC)",
-                                    history = false)
+                                    history = False)
             
             fundDataList_to_return.append(fundDataObj)
 
