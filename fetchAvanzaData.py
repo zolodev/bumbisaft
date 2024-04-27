@@ -99,7 +99,7 @@ def get_history_data(github_user:str = "zolodev",
         obj["history"] = True
 
         # Remove older than 7days of history
-        delta = datetime.now() - datetime.strptime(obj["LastUpdated"], "%Y-%m-%d %H:%M:%S")
+        delta = datetime.now() - datetime.strftime(obj["LastUpdated"], "%Y-%m-%d %H:%M:%S")
         if delta.days < 7:
             if "Label" in obj and obj["Label"] == "DAILYS":
                 if not check_name(obj["Name"], merged_DAILYS):
