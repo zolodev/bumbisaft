@@ -67,7 +67,7 @@ def get_history_data(github_user:str = "zolodev",
     timestamp_since = int(one_week_ago.timestamp())
     timestamp_until = int(datetime.now().timestamp())
 
-    url = f"https://api.github.com/repos/{owner}/{repo}/commits?path={file}&since={timestamp_since}&until={timestamp_until}"
+    url = f"https://api.github.com/repos/{github_user}/{repo}/commits?path={file}&since={timestamp_since}&until={timestamp_until}"
     response = requests.get(url)
     data = json.loads(response.text)
     
@@ -77,7 +77,7 @@ def get_history_data(github_user:str = "zolodev",
 
     merged_data = []
     for sha in list_sha:
-        template_url = f"https://raw.githubusercontent.com/zolodev/bumbisaft/{sha}/avanza_data.json"
+        template_url = f"https://raw.githubusercontent.com/{github_user}/{repo}/{file}/avanza_data.json"
         response_tmp = requests.get(template_url)
         data_single = json.loads(response_tmp.text)
         merged_data += data_single[0]["FundData"] # Get all DAILYS
