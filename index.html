@@ -16,6 +16,15 @@
 
     <div id="dataContainer" class="data-container"></div>
 
+    <!-- The accordion container -->
+    <div class="accordion">
+        <!-- Each accordion item -->
+        <div class="accordion-item">
+            <button class="accordion-button" type="button">Click me!</button>
+            <div id="historyContainer" class="accordion-content"></div>
+        </div>
+    </div>
+
     <script>
         var data = "";
 
@@ -41,11 +50,17 @@
                     containerDiv.className = 'data-item-container';
                     document.getElementById('dataContainer').appendChild(containerDiv);
 
+                    const historyContainerDiv = document.createElement('div');
+                    containerDiv.className = 'data-item-container';
+                    document.getElementById('historyContainer').appendChild(historyContainerDiv);
+
                     // Iterate over the FundData array
                     item.FundData.forEach(fund => {
+                        if (fund.history === true) { next; }
+
                         // Create a div for each fund
                         const div = document.createElement('div');
-                        div.className = (fund.history === true) ? 'data-item-avanza-history-item' : 'data-item';
+                        div.className = 'data-item';
 
                         const trendDay = fund['TrendDay'];
                         const trendDayGood = trendDay === '\u25b2';
@@ -98,10 +113,89 @@
                         // Append the div to the container
                         containerDiv.appendChild(div);
                     });
+
+                    // Adding History
+                    item.FundData.forEach(fund => {
+                        if (fund.history === false) { next; }
+
+                        // Create a div for each fund
+                        const div = document.createElement('div');
+                        div.className = 'data-item-avanza-history-item';
+
+                        const trendDay = fund['TrendDay'];
+                        const trendDayGood = trendDay === '\u25b2';
+                        const trendWeek = fund['TrendWeek'];
+                        const trendWeekGood = trendWeek === '\u25b2';
+
+                        // Build the content
+                        div.innerHTML += `
+                        <div class='data-item-name'>${fund['Name']}</div>
+                        <div class='data-item-ppmcode'>${fund['PPMCode']}</div>
+                        <div class='data-item-worth'>
+                            <div class='data-item-worth-label'>Worth</div>
+                            <div class='data-item-worth-container'>
+                                <div class="data-item-worth-current">
+                                    <div>Current</div>
+                                    <div><strong>${fund['Current'].toFixed(3)}</strong></div>
+                                </div>
+                                <div class="data-item-worth-yesterday">
+                                    <div>Yesterday</div>
+                                    <div><strong>${fund['Yesterday'].toFixed(3)}</strong></div>
+                                </div>
+                                <div class="data-item-worth-lastweek">
+                                    <div>Last week</div>
+                                    <div><strong>${fund['LastWeek'].toFixed(3)}</strong></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='data-item-trend'>
+                            <div class='data-item-trend-label'>Trend</div>
+                            <div class='data-item-trend-container'>
+                                <div class="data-item-trend-day">
+                                    <div>Day</div>
+                                    <div class="${trendDayGood ? 'data-item-trend-up' : 'data-item-trend-down'}">${trendDay}</div>
+                                </div>
+                                <div class="data-item-trend-week">
+                                    <div>Week</div>
+                                    <div class="${trendWeekGood ? 'data-item-trend-up' : 'data-item-trend-down'}">${trendWeek}</div>
+                                </div>
+                                <div class="data-item-trend-awe">
+                                    <div>${fund['TrendAwesome']}</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='data-item-updated'><em>${fund['LastUpdated']}</em></div>
+                        <div class='data-item-link'>
+                            <a href='${fund['URL']}' target='_blank'>${fund['URL']}</a>
+                        </div>
+                        `;
+
+                        // Append the div to the container
+                        historyContainerDiv.appendChild(div);
+                    });
                 });
             })
             .catch(error => console.error('Error:', error));
 
+        // Get all the accordion items
+        const accordions = document.querySelectorAll('.accordion-item');
+
+        // Add an event listener to each accordion item
+        accordions.forEach((accordion) => {
+            const button = accordion.querySelector('.accordion-button');
+            const content = accordion.querySelector('.accordion-content');
+
+            // Toggle the content when the button is clicked
+            button.addEventListener('click', () => {
+                if (accordion.classList.contains('open')) {
+                    accordion.classList.remove('open');
+                    content.style.display = 'none';
+                } else {
+                    accordion.classList.add('open');
+                    content.style.display = 'block';
+                }
+            });
+        });
     </script>
 </body>
 

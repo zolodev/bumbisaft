@@ -153,3 +153,41 @@ strong {
     font-weight: 600;
     margin: 16px 0;
 }
+
+
+/* Styles for the accordion */
+.accordion {
+    max-width: 300px;
+    /* Set the maximum width of the accordion */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.accordion-item {
+    position: relative;
+    /* Make the accordion item a relative container */
+}
+
+.accordion-button {
+    background-color: #f0f0f0;
+    /* Set the button's background color */
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.accordion-content {
+    display: none;
+    /* Hide the content initially */
+    padding: 20px;
+    border-top: 1px solid #ddd;
+}
+
+/* Styles for the accordion when it's open */
+.accordion-item.open .accordion-content {
+    display: block;
+    /* Show the content when the button is clicked */
+}
