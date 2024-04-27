@@ -91,6 +91,7 @@ def get_history_data(github_user:str = "zolodev",
     merged_WEEKLYS = []
 
     for obj in merged_data:
+        del obj["HISTORY"]
         obj["history"] = True
         if "Label" in obj and obj["Label"] == "DAILYS":
             merged_DAILYS.append(obj)
@@ -224,10 +225,10 @@ def run():
     dict_history = get_history_data()
     
     listDailyFunds = get_funds_from_ListView("DAILYS", fundListViewsDailyData)
-    listDailyFunds = dict_history["DAILYS"]
+    listDailyFunds += dict_history["DAILYS"]
     
     listWeeklyFunds = get_funds_from_ListView("WEEKLYS", fundListViewsWeeklyData)
-    listWeeklyFunds = dict_history["WEEKLYS"]
+    listWeeklyFunds += dict_history["WEEKLYS"]
 
     fundDataListDaily = FundDataList("DAILYS", listDailyFunds)
     fundDataListWeekly = FundDataList("WEEKLYS", listWeeklyFunds)
