@@ -164,17 +164,21 @@ strong {
 }
 
 .accordion-item {
-    position: relative;
-    /* Make the accordion item a relative container */
+    width: 100%;
+    text-align: center;
 }
 
 .accordion-button {
-    background-color: #f0f0f0;
-    /* Set the button's background color */
+    background-color: #9495fb;
     border: none;
     padding: 10px;
-    font-size: 16px;
+    font-size: 21px;
     cursor: pointer;
+    margin: 0 auto;
+    width: 50vw;
+    min-height: ;
+    font-weight: bold;
+    height: 10vh;
 }
 
 .accordion-content {
@@ -182,6 +186,7 @@ strong {
     /* Hide the content initially */
     padding: 20px;
     border-top: 1px solid #ddd;
+    text-align: left;
 }
 
 /* Styles for the accordion when it's open */
