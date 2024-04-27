@@ -87,7 +87,7 @@ def get_history_data(github_user:str = "zolodev",
         merged_data += data_single[1]["FundData"] # Get all WEEKLYS
 
 
-    # Sepearate each type into separate lists
+    # Separate each type into separate lists
     merged_DAILYS = []
     merged_WEEKLYS = []
 
