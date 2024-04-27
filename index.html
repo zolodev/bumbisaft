@@ -50,6 +50,14 @@
                     containerDiv.className = 'data-item-container';
                     document.getElementById('dataContainer').appendChild(containerDiv);
 
+
+                    // HISTORY Part
+                    // Create a div for the label
+                    const labelDiv = document.createElement('div');
+                    labelDiv.className = 'label';
+                    labelDiv.textContent = item.Label;
+                    document.getElementById('historyContainer').appendChild(labelDiv);
+
                     const historyContainerDiv = document.createElement('div');
                     historyContainerDiv.className = 'data-item-container';
                     document.getElementById('historyContainer').appendChild(historyContainerDiv);

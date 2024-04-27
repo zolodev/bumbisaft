@@ -157,12 +157,13 @@ strong {
 
 /* Styles for the accordion */
 .accordion {
-    max-width: 300px;
+    flex: 1;
     /* Set the maximum width of the accordion */
-    margin: 0 auto;
+    
     padding: 20px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: auto;
 }
 
 .accordion-item {
