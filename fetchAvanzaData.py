@@ -95,13 +95,18 @@ def get_history_data(github_user:str = "zolodev",
         if any("HISTORY" in obj for key in obj):
             del obj["HISTORY"]
 
+        # Mark as a history fund
         obj["history"] = True
-        if "Label" in obj and obj["Label"] == "DAILYS":
-            if not check_name(obj["Name"], merged_DAILYS):
-                merged_DAILYS.append(obj)
-        else:
-            if not check_name(obj["Name"], merged_WEEKLYS):
-                merged_WEEKLYS.append(obj)
+
+        # Remove older than 7days of history
+        delta = datetime.now() - datetime.strptime(obj["LastUpdated"], "%Y-%m-%d %H:%M:%S")
+        if delta.days < 7:
+            if "Label" in obj and obj["Label"] == "DAILYS":
+                if not check_name(obj["Name"], merged_DAILYS):
+                    merged_DAILYS.append(obj)
+            else:
+                if not check_name(obj["Name"], merged_WEEKLYS):
+                    merged_WEEKLYS.append(obj)
 
     # Return a dict for each type
     return {"DAILYS": merged_DAILYS, "WEEKLYS":merged_WEEKLYS}
