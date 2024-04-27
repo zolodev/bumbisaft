@@ -89,6 +89,7 @@ def get_history_data(github_user:str = "zolodev",
     merged_WEEKLYS = []
 
     for obj in merged_data:
+        obj["HISTORY"] = True
         if "Label" in obj and obj["Label"] == "DAILYS":
             merged_DAILYS.append(obj)
         else:
