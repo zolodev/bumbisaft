@@ -77,7 +77,7 @@ def get_history_data(github_user:str = "zolodev",
 
     merged_data = []
     for sha in list_sha:
-        template_url = f"https://raw.githubusercontent.com/{github_user}/{repo}/{file}/avanza_data.json"
+        template_url = f"https://raw.githubusercontent.com/{github_user}/{repo}/{sha}/{file}"
         response_tmp = requests.get(template_url)
         data_single = json.loads(response_tmp.text)
         merged_data += data_single[0]["FundData"] # Get all DAILYS
