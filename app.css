@@ -176,9 +176,9 @@ strong {
     cursor: pointer;
     margin: 0 auto;
     width: 50vw;
-    min-height: ;
     font-weight: bold;
     height: 10vh;
+    color: #000;
 }
 
 .accordion-content {
