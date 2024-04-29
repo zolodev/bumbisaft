@@ -26,7 +26,6 @@ jobs:
               run: |
                   python -m pip install --upgrade pip
                   pip install requests
-                  pip install blinker
                   pip install selenium-wire
                   pip install haralyzer
                   pip3 install packaging
@@ -35,8 +34,8 @@ jobs:
                   
             - name: Update Avanza data
               run: python fetchAvanzaData.py # Get data from Avanza
-            - name: Update Skandia data
-              run: python fetchSkandiaData.py # Get data from Skandia
+            #- name: Update Skandia data
+            #  run: python fetchSkandiaData.py # Get data from Skandia
 
             - name: Commit and push
               run: |
