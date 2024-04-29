@@ -31,8 +31,8 @@ jobs:
                   pip3 install packaging
                   pip install setuptools
                   pip install typing-extensions
-                  pip install blinker
-
+                  pip install --use-pep517 blinker
+                  
             - name: Update Avanza data
               run: python fetchAvanzaData.py # Get data from Avanza
             - name: Update Skandia data
