@@ -3,6 +3,76 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 11.589891434158133,
+                "Yesterday": 8.489323728894938,
+                "LastWeek": 10.720608712442008,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-30 06:09:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Evli Nordic B",
+                "PPMCode": "668269",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86207",
+                "Current": 2.045585105948353,
+                "Yesterday": -0.742047023315043,
+                "LastWeek": -0.12326023195891345,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-30 06:09:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Humle Sm\u00e5bolagsfond A",
+                "PPMCode": "712299",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/209089",
+                "Current": 7.424359590247072,
+                "Yesterday": 4.641406239520805,
+                "LastWeek": 4.627790964982697,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-30 06:09:59 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
+                "PPMCode": "694539",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
+                "Current": 7.04080248548304,
+                "Yesterday": 4.308902654067009,
+                "LastWeek": 2.0795251228854297,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-30 06:10:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sweden Micro Cap A",
+                "PPMCode": "416867",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
+                "Current": 8.614344327246473,
+                "Yesterday": 5.871442239400821,
+                "LastWeek": 4.702788685602252,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-04-30 06:10:02 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-China Equities R USD",
                 "PPMCode": "882126",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
@@ -14,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-04-30 04:09:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -28,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-04-30 04:09:52 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Nordic B",
@@ -42,7 +112,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-04-30 04:09:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Humle Sm\u00e5bolagsfond A",
@@ -56,7 +126,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-04-30 04:09:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Sm\u00e5bolagsfond A",
@@ -70,7 +140,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-04-30 04:09:58 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Sweden Micro Cap A",
@@ -84,90 +154,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-04-30 04:09:59 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 16.409739000763793,
-                "Yesterday": 12.460026834200702,
-                "LastWeek": 9.208492603414632,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-30 02:17:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 11.589891434158133,
-                "Yesterday": 8.489323728894938,
-                "LastWeek": 10.720608712442008,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-30 02:18:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Nordic B",
-                "PPMCode": "668269",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86207",
-                "Current": 2.045585105948353,
-                "Yesterday": -0.742047023315043,
-                "LastWeek": -0.12326023195891345,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-30 02:18:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Humle Sm\u00e5bolagsfond A",
-                "PPMCode": "712299",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/209089",
-                "Current": 7.424359590247072,
-                "Yesterday": 4.641406239520805,
-                "LastWeek": 4.627790964982697,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-30 02:18:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
-                "PPMCode": "694539",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
-                "Current": 7.04080248548304,
-                "Yesterday": 4.308902654067009,
-                "LastWeek": 2.0795251228854297,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-30 02:18:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Sweden Micro Cap A",
-                "PPMCode": "416867",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
-                "Current": 8.614344327246473,
-                "Yesterday": 5.871442239400821,
-                "LastWeek": 4.702788685602252,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-30 02:18:11 (UTC)",
                 "history": true
             },
             {
@@ -648,7 +634,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 04:10:04 (UTC)",
+                "LastUpdated": "2024-04-30 06:10:07 (UTC)",
                 "history": false
             },
             {
@@ -662,21 +648,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 04:10:07 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 16.409739000763793,
-                "Yesterday": 12.460026834200702,
-                "LastWeek": 9.208492603414632,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 04:10:08 (UTC)",
+                "LastUpdated": "2024-04-30 06:10:10 (UTC)",
                 "history": false
             },
             {
@@ -690,7 +662,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 04:10:09 (UTC)",
+                "LastUpdated": "2024-04-30 06:10:10 (UTC)",
                 "history": false
             },
             {
@@ -704,7 +676,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 04:10:10 (UTC)",
+                "LastUpdated": "2024-04-30 06:10:11 (UTC)",
                 "history": false
             },
             {
@@ -718,7 +690,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 02:18:17 (UTC)",
+                "LastUpdated": "2024-04-30 04:10:04 (UTC)",
                 "history": true
             },
             {
@@ -732,7 +704,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 02:18:20 (UTC)",
+                "LastUpdated": "2024-04-30 04:10:07 (UTC)",
                 "history": true
             },
             {
@@ -746,7 +718,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 02:18:22 (UTC)",
+                "LastUpdated": "2024-04-30 04:10:08 (UTC)",
                 "history": true
             },
             {
@@ -760,7 +732,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 02:18:23 (UTC)",
+                "LastUpdated": "2024-04-30 04:10:09 (UTC)",
                 "history": true
             },
             {
@@ -774,7 +746,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 02:18:25 (UTC)",
+                "LastUpdated": "2024-04-30 04:10:10 (UTC)",
                 "history": true
             },
             {
