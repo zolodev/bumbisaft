@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-30 22:07:27 (UTC)",
+                "LastUpdated": "2024-05-01 00:34:47 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-04-30 20:07:17 (UTC)",
+                "LastUpdated": "2024-04-30 22:07:27 (UTC)",
                 "history": true
             },
             {
@@ -634,7 +634,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 22:07:41 (UTC)",
+                "LastUpdated": "2024-05-01 00:35:04 (UTC)",
                 "history": false
             },
             {
@@ -648,7 +648,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 22:07:42 (UTC)",
+                "LastUpdated": "2024-05-01 00:35:05 (UTC)",
                 "history": false
             },
             {
@@ -662,22 +662,8 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 22:07:49 (UTC)",
+                "LastUpdated": "2024-05-01 00:35:13 (UTC)",
                 "history": false
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 17.164983292993906,
-                "Yesterday": 16.784658974228993,
-                "LastWeek": 8.473772818678164,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 20:07:27 (UTC)",
-                "history": true
             },
             {
                 "Name": "Nordea Kinafond",
@@ -690,7 +676,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 20:07:30 (UTC)",
+                "LastUpdated": "2024-04-30 22:07:41 (UTC)",
                 "history": true
             },
             {
@@ -704,7 +690,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 20:07:31 (UTC)",
+                "LastUpdated": "2024-04-30 22:07:42 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 21.09312804661673,
+                "Yesterday": 21.11072339765791,
+                "LastWeek": 10.254349972602126,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-04-30 22:07:49 (UTC)",
                 "history": true
             },
             {
