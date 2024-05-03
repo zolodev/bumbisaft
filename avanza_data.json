@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-03 12:11:46 (UTC)",
+                "LastUpdated": "2024-05-03 14:07:56 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-03 12:11:51 (UTC)",
+                "LastUpdated": "2024-05-03 14:08:01 (UTC)",
                 "history": false
             },
             {
@@ -41,21 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-03 12:11:53 (UTC)",
+                "LastUpdated": "2024-05-03 14:08:03 (UTC)",
                 "history": false
             },
             {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 24.79220894679688,
-                "Yesterday": 22.633212023140462,
-                "LastWeek": 13.450392532986246,
+                "Name": "AGCM Asia Growth RC SEK",
+                "PPMCode": "938845",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
+                "Current": 20.050700144857554,
+                "Yesterday": 17.92008691453404,
+                "LastWeek": 10.671173346209564,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-03 12:11:57 (UTC)",
+                "LastUpdated": "2024-05-03 14:08:05 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-03 10:07:44 (UTC)",
+                "LastUpdated": "2024-05-03 12:11:46 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-03 10:07:47 (UTC)",
+                "LastUpdated": "2024-05-03 12:11:51 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-03 10:07:49 (UTC)",
+                "LastUpdated": "2024-05-03 12:11:53 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-03 10:07:52 (UTC)",
+                "LastUpdated": "2024-05-03 12:11:57 (UTC)",
                 "history": true
             },
             {
@@ -519,26 +519,68 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-04-26 16:09:30 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 13.68594858615377,
-                "Yesterday": 11.331841074426412,
-                "LastWeek": 13.207873047455223,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-04-26 12:12:41 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": 4.722554627765398,
+                "Yesterday": 4.650658722425549,
+                "LastWeek": 0.041601589919566,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-03 14:08:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 1.611115729903987,
+                "Yesterday": -0.313138842006713,
+                "LastWeek": -3.675558603863508,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-03 14:08:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 6.44566284398597,
+                "Yesterday": 5.967897470941201,
+                "LastWeek": 4.360687825269464,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-03 14:08:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 24.79220894679688,
+                "Yesterday": 22.633212023140462,
+                "LastWeek": 13.450392532986246,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-03 14:08:17 (UTC)",
+                "history": false
+            },
             {
                 "Name": "AGCM Asia Growth RC SEK",
                 "PPMCode": "938845",
@@ -551,7 +593,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-03 12:12:02 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Biotechnology Discv A(acc)USD",
@@ -565,7 +607,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-03 12:12:05 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Biotech R USD",
@@ -579,7 +621,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-03 12:12:07 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -593,7 +635,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-03 12:12:09 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -607,76 +649,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-03 12:12:10 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "AGCM Asia Growth RC SEK",
-                "PPMCode": "938845",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
-                "Current": 18.470680977502884,
-                "Yesterday": 18.13716572676005,
-                "LastWeek": 9.023103511006001,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-03 10:07:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Biotechnology Discv A(acc)USD",
-                "PPMCode": "389239",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
-                "Current": 4.722554627765398,
-                "Yesterday": 4.650658722425549,
-                "LastWeek": 0.041601589919566,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-03 10:08:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 1.611115729903987,
-                "Yesterday": -0.313138842006713,
-                "LastWeek": -3.675558603863508,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-03 10:08:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 6.44566284398597,
-                "Yesterday": 5.967897470941201,
-                "LastWeek": 4.360687825269464,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-03 10:08:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 24.79220894679688,
-                "Yesterday": 22.633212023140462,
-                "LastWeek": 13.450392532986246,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-03 08:09:41 (UTC)",
                 "history": true
             },
             {
