@@ -76,7 +76,8 @@ def get_history_data(github_user:str = "zolodev",
     
     list_sha = []
     for single_sha in data:
-        list_sha.append(single_sha["sha"])
+        if type(single_sha) is dict:
+            list_sha.append(single_sha["sha"])
 
     merged_data = []
     for sha in list_sha:
