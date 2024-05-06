@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 17.54681358072376,
+                "Yesterday": 13.10809304434753,
+                "LastWeek": 7.620536218829415,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-06 20:07:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Fondita Nordic Small Cap B",
+                "PPMCode": "237834",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
+                "Current": 10.950566770662103,
+                "Yesterday": 8.840261096268346,
+                "LastWeek": 6.003218113168895,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-06 20:07:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 16.643145085431573,
+                "Yesterday": 15.994821229229242,
+                "LastWeek": 12.105064856468404,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-06 20:07:18 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Technology A2",
                 "PPMCode": "446088",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-06 18:10:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-06 18:10:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Clean Energy Transition R USD",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-06 18:10:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
@@ -56,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-06 16:09:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 6.725283134911929,
-                "Yesterday": 4.055091321701003,
-                "LastWeek": 2.9703094758057014,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-06 16:09:26 (UTC)",
                 "history": true
             },
             {
@@ -98,34 +126,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-06 16:09:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 8.319807401079476,
-                "Yesterday": 5.823010911350135,
-                "LastWeek": 5.3927697743952026,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-06 16:09:34 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": 8.014497765104284,
-                "Yesterday": 5.720665601841012,
-                "LastWeek": 2.0977061349198896,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-06 16:09:37 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-06 18:10:46 (UTC)",
+                "LastUpdated": "2024-05-06 20:07:23 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-06 18:10:47 (UTC)",
+                "LastUpdated": "2024-05-06 20:07:24 (UTC)",
                 "history": false
             },
             {
@@ -452,8 +452,78 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-06 18:10:49 (UTC)",
+                "LastUpdated": "2024-05-06 20:07:27 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 17.54681358072376,
+                "Yesterday": 13.10809304434753,
+                "LastWeek": 7.620536218829415,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-06 20:07:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 19.83783971839223,
+                "Yesterday": 19.258820218259295,
+                "LastWeek": 11.514543451642014,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-06 20:07:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": 4.916711494637715,
+                "Yesterday": 4.722554627765398,
+                "LastWeek": -0.04235769232776433,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-06 18:10:46 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Proethos Fond",
+                "PPMCode": "897520",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
+                "Current": -0.07281281505544722,
+                "Yesterday": -1.433852358015012,
+                "LastWeek": -4.620813263134312,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-06 18:10:47 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 0.5740015721276422,
+                "Yesterday": 2.0539176816712246,
+                "LastWeek": -2.972064532613163,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-06 18:10:49 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -467,20 +537,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-06 18:10:51 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 4.14324633920759,
-                "Yesterday": 1.611115729903987,
-                "LastWeek": -1.411944309613535,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-06 16:09:45 (UTC)",
                 "history": true
             },
             {
@@ -537,20 +593,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-06 08:10:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Biotechnology Discv A(acc)USD",
-                "PPMCode": "389239",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
-                "Current": 4.722554627765398,
-                "Yesterday": 4.650658722425549,
-                "LastWeek": 0.041601589919566,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-03 22:06:58 (UTC)",
                 "history": true
             },
             {
@@ -621,20 +663,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-04-30 14:08:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 16.409739000763793,
-                "Yesterday": 12.460026834200702,
-                "LastWeek": 9.208492603414632,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-04-30 04:10:08 (UTC)",
                 "history": true
             }
         ]
