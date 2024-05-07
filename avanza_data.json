@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-07 02:25:36 (UTC)",
+                "LastUpdated": "2024-05-07 04:08:53 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-07 02:25:45 (UTC)",
+                "LastUpdated": "2024-05-07 04:09:03 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-07 00:32:03 (UTC)",
+                "LastUpdated": "2024-05-07 02:25:36 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-07 00:32:13 (UTC)",
+                "LastUpdated": "2024-05-07 02:25:45 (UTC)",
                 "history": true
             },
             {
@@ -424,8 +424,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-07 02:25:51 (UTC)",
+                "LastUpdated": "2024-05-07 04:09:08 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 0.5740015721276422,
+                "Yesterday": 2.0539176816712246,
+                "LastWeek": -2.972064532613163,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-07 04:09:11 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 17.54681358072376,
+                "Yesterday": 13.10809304434753,
+                "LastWeek": 7.620536218829415,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-07 04:09:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Proethos Fond",
+                "PPMCode": "897520",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
+                "Current": -0.07281281505544722,
+                "Yesterday": -1.433852358015012,
+                "LastWeek": -4.620813263134312,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-07 02:25:51 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Biotech R USD",
@@ -439,7 +481,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-07 02:25:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -453,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-07 02:25:55 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Biotechnology Discv A(acc)USD",
@@ -467,48 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-07 00:32:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Proethos Fond",
-                "PPMCode": "897520",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
-                "Current": -0.07281281505544722,
-                "Yesterday": -1.433852358015012,
-                "LastWeek": -4.620813263134312,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-07 00:32:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 0.5740015721276422,
-                "Yesterday": 2.0539176816712246,
-                "LastWeek": -2.972064532613163,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-07 00:32:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 17.54681358072376,
-                "Yesterday": 13.10809304434753,
-                "LastWeek": 7.620536218829415,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-07 00:32:25 (UTC)",
                 "history": true
             },
             {
