@@ -3,34 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "AGCM Asia Growth RC SEK",
-                "PPMCode": "938845",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
-                "Current": 22.30778414517668,
-                "Yesterday": 19.31709646609359,
-                "LastWeek": 16.296561604584518,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-14 10:08:56 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Evli Nordic B",
-                "PPMCode": "668269",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86207",
-                "Current": 10.336102335947968,
-                "Yesterday": 7.533280677781337,
-                "LastWeek": 1.8502074002134314,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-14 10:08:57 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Lannebo Sverige H\u00e5llbar A SEK",
                 "PPMCode": "146928",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
@@ -41,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-14 10:09:01 (UTC)",
+                "LastUpdated": "2024-05-14 12:13:01 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +27,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-14 10:09:03 (UTC)",
+                "LastUpdated": "2024-05-14 12:13:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Proethos Fond",
+                "PPMCode": "897520",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
+                "Current": 5.019283121597093,
+                "Yesterday": 3.340517241379319,
+                "LastWeek": -0.8563974591651492,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-14 12:13:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Evli Finland Select B",
+                "PPMCode": "570044",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
+                "Current": 10.930219155256335,
+                "Yesterday": 9.357953147189667,
+                "LastWeek": 7.063373951629802,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-14 12:13:09 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-14 08:11:08 (UTC)",
+                "LastUpdated": "2024-05-14 10:08:56 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-14 08:11:11 (UTC)",
+                "LastUpdated": "2024-05-14 10:08:57 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sverige H\u00e5llbar A SEK",
+                "PPMCode": "146928",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
+                "Current": 12.672015651895796,
+                "Yesterday": 10.462502233969484,
+                "LastWeek": 5.906145062221926,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-14 10:09:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Aktiespararna Direktavkastning A",
+                "PPMCode": "528894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/693833",
+                "Current": 12.50717346592552,
+                "Yesterday": 10.612488323482486,
+                "LastWeek": 10.650502456781188,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-14 10:09:03 (UTC)",
                 "history": true
             },
             {
@@ -98,20 +126,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-14 08:11:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sverige H\u00e5llbar A SEK",
-                "PPMCode": "146928",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
-                "Current": 12.672015651895796,
-                "Yesterday": 10.462502233969484,
-                "LastWeek": 5.906145062221926,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-14 08:11:16 (UTC)",
                 "history": true
             },
             {
@@ -340,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-14 10:09:08 (UTC)",
+                "LastUpdated": "2024-05-14 12:13:11 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-14 10:09:12 (UTC)",
+                "LastUpdated": "2024-05-14 12:13:15 (UTC)",
                 "history": false
             },
             {
@@ -368,21 +382,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-14 10:09:13 (UTC)",
+                "LastUpdated": "2024-05-14 12:13:16 (UTC)",
                 "history": false
             },
             {
                 "Name": "Evli Nordic B",
                 "PPMCode": "668269",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/86207",
-                "Current": 10.336102335947968,
-                "Yesterday": 7.533280677781337,
-                "LastWeek": 1.8502074002134314,
+                "Current": 12.016082665649265,
+                "Yesterday": 11.407335489069089,
+                "LastWeek": 5.727258861675549,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-14 10:09:16 (UTC)",
+                "LastUpdated": "2024-05-14 12:13:20 (UTC)",
                 "history": false
             },
             {
@@ -396,35 +410,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-14 08:11:26 (UTC)",
+                "LastUpdated": "2024-05-14 10:09:08 (UTC)",
                 "history": true
             },
             {
                 "Name": "Fondita Nordic Small Cap B",
                 "PPMCode": "237834",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
-                "Current": 15.318375151798616,
-                "Yesterday": 13.014645389418982,
-                "LastWeek": 8.078900638689403,
+                "Current": 14.712229398805896,
+                "Yesterday": 14.689038687607422,
+                "LastWeek": 7.769643593907151,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-14 08:11:29 (UTC)",
+                "LastUpdated": "2024-05-14 10:09:12 (UTC)",
                 "history": true
             },
             {
                 "Name": "Fondita Sustainable Europe B",
                 "PPMCode": "566556",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/302705",
-                "Current": 11.133840248632293,
-                "Yesterday": 9.636463873103441,
-                "LastWeek": 5.553089859514311,
+                "Current": 11.993918348180113,
+                "Yesterday": 10.789408905769667,
+                "LastWeek": 5.365665663161897,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-14 08:11:35 (UTC)",
+                "LastUpdated": "2024-05-14 10:09:13 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Evli Nordic B",
+                "PPMCode": "668269",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86207",
+                "Current": 10.336102335947968,
+                "Yesterday": 7.533280677781337,
+                "LastWeek": 1.8502074002134314,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-14 10:09:16 (UTC)",
                 "history": true
             },
             {
@@ -439,20 +467,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-14 08:11:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Nordic B",
-                "PPMCode": "668269",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86207",
-                "Current": 10.336102335947968,
-                "Yesterday": 7.533280677781337,
-                "LastWeek": 1.8502074002134314,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-14 08:11:39 (UTC)",
                 "history": true
             },
             {
