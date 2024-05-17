@@ -3,17 +3,59 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Pictet-Asian Equities Ex Japan R USD",
-                "PPMCode": "917955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/187",
-                "Current": 13.54940862647656,
-                "Yesterday": 12.360931701764054,
-                "LastWeek": 9.998701479377804,
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 37.32587374757092,
+                "Yesterday": 34.193833410717936,
+                "LastWeek": 30.206424690891847,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-17 20:08:38 (UTC)",
+                "LastUpdated": "2024-05-17 22:07:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 21.418722528907132,
+                "Yesterday": 19.25850240930808,
+                "LastWeek": 17.13374172442692,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-17 22:07:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 11.343833780160862,
+                "Yesterday": 9.41689008042895,
+                "LastWeek": 8.61260053619302,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-17 22:07:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Marknad Pacific A",
+                "PPMCode": "642298",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/167",
+                "Current": 8.644250396915385,
+                "Yesterday": 6.863801315491035,
+                "LastWeek": 6.240077114992058,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-17 22:07:53 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-17 18:09:26 (UTC)",
+                "LastUpdated": "2024-05-17 20:08:38 (UTC)",
                 "history": true
             },
             {
@@ -386,6 +428,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Fondita Nordic Small Cap B",
+                "PPMCode": "237834",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
+                "Current": 16.21783053151811,
+                "Yesterday": 15.079866679511866,
+                "LastWeek": 9.088043833885875,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-17 22:08:06 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Lannebo Sverige H\u00e5llbar A SEK",
                 "PPMCode": "146928",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
@@ -397,34 +453,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-17 20:08:56 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 17.159148943620263,
-                "Yesterday": 15.561299989958592,
-                "LastWeek": 13.863590545659928,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-17 20:08:57 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Lannebo Sverige H\u00e5llbar A SEK",
-                "PPMCode": "146928",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
-                "Current": 10.296775965036725,
-                "Yesterday": 10.415303297256466,
-                "LastWeek": 3.588312015193458,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-17 18:09:50 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-17 18:09:51 (UTC)",
+                "LastUpdated": "2024-05-17 20:08:57 (UTC)",
                 "history": true
             },
             {
