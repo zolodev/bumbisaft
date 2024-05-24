@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 19.466414312505567,
+                "Yesterday": 18.032716501137806,
+                "LastWeek": 17.382467104154813,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-24 14:07:19 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Proethos Fond",
                 "PPMCode": "897520",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
@@ -298,8 +312,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-24 12:12:37 (UTC)",
+                "LastUpdated": "2024-05-24 14:07:27 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 11.751216634714636,
+                "Yesterday": 11.753428697832167,
+                "LastWeek": 8.104999262645615,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-24 14:07:35 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 12.809203075639255,
+                "Yesterday": 12.397925731656423,
+                "LastWeek": 9.310365381176595,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-24 14:07:37 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Fondita Nordic Micro Cap B",
+                "PPMCode": "785493",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
+                "Current": 13.33284371789535,
+                "Yesterday": 12.502083986004031,
+                "LastWeek": 9.489060586846751,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-24 12:12:37 (UTC)",
+                "history": true
             },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
@@ -313,7 +369,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-24 12:12:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
@@ -327,48 +383,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-24 12:12:44 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Fondita Nordic Micro Cap B",
-                "PPMCode": "785493",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
-                "Current": 12.763302820573621,
-                "Yesterday": 12.170958504355148,
-                "LastWeek": 8.748332069748797,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-24 10:07:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 11.751216634714636,
-                "Yesterday": 11.753428697832167,
-                "LastWeek": 8.104999262645615,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-24 10:07:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": 12.809203075639255,
-                "Yesterday": 12.397925731656423,
-                "LastWeek": 9.310365381176595,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-24 10:07:57 (UTC)",
                 "history": true
             },
             {
