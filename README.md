@@ -64,3 +64,36 @@ pip list
 
 For more information
 https://www.freecodecamp.org/news/python-requirementstxt-explained/
+
+## Flowdiagram
+
+```mermaid
+flowchart TD
+    subgraph Fetch Data
+    subgraph Fetch from External API
+        Fetch[Fetch data]:::pink -->|Get request| API(Fund data API)
+        API:::red --> |json response| Daily(Daily):::green
+        API --> |json response| Weekly(Weekly):::green
+    end
+
+        subgraph History ["`**Save history**`"]
+            Fetch --> Github(Github History data):::blue
+            Daily --> |Merge new with history| Github
+            Weekly --> |Merge new with history| Github
+            Github --> HistoryJSON(History json-file):::blue
+            HistoryJSON{{Store Max 7 days old data}}
+        end
+
+        subgraph Current
+            Aggregate[Aggregate data]
+            Daily --> |Save as current| Aggregate:::green
+            Weekly --> |Save as current| Aggregate:::green
+            Aggregate --> Current_JSON(Aggregated fund json-file):::green
+        end
+    end
+
+classDef red stroke:#f00
+classDef green stroke:#0f0
+classDef blue stroke:#00f
+classDef pink stroke:#f9f,stroke-width:4px
+```
