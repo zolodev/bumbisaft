@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 13.614404259782416,
+                "Yesterday": 11.975302634316707,
+                "LastWeek": 16.722556764309456,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-27 18:09:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Sustainable Energy A2",
+                "PPMCode": "553578",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
+                "Current": 11.358072903657053,
+                "Yesterday": 9.89115670847716,
+                "LastWeek": 10.267375317044253,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-27 18:09:49 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Realr\u00e4ntefond D SEK - Lux utd",
                 "PPMCode": "496497",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2103",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-27 16:08:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -28,20 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-27 16:08:20 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Realr\u00e4ntefond D SEK - Lux utd",
-                "PPMCode": "496497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2103",
-                "Current": -1.9065917824416265,
-                "Yesterday": -1.795743422997342,
-                "LastWeek": 1.3375702039609751,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-27 14:07:02 (UTC)",
                 "history": true
             },
             {
@@ -309,20 +323,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-22 12:13:15 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 21.418722528907132,
-                "Yesterday": 19.25850240930808,
-                "LastWeek": 17.13374172442692,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-20 18:09:28 (UTC)",
-                "history": true
             }
         ]
     },
@@ -340,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-27 16:08:32 (UTC)",
+                "LastUpdated": "2024-05-27 18:09:56 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-27 16:08:34 (UTC)",
+                "LastUpdated": "2024-05-27 18:09:59 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-27 16:08:42 (UTC)",
+                "LastUpdated": "2024-05-27 18:10:05 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-27 14:07:14 (UTC)",
+                "LastUpdated": "2024-05-27 16:08:32 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-27 14:07:16 (UTC)",
+                "LastUpdated": "2024-05-27 16:08:34 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-27 14:07:21 (UTC)",
+                "LastUpdated": "2024-05-27 16:08:42 (UTC)",
                 "history": true
             },
             {
