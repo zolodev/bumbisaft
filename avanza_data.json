@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 13.14784937623594,
+                "Yesterday": 11.975302634316707,
+                "LastWeek": 16.722556764309456,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-28 04:11:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Sustainable Energy A2",
+                "PPMCode": "553578",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
+                "Current": 11.358072903657053,
+                "Yesterday": 9.89115670847716,
+                "LastWeek": 10.267375317044253,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-28 04:11:31 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF Sustainable Energy A2",
                 "PPMCode": "553578",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-28 02:24:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -28,20 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-28 00:33:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Sustainable Energy A2",
-                "PPMCode": "553578",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
-                "Current": 11.358072903657053,
-                "Yesterday": 9.89115670847716,
-                "LastWeek": 10.267375317044253,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-28 00:33:26 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-28 02:24:24 (UTC)",
+                "LastUpdated": "2024-05-28 04:11:35 (UTC)",
                 "history": false
             },
             {
@@ -340,21 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-28 02:24:26 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 18.958427729706575,
-                "Yesterday": 17.590186514890604,
-                "LastWeek": 16.12953132005967,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-28 02:24:28 (UTC)",
+                "LastUpdated": "2024-05-28 04:11:37 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-28 02:24:30 (UTC)",
+                "LastUpdated": "2024-05-28 04:11:41 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-28 00:33:30 (UTC)",
+                "LastUpdated": "2024-05-28 02:24:24 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-28 00:33:32 (UTC)",
+                "LastUpdated": "2024-05-28 02:24:26 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 18.958427729706575,
+                "Yesterday": 17.590186514890604,
+                "LastWeek": 16.12953132005967,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-28 02:24:28 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-28 00:33:35 (UTC)",
+                "LastUpdated": "2024-05-28 02:24:30 (UTC)",
                 "history": true
             },
             {
