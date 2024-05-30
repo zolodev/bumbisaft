@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 18:10:58 (UTC)",
+                "LastUpdated": "2024-05-30 20:08:35 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 18:11:02 (UTC)",
+                "LastUpdated": "2024-05-30 20:08:39 (UTC)",
                 "history": false
             },
             {
@@ -41,8 +41,50 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 18:11:06 (UTC)",
+                "LastUpdated": "2024-05-30 20:08:42 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 13.989910533637156,
+                "Yesterday": 11.984217315746927,
+                "LastWeek": 14.878759577941539,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-30 18:10:58 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 13.387829862288864,
+                "Yesterday": 11.868258598466864,
+                "LastWeek": 8.740926667118915,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-30 18:11:02 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Fastighet A",
+                "PPMCode": "968420",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
+                "Current": 1.2498117753350375,
+                "Yesterday": 0.15057973196808994,
+                "LastWeek": 5.97801535913266,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-30 18:11:06 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -70,34 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-30 16:08:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 13.968286726515997,
-                "Yesterday": 12.238159116706216,
-                "LastWeek": 11.601829876517717,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 00:33:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 17.486472221545203,
-                "Yesterday": 16.095743044790343,
-                "LastWeek": 18.096303417388505,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-29 20:08:04 (UTC)",
                 "history": true
             },
             {
@@ -298,7 +312,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 18:11:12 (UTC)",
+                "LastUpdated": "2024-05-30 20:08:46 (UTC)",
                 "history": false
             },
             {
@@ -312,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 18:11:14 (UTC)",
+                "LastUpdated": "2024-05-30 20:08:47 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 18:11:16 (UTC)",
+                "LastUpdated": "2024-05-30 20:08:48 (UTC)",
                 "history": false
             },
             {
@@ -340,8 +354,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 18:11:17 (UTC)",
+                "LastUpdated": "2024-05-30 20:08:49 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "SEB Realr\u00e4ntefond D SEK - Lux utd",
+                "PPMCode": "496497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2103",
+                "Current": -1.9237883832778377,
+                "Yesterday": -1.7240103588605293,
+                "LastWeek": 1.5020347761746162,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 18:11:12 (UTC)",
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -354,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 16:08:47 (UTC)",
+                "LastUpdated": "2024-05-30 18:11:14 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 16:08:49 (UTC)",
+                "LastUpdated": "2024-05-30 18:11:16 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 13.387829862288864,
+                "Yesterday": 11.868258598466864,
+                "LastWeek": 8.740926667118915,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 18:11:17 (UTC)",
                 "history": true
             },
             {
@@ -383,20 +425,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 12:13:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 13.968286726515997,
-                "Yesterday": 12.238159116706216,
-                "LastWeek": 11.601829876517717,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 00:33:50 (UTC)",
                 "history": true
             },
             {
