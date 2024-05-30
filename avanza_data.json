@@ -13,7 +13,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 14:07:53 (UTC)",
+                "LastUpdated": "2024-05-30 16:08:39 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 7.582864522106619,
+                "Yesterday": 6.481041758514321,
+                "LastWeek": 7.586320623608554,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-30 16:08:43 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 12:13:12 (UTC)",
+                "LastUpdated": "2024-05-30 14:07:53 (UTC)",
                 "history": true
             },
             {
@@ -260,6 +274,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 19.91832574917226,
+                "Yesterday": 19.985546363839873,
+                "LastWeek": 16.418862041496915,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 16:08:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": 16.930173428690498,
+                "Yesterday": 16.688517974801513,
+                "LastWeek": 14.586952037140557,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 16:08:49 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Holberg Norge A",
                 "PPMCode": "318469",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
@@ -271,7 +313,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 14:08:00 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -285,7 +327,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 14:08:02 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Proethos Fond",
@@ -299,34 +341,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 12:13:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Norge A",
-                "PPMCode": "318469",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
-                "Current": 16.930173428690498,
-                "Yesterday": 16.688517974801513,
-                "LastWeek": 14.586952037140557,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 12:13:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 20.357287586490223,
-                "Yesterday": 20.42334150320878,
-                "LastWeek": 15.769550426451884,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 12:13:21 (UTC)",
                 "history": true
             },
             {
