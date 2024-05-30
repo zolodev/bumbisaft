@@ -3,17 +3,17 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 13.968286726515997,
-                "Yesterday": 12.238159116706216,
-                "LastWeek": 11.601829876517717,
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 8.405578593220538,
+                "Yesterday": 7.246152804411817,
+                "LastWeek": 6.466448386724122,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 00:33:43 (UTC)",
+                "LastUpdated": "2024-05-30 02:24:43 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-29 22:07:13 (UTC)",
+                "LastUpdated": "2024-05-30 00:33:43 (UTC)",
                 "history": true
             },
             {
@@ -260,6 +260,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Proethos Fond",
+                "PPMCode": "897520",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
+                "Current": 14.293358701468573,
+                "Yesterday": 13.57393424103693,
+                "LastWeek": 9.792496581247399,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 02:24:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 20.357287586490223,
+                "Yesterday": 20.42334150320878,
+                "LastWeek": 15.769550426451884,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 02:24:52 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": 17.60624368768906,
+                "Yesterday": 17.904008693962925,
+                "LastWeek": 14.71237196361281,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 02:24:55 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
@@ -271,7 +313,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 00:33:50 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Proethos Fond",
@@ -285,7 +327,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 00:33:51 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -299,48 +341,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 00:33:57 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 13.968286726515997,
-                "Yesterday": 12.238159116706216,
-                "LastWeek": 11.601829876517717,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-29 22:07:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Proethos Fond",
-                "PPMCode": "897520",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
-                "Current": 14.293358701468573,
-                "Yesterday": 13.57393424103693,
-                "LastWeek": 9.792496581247399,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-29 22:07:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 20.357287586490223,
-                "Yesterday": 20.42334150320878,
-                "LastWeek": 15.769550426451884,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-29 22:07:33 (UTC)",
                 "history": true
             },
             {
