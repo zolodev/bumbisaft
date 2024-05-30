@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 12:13:12 (UTC)",
+                "LastUpdated": "2024-05-30 14:07:53 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-30 10:08:34 (UTC)",
+                "LastUpdated": "2024-05-30 12:13:12 (UTC)",
                 "history": true
             },
             {
@@ -260,6 +260,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": 16.930173428690498,
+                "Yesterday": 16.688517974801513,
+                "LastWeek": 14.586952037140557,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 14:08:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 20.357287586490223,
+                "Yesterday": 20.42334150320878,
+                "LastWeek": 15.769550426451884,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-05-30 14:08:02 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Proethos Fond",
                 "PPMCode": "897520",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
@@ -271,7 +299,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 12:13:16 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Holberg Norge A",
@@ -285,7 +313,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 12:13:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -299,48 +327,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-05-30 12:13:21 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Proethos Fond",
-                "PPMCode": "897520",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
-                "Current": 14.293358701468573,
-                "Yesterday": 13.57393424103693,
-                "LastWeek": 9.792496581247399,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 10:08:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 20.357287586490223,
-                "Yesterday": 20.42334150320878,
-                "LastWeek": 15.769550426451884,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 10:08:42 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Norge A",
-                "PPMCode": "318469",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
-                "Current": 17.60624368768906,
-                "Yesterday": 17.904008693962925,
-                "LastWeek": 14.71237196361281,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-30 10:08:44 (UTC)",
                 "history": true
             },
             {
