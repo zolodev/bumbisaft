@@ -6,6 +6,34 @@
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
                 "PPMCode": "313742",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 14.6412192269547,
+                "Yesterday": 12.26172176343545,
+                "LastWeek": 16.107789839824967,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-31 10:08:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 13.989910533637156,
+                "Yesterday": 11.984217315746927,
+                "LastWeek": 14.878759577941539,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-31 10:08:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
                 "Current": 12.26172176343545,
                 "Yesterday": 15.046339567170739,
                 "LastWeek": 16.733520660265413,
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-31 08:10:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -28,48 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-05-31 08:10:23 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 13.387829862288864,
-                "Yesterday": 11.868258598466864,
-                "LastWeek": 8.740926667118915,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-31 08:10:28 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
-                "PPMCode": "694539",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
-                "Current": 14.344964327962433,
-                "Yesterday": 12.964538690072324,
-                "LastWeek": 13.87705319755237,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-31 08:10:29 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 13.989910533637156,
-                "Yesterday": 11.984217315746927,
-                "LastWeek": 14.878759577941539,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-05-31 06:10:28 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-05-31 06:10:31 (UTC)",
+                "LastUpdated": "2024-05-31 08:10:28 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
+                "PPMCode": "694539",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
+                "Current": 14.344964327962433,
+                "Yesterday": 12.964538690072324,
+                "LastWeek": 13.87705319755237,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-05-31 08:10:29 (UTC)",
                 "history": true
             },
             {
@@ -298,7 +298,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-31 08:10:36 (UTC)",
+                "LastUpdated": "2024-05-31 10:08:16 (UTC)",
                 "history": false
             },
             {
@@ -312,21 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-31 08:10:37 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Holberg Norge A",
-                "PPMCode": "318469",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
-                "Current": 16.930173428690498,
-                "Yesterday": 16.688517974801513,
-                "LastWeek": 14.586952037140557,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-31 08:10:39 (UTC)",
+                "LastUpdated": "2024-05-31 10:08:17 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-31 08:10:40 (UTC)",
+                "LastUpdated": "2024-05-31 10:08:18 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +340,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-31 06:10:38 (UTC)",
+                "LastUpdated": "2024-05-31 08:10:36 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-31 06:10:39 (UTC)",
+                "LastUpdated": "2024-05-31 08:10:37 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-31 06:10:40 (UTC)",
+                "LastUpdated": "2024-05-31 08:10:39 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-05-31 06:10:41 (UTC)",
+                "LastUpdated": "2024-05-31 08:10:40 (UTC)",
                 "history": true
             },
             {
