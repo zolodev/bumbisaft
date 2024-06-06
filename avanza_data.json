@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": 3.8645050100896796,
+                "Yesterday": -0.4252635213921083,
+                "LastWeek": 5.941196782085464,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-06 18:09:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": 4.481563621954498,
+                "Yesterday": 0.32126687981459623,
+                "LastWeek": 6.8907712871685165,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-06 18:09:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Indienfond A",
+                "PPMCode": "505586",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
+                "Current": 0.6417100945830916,
+                "Yesterday": -2.557939565698665,
+                "LastWeek": 4.559712495586047,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-06 18:09:31 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 3.237871210930788,
+                "Yesterday": 0.46590121370603177,
+                "LastWeek": 5.966076745065012,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-06 18:09:34 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF India A2",
                 "PPMCode": "768499",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-06 16:09:05 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin India A(acc)USD",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-06 16:09:07 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Indian Equities R USD",
@@ -42,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-06 16:09:09 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Indienfond A",
@@ -56,7 +112,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-06 16:09:16 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Technology A Acc USD",
@@ -70,76 +126,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-06 16:09:19 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": 4.069885389492608,
-                "Yesterday": -0.6466115988567294,
-                "LastWeek": 7.664528746133445,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-06 14:08:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": 3.8645050100896796,
-                "Yesterday": -0.4252635213921083,
-                "LastWeek": 5.941196782085464,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-06 14:08:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": 4.481563621954498,
-                "Yesterday": 0.32126687981459623,
-                "LastWeek": 6.8907712871685165,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-06 14:08:11 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": 0.6417100945830916,
-                "Yesterday": -2.557939565698665,
-                "LastWeek": 4.559712495586047,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-06 14:08:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 3.237871210930788,
-                "Yesterday": 0.46590121370603177,
-                "LastWeek": 5.966076745065012,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-06 06:10:48 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +368,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-06 16:09:21 (UTC)",
+                "LastUpdated": "2024-06-06 18:09:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Healthscience A2",
+                "PPMCode": "374421",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
+                "Current": 5.158536218032221,
+                "Yesterday": 3.95923163251364,
+                "LastWeek": 3.2762799521395367,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-06-06 18:09:46 (UTC)",
                 "history": false
             },
             {
@@ -396,35 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-06 16:09:30 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Fastighet A",
-                "PPMCode": "968420",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
-                "Current": 0.5632967684553953,
-                "Yesterday": 0.9783575452119936,
-                "LastWeek": 0.8004743551734455,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-06 16:09:33 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 12.275770046701298,
-                "Yesterday": 10.297524006566675,
-                "LastWeek": 12.431690916859688,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-06 16:09:35 (UTC)",
+                "LastUpdated": "2024-06-06 18:09:47 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-06 14:08:20 (UTC)",
+                "LastUpdated": "2024-06-06 16:09:21 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-06 14:08:26 (UTC)",
+                "LastUpdated": "2024-06-06 16:09:30 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +438,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-06 14:08:28 (UTC)",
+                "LastUpdated": "2024-06-06 16:09:33 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +452,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-06 14:08:29 (UTC)",
+                "LastUpdated": "2024-06-06 16:09:35 (UTC)",
                 "history": true
             },
             {
