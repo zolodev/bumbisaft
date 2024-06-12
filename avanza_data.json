@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 7.847930540335499,
-                "Yesterday": 5.791115232234683,
-                "LastWeek": 9.407401163280786,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-12 10:08:19 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "SEB Emerging Marketsfond",
                 "PPMCode": "950774",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-06-12 10:08:21 (UTC)",
+                "LastUpdated": "2024-06-12 12:13:13 (UTC)",
                 "history": false
             },
             {
@@ -41,21 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-06-12 10:08:27 (UTC)",
+                "LastUpdated": "2024-06-12 12:13:19 (UTC)",
                 "history": false
             },
             {
-                "Name": "Evli GEM B",
-                "PPMCode": "367987",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/864973",
-                "Current": 5.668001039106623,
-                "Yesterday": 4.631384361121931,
-                "LastWeek": 9.111841667253747,
+                "Name": "SEB Asset Selection C H-SEK",
+                "PPMCode": "639633",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
+                "Current": 6.187985109126746,
+                "Yesterday": 5.2813937078761075,
+                "LastWeek": 5.151950169103866,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-06-12 10:08:30 (UTC)",
+                "LastUpdated": "2024-06-12 12:13:22 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-06-12 08:10:12 (UTC)",
+                "LastUpdated": "2024-06-12 10:08:19 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +69,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-06-12 08:10:13 (UTC)",
+                "LastUpdated": "2024-06-12 10:08:21 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 11.759414727752468,
+                "Yesterday": 10.560086351643088,
+                "LastWeek": 10.991844567042465,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-12 10:08:27 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Evli GEM B",
+                "PPMCode": "367987",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/864973",
+                "Current": 5.668001039106623,
+                "Yesterday": 4.631384361121931,
+                "LastWeek": 9.111841667253747,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-12 10:08:30 (UTC)",
                 "history": true
             },
             {
@@ -98,20 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-12 08:10:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": 11.759414727752468,
-                "Yesterday": 10.560086351643088,
-                "LastWeek": 10.991844567042465,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-12 08:10:22 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-12 10:08:33 (UTC)",
+                "LastUpdated": "2024-06-12 12:13:27 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-12 10:08:38 (UTC)",
+                "LastUpdated": "2024-06-12 12:13:31 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-12 10:08:40 (UTC)",
+                "LastUpdated": "2024-06-12 12:13:34 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-12 10:08:41 (UTC)",
+                "LastUpdated": "2024-06-12 12:13:35 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-12 08:10:25 (UTC)",
+                "LastUpdated": "2024-06-12 10:08:33 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-12 08:10:30 (UTC)",
+                "LastUpdated": "2024-06-12 10:08:38 (UTC)",
                 "history": true
             },
             {
@@ -606,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-12 08:10:32 (UTC)",
+                "LastUpdated": "2024-06-12 10:08:40 (UTC)",
                 "history": true
             },
             {
@@ -620,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-12 08:10:34 (UTC)",
+                "LastUpdated": "2024-06-12 10:08:41 (UTC)",
                 "history": true
             },
             {
