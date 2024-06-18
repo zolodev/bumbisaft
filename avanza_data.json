@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": 16.024061492348334,
+                "Yesterday": 14.033891451593869,
+                "LastWeek": 8.3170377554704,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-18 18:10:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": 9.343826815078215,
+                "Yesterday": 7.913910563895292,
+                "LastWeek": 5.025622722590002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-18 18:10:25 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Carnegie Indienfond A",
                 "PPMCode": "505586",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-18 16:08:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Nordea Indienfond",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-18 16:08:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -42,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-18 16:08:39 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Indian Equities R USD",
@@ -56,62 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-18 16:08:41 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": 12.991518800084952,
-                "Yesterday": 10.796162925704888,
-                "LastWeek": 2.2490817694903367,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-18 14:06:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Indienfond",
-                "PPMCode": "469692",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
-                "Current": 16.024061492348334,
-                "Yesterday": 14.033891451593869,
-                "LastWeek": 8.3170377554704,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-18 14:07:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 10.231794941998984,
-                "Yesterday": 8.679713807114522,
-                "LastWeek": 3.1062537670718555,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-18 14:07:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": 9.343826815078215,
-                "Yesterday": 7.913910563895292,
-                "LastWeek": 5.025622722590002,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-18 14:07:09 (UTC)",
                 "history": true
             },
             {
@@ -589,62 +561,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-12 06:10:34 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB Asienfond ex Japan A",
-                "PPMCode": "914945",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
-                "Current": 11.519471076616114,
-                "Yesterday": 8.823280745362618,
-                "LastWeek": 13.111483116048635,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-11 18:10:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken EM Index (A1 SEK)",
-                "PPMCode": "750075",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/910093",
-                "Current": 7.903200295249649,
-                "Yesterday": 5.361944429799133,
-                "LastWeek": 9.11056044709232,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-11 18:10:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Tillv\u00e4xtmark Tema (A1 SEK)",
-                "PPMCode": "987842",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2155",
-                "Current": 6.461669977120153,
-                "Yesterday": 4.379855680989605,
-                "LastWeek": 7.892288738591503,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-11 18:10:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Access Asien A",
-                "PPMCode": "978981",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/596635",
-                "Current": 11.615778181218023,
-                "Yesterday": 8.899158276943403,
-                "LastWeek": 12.157121637233862,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-11 16:09:28 (UTC)",
-                "history": true
             }
         ]
     },
@@ -662,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 16:08:43 (UTC)",
+                "LastUpdated": "2024-06-18 18:10:29 (UTC)",
                 "history": false
             },
             {
@@ -676,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 16:08:44 (UTC)",
+                "LastUpdated": "2024-06-18 18:10:30 (UTC)",
                 "history": false
             },
             {
@@ -690,7 +606,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 16:08:46 (UTC)",
+                "LastUpdated": "2024-06-18 18:10:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 12.360222794347544,
+                "Yesterday": 11.889699042354863,
+                "LastWeek": 6.814971069930105,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-06-18 18:10:36 (UTC)",
                 "history": false
             },
             {
@@ -704,21 +634,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 16:08:52 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 10.231794941998984,
-                "Yesterday": 8.679713807114522,
-                "LastWeek": 3.1062537670718555,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 16:08:54 (UTC)",
+                "LastUpdated": "2024-06-18 18:10:38 (UTC)",
                 "history": false
             },
             {
@@ -732,7 +648,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 14:07:11 (UTC)",
+                "LastUpdated": "2024-06-18 16:08:43 (UTC)",
                 "history": true
             },
             {
@@ -746,7 +662,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 14:07:13 (UTC)",
+                "LastUpdated": "2024-06-18 16:08:44 (UTC)",
                 "history": true
             },
             {
@@ -760,7 +676,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 14:07:15 (UTC)",
+                "LastUpdated": "2024-06-18 16:08:46 (UTC)",
                 "history": true
             },
             {
@@ -774,7 +690,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 14:07:20 (UTC)",
+                "LastUpdated": "2024-06-18 16:08:52 (UTC)",
                 "history": true
             },
             {
@@ -788,7 +704,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-18 14:07:23 (UTC)",
+                "LastUpdated": "2024-06-18 16:08:54 (UTC)",
                 "history": true
             },
             {
@@ -957,34 +873,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-06-12 18:10:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Asian Stars A SEK",
-                "PPMCode": "494427",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/409833",
-                "Current": 8.287786635921139,
-                "Yesterday": 7.169624358973982,
-                "LastWeek": 7.5664617396678695,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-11 16:09:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Asienfond A",
-                "PPMCode": "385401",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/146",
-                "Current": 12.577269316070797,
-                "Yesterday": 9.753856615438995,
-                "LastWeek": 12.570614676221023,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-11 16:09:49 (UTC)",
                 "history": true
             }
         ]
