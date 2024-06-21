@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Handelsbanken Latinamerika Imp T A1 SEK",
+                "PPMCode": "679837",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
+                "Current": -12.968072526606228,
+                "Yesterday": -14.632017568556796,
+                "LastWeek": -12.21071006250352,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-21 20:09:11 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 9.538263965909756,
+                "Yesterday": 7.641118440254512,
+                "LastWeek": 8.791080497343998,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-06-21 20:09:14 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-21 18:10:38 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-21 18:10:40 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Latinamerika Imp T A1 SEK",
@@ -42,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-21 18:10:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
@@ -56,62 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-21 18:10:46 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": -12.429207325500078,
-                "Yesterday": -14.355353118539552,
-                "LastWeek": -10.934735334050714,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-21 16:08:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 14.729231183549027,
-                "Yesterday": 12.655100321653512,
-                "LastWeek": 13.795547280353537,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-21 16:08:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Latinamerika Imp T A1 SEK",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": -12.968072526606228,
-                "Yesterday": -14.632017568556796,
-                "LastWeek": -12.21071006250352,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-21 16:08:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": 9.538263965909756,
-                "Yesterday": 7.641118440254512,
-                "LastWeek": 8.791080497343998,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-21 16:08:31 (UTC)",
                 "history": true
             },
             {
@@ -449,34 +421,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-17 06:11:30 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 6.605497823218156,
-                "Yesterday": 4.153425798681287,
-                "LastWeek": 6.618495778142913,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-14 18:10:45 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Asien Tema (A1 SEK)",
-                "PPMCode": "504100",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
-                "Current": 7.61243556306554,
-                "Yesterday": 5.1378123890337735,
-                "LastWeek": 4.366405857791814,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-14 18:10:46 (UTC)",
-                "history": true
             }
         ]
     },
@@ -494,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 18:10:52 (UTC)",
+                "LastUpdated": "2024-06-21 20:09:21 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 18:10:57 (UTC)",
+                "LastUpdated": "2024-06-21 20:09:25 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 18:10:59 (UTC)",
+                "LastUpdated": "2024-06-21 20:09:27 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 18:11:01 (UTC)",
+                "LastUpdated": "2024-06-21 20:09:29 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 18:11:03 (UTC)",
+                "LastUpdated": "2024-06-21 20:09:31 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +508,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 18:11:05 (UTC)",
+                "LastUpdated": "2024-06-21 20:09:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 10.11289408239018,
+                "Yesterday": 10.565742832426977,
+                "LastWeek": 6.430471241872894,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-06-21 20:09:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 11.065597208020847,
+                "Yesterday": 10.732081269442915,
+                "LastWeek": 9.081880333934805,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-06-21 20:09:38 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 16:08:35 (UTC)",
+                "LastUpdated": "2024-06-21 18:10:52 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 16:08:39 (UTC)",
+                "LastUpdated": "2024-06-21 18:10:57 (UTC)",
                 "history": true
             },
             {
@@ -606,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 16:08:41 (UTC)",
+                "LastUpdated": "2024-06-21 18:10:59 (UTC)",
                 "history": true
             },
             {
@@ -620,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 16:08:42 (UTC)",
+                "LastUpdated": "2024-06-21 18:11:01 (UTC)",
                 "history": true
             },
             {
@@ -634,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 16:08:44 (UTC)",
+                "LastUpdated": "2024-06-21 18:11:03 (UTC)",
                 "history": true
             },
             {
@@ -648,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-21 16:08:45 (UTC)",
+                "LastUpdated": "2024-06-21 18:11:05 (UTC)",
                 "history": true
             },
             {
