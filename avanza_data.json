@@ -13,8 +13,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-04 08:10:27 (UTC)",
+                "LastUpdated": "2024-07-04 10:08:10 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Proethos Fond",
+                "PPMCode": "897520",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
+                "Current": 2.1807214940262267,
+                "Yesterday": 1.055561999768021,
+                "LastWeek": 4.634033174805713,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-04 10:08:18 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 2.8035113568381287,
+                "Yesterday": 1.159434992064428,
+                "LastWeek": -0.09979902447022233,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-04 08:10:27 (UTC)",
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-04 08:10:35 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
@@ -56,20 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-04 06:11:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": 5.846899115642424,
-                "Yesterday": 4.725961809271665,
-                "LastWeek": 5.385005351208248,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-04 06:11:09 (UTC)",
                 "history": true
             },
             {
@@ -238,20 +252,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-01 20:08:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": -1.651980114383456,
-                "Yesterday": -2.8099362694140035,
-                "LastWeek": -3.3772658874481616,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-01 20:08:21 (UTC)",
                 "history": true
             },
             {
@@ -449,20 +449,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-06-27 12:13:45 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 4.9120531733808885,
-                "Yesterday": 3.072059657939525,
-                "LastWeek": 3.3638647969522504,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-06-27 10:07:46 (UTC)",
-                "history": true
             }
         ]
     },
@@ -480,8 +466,64 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-04 08:10:38 (UTC)",
+                "LastUpdated": "2024-07-04 10:08:21 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 1.3056664881563516,
+                "Yesterday": 0.5412955943003884,
+                "LastWeek": -0.8683412586404192,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-04 10:08:25 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 5.1462678766297865,
+                "Yesterday": 4.405225899217903,
+                "LastWeek": 2.752144791879627,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-04 10:08:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 10.541427460057594,
+                "Yesterday": 10.748460774776285,
+                "LastWeek": 7.972319605877752,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-04 10:08:29 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 2.8035113568381287,
+                "Yesterday": 1.159434992064428,
+                "LastWeek": -0.09979902447022233,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-04 08:10:38 (UTC)",
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -495,7 +537,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-04 08:10:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -509,7 +551,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-04 08:10:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -523,48 +565,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-04 08:10:46 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 1.3056664881563516,
-                "Yesterday": 0.5412955943003884,
-                "LastWeek": -0.8683412586404192,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-04 06:11:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 5.1462678766297865,
-                "Yesterday": 4.405225899217903,
-                "LastWeek": 2.752144791879627,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-04 06:11:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 10.541427460057594,
-                "Yesterday": 10.748460774776285,
-                "LastWeek": 7.972319605877752,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-04 06:11:19 (UTC)",
                 "history": true
             },
             {
