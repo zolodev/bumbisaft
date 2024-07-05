@@ -3,17 +3,31 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 2.006114533029948,
-                "Yesterday": -1.032243093973596,
-                "LastWeek": -1.7322932425324566,
+                "Name": "Allianz Euro High Yield Bond A EUR",
+                "PPMCode": "717900",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286898",
+                "Current": -0.22312835735834646,
+                "Yesterday": -0.28595449626449443,
+                "LastWeek": -1.2227069302757192,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-05 18:09:49 (UTC)",
+                "LastUpdated": "2024-07-05 20:09:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 2.032052733855728,
+                "Yesterday": 2.0233116289211974,
+                "LastWeek": -1.7842461134257606,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-05 20:09:14 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-05 18:09:52 (UTC)",
+                "LastUpdated": "2024-07-05 20:09:18 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-05 16:08:57 (UTC)",
+                "LastUpdated": "2024-07-05 18:09:49 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-05 16:09:00 (UTC)",
+                "LastUpdated": "2024-07-05 18:09:52 (UTC)",
                 "history": true
             },
             {
@@ -414,6 +428,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 2.032052733855728,
+                "Yesterday": 2.0233116289211974,
+                "LastWeek": -1.7842461134257606,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-05 20:09:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Euro High Yield Bond A EUR",
+                "PPMCode": "717900",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286898",
+                "Current": -0.22312835735834646,
+                "Yesterday": -0.28595449626449443,
+                "LastWeek": -1.2227069302757192,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-05 20:09:23 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 3.8685930150897523,
+                "Yesterday": 2.0157754033952213,
+                "LastWeek": -1.2741453792257333,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-05 20:09:27 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Carnegie Fastighetsfond Norden A",
                 "PPMCode": "320176",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
@@ -425,34 +481,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-05 18:10:01 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 4.540836697106401,
-                "Yesterday": 3.6148093061220203,
-                "LastWeek": -0.7407822898222931,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-05 18:10:04 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 3.8685930150897523,
-                "Yesterday": 2.0157754033952213,
-                "LastWeek": -1.2741453792257333,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-05 16:09:09 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-05 16:09:12 (UTC)",
+                "LastUpdated": "2024-07-05 18:10:04 (UTC)",
                 "history": true
             },
             {
