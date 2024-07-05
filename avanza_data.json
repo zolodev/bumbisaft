@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Europe Small Cap Equity AT EUR",
+                "PPMCode": "538751",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
+                "Current": 1.0815176677672673,
+                "Yesterday": 0.5249779879194694,
+                "LastWeek": -0.8299824663039498,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-05 22:07:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Water AT EUR",
+                "PPMCode": "878694",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
+                "Current": -1.8905409303759895,
+                "Yesterday": -2.6810679330139027,
+                "LastWeek": -0.46508816805237163,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-05 22:08:00 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Euro High Yield Bond A EUR",
                 "PPMCode": "717900",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/286898",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-05 20:09:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -28,34 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-05 20:09:14 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 6.453957996768979,
-                "Yesterday": 3.747980613893377,
-                "LastWeek": 2.7140549273021,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-05 20:09:18 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 2.006114533029948,
-                "Yesterday": -1.032243093973596,
-                "LastWeek": -1.7322932425324566,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-05 18:09:49 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-05 18:09:52 (UTC)",
+                "LastUpdated": "2024-07-05 20:09:18 (UTC)",
                 "history": true
             },
             {
@@ -428,6 +428,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Allianz Europe Small Cap Equity AT EUR",
+                "PPMCode": "538751",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
+                "Current": 1.0815176677672673,
+                "Yesterday": 0.5249779879194694,
+                "LastWeek": -0.8299824663039498,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-05 22:08:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Euro-Markets A2",
+                "PPMCode": "916122",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/734",
+                "Current": -0.11221868241932957,
+                "Yesterday": -0.550339766633049,
+                "LastWeek": -2.6467886826591958,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-05 22:08:11 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
@@ -439,7 +467,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-05 20:09:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Euro High Yield Bond A EUR",
@@ -453,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-05 20:09:23 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -467,20 +495,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-05 20:09:27 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 3.8685930150897523,
-                "Yesterday": 2.0157754033952213,
-                "LastWeek": -1.2741453792257333,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-05 18:10:01 (UTC)",
                 "history": true
             },
             {
@@ -649,20 +663,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-01 16:09:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Biotechnology Discv A(acc)USD",
-                "PPMCode": "389239",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
-                "Current": -2.2848398810753796,
-                "Yesterday": -3.327213799243769,
-                "LastWeek": -4.855817708014462,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-06-28 22:07:12 (UTC)",
                 "history": true
             }
         ]
