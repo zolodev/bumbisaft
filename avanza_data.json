@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 6.453957996768979,
+                "Yesterday": 3.747980613893377,
+                "LastWeek": 2.7140549273021,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-08 00:36:22 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 11.160461646631118,
+                "Yesterday": 9.074305900914027,
+                "LastWeek": 6.428240701044366,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-08 00:36:25 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Emerging Marketsfond",
+                "PPMCode": "950774",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
+                "Current": 6.723214949565026,
+                "Yesterday": 4.845845002354456,
+                "LastWeek": 5.0558873825869215,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-08 00:36:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Emerging Markets A",
+                "PPMCode": "295857",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364655",
+                "Current": 5.345032214309942,
+                "Yesterday": 3.5647677178704753,
+                "LastWeek": 3.1663275686673447,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-08 00:36:29 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Europe Small Cap Equity AT EUR",
                 "PPMCode": "538751",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-05 22:07:56 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Water AT EUR",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-05 22:08:00 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Euro High Yield Bond A EUR",
@@ -255,20 +311,6 @@
                 "history": true
             },
             {
-                "Name": "Allianz Europe Small Cap Equity AT EUR",
-                "PPMCode": "538751",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
-                "Current": -0.8452489062006326,
-                "Yesterday": -2.098697778383708,
-                "LastWeek": -1.1447258662910436,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-03 16:09:30 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Evli Finland Select B",
                 "PPMCode": "570044",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
@@ -428,6 +470,76 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 4.540836697106401,
+                "Yesterday": 3.6148093061220203,
+                "LastWeek": -0.7407822898222931,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-08 00:36:35 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 7.055004464157733,
+                "Yesterday": 5.675319046361242,
+                "LastWeek": -0.02435519805528805,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-08 00:36:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 7.294554907699164,
+                "Yesterday": 5.5545726155025505,
+                "LastWeek": 0.5011604029254879,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-08 00:36:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Small Cap Europe A",
+                "PPMCode": "896761",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/936",
+                "Current": 4.802134281903077,
+                "Yesterday": 3.6682970208981898,
+                "LastWeek": 0.7781236104935559,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-08 00:36:39 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 8.70976929649672,
+                "Yesterday": 7.5590999715180756,
+                "LastWeek": 4.978638564511524,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-08 00:36:42 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Europe Small Cap Equity AT EUR",
                 "PPMCode": "538751",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
@@ -439,7 +551,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-05 22:08:07 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Euro-Markets A2",
@@ -453,7 +565,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-05 22:08:11 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
