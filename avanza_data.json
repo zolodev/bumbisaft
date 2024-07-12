@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": 6.929903065460477,
+                "Yesterday": 3.187302545744699,
+                "LastWeek": 2.193157435062488,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-12 20:08:09 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 15.501639058286512,
+                "Yesterday": 11.723446165475833,
+                "LastWeek": 9.010096017560823,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-12 20:08:10 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Aktiefond Stabil",
+                "PPMCode": "339184",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
+                "Current": 6.710929916521069,
+                "Yesterday": 3.7204426324985502,
+                "LastWeek": 3.1698699281692826,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-12 20:08:19 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sverige H\u00e5llbar A SEK",
+                "PPMCode": "146928",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
+                "Current": 5.366589409246117,
+                "Yesterday": 2.4212239698519036,
+                "LastWeek": 1.9736027317280254,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-12 20:08:21 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Lannebo Sverige H\u00e5llbar A SEK",
                 "PPMCode": "146928",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-12 18:08:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-12 18:08:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
@@ -42,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-12 18:08:51 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 4.410429368270841,
-                "Yesterday": 1.7414710079128304,
-                "LastWeek": 0.33078220262030805,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-12 16:09:19 (UTC)",
                 "history": true
             },
             {
@@ -431,14 +473,14 @@
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 10.047184807429579,
-                "Yesterday": 7.809561705890257,
-                "LastWeek": 5.860309559532518,
+                "Current": 11.017491598084463,
+                "Yesterday": 8.72140481688413,
+                "LastWeek": 2.8389655452941995,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-12 18:08:53 (UTC)",
+                "LastUpdated": "2024-07-12 20:08:23 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-12 18:08:55 (UTC)",
+                "LastUpdated": "2024-07-12 20:08:25 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +508,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-12 18:08:57 (UTC)",
+                "LastUpdated": "2024-07-12 20:08:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
+                "PPMCode": "916354",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
+                "Current": 1.8073733358625037,
+                "Yesterday": -0.9843336318537139,
+                "LastWeek": -3.051880912719046,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-12 20:08:30 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-12 16:09:30 (UTC)",
+                "LastUpdated": "2024-07-12 18:08:53 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +550,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-12 16:09:32 (UTC)",
+                "LastUpdated": "2024-07-12 18:08:55 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 6.992464180600927,
+                "Yesterday": 4.130146511853547,
+                "LastWeek": -0.7826902551829024,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-12 18:08:57 (UTC)",
                 "history": true
             },
             {
