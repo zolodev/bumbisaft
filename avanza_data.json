@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 15.753259658526304,
+                "Yesterday": 13.881779035803554,
+                "LastWeek": 9.693155469902736,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 12:14:21 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": -4.758037287172621,
+                "Yesterday": -5.995536578998116,
+                "LastWeek": -6.687014989115954,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 12:14:25 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Natural Resources Fund Class A2 USD",
+                "PPMCode": "536806",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
+                "Current": -1.4584177269259484,
+                "Yesterday": -2.703285732777459,
+                "LastWeek": -4.885827822169393,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 12:14:26 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "CB Save Earth Fund RC",
                 "PPMCode": "976506",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/130487",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-18 10:08:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "C Worldwide Sweden Small Cap 1A",
@@ -28,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-18 10:08:24 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "CB Save Earth Fund RC",
-                "PPMCode": "976506",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/130487",
-                "Current": 6.36138863557462,
-                "Yesterday": 4.427765915161234,
-                "LastWeek": 0.7172319147860495,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 08:10:17 (UTC)",
                 "history": true
             },
             {
@@ -365,34 +393,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-11 14:07:23 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken Latinamerika Imp T A1 SEK",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": -10.341532665374428,
-                "Yesterday": -11.829424772721078,
-                "LastWeek": -14.554041879385188,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-11 10:08:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "PriorNilsson Realinvest A",
-                "PPMCode": "487108",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
-                "Current": 7.453912140348132,
-                "Yesterday": 5.688047775584091,
-                "LastWeek": 2.7809485550237296,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-11 10:08:15 (UTC)",
-                "history": true
             }
         ]
     },
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-18 10:08:30 (UTC)",
+                "LastUpdated": "2024-07-18 12:14:32 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-18 08:10:23 (UTC)",
+                "LastUpdated": "2024-07-18 10:08:30 (UTC)",
                 "history": true
             },
             {
