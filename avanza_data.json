@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Aktie-Ansvar Sverige A",
+                "PPMCode": "344739",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1901",
+                "Current": 6.578813069167695,
+                "Yesterday": 4.7767558433605135,
+                "LastWeek": 2.5392109053381255,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 16:08:46 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": -4.758037287172621,
+                "Yesterday": -5.995536578998116,
+                "LastWeek": -6.687014989115954,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 16:08:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Natural Resources Fund Class A2 USD",
+                "PPMCode": "536806",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
+                "Current": -1.4584177269259484,
+                "Yesterday": -2.703285732777459,
+                "LastWeek": -4.885827822169393,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 16:08:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 10.254289653868167,
+                "Yesterday": 9.020755677467761,
+                "LastWeek": 1.9902067077732115,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 16:08:52 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "C Worldwide Sweden Small Cap 1A",
                 "PPMCode": "721035",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-18 14:07:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Energy A2",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-18 14:07:47 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Natural Resources Fund Class A2 USD",
@@ -42,48 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-18 14:07:48 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": 15.753259658526304,
-                "Yesterday": 13.881779035803554,
-                "LastWeek": 9.693155469902736,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 12:14:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": -4.758037287172621,
-                "Yesterday": -5.995536578998116,
-                "LastWeek": -6.687014989115954,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 12:14:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources Fund Class A2 USD",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": -1.4584177269259484,
-                "Yesterday": -2.703285732777459,
-                "LastWeek": -4.885827822169393,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 12:14:26 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-18 14:07:58 (UTC)",
+                "LastUpdated": "2024-07-18 16:08:58 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-18 12:14:32 (UTC)",
+                "LastUpdated": "2024-07-18 14:07:58 (UTC)",
                 "history": true
             },
             {
