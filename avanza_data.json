@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 18:10:09 (UTC)",
+                "LastUpdated": "2024-07-18 20:07:59 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 18:10:11 (UTC)",
+                "LastUpdated": "2024-07-18 20:08:02 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 18:10:13 (UTC)",
+                "LastUpdated": "2024-07-18 20:08:03 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 18:10:16 (UTC)",
+                "LastUpdated": "2024-07-18 20:08:05 (UTC)",
                 "history": false
             },
             {
@@ -69,21 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 18:10:20 (UTC)",
+                "LastUpdated": "2024-07-18 20:08:08 (UTC)",
                 "history": false
             },
             {
-                "Name": "Swedbank Robur Small Cap Europe A",
-                "PPMCode": "896761",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/936",
-                "Current": 9.726580008964598,
-                "Yesterday": 8.516360376512784,
-                "LastWeek": 5.289108023307933,
+                "Name": "SEB Nordenfond",
+                "PPMCode": "484923",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1651",
+                "Current": 4.1903743351590945,
+                "Yesterday": 2.9619895717184686,
+                "LastWeek": 1.483272071537135,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 18:10:23 (UTC)",
+                "LastUpdated": "2024-07-18 20:08:10 (UTC)",
                 "history": false
             },
             {
@@ -97,7 +97,77 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 16:08:46 (UTC)",
+                "LastUpdated": "2024-07-18 18:10:09 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sverige",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": 5.475680636280206,
+                "Yesterday": 3.7320281431630438,
+                "LastWeek": 1.1471397981033957,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 18:10:11 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sverige Plus",
+                "PPMCode": "490292",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
+                "Current": 3.7625979843225075,
+                "Yesterday": 2.0492721164613643,
+                "LastWeek": 0.39193729003360417,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 18:10:13 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Carnegie Sverigefond A",
+                "PPMCode": "393314",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1892",
+                "Current": 7.2043159550311,
+                "Yesterday": 5.7961298937962855,
+                "LastWeek": 3.1879466866858808,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 18:10:16 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Skandia Sm\u00e5bolag Sverige",
+                "PPMCode": "103606",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
+                "Current": 17.36684789004212,
+                "Yesterday": 15.928044121223529,
+                "LastWeek": 12.231401068511838,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 18:10:20 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Small Cap Europe A",
+                "PPMCode": "896761",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/936",
+                "Current": 9.726580008964598,
+                "Yesterday": 8.516360376512784,
+                "LastWeek": 5.289108023307933,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-18 18:10:23 (UTC)",
                 "history": true
             },
             {
@@ -395,20 +465,6 @@
                 "history": true
             },
             {
-                "Name": "Carnegie Sverigefond A",
-                "PPMCode": "393314",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1892",
-                "Current": 5.990492950415612,
-                "Yesterday": 3.8228603182309593,
-                "LastWeek": 2.474726173834289,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-12 16:09:26 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
                 "PPMCode": "313742",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
@@ -421,20 +477,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-12 06:10:52 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF Sustainable Energy A2",
-                "PPMCode": "553578",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
-                "Current": 3.7156142848147713,
-                "Yesterday": 1.130239273956555,
-                "LastWeek": -1.3023817929768913,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-11 18:10:14 (UTC)",
-                "history": true
             }
         ]
     },
@@ -445,14 +487,14 @@
                 "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
                 "PPMCode": "916354",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": 6.918778474120447,
-                "Yesterday": 6.892109773398052,
-                "LastWeek": -1.8775738972688176,
-                "TrendDay": "\u25b2",
+                "Current": 8.062459030760948,
+                "Yesterday": 8.5854640893644,
+                "LastWeek": -0.22257559758055526,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-18 18:10:28 (UTC)",
+                "LastUpdated": "2024-07-18 20:08:17 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-18 16:08:58 (UTC)",
+                "LastUpdated": "2024-07-18 18:10:28 (UTC)",
                 "history": true
             },
             {
