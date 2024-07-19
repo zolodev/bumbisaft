@@ -14,7 +14,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-19 18:09:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Nordenfond",
@@ -28,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-19 18:09:51 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Aktie-Ansvar Sverige A",
@@ -84,34 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-19 16:08:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Sm\u00e5bolag Sverige",
-                "PPMCode": "103606",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
-                "Current": 17.36684789004212,
-                "Yesterday": 15.928044121223529,
-                "LastWeek": 12.231401068511838,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-19 16:08:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Nordenfond",
-                "PPMCode": "484923",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1651",
-                "Current": 4.1903743351590945,
-                "Yesterday": 2.9619895717184686,
-                "LastWeek": 1.483272071537135,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-19 16:08:52 (UTC)",
                 "history": true
             },
             {
@@ -400,6 +372,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Evli Sverige Sm\u00e5bolag B",
+                "PPMCode": "420463",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
+                "Current": 12.176547598341497,
+                "Yesterday": 11.500272353561781,
+                "LastWeek": 7.784989621402517,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-19 20:10:08 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
                 "PPMCode": "916354",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
@@ -411,7 +397,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-19 18:09:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
@@ -425,7 +411,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-19 18:10:02 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Skandia Sm\u00e5bolag Sverige",
@@ -439,20 +425,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-19 18:10:07 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
-                "PPMCode": "916354",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": 8.062459030760948,
-                "Yesterday": 8.5854640893644,
-                "LastWeek": -0.22257559758055526,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-19 16:08:56 (UTC)",
                 "history": true
             },
             {
