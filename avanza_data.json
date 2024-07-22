@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-22 20:08:08 (UTC)",
+                "LastUpdated": "2024-07-22 22:07:29 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 3.883415474482775,
+                "Yesterday": 2.636269402201482,
+                "LastWeek": 4.093558820840845,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-22 20:08:08 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF Euro-Markets A2",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-22 20:08:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -42,7 +56,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-22 20:08:15 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "AMF Aktiefond Europa",
@@ -396,8 +410,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-22 20:08:22 (UTC)",
+                "LastUpdated": "2024-07-22 22:07:45 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 20.888224299065428,
+                "Yesterday": 20.011214953271033,
+                "LastWeek": 14.921869158878497,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-22 20:08:22 (UTC)",
+                "history": true
             },
             {
                 "Name": "Lannebo Sverige",
@@ -481,20 +509,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-19 18:09:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 19.462623077609546,
-                "Yesterday": 18.33298628670018,
-                "LastWeek": 13.067793080881698,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-19 18:10:02 (UTC)",
                 "history": true
             },
             {
