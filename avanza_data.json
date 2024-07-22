@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 5.487441791295614,
+                "Yesterday": 4.198401984793641,
+                "LastWeek": 3.4972557350271423,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-22 12:14:09 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Skandia Sm\u00e5bolag Sverige",
                 "PPMCode": "103606",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
@@ -372,6 +386,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": -2.721950710264354,
+                "Yesterday": -3.5441901245676513,
+                "LastWeek": -6.885797726646762,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-22 12:14:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 11.751124825160478,
+                "Yesterday": 11.109976435870552,
+                "LastWeek": 10.149095458974742,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-22 12:14:15 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 6.973802928383421,
+                "Yesterday": 7.229770638191877,
+                "LastWeek": 2.819531473423369,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-22 12:14:19 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
                 "PPMCode": "420463",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
@@ -383,7 +439,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-22 10:08:38 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Energy A2",
@@ -397,7 +453,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-22 10:08:39 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -411,48 +467,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-22 10:08:43 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Evli Sverige Sm\u00e5bolag B",
-                "PPMCode": "420463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
-                "Current": 12.176547598341497,
-                "Yesterday": 11.500272353561781,
-                "LastWeek": 7.784989621402517,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-22 08:11:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": -2.721950710264354,
-                "Yesterday": -3.5441901245676513,
-                "LastWeek": -6.885797726646762,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-22 08:11:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 11.751124825160478,
-                "Yesterday": 11.109976435870552,
-                "LastWeek": 10.149095458974742,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-22 08:12:00 (UTC)",
                 "history": true
             },
             {
