@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-24 20:08:20 (UTC)",
+                "LastUpdated": "2024-07-24 22:07:57 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,64 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-24 20:08:25 (UTC)",
+                "LastUpdated": "2024-07-24 22:08:01 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 9.07645191354803,
+                "Yesterday": 7.553948304890117,
+                "LastWeek": 10.62641130122484,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-24 22:08:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 7.474124290238573,
+                "Yesterday": 5.996358050994326,
+                "LastWeek": 6.709258844409188,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-24 22:08:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 15.952126027277282,
+                "Yesterday": 13.923190339986578,
+                "LastWeek": 15.113832934468926,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-24 20:08:20 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 12.939404480142287,
+                "Yesterday": 11.27137753639908,
+                "LastWeek": 12.275509543275911,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-24 20:08:25 (UTC)",
+                "history": true
             },
             {
                 "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
@@ -56,20 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-24 18:10:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 15.952126027277282,
-                "Yesterday": 13.923190339986578,
-                "LastWeek": 15.113832934468926,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-24 18:10:44 (UTC)",
                 "history": true
             },
             {
@@ -381,20 +423,6 @@
                 "history": true
             },
             {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 10.254289653868167,
-                "Yesterday": 9.020755677467761,
-                "LastWeek": 1.9902067077732115,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-18 16:08:52 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "C Worldwide Sweden Small Cap 1A",
                 "PPMCode": "721035",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
@@ -413,6 +441,20 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Fidelity Global High Yield A-Acc-USD",
+                "PPMCode": "277491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/343415",
+                "Current": 1.6917115923594221,
+                "Yesterday": 1.7757918057679334,
+                "LastWeek": -0.30292076317042105,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-24 22:08:15 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Allianz Global Water AT EUR",
                 "PPMCode": "878694",
