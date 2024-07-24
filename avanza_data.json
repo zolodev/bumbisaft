@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 15.952126027277282,
+                "Yesterday": 13.923190339986578,
+                "LastWeek": 15.113832934468926,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-24 20:08:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 12.939404480142287,
+                "Yesterday": 11.27137753639908,
+                "LastWeek": 12.275509543275911,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-24 20:08:25 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
                 "PPMCode": "916354",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-24 18:10:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "East Capital Global EM Sustainable A SEK",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-24 18:10:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Biotech R USD",
@@ -42,48 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-24 18:10:44 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
-                "PPMCode": "916354",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": 8.774185745510831,
-                "Yesterday": 6.6493436874333804,
-                "LastWeek": 4.449903453000548,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-24 16:09:58 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global EM Sustainable A SEK",
-                "PPMCode": "623637",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
-                "Current": 4.39821311434573,
-                "Yesterday": 2.507908961829393,
-                "LastWeek": 5.3601587604726255,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-24 16:10:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 15.952126027277282,
-                "Yesterday": 13.923190339986578,
-                "LastWeek": 15.113832934468926,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-24 16:10:04 (UTC)",
                 "history": true
             },
             {
