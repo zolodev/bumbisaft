@@ -1,17 +1,65 @@
 [
     {
+        "Name": "M&G European Strategic Value",
+        "isin": "LU1670707527",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU1670707527/EUR",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
+        "Day": 1.72,
+        "Week": 0.88
+    },
+    {
+        "Name": "Liontrust Sustainable Pan-European Growth",
+        "isin": "IE00BYWSV511",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/IE00BYWSV511/EUR",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
+        "Day": 1.41,
+        "Week": 1.77
+    },
+    {
+        "Name": "Carnegie Sverige",
+        "isin": "SE0000429789",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0000429789/SEK",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
+        "Day": 1.24,
+        "Week": 0.3
+    },
+    {
+        "Name": "Carnegie Listed Private Equity",
+        "isin": "SE0003039874",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0003039874/SEK",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
+        "Day": 1.19,
+        "Week": 1.14
+    },
+    {
         "Name": "Morgan Stanley Global Infrastructure",
         "isin": "LU0384381660",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0384381660/USD",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 1.11,
         "Week": 2.49
+    },
+    {
+        "Name": "M&G Pan European Sustain Paris Aligned",
+        "isin": "LU1670716437",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU1670716437/EUR",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
+        "Day": 1.03,
+        "Week": 1.06
+    },
+    {
+        "Name": "Skandia Europa Exponering",
+        "isin": "SE0000810772",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0000810772/SEK",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
+        "Day": 0.89,
+        "Week": 1.03
     },
     {
         "Name": "T. Rowe Price US Large Cap Value",
         "isin": "LU0133099654",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0133099654/USD",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.89,
         "Week": 0.67
     },
@@ -19,15 +67,23 @@
         "Name": "JPM Global Healthcare",
         "isin": "LU0432979614",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0432979614/USD",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.8,
         "Week": 2.2
+    },
+    {
+        "Name": "Carnegie Strategi",
+        "isin": "SE0000429813",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0000429813/SEK",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
+        "Day": 0.62,
+        "Week": 0.15
     },
     {
         "Name": "Schroder EUR Liquidity",
         "isin": "LU0136043394",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0136043394/EUR",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.4,
         "Week": 1.87
     },
@@ -35,7 +91,7 @@
         "Name": "Schroder USD Liquidity",
         "isin": "LU0136043808",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0136043808/USD",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.39,
         "Week": 2.46
     },
@@ -43,7 +99,7 @@
         "Name": "BlackRock India",
         "isin": "LU0248272758",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0248272758/USD",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.16,
         "Week": 0.34
     },
@@ -51,7 +107,7 @@
         "Name": "Norron Sustainable Preserve",
         "isin": "LU0580530409",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0580530409/SEK",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.06,
         "Week": 0.17
     },
@@ -59,15 +115,23 @@
         "Name": "Schroder Frontier Markets",
         "isin": "LU0562313402",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0562313402/USD",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.06,
         "Week": 0.65
+    },
+    {
+        "Name": "\u00d6hman FRN (SEKH)",
+        "isin": "SE0004951283",
+        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0004951283/SEK",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
+        "Day": 0.02,
+        "Week": 0.11
     },
     {
         "Name": "Carnegie Corporate Bond",
         "isin": "LU0075898915",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/LU0075898915/SEK",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.01,
         "Week": 0.14
     },
@@ -75,7 +139,7 @@
         "Name": "Carnegie Likviditet",
         "isin": "SE0000429854",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0000429854/SEK",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.01,
         "Week": 0.08
     },
@@ -83,16 +147,8 @@
         "Name": "Skandia Kortr\u00e4nta",
         "isin": "SE0000810897",
         "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0000810897/SEK",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
+        "LastUpdated": "2024-07-26 18:11:20 (UTC)",
         "Day": 0.01,
         "Week": 0.09
-    },
-    {
-        "Name": "\u00d6hman FRN (SEKH)",
-        "isin": "SE0004951283",
-        "URL": "https://www.skandia.se/spara-pension/satt-att-spara/spara-fonder/fondlista#/fund/details/SE0004951283/SEK",
-        "LastUpdated": "2024-07-26 16:10:34 (UTC)",
-        "Day": 0.01,
-        "Week": 0.12
     }
 ]
