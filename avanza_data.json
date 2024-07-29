@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-29 18:10:49 (UTC)",
+                "LastUpdated": "2024-07-29 20:08:36 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 3.9566755083996377,
+                "Yesterday": 1.4020462296324359,
+                "LastWeek": 3.921940128836685,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-29 18:10:49 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Mining A2",
@@ -351,34 +365,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-23 04:09:43 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF Euro-Markets A2",
-                "PPMCode": "916122",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/734",
-                "Current": 1.6215809433462953,
-                "Yesterday": 0.5286309874280531,
-                "LastWeek": 1.6853477492935154,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-22 20:08:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 1.9784221563182172,
-                "Yesterday": 0.5269915779090668,
-                "LastWeek": 2.4739251087479177,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-22 20:08:15 (UTC)",
-                "history": true
             }
         ]
     },
@@ -396,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-29 18:11:01 (UTC)",
+                "LastUpdated": "2024-07-29 20:08:49 (UTC)",
                 "history": false
             },
             {
@@ -410,8 +396,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-29 18:11:03 (UTC)",
+                "LastUpdated": "2024-07-29 20:08:51 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": 12.941857938393092,
+                "Yesterday": 12.103885655121818,
+                "LastWeek": 9.969225915211123,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-29 20:08:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": 9.844878057674265,
+                "Yesterday": 7.881251932002785,
+                "LastWeek": 4.982803215053085,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-29 18:11:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 18.420290528415624,
+                "Yesterday": 18.790626911422738,
+                "LastWeek": 13.553156759235396,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-29 18:11:03 (UTC)",
+                "history": true
             },
             {
                 "Name": "Franklin Biotechnology Discv A(acc)USD",
@@ -425,48 +453,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-29 18:11:07 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 20.127837210338058,
-                "Yesterday": 19.365611399304214,
-                "LastWeek": 16.710974857581014,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-29 16:10:31 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": 9.844878057674265,
-                "Yesterday": 7.881251932002785,
-                "LastWeek": 4.982803215053085,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-29 16:10:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Biotechnology Discv A(acc)USD",
-                "PPMCode": "389239",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
-                "Current": 12.941857938393092,
-                "Yesterday": 12.103885655121818,
-                "LastWeek": 9.969225915211123,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-29 16:10:40 (UTC)",
                 "history": true
             },
             {
