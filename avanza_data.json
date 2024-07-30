@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 20:08:43 (UTC)",
+                "LastUpdated": "2024-07-30 22:05:43 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 20:08:44 (UTC)",
+                "LastUpdated": "2024-07-30 22:05:44 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 20:08:45 (UTC)",
+                "LastUpdated": "2024-07-30 22:05:45 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 20:08:51 (UTC)",
+                "LastUpdated": "2024-07-30 22:05:50 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 20:08:52 (UTC)",
+                "LastUpdated": "2024-07-30 22:05:51 (UTC)",
                 "history": false
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 18:10:09 (UTC)",
+                "LastUpdated": "2024-07-30 20:08:43 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 18:10:10 (UTC)",
+                "LastUpdated": "2024-07-30 20:08:44 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 18:10:12 (UTC)",
+                "LastUpdated": "2024-07-30 20:08:45 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 6.644313994009679,
+                "Yesterday": 5.471663054449939,
+                "LastWeek": 3.8289397378354786,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-30 20:08:51 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 7.734862537796744,
+                "Yesterday": 6.5675697229310925,
+                "LastWeek": 7.89456886245202,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-30 20:08:52 (UTC)",
                 "history": true
             },
             {
@@ -140,20 +168,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-30 18:10:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 6.644313994009679,
-                "Yesterday": 5.471663054449939,
-                "LastWeek": 3.8289397378354786,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-30 18:10:16 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-30 20:08:56 (UTC)",
+                "LastUpdated": "2024-07-30 22:05:57 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-30 20:08:59 (UTC)",
+                "LastUpdated": "2024-07-30 22:05:58 (UTC)",
                 "history": false
             },
             {
@@ -494,8 +508,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-30 20:09:01 (UTC)",
+                "LastUpdated": "2024-07-30 22:06:00 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF US Basic Value A2",
+                "PPMCode": "768556",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1546",
+                "Current": 3.503223623236784,
+                "Yesterday": 2.536268170451662,
+                "LastWeek": 0.008659106964913519,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-30 20:08:56 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": 9.388092063798645,
+                "Yesterday": 9.333461115847497,
+                "LastWeek": 5.36235831877303,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-30 20:08:59 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF US Mid-Cap Value A2",
+                "PPMCode": "625236",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1604",
+                "Current": 4.150026674603249,
+                "Yesterday": 3.1782919887464165,
+                "LastWeek": 0.17971503304521746,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-07-30 20:09:01 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Biotech R USD",
@@ -523,48 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-30 18:10:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF US Basic Value A2",
-                "PPMCode": "768556",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1546",
-                "Current": 3.503223623236784,
-                "Yesterday": 2.536268170451662,
-                "LastWeek": 0.008659106964913519,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-30 18:10:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF US Mid-Cap Value A2",
-                "PPMCode": "625236",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1604",
-                "Current": 4.150026674603249,
-                "Yesterday": 3.1782919887464165,
-                "LastWeek": 0.17971503304521746,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-30 18:10:28 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": 9.844878057674265,
-                "Yesterday": 7.881251932002785,
-                "LastWeek": 4.982803215053085,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-30 00:36:15 (UTC)",
                 "history": true
             },
             {
