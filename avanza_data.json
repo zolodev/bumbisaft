@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 2.537209840364017,
-                "Yesterday": 0.5398318809285241,
-                "LastWeek": 2.5680573764170687,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 08:10:07 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "BGF World Financials A2",
                 "PPMCode": "410258",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 08:10:13 (UTC)",
+                "LastUpdated": "2024-07-31 10:06:46 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 08:10:14 (UTC)",
+                "LastUpdated": "2024-07-31 10:06:47 (UTC)",
                 "history": false
             },
             {
@@ -55,21 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 08:10:17 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Holberg Norge A",
-                "PPMCode": "318469",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
-                "Current": 7.988938097917493,
-                "Yesterday": 7.029808375820017,
-                "LastWeek": 8.047387420294488,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 08:10:19 (UTC)",
+                "LastUpdated": "2024-07-31 10:06:48 (UTC)",
                 "history": false
             },
             {
@@ -83,8 +55,120 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 08:10:20 (UTC)",
+                "LastUpdated": "2024-07-31 10:06:50 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Enter Sverige A",
+                "PPMCode": "170423",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1963",
+                "Current": 5.17458233230164,
+                "Yesterday": 4.376642834296483,
+                "LastWeek": 4.199884084738393,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-31 10:06:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Enter Select A",
+                "PPMCode": "643700",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/91107",
+                "Current": 4.323508238098976,
+                "Yesterday": 3.5569701050128084,
+                "LastWeek": 3.425521930860002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-31 10:06:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 2.537209840364017,
+                "Yesterday": 0.5398318809285241,
+                "LastWeek": 2.5680573764170687,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-31 08:10:07 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 6.644313994009679,
+                "Yesterday": 5.471663054449939,
+                "LastWeek": 3.8289397378354786,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-31 08:10:13 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 7.734862537796744,
+                "Yesterday": 6.5675697229310925,
+                "LastWeek": 7.89456886245202,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-31 08:10:14 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Evli Nordic B",
+                "PPMCode": "668269",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86207",
+                "Current": 3.3198785169638403,
+                "Yesterday": 2.264612231160393,
+                "LastWeek": 2.377782909360954,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-31 08:10:17 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": 7.988938097917493,
+                "Yesterday": 7.029808375820017,
+                "LastWeek": 8.047387420294488,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-31 08:10:19 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "AGCM Asia Growth RC SEK",
+                "PPMCode": "938845",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
+                "Current": -1.5758135715018957,
+                "Yesterday": -2.4022174314752114,
+                "LastWeek": -2.3508879991787213,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-07-31 08:10:20 (UTC)",
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -112,62 +196,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-31 06:09:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 2.537209840364017,
-                "Yesterday": 0.5398318809285241,
-                "LastWeek": 2.5680573764170687,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 06:09:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 6.644313994009679,
-                "Yesterday": 5.471663054449939,
-                "LastWeek": 3.8289397378354786,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 06:09:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 7.734862537796744,
-                "Yesterday": 6.5675697229310925,
-                "LastWeek": 7.89456886245202,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 06:09:31 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Nordic B",
-                "PPMCode": "668269",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86207",
-                "Current": 3.3198785169638403,
-                "Yesterday": 2.264612231160393,
-                "LastWeek": 2.377782909360954,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-31 06:09:33 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-31 08:10:29 (UTC)",
+                "LastUpdated": "2024-07-31 10:07:05 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-31 08:10:33 (UTC)",
+                "LastUpdated": "2024-07-31 10:07:09 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-31 06:09:40 (UTC)",
+                "LastUpdated": "2024-07-31 08:10:29 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-31 06:09:43 (UTC)",
+                "LastUpdated": "2024-07-31 08:10:33 (UTC)",
                 "history": true
             },
             {
