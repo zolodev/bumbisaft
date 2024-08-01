@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 4.8221863340201585,
+                "Yesterday": 1.213621428969211,
+                "LastWeek": 1.892465333853097,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-01 18:09:46 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 3.9615329722038433,
+                "Yesterday": 0.41599682387655895,
+                "LastWeek": 1.2482802639138428,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-01 18:09:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 5.532723605878338,
+                "Yesterday": 2.155636747478895,
+                "LastWeek": 7.837963632683538,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-01 18:09:50 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Skandia Japan Exponering",
                 "PPMCode": "582791",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-01 16:09:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-01 16:09:22 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-01 16:09:23 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Technology A Acc USD",
@@ -56,62 +98,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-01 16:09:27 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 4.3123363622362545,
-                "Yesterday": 0.7207762205452124,
-                "LastWeek": 1.3953488372093115,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-01 14:07:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 4.8221863340201585,
-                "Yesterday": 1.213621428969211,
-                "LastWeek": 1.892465333853097,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-01 14:07:31 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 3.9615329722038433,
-                "Yesterday": 0.41599682387655895,
-                "LastWeek": 1.2482802639138428,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-01 14:07:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 5.532723605878338,
-                "Yesterday": 2.155636747478895,
-                "LastWeek": 7.837963632683538,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-01 10:08:44 (UTC)",
                 "history": true
             },
             {
@@ -484,17 +470,17 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": -1.1087105545904845,
-                "Yesterday": -1.7916974888742037,
-                "LastWeek": -2.3900430667560637,
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 8.759383640364979,
+                "Yesterday": 8.085029179866178,
+                "LastWeek": 8.216474414593248,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-01 16:09:35 (UTC)",
+                "LastUpdated": "2024-08-01 18:10:03 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +494,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-01 14:07:42 (UTC)",
+                "LastUpdated": "2024-08-01 18:10:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 6.968271971723312,
+                "Yesterday": 5.686395065023196,
+                "LastWeek": 10.524561265210448,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-01 18:10:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": -1.1087105545904845,
+                "Yesterday": -1.7916974888742037,
+                "LastWeek": -2.3900430667560637,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-01 16:09:35 (UTC)",
                 "history": true
             },
             {
@@ -649,20 +663,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-07-25 18:10:31 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fidelity Global High Yield A-Acc-USD",
-                "PPMCode": "277491",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/343415",
-                "Current": 1.6917115923594221,
-                "Yesterday": 1.7757918057679334,
-                "LastWeek": -0.30292076317042105,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-07-25 16:10:03 (UTC)",
                 "history": true
             }
         ]
