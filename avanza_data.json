@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-01 02:35:05 (UTC)",
+                "LastUpdated": "2024-08-01 04:09:52 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-01 02:35:09 (UTC)",
+                "LastUpdated": "2024-08-01 04:09:56 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-01 00:39:43 (UTC)",
+                "LastUpdated": "2024-08-01 02:35:05 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 5.532723605878338,
+                "Yesterday": 2.155636747478895,
+                "LastWeek": 7.837963632683538,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-01 02:35:09 (UTC)",
                 "history": true
             },
             {
@@ -435,34 +449,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-25 18:10:10 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 9.07645191354803,
-                "Yesterday": 7.553948304890117,
-                "LastWeek": 10.62641130122484,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-25 04:09:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 7.474124290238573,
-                "Yesterday": 5.996358050994326,
-                "LastWeek": 6.709258844409188,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-25 04:09:40 (UTC)",
-                "history": true
             }
         ]
     },
@@ -480,8 +466,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-01 02:35:15 (UTC)",
+                "LastUpdated": "2024-08-01 04:10:03 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": -1.1087105545904845,
+                "Yesterday": -1.7916974888742037,
+                "LastWeek": -2.3900430667560637,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-01 02:35:15 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF US Basic Value A2",
