@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 7.508758071163606,
+                "Yesterday": 6.085142189861235,
+                "LastWeek": 10.192849292485215,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-02 14:07:33 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Teknologifond",
                 "PPMCode": "194092",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-02 12:13:29 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-02 12:13:38 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Teknologi S",
@@ -42,20 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-02 12:13:39 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 8.617870243328767,
-                "Yesterday": 6.4944604672434885,
-                "LastWeek": 10.81258925321312,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-02 10:08:23 (UTC)",
                 "history": true
             },
             {
@@ -407,20 +407,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-07-26 16:09:47 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Franklin Biotechnology Discv A(acc)USD",
-                "PPMCode": "389239",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
-                "Current": 14.379497136052388,
-                "Yesterday": 12.927863289178376,
-                "LastWeek": 14.887035876986223,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-07-26 12:13:35 (UTC)",
-                "history": true
             }
         ]
     },
@@ -438,7 +424,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 12:13:44 (UTC)",
+                "LastUpdated": "2024-08-02 14:07:40 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 12:13:45 (UTC)",
+                "LastUpdated": "2024-08-02 14:07:41 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +452,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 10:08:33 (UTC)",
+                "LastUpdated": "2024-08-02 12:13:44 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 10:08:34 (UTC)",
+                "LastUpdated": "2024-08-02 12:13:45 (UTC)",
                 "history": true
             },
             {
