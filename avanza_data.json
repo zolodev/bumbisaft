@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Templeton Global Bond A(acc)SEK-H1",
+                "PPMCode": "460899",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
+                "Current": 3.6880927291886154,
+                "Yesterday": 1.4752370916754538,
+                "LastWeek": -0.4214963119072805,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-05 00:37:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 7.508758071163606,
+                "Yesterday": 6.085142189861235,
+                "LastWeek": 10.192849292485215,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-05 00:37:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 6.498490183969459,
+                "Yesterday": 5.263636284837352,
+                "LastWeek": 5.151927353097956,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-05 00:37:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Amerika Tema (A1 SEK)",
+                "PPMCode": "840033",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1464",
+                "Current": 7.404890097197791,
+                "Yesterday": 6.375606375606376,
+                "LastWeek": 8.951703182472423,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-05 00:38:01 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-02 22:07:14 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Health Care S",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-02 22:07:17 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Digital R USD",
@@ -42,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-02 22:07:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Amerika Tema (A1 SEK)",
@@ -56,62 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-02 22:07:20 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 7.508758071163606,
-                "Yesterday": 6.085142189861235,
-                "LastWeek": 10.192849292485215,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-02 20:08:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 6.498490183969459,
-                "Yesterday": 5.263636284837352,
-                "LastWeek": 5.151927353097956,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-02 20:08:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 3.250709180790025,
-                "Yesterday": 2.1117787489721733,
-                "LastWeek": 6.656794291018422,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-02 20:08:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Amerika Tema (A1 SEK)",
-                "PPMCode": "840033",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1464",
-                "Current": 7.404890097197791,
-                "Yesterday": 6.375606375606376,
-                "LastWeek": 8.951703182472423,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-02 20:08:53 (UTC)",
                 "history": true
             },
             {
@@ -442,17 +442,17 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": 0.8354465504526161,
-                "Yesterday": 0.5644046070638062,
-                "LastWeek": 2.3856463678178716,
+                "Name": "Templeton Global Bond A(acc)SEK-H1",
+                "PPMCode": "460899",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
+                "Current": 3.6880927291886154,
+                "Yesterday": 1.4752370916754538,
+                "LastWeek": -0.4214963119072805,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 22:07:27 (UTC)",
+                "LastUpdated": "2024-08-05 00:38:05 (UTC)",
                 "history": false
             },
             {
@@ -466,21 +466,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 22:07:30 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 3.250709180790025,
-                "Yesterday": 2.1117787489721733,
-                "LastWeek": 6.656794291018422,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 22:07:32 (UTC)",
+                "LastUpdated": "2024-08-05 00:38:09 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +480,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 22:07:33 (UTC)",
+                "LastUpdated": "2024-08-05 00:38:11 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +494,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 22:07:35 (UTC)",
+                "LastUpdated": "2024-08-05 00:38:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": 8.215213741638347,
+                "Yesterday": 9.051118815877636,
+                "LastWeek": 8.114897025158378,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-05 00:38:14 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +522,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 20:08:58 (UTC)",
+                "LastUpdated": "2024-08-02 22:07:27 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +536,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 20:09:00 (UTC)",
+                "LastUpdated": "2024-08-02 22:07:30 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +550,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 20:09:04 (UTC)",
+                "LastUpdated": "2024-08-02 22:07:32 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +564,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-02 20:09:05 (UTC)",
+                "LastUpdated": "2024-08-02 22:07:33 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Captor Iris Bond A",
+                "PPMCode": "180927",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1089362",
+                "Current": 7.778027751973984,
+                "Yesterday": 7.1078146771946225,
+                "LastWeek": 5.585754051194723,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-02 22:07:35 (UTC)",
                 "history": true
             },
             {
