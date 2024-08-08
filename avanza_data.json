@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 4.70336115497406,
+                "Yesterday": 1.1730205278592447,
+                "LastWeek": 8.67358448003609,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 16:09:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
+                "PPMCode": "952010",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
+                "Current": 2.0864193374629645,
+                "Yesterday": -1.2127996229464113,
+                "LastWeek": 6.948138297872326,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 16:09:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "AMF Aktiefond Sm\u00e5bolag",
+                "PPMCode": "269357",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
+                "Current": 3.483892850509186,
+                "Yesterday": 0.2107779401907603,
+                "LastWeek": 7.72125626882668,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 16:09:22 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Sm\u00e5bolag Sverige",
+                "PPMCode": "103606",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
+                "Current": 5.658375574678766,
+                "Yesterday": 2.455646587292226,
+                "LastWeek": 9.776169987032894,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 16:09:25 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Carnegie Fastighetsfond Norden A",
                 "PPMCode": "320176",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-08 14:07:17 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-08 14:07:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
@@ -42,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-08 14:07:23 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "AMF Aktiefond Sm\u00e5bolag",
@@ -56,62 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-08 14:07:25 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 6.1272987770211875,
-                "Yesterday": 2.114813022870926,
-                "LastWeek": 7.670460188260699,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 12:13:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": 4.70336115497406,
-                "Yesterday": 1.1730205278592447,
-                "LastWeek": 8.67358448003609,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 12:13:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
-                "PPMCode": "952010",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
-                "Current": 2.0864193374629645,
-                "Yesterday": -1.2127996229464113,
-                "LastWeek": 6.948138297872326,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 12:13:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AMF Aktiefond Sm\u00e5bolag",
-                "PPMCode": "269357",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
-                "Current": 3.483892850509186,
-                "Yesterday": 0.2107779401907603,
-                "LastWeek": 7.72125626882668,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 12:13:49 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 14:07:31 (UTC)",
+                "LastUpdated": "2024-08-08 16:09:29 (UTC)",
                 "history": false
             },
             {
@@ -396,21 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 14:07:36 (UTC)",
+                "LastUpdated": "2024-08-08 16:09:34 (UTC)",
                 "history": false
             },
             {
                 "Name": "AMF R\u00e4ntefond Mix",
                 "PPMCode": "265512",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/333557",
-                "Current": 2.751635744375735,
-                "Yesterday": 3.154969974007359,
-                "LastWeek": 1.9718562337545962,
+                "Current": 2.799210479095644,
+                "Yesterday": 2.853041449847485,
+                "LastWeek": 2.1263233446976537,
                 "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 14:07:37 (UTC)",
+                "LastUpdated": "2024-08-08 16:09:35 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 12:13:55 (UTC)",
+                "LastUpdated": "2024-08-08 14:07:31 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 12:14:01 (UTC)",
+                "LastUpdated": "2024-08-08 14:07:36 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 12:14:02 (UTC)",
+                "LastUpdated": "2024-08-08 14:07:37 (UTC)",
                 "history": true
             },
             {
