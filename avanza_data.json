@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 20:09:31 (UTC)",
+                "LastUpdated": "2024-08-08 22:07:41 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 20:09:32 (UTC)",
+                "LastUpdated": "2024-08-08 22:07:42 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 20:09:35 (UTC)",
+                "LastUpdated": "2024-08-08 22:07:47 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 20:09:36 (UTC)",
+                "LastUpdated": "2024-08-08 22:07:49 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 20:09:38 (UTC)",
+                "LastUpdated": "2024-08-08 22:07:51 (UTC)",
                 "history": false
             },
             {
@@ -83,22 +83,8 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 20:09:39 (UTC)",
+                "LastUpdated": "2024-08-08 22:07:52 (UTC)",
                 "history": false
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": -6.447131033633669,
-                "Yesterday": -9.027145249503011,
-                "LastWeek": 1.891934074628441,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 18:11:12 (UTC)",
-                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -111,7 +97,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 18:11:14 (UTC)",
+                "LastUpdated": "2024-08-08 20:09:31 (UTC)",
                 "history": true
             },
             {
@@ -125,7 +111,77 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-08 18:11:15 (UTC)",
+                "LastUpdated": "2024-08-08 20:09:32 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pareto Aksje Norge B",
+                "PPMCode": "165755",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
+                "Current": -2.5810446488126146,
+                "Yesterday": -4.914865390514624,
+                "LastWeek": 1.5330142850432824,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 20:09:35 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Fondita Nordic Small Cap B",
+                "PPMCode": "237834",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
+                "Current": 0.38063617930916793,
+                "Yesterday": -1.9038311797003,
+                "LastWeek": 6.567205457569781,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 20:09:36 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": 0.7060085474857574,
+                "Yesterday": -1.537085110066707,
+                "LastWeek": 5.406794089864171,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 20:09:38 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "\u00d6hman Sweden Micro Cap A",
+                "PPMCode": "416867",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
+                "Current": 3.4283751645755443,
+                "Yesterday": 1.2047189596224048,
+                "LastWeek": 8.255577354405947,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 20:09:39 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": -6.447131033633669,
+                "Yesterday": -9.027145249503011,
+                "LastWeek": 1.891934074628441,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-08 18:11:12 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 20:09:42 (UTC)",
+                "LastUpdated": "2024-08-08 22:07:58 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 20:09:46 (UTC)",
+                "LastUpdated": "2024-08-08 22:08:04 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 18:11:22 (UTC)",
+                "LastUpdated": "2024-08-08 20:09:42 (UTC)",
                 "history": true
             },
             {
@@ -508,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 18:11:26 (UTC)",
+                "LastUpdated": "2024-08-08 20:09:46 (UTC)",
                 "history": true
             },
             {
@@ -719,20 +775,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-02 00:36:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 6.968271971723312,
-                "Yesterday": 5.686395065023196,
-                "LastWeek": 10.524561265210448,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-01 20:09:54 (UTC)",
                 "history": true
             }
         ]
