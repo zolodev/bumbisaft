@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 14:07:59 (UTC)",
+                "LastUpdated": "2024-08-09 16:09:24 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 14:08:07 (UTC)",
+                "LastUpdated": "2024-08-09 16:09:32 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 14:08:08 (UTC)",
+                "LastUpdated": "2024-08-09 16:09:34 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 14:08:09 (UTC)",
+                "LastUpdated": "2024-08-09 16:09:36 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 12:14:03 (UTC)",
+                "LastUpdated": "2024-08-09 14:07:59 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 12:14:12 (UTC)",
+                "LastUpdated": "2024-08-09 14:08:07 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 12:14:14 (UTC)",
+                "LastUpdated": "2024-08-09 14:08:08 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 12:14:16 (UTC)",
+                "LastUpdated": "2024-08-09 14:08:09 (UTC)",
                 "history": true
             },
             {
@@ -554,17 +554,17 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Templeton Global Bond A(acc)SEK-H1",
-                "PPMCode": "460899",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
-                "Current": 2.4109014675052456,
-                "Yesterday": 2.096436058700221,
-                "LastWeek": -0.5241090146750412,
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": -8.917183258472644,
+                "Yesterday": -10.097090018696973,
+                "LastWeek": -7.331676662071078,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-09 14:08:15 (UTC)",
+                "LastUpdated": "2024-08-09 16:09:39 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +578,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-09 12:14:24 (UTC)",
+                "LastUpdated": "2024-08-09 16:09:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": -10.85979828419132,
+                "Yesterday": -12.162892000486028,
+                "LastWeek": -9.915922684612203,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-09 16:09:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Templeton Global Bond A(acc)SEK-H1",
+                "PPMCode": "460899",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
+                "Current": 2.4109014675052456,
+                "Yesterday": 2.096436058700221,
+                "LastWeek": -0.5241090146750412,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-09 14:08:15 (UTC)",
                 "history": true
             },
             {
