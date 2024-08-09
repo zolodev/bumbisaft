@@ -3,6 +3,90 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": -4.364944379109505,
+                "Yesterday": -8.775914054068785,
+                "LastWeek": 0.034942386720136054,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-09 04:09:50 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": -2.682087501557614,
+                "Yesterday": -6.092025720661532,
+                "LastWeek": 0.5213986657931114,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-09 04:09:52 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Templeton Emerging Markets A(acc)USD",
+                "PPMCode": "425067",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
+                "Current": -4.251635159796804,
+                "Yesterday": -7.535151156406997,
+                "LastWeek": -1.5131250648357102,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-09 04:09:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": 0.6498460223173635,
+                "Yesterday": -2.2425281064132925,
+                "LastWeek": 7.525156768405691,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-09 04:09:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": -8.502546123613367,
+                "Yesterday": -11.003611455881051,
+                "LastWeek": -2.17421480947405,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-09 04:10:01 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": -1.2020980807622057,
+                "Yesterday": -3.8270453696685225,
+                "LastWeek": 4.77766183690747,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-09 04:10:03 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "DNB SMB S",
                 "PPMCode": "290833",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
@@ -14,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-09 02:32:15 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -28,7 +112,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-09 02:32:16 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pareto Aksje Norge B",
@@ -42,7 +126,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-09 02:32:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Fondita Nordic Small Cap B",
@@ -56,7 +140,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-09 02:32:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Holberg Norge A",
@@ -70,7 +154,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-09 02:32:22 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Sweden Micro Cap A",
@@ -84,7 +168,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-09 02:32:23 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "PLUS Sm\u00e5bolag Sverige Index",
@@ -98,90 +182,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-09 02:32:24 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -1.2020980807622057,
-                "Yesterday": -3.8270453696685225,
-                "LastWeek": 4.77766183690747,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 00:36:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 3.327194127184739,
-                "Yesterday": 0.6247529104193368,
-                "LastWeek": 5.203142811225292,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 00:36:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pareto Aksje Norge B",
-                "PPMCode": "165755",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": -2.5810446488126146,
-                "Yesterday": -4.914865390514624,
-                "LastWeek": 1.5330142850432824,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 00:36:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Nordic Small Cap B",
-                "PPMCode": "237834",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
-                "Current": 0.38063617930916793,
-                "Yesterday": -1.9038311797003,
-                "LastWeek": 6.567205457569781,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 00:36:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Norge A",
-                "PPMCode": "318469",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
-                "Current": 0.7060085474857574,
-                "Yesterday": -1.537085110066707,
-                "LastWeek": 5.406794089864171,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 00:36:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Sweden Micro Cap A",
-                "PPMCode": "416867",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
-                "Current": 3.4283751645755443,
-                "Yesterday": 1.2047189596224048,
-                "LastWeek": 8.255577354405947,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-09 00:36:39 (UTC)",
                 "history": true
             },
             {
@@ -515,14 +515,14 @@
                 "Name": "Templeton Global Bond A(acc)SEK-H1",
                 "PPMCode": "460899",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
-                "Current": 1.5641293013555824,
-                "Yesterday": 1.981230448383728,
-                "LastWeek": -1.2513034410844548,
-                "TrendDay": "\u25bc",
+                "Current": 2.4109014675052456,
+                "Yesterday": 2.096436058700221,
+                "LastWeek": -0.5241090146750412,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-09 02:32:28 (UTC)",
+                "LastUpdated": "2024-08-09 04:10:07 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-09 02:32:32 (UTC)",
+                "LastUpdated": "2024-08-09 04:10:11 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-09 00:36:43 (UTC)",
+                "LastUpdated": "2024-08-09 02:32:28 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-09 00:36:47 (UTC)",
+                "LastUpdated": "2024-08-09 02:32:32 (UTC)",
                 "history": true
             },
             {
