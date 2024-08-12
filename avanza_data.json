@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -1.7876211013612242,
+                "Yesterday": -4.580219621246033,
+                "LastWeek": 3.162401276678458,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-12 10:09:04 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
                 "PPMCode": "456475",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
@@ -463,20 +477,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-05 20:08:24 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 6.498490183969459,
-                "Yesterday": 5.263636284837352,
-                "LastWeek": 5.151927353097956,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-05 10:07:42 (UTC)",
-                "history": true
             }
         ]
     },
@@ -494,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-12 08:11:38 (UTC)",
+                "LastUpdated": "2024-08-12 10:09:09 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-12 08:11:41 (UTC)",
+                "LastUpdated": "2024-08-12 10:09:13 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-12 06:11:53 (UTC)",
+                "LastUpdated": "2024-08-12 08:11:38 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-12 06:11:56 (UTC)",
+                "LastUpdated": "2024-08-12 08:11:41 (UTC)",
                 "history": true
             },
             {
