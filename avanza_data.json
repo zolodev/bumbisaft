@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-13 20:08:23 (UTC)",
+                "LastUpdated": "2024-08-13 22:07:12 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,36 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-13 20:08:28 (UTC)",
+                "LastUpdated": "2024-08-13 22:07:21 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": -2.5841582477416147,
+                "Yesterday": -5.280689229280747,
+                "LastWeek": 1.2368807448702572,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-13 20:08:23 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": -2.79836162961573,
+                "Yesterday": -5.431010224181598,
+                "LastWeek": 1.6696369946534197,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-13 20:08:28 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -465,34 +493,6 @@
                 "history": true
             },
             {
-                "Name": "Pictet-Japanese Equity Opps R JPY",
-                "PPMCode": "910109",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
-                "Current": -3.5865772096495143,
-                "Yesterday": -8.16711145308137,
-                "LastWeek": 1.4906331631887106,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-07 18:09:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": -7.190022010271455,
-                "Yesterday": -14.921129860601615,
-                "LastWeek": -1.834189288334556,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-07 16:09:13 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "AMF Aktiefond Asien Stilla havet",
                 "PPMCode": "823096",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/143369",
@@ -536,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 20:08:38 (UTC)",
+                "LastUpdated": "2024-08-13 22:07:30 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 20:08:41 (UTC)",
+                "LastUpdated": "2024-08-13 22:07:33 (UTC)",
                 "history": false
             },
             {
@@ -564,35 +564,63 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 20:08:42 (UTC)",
+                "LastUpdated": "2024-08-13 22:07:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pareto Aksje Norge B",
+                "PPMCode": "165755",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
+                "Current": -3.365615150033633,
+                "Yesterday": -4.545803216614591,
+                "LastWeek": -1.0916100376468962,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-13 22:07:35 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": -12.506409755389067,
-                "Yesterday": -14.01835724240373,
-                "LastWeek": -14.10342364194429,
+                "Current": -11.500965598504338,
+                "Yesterday": -11.903958313579494,
+                "LastWeek": -16.85657483002556,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 18:10:55 (UTC)",
+                "LastUpdated": "2024-08-13 20:08:38 (UTC)",
                 "history": true
             },
             {
                 "Name": "Handelsbanken Latinamerika Imp T A1 SEK",
                 "PPMCode": "679837",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": -10.309278350515468,
-                "Yesterday": -11.431414278212324,
-                "LastWeek": -10.909040656698274,
+                "Current": -10.233467320081497,
+                "Yesterday": -10.657452783437044,
+                "LastWeek": -14.74588403722262,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 18:10:55 (UTC)",
+                "LastUpdated": "2024-08-13 20:08:41 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": -2.3002195857513605,
+                "Yesterday": -3.639616335602346,
+                "LastWeek": 2.142352569986598,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-13 20:08:42 (UTC)",
                 "history": true
             },
             {
