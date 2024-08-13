@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": -2.5841582477416147,
+                "Yesterday": -5.280689229280747,
+                "LastWeek": 1.2368807448702572,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-13 20:08:23 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": -2.79836162961573,
+                "Yesterday": -5.431010224181598,
+                "LastWeek": 1.6696369946534197,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-13 20:08:28 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-13 18:10:40 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-13 18:10:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -42,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-13 18:10:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Alfred Berg Aktiv R (NOK)",
@@ -56,62 +84,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-13 18:10:51 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 0.8771854142760342,
-                "Yesterday": -3.4829294793934324,
-                "LastWeek": 4.996219307739665,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-13 16:09:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": -12.506409755389067,
-                "Yesterday": -14.01835724240373,
-                "LastWeek": -14.10342364194429,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-13 16:09:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": -13.397570428303935,
-                "Yesterday": -14.667373569363217,
-                "LastWeek": -11.865953683531208,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-13 16:09:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": -2.6889195881704184,
-                "Yesterday": -4.112474363184645,
-                "LastWeek": -0.12750547033510864,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-13 16:09:18 (UTC)",
                 "history": true
             },
             {
@@ -557,28 +529,42 @@
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": -12.506409755389067,
-                "Yesterday": -14.01835724240373,
-                "LastWeek": -14.10342364194429,
+                "Current": -11.500965598504338,
+                "Yesterday": -11.903958313579494,
+                "LastWeek": -16.85657483002556,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 18:10:55 (UTC)",
+                "LastUpdated": "2024-08-13 20:08:38 (UTC)",
                 "history": false
             },
             {
                 "Name": "Handelsbanken Latinamerika Imp T A1 SEK",
                 "PPMCode": "679837",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": -10.309278350515468,
-                "Yesterday": -11.431414278212324,
-                "LastWeek": -10.909040656698274,
+                "Current": -10.233467320081497,
+                "Yesterday": -10.657452783437044,
+                "LastWeek": -14.74588403722262,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 18:10:55 (UTC)",
+                "LastUpdated": "2024-08-13 20:08:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": -2.3002195857513605,
+                "Yesterday": -3.639616335602346,
+                "LastWeek": 2.142352569986598,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-13 20:08:42 (UTC)",
                 "history": false
             },
             {
@@ -592,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 16:09:25 (UTC)",
+                "LastUpdated": "2024-08-13 18:10:55 (UTC)",
                 "history": true
             },
             {
@@ -606,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-13 16:09:26 (UTC)",
+                "LastUpdated": "2024-08-13 18:10:55 (UTC)",
                 "history": true
             },
             {
