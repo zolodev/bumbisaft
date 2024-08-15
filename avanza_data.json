@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "\u00d6hman Global Growth A",
+                "PPMCode": "163923",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/372",
+                "Current": -1.3040504262251522,
+                "Yesterday": -1.390104515265397,
+                "LastWeek": -8.600260368782212,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-15 08:10:37 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
                 "PPMCode": "470104",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-15 06:11:05 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-15 06:11:07 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Global Growth A",
@@ -42,48 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-15 06:11:13 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": -1.1116475926740574,
-                "Yesterday": -3.886865461354666,
-                "LastWeek": 3.349586086256432,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-15 04:09:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": -2.423572292709428,
-                "Yesterday": -5.089029412220604,
-                "LastWeek": 2.535398814712679,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-15 04:09:41 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Global Growth A",
-                "PPMCode": "163923",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/372",
-                "Current": -0.6910906343515694,
-                "Yesterday": -2.953986548546701,
-                "LastWeek": -3.5873011170039453,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-15 04:09:47 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +508,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-15 06:11:17 (UTC)",
+                "LastUpdated": "2024-08-15 08:10:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Global Growth A",
+                "PPMCode": "163923",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/372",
+                "Current": -1.3040504262251522,
+                "Yesterday": -1.390104515265397,
+                "LastWeek": -8.600260368782212,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-15 08:10:48 (UTC)",
                 "history": false
             },
             {
@@ -550,8 +536,64 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-15 06:11:22 (UTC)",
+                "LastUpdated": "2024-08-15 08:10:48 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
+                "PPMCode": "456475",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
+                "Current": -1.2870078857107066,
+                "Yesterday": -0.8016433887843751,
+                "LastWeek": -5.713579707367249,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-15 08:10:50 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": -11.111201752228519,
+                "Yesterday": -11.621477818813506,
+                "LastWeek": -20.07803649275339,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-15 08:10:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": -1.7820898151695987,
+                "Yesterday": -1.1828195559541321,
+                "LastWeek": -8.326537657408911,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-15 06:11:17 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": -0.4036413642658221,
+                "Yesterday": -0.07945728536817975,
+                "LastWeek": -6.266912074669341,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-15 06:11:22 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -565,7 +607,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-15 06:11:24 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Latinamerika Imp T A1 SEK",
@@ -579,48 +621,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-15 06:11:26 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": -0.5430212470041698,
-                "Yesterday": -3.2656114255629065,
-                "LastWeek": -4.6750597749158285,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-15 04:09:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": -11.111201752228519,
-                "Yesterday": -11.621477818813506,
-                "LastWeek": -20.07803649275339,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-15 04:09:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Latinamerika Imp T A1 SEK",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": -9.697153407368624,
-                "Yesterday": -10.151836644713267,
-                "LastWeek": -18.58965526743641,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-15 04:09:59 (UTC)",
                 "history": true
             },
             {
@@ -775,34 +775,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-08 08:10:58 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Obligation A SEK",
-                "PPMCode": "534800",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2128",
-                "Current": 3.7881000270098726,
-                "Yesterday": 3.9212298951276656,
-                "LastWeek": 2.7748871275345715,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 06:12:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Obligationsfond A",
-                "PPMCode": "513722",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/686931",
-                "Current": 3.268715199010107,
-                "Yesterday": 3.3821406475561986,
-                "LastWeek": 2.4850484636007386,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-08 06:12:19 (UTC)",
                 "history": true
             }
         ]
