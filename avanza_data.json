@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-21 00:36:18 (UTC)",
+                "LastUpdated": "2024-08-21 02:30:37 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-20 22:07:01 (UTC)",
+                "LastUpdated": "2024-08-21 00:36:18 (UTC)",
                 "history": true
             },
             {
@@ -400,6 +400,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "\u00d6hman Global Growth A",
+                "PPMCode": "163923",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/372",
+                "Current": 0.8574624083509395,
+                "Yesterday": 1.3969400361113677,
+                "LastWeek": -5.168166433965164,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-21 02:30:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": -0.9913028656903263,
+                "Yesterday": 1.2860562264810682,
+                "LastWeek": -6.185339032486052,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-21 02:30:53 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin Technology A Acc USD",
                 "PPMCode": "496729",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
@@ -411,34 +439,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-21 00:36:29 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "\u00d6hman Global Growth A",
-                "PPMCode": "163923",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/372",
-                "Current": 0.8574624083509395,
-                "Yesterday": 1.3969400361113677,
-                "LastWeek": -5.168166433965164,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-21 00:36:34 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 0.8299628225927164,
-                "Yesterday": 1.0633190287849932,
-                "LastWeek": -5.400377025327349,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-20 22:07:12 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-20 22:07:17 (UTC)",
+                "LastUpdated": "2024-08-21 00:36:34 (UTC)",
                 "history": true
             },
             {
@@ -649,20 +649,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-14 10:09:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pareto Aksje Norge B",
-                "PPMCode": "165755",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": -3.365615150033633,
-                "Yesterday": -4.545803216614591,
-                "LastWeek": -1.0916100376468962,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-14 00:36:57 (UTC)",
                 "history": true
             }
         ]
