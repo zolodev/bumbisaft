@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": -11.547548558219026,
+                "Yesterday": -12.745265449279398,
+                "LastWeek": -10.712296836898924,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-22 18:10:18 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Storebrand Japan A SEK",
                 "PPMCode": "176503",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
@@ -414,6 +428,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 1.9428725858900857,
+                "Yesterday": 0.8185243841145231,
+                "LastWeek": -4.564162856832796,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-22 18:10:35 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
@@ -425,34 +453,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-22 16:09:21 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": -13.532684915715699,
-                "Yesterday": -13.39310621211627,
-                "LastWeek": -16.649935743161972,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-22 16:09:24 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 3.746630711090384,
-                "Yesterday": 4.681704182152955,
-                "LastWeek": -5.720546648618956,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-22 14:07:33 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-22 14:07:36 (UTC)",
+                "LastUpdated": "2024-08-22 16:09:24 (UTC)",
                 "history": true
             },
             {
@@ -649,20 +649,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-15 20:08:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": -0.4036413642658221,
-                "Yesterday": -0.07945728536817975,
-                "LastWeek": -6.266912074669341,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-15 16:09:40 (UTC)",
                 "history": true
             }
         ]
