@@ -13,8 +13,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-26 08:12:07 (UTC)",
+                "LastUpdated": "2024-08-26 10:09:30 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "PriorNilsson Realinvest A",
+                "PPMCode": "487108",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
+                "Current": 1.5881016070598644,
+                "Yesterday": -0.20507295464581313,
+                "LastWeek": -0.4871349666727482,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-26 10:09:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 6.475103613550928,
+                "Yesterday": 4.452086945870231,
+                "LastWeek": 4.051381343925523,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-26 08:12:07 (UTC)",
+                "history": true
             },
             {
                 "Name": "\u00d6hman Sweden Micro Cap A",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-26 08:12:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Natural Resources A(acc)USD",
@@ -42,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-26 08:12:14 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Humle Sm\u00e5bolagsfond A",
@@ -56,20 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-26 08:12:15 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": -5.956494561755788,
-                "Yesterday": -7.300790532519169,
-                "LastWeek": -6.637558141715173,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-26 06:11:55 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-26 08:12:18 (UTC)",
+                "LastUpdated": "2024-08-26 10:09:38 (UTC)",
                 "history": false
             },
             {
@@ -466,21 +480,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-26 08:12:20 (UTC)",
+                "LastUpdated": "2024-08-26 10:09:40 (UTC)",
                 "history": false
             },
             {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 1.9035287345817005,
-                "Yesterday": 1.7668366046537833,
-                "LastWeek": -0.7129221178424652,
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 6.475103613550928,
+                "Yesterday": 4.452086945870231,
+                "LastWeek": 4.051381343925523,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-26 06:12:03 (UTC)",
+                "LastUpdated": "2024-08-26 08:12:18 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +508,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-26 06:12:06 (UTC)",
+                "LastUpdated": "2024-08-26 08:12:20 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 1.9035287345817005,
+                "Yesterday": 1.7668366046537833,
+                "LastWeek": -0.7129221178424652,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-26 06:12:03 (UTC)",
                 "history": true
             },
             {
