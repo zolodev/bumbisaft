@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 6.475103613550928,
+                "Yesterday": 4.452086945870231,
+                "LastWeek": 4.051381343925523,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-26 08:12:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sweden Micro Cap A",
+                "PPMCode": "416867",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
+                "Current": 2.453240367045166,
+                "Yesterday": 0.9785230046994964,
+                "LastWeek": -0.47589099570657684,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-26 08:12:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": -5.956494561755788,
+                "Yesterday": -7.300790532519169,
+                "LastWeek": -6.637558141715173,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-26 08:12:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Humle Sm\u00e5bolagsfond A",
+                "PPMCode": "712299",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/209089",
+                "Current": 0.39315227986246803,
+                "Yesterday": -1.0365580530545795,
+                "LastWeek": -2.5203169153788982,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-26 08:12:15 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin Natural Resources A(acc)USD",
                 "PPMCode": "532558",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-26 06:11:55 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Templeton Global Bond A(acc)SEK-H1",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-26 06:11:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Templeton Emerging Markets A(acc)USD",
@@ -42,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-26 06:11:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Didner & Gerge Sm\u00e5bolag",
@@ -56,62 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-26 06:12:00 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": -5.956494561755788,
-                "Yesterday": -7.300790532519169,
-                "LastWeek": -6.637558141715173,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-26 04:10:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Templeton Global Bond A(acc)SEK-H1",
-                "PPMCode": "460899",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
-                "Current": 5.654450261780095,
-                "Yesterday": 4.188481675392655,
-                "LastWeek": 3.8743455497382118,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-26 04:10:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Templeton Emerging Markets A(acc)USD",
-                "PPMCode": "425067",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
-                "Current": -1.5506328267064207,
-                "Yesterday": -2.906761837070984,
-                "LastWeek": -2.5558500704251483,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-26 04:10:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Didner & Gerge Sm\u00e5bolag",
-                "PPMCode": "140491",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
-                "Current": 0.5191545773253079,
-                "Yesterday": -0.7984779182319195,
-                "LastWeek": -2.3510986352897665,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-26 04:10:11 (UTC)",
                 "history": true
             },
             {
@@ -442,6 +442,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 6.475103613550928,
+                "Yesterday": 4.452086945870231,
+                "LastWeek": 4.051381343925523,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-26 08:12:18 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 2.8992392301246435,
+                "Yesterday": 1.659441662212903,
+                "LastWeek": 0.15043844890041191,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-26 08:12:20 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
                 "PPMCode": "470104",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
@@ -453,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-26 06:12:03 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
@@ -467,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-26 06:12:06 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -481,48 +509,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-26 06:12:09 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 1.9035287345817005,
-                "Yesterday": 1.7668366046537833,
-                "LastWeek": -0.7129221178424652,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-26 04:10:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 2.8992392301246435,
-                "Yesterday": 1.659441662212903,
-                "LastWeek": 0.15043844890041191,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-26 04:10:20 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 0.2633040361932054,
-                "Yesterday": 0.3508252315757601,
-                "LastWeek": -2.116724545178559,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-26 04:10:23 (UTC)",
                 "history": true
             },
             {
