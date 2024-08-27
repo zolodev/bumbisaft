@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-27 08:11:15 (UTC)",
+                "LastUpdated": "2024-08-27 10:08:13 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-27 08:11:21 (UTC)",
+                "LastUpdated": "2024-08-27 10:08:18 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": -7.628665713871794,
+                "Yesterday": -9.472230367758678,
+                "LastWeek": -6.92271263884336,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-27 10:08:20 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-27 06:11:55 (UTC)",
+                "LastUpdated": "2024-08-27 08:11:15 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-27 06:12:03 (UTC)",
+                "LastUpdated": "2024-08-27 08:11:21 (UTC)",
                 "history": true
             },
             {
@@ -407,20 +421,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-08-20 12:15:04 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": -1.331828442437931,
-                "Yesterday": -4.845748683220475,
-                "LastWeek": -8.051166290443945,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-08-20 08:13:00 (UTC)",
-                "history": true
             }
         ]
     },
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-27 08:11:31 (UTC)",
+                "LastUpdated": "2024-08-27 10:08:30 (UTC)",
                 "history": false
             },
             {
@@ -452,22 +452,8 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-27 08:11:32 (UTC)",
+                "LastUpdated": "2024-08-27 10:08:31 (UTC)",
                 "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 6.475103613550928,
-                "Yesterday": 4.452086945870231,
-                "LastWeek": 4.051381343925523,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-27 06:12:16 (UTC)",
-                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
@@ -480,7 +466,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-27 06:12:19 (UTC)",
+                "LastUpdated": "2024-08-27 08:11:31 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 8.17763506941774,
+                "Yesterday": 7.0791785805995895,
+                "LastWeek": 4.455460280208723,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-27 08:11:32 (UTC)",
                 "history": true
             },
             {
