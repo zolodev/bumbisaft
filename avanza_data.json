@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-30 16:09:27 (UTC)",
+                "LastUpdated": "2024-08-30 18:10:55 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-30 16:09:34 (UTC)",
+                "LastUpdated": "2024-08-30 18:11:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": -6.113413709803142,
+                "Yesterday": -7.988963423924678,
+                "LastWeek": -7.738985541127103,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-08-30 18:11:08 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-30 14:07:45 (UTC)",
+                "LastUpdated": "2024-08-30 16:09:27 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-08-30 14:07:52 (UTC)",
+                "LastUpdated": "2024-08-30 16:09:34 (UTC)",
                 "history": true
             },
             {
@@ -480,8 +494,92 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-30 16:09:41 (UTC)",
+                "LastUpdated": "2024-08-30 18:11:11 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 8.175145705103759,
+                "Yesterday": 7.035377743885827,
+                "LastWeek": 4.356854948526609,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-30 18:11:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Didner & Gerge Sm\u00e5bolag",
+                "PPMCode": "140491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
+                "Current": 4.018557387354423,
+                "Yesterday": 3.076296896945925,
+                "LastWeek": 1.0818674703109046,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-30 18:11:18 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Aktiefond Stabil",
+                "PPMCode": "339184",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
+                "Current": 2.498294743312033,
+                "Yesterday": 1.6647802654953519,
+                "LastWeek": -0.26534543628336227,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-30 18:11:22 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": 0.872831035857403,
+                "Yesterday": -0.005245378821265627,
+                "LastWeek": -1.6911101319737314,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-30 18:11:24 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Fondita Nordic Micro Cap B",
+                "PPMCode": "785493",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
+                "Current": -3.187582847942734,
+                "Yesterday": -5.670470214641087,
+                "LastWeek": -5.086443214266505,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-30 18:11:26 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 3.41407616740681,
+                "Yesterday": 2.167945094872832,
+                "LastWeek": -1.293231059076842,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-08-30 16:09:41 (UTC)",
+                "history": true
             },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
@@ -495,7 +593,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-30 16:09:42 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Didner & Gerge Sm\u00e5bolag",
@@ -509,7 +607,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-30 16:09:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Aktiefond Stabil",
@@ -523,7 +621,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-30 16:09:50 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Aktiefond Sm\u00e5land",
@@ -537,7 +635,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-30 16:09:51 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Fondita Nordic Micro Cap B",
@@ -551,90 +649,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-30 16:09:53 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 8.175145705103759,
-                "Yesterday": 7.035377743885827,
-                "LastWeek": 4.356854948526609,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-30 14:07:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Didner & Gerge Sm\u00e5bolag",
-                "PPMCode": "140491",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
-                "Current": 4.018557387354423,
-                "Yesterday": 3.076296896945925,
-                "LastWeek": 1.0818674703109046,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-30 14:08:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": 2.55991138248724,
-                "Yesterday": 1.017210169399937,
-                "LastWeek": -0.49712263258854317,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-30 14:08:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Aktiefond Stabil",
-                "PPMCode": "339184",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
-                "Current": 2.498294743312033,
-                "Yesterday": 1.6647802654953519,
-                "LastWeek": -0.26534543628336227,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-30 14:08:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Aktiefond Sm\u00e5land",
-                "PPMCode": "272898",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
-                "Current": 0.872831035857403,
-                "Yesterday": -0.005245378821265627,
-                "LastWeek": -1.6911101319737314,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-30 14:08:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Nordic Micro Cap B",
-                "PPMCode": "785493",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
-                "Current": -3.187582847942734,
-                "Yesterday": -5.670470214641087,
-                "LastWeek": -5.086443214266505,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-30 14:08:08 (UTC)",
                 "history": true
             },
             {
@@ -761,104 +775,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-08-23 22:07:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": -1.9586568453408115,
-                "Yesterday": -2.4339301105666267,
-                "LastWeek": -6.8039757729648365,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-23 18:10:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Premium Brands R EUR",
-                "PPMCode": "923383",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
-                "Current": -5.304187410981081,
-                "Yesterday": -5.7983448182292285,
-                "LastWeek": -8.62773308036072,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-23 18:10:28 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Japanese Equity Opps R JPY",
-                "PPMCode": "910109",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
-                "Current": 1.692881296233723,
-                "Yesterday": 0.8185243841145231,
-                "LastWeek": -4.564162856832796,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-23 16:10:42 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 3.808655397166509,
-                "Yesterday": 4.543216988837213,
-                "LastWeek": -0.7049179479467548,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-23 16:10:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 1.5070587827626991,
-                "Yesterday": 0.5305778732585189,
-                "LastWeek": -4.11920194519607,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-23 16:10:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": -12.244692978299888,
-                "Yesterday": -12.047991347824599,
-                "LastWeek": -14.230317534070243,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-23 16:10:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Euro-Markets A2",
-                "PPMCode": "916122",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/734",
-                "Current": -4.188388404199901,
-                "Yesterday": -4.86542164310701,
-                "LastWeek": -8.267710438764954,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-08-23 16:10:55 (UTC)",
                 "history": true
             }
         ]
