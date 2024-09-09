@@ -3,17 +3,31 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": 10.428713661616444,
-                "Yesterday": 9.259692491838772,
-                "LastWeek": 7.746501308225071,
+                "Name": "Pictet-Emerging Markets R USD",
+                "PPMCode": "404236",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2186",
+                "Current": -3.5886588781721436,
+                "Yesterday": -4.4889301961814105,
+                "LastWeek": -3.8101894000845786,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-06 22:07:39 (UTC)",
+                "LastUpdated": "2024-09-09 00:40:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 0.8002359154457633,
+                "Yesterday": -0.08846829215982845,
+                "LastWeek": 0.2359154457595527,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-09 00:40:30 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-06 20:09:04 (UTC)",
+                "LastUpdated": "2024-09-06 22:07:39 (UTC)",
                 "history": true
             },
             {
@@ -343,6 +357,20 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "UB Infra A",
+                "PPMCode": "780411",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/600081",
+                "Current": 4.304237518534975,
+                "Yesterday": 3.7496590183006133,
+                "LastWeek": 1.9840229924572281,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-09 00:40:39 (UTC)",
+                "history": false
+            },
             {
                 "Name": "JPM China A (dist) USD",
                 "PPMCode": "233585",
