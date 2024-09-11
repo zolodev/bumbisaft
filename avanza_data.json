@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-11 02:37:04 (UTC)",
+                "LastUpdated": "2024-09-11 04:11:17 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-11 02:37:08 (UTC)",
+                "LastUpdated": "2024-09-11 04:11:22 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-11 02:37:09 (UTC)",
+                "LastUpdated": "2024-09-11 04:11:25 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-11 02:37:10 (UTC)",
+                "LastUpdated": "2024-09-11 04:11:26 (UTC)",
                 "history": false
             },
             {
@@ -69,8 +69,92 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-11 02:37:11 (UTC)",
+                "LastUpdated": "2024-09-11 04:11:28 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Storebrand USA A SEK",
+                "PPMCode": "248161",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1505",
+                "Current": 0.8422356988590949,
+                "Yesterday": -1.5694818333664196,
+                "LastWeek": 1.3906583639502943,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-11 04:11:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Index",
+                "PPMCode": "551507",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/181108",
+                "Current": 0.9252869786189966,
+                "Yesterday": -1.6685177882930342,
+                "LastWeek": 1.5376467753242185,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-11 02:37:04 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "\u00d6hman Marknad USA A",
+                "PPMCode": "678128",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506",
+                "Current": 0.7460448376696442,
+                "Yesterday": -1.7245257554172686,
+                "LastWeek": 1.8238734348054317,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-11 02:37:08 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -2.5720202242800236,
+                "Yesterday": -4.947757512060255,
+                "LastWeek": -0.790484916994619,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-11 02:37:09 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
+                "PPMCode": "456475",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
+                "Current": -2.1993517243411995,
+                "Yesterday": -4.575837117261093,
+                "LastWeek": -0.27975207017554693,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-11 02:37:10 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Global Vision A",
+                "PPMCode": "563965",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2253",
+                "Current": -2.425013261956053,
+                "Yesterday": -4.79318203629821,
+                "LastWeek": -2.401495041663097,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-11 02:37:11 (UTC)",
+                "history": true
             },
             {
                 "Name": "Franklin Technology A Acc USD",
@@ -112,62 +196,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-09-11 00:38:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Index",
-                "PPMCode": "551507",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/181108",
-                "Current": 0.9252869786189966,
-                "Yesterday": -1.6685177882930342,
-                "LastWeek": 1.5376467753242185,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-11 00:38:34 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Marknad USA A",
-                "PPMCode": "678128",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506",
-                "Current": 0.7460448376696442,
-                "Yesterday": -1.7245257554172686,
-                "LastWeek": 1.8238734348054317,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-11 00:38:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
-                "PPMCode": "456475",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
-                "Current": -2.1993517243411995,
-                "Yesterday": -4.575837117261093,
-                "LastWeek": -0.27975207017554693,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-10 12:16:42 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Global Vision A",
-                "PPMCode": "563965",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2253",
-                "Current": -2.425013261956053,
-                "Yesterday": -4.79318203629821,
-                "LastWeek": -2.401495041663097,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-10 10:09:12 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-11 02:37:18 (UTC)",
+                "LastUpdated": "2024-09-11 04:11:39 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-11 00:38:44 (UTC)",
+                "LastUpdated": "2024-09-11 02:37:18 (UTC)",
                 "history": true
             },
             {
