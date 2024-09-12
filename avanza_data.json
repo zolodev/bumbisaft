@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-12 12:15:02 (UTC)",
+                "LastUpdated": "2024-09-12 14:09:04 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-12 12:15:05 (UTC)",
+                "LastUpdated": "2024-09-12 14:09:09 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-12 10:09:18 (UTC)",
+                "LastUpdated": "2024-09-12 12:15:02 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-12 10:09:21 (UTC)",
+                "LastUpdated": "2024-09-12 12:15:05 (UTC)",
                 "history": true
             },
             {
@@ -379,34 +379,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-09-05 16:10:01 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Swedbank Robur Fastighet A",
-                "PPMCode": "968420",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
-                "Current": 10.93658250146798,
-                "Yesterday": 10.114503816793894,
-                "LastWeek": 8.807985907222546,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-05 14:08:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Templeton Global Bond A(acc)SEK-H1",
-                "PPMCode": "460899",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
-                "Current": 4.5073375262054665,
-                "Yesterday": 3.7735849056603903,
-                "LastWeek": 5.765199161425585,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-05 14:08:08 (UTC)",
-                "history": true
             }
         ]
     },
@@ -424,7 +396,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-12 12:15:12 (UTC)",
+                "LastUpdated": "2024-09-12 14:09:18 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -0.03196706681738668,
+                "Yesterday": -2.044560315195274,
+                "LastWeek": 0.15006761922605685,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-12 14:09:27 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +424,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-12 10:09:33 (UTC)",
+                "LastUpdated": "2024-09-12 12:15:12 (UTC)",
                 "history": true
             },
             {
