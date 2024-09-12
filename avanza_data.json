@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 15.010744743406923,
+                "Yesterday": 10.920859086042423,
+                "LastWeek": 10.33742511886347,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-12 20:09:21 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin Technology A Acc USD",
                 "PPMCode": "496729",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
@@ -13,21 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-12 18:11:48 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": -4.234974819865819,
-                "Yesterday": -6.794517145554881,
-                "LastWeek": -4.024064812576661,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-12 18:11:51 (UTC)",
+                "LastUpdated": "2024-09-12 20:09:25 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-12 18:11:54 (UTC)",
+                "LastUpdated": "2024-09-12 20:09:27 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-12 16:09:36 (UTC)",
+                "LastUpdated": "2024-09-12 18:11:48 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": -4.234974819865819,
+                "Yesterday": -6.794517145554881,
+                "LastWeek": -4.024064812576661,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-12 18:11:51 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": -1.6674225868964685,
+                "Yesterday": -4.235352327547118,
+                "LastWeek": -1.490949573248683,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-12 18:11:54 (UTC)",
                 "history": true
             },
             {
@@ -351,20 +379,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-09-06 16:09:31 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": -0.48019310439277396,
-                "Yesterday": -1.7752593556339242,
-                "LastWeek": 3.737117814222625,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-06 10:09:05 (UTC)",
-                "history": true
             }
         ]
     },
@@ -382,7 +396,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-12 18:11:59 (UTC)",
+                "LastUpdated": "2024-09-12 20:09:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 15.010744743406923,
+                "Yesterday": 10.920859086042423,
+                "LastWeek": 10.33742511886347,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-12 20:09:37 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +424,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-12 18:12:06 (UTC)",
+                "LastUpdated": "2024-09-12 20:09:40 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +438,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-12 16:09:46 (UTC)",
+                "LastUpdated": "2024-09-12 18:11:59 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +452,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-12 16:09:52 (UTC)",
+                "LastUpdated": "2024-09-12 18:12:06 (UTC)",
                 "history": true
             },
             {
@@ -481,20 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-09 10:09:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": -12.814158113500179,
-                "Yesterday": -11.952069782255734,
-                "LastWeek": -12.748056283564205,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-05 20:09:17 (UTC)",
                 "history": true
             }
         ]
