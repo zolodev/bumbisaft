@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-18 20:08:55 (UTC)",
+                "LastUpdated": "2024-09-18 22:07:42 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-18 20:09:00 (UTC)",
+                "LastUpdated": "2024-09-18 22:07:47 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-18 20:09:01 (UTC)",
+                "LastUpdated": "2024-09-18 22:07:49 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-18 20:09:02 (UTC)",
+                "LastUpdated": "2024-09-18 22:07:50 (UTC)",
                 "history": false
             },
             {
@@ -69,22 +69,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-18 20:09:03 (UTC)",
+                "LastUpdated": "2024-09-18 22:07:52 (UTC)",
                 "history": false
             },
             {
-                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 1.6254016254016335,
-                "Yesterday": 0.08505008505009723,
-                "LastWeek": -2.119952119952108,
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": -8.80351839659898,
+                "Yesterday": -9.786146850408468,
+                "LastWeek": -8.663253028797357,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-18 18:11:02 (UTC)",
-                "history": true
+                "LastUpdated": "2024-09-18 22:07:54 (UTC)",
+                "history": false
             },
             {
                 "Name": "Aktiespararna Direktavkastning A",
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-18 18:11:04 (UTC)",
+                "LastUpdated": "2024-09-18 20:08:55 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,63 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-18 10:09:13 (UTC)",
+                "LastUpdated": "2024-09-18 20:09:00 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sverige",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": 4.489423223253695,
+                "Yesterday": 3.271952518642529,
+                "LastWeek": 2.876274539643891,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-18 20:09:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Proethos Fond",
+                "PPMCode": "897520",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
+                "Current": -2.232686980609419,
+                "Yesterday": -3.362880886426589,
+                "LastWeek": -5.495844875346253,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-18 20:09:02 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sverige Plus",
+                "PPMCode": "490292",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
+                "Current": 2.9405187835420343,
+                "Yesterday": 1.7889087656529614,
+                "LastWeek": 1.5317531305903451,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-18 20:09:03 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 1.6254016254016335,
+                "Yesterday": 0.08505008505009723,
+                "LastWeek": -2.119952119952108,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-18 18:11:02 (UTC)",
                 "history": true
             },
             {
@@ -339,20 +395,6 @@
                 "history": true
             },
             {
-                "Name": "Proethos Fond",
-                "PPMCode": "897520",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/953015",
-                "Current": -7.277857637225159,
-                "Yesterday": -9.194484374168136,
-                "LastWeek": -7.34174519512326,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-13 14:07:51 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Franklin Technology A Acc USD",
                 "PPMCode": "496729",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
@@ -424,8 +466,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-18 20:09:07 (UTC)",
+                "LastUpdated": "2024-09-18 22:08:01 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": -2.8731600139977527,
+                "Yesterday": -2.584647653231743,
+                "LastWeek": -7.555092762267011,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-18 22:08:08 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 17.672707806099442,
+                "Yesterday": 17.91581864463504,
+                "LastWeek": 10.242791991063413,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-18 20:09:07 (UTC)",
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -439,7 +509,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-18 20:09:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi A1 SEK",
@@ -453,34 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-18 18:11:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 17.672707806099442,
-                "Yesterday": 17.91581864463504,
-                "LastWeek": 10.242791991063413,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-18 18:11:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": -2.8731600139977527,
-                "Yesterday": -2.584647653231743,
-                "LastWeek": -7.555092762267011,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-18 18:11:20 (UTC)",
                 "history": true
             },
             {
