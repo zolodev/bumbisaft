@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-20 20:09:04 (UTC)",
+                "LastUpdated": "2024-09-20 22:08:42 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": -3.146119951234631,
+                "Yesterday": -6.050517190707625,
+                "LastWeek": -7.377670698636791,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-20 20:09:04 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -28,20 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-09-20 18:11:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": -3.146119951234631,
-                "Yesterday": -6.050517190707625,
-                "LastWeek": -7.377670698636791,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-20 18:11:10 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +480,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-20 20:09:20 (UTC)",
+                "LastUpdated": "2024-09-20 22:08:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": -5.972067863733988,
+                "Yesterday": -7.158422534834381,
+                "LastWeek": -8.950805675024741,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-20 22:08:58 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-20 20:09:23 (UTC)",
+                "LastUpdated": "2024-09-20 22:09:00 (UTC)",
                 "history": false
             },
             {
@@ -508,21 +522,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-20 20:09:24 (UTC)",
+                "LastUpdated": "2024-09-20 22:09:02 (UTC)",
                 "history": false
             },
             {
-                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
-                "PPMCode": "916354",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": 7.8063009743239915,
-                "Yesterday": 5.978426508223901,
-                "LastWeek": 3.572166598425905,
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": -9.955692393732779,
+                "Yesterday": -11.01893161828703,
+                "LastWeek": -12.306270201992039,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-20 18:11:32 (UTC)",
+                "LastUpdated": "2024-09-20 20:09:20 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +550,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-20 18:11:36 (UTC)",
+                "LastUpdated": "2024-09-20 20:09:23 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": -6.102584596965534,
+                "Yesterday": -6.514556663755726,
+                "LastWeek": -9.274358342105293,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-20 20:09:24 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
+                "PPMCode": "916354",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
+                "Current": 7.8063009743239915,
+                "Yesterday": 5.978426508223901,
+                "LastWeek": 3.572166598425905,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-20 18:11:32 (UTC)",
                 "history": true
             },
             {
@@ -705,20 +747,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-16 10:10:18 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": -4.579822163067977,
-                "Yesterday": -4.392203397984298,
-                "LastWeek": -7.991436887132084,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-13 22:08:35 (UTC)",
                 "history": true
             },
             {
