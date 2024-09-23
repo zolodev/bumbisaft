@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": -1.5943277530137234,
-                "Yesterday": -3.7617787344204237,
-                "LastWeek": -4.870340139926234,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-23 12:15:53 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "BGF India A2",
                 "PPMCode": "768499",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
@@ -27,21 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-23 12:15:59 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "CB European Quality Fund A",
-                "PPMCode": "309492",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/633",
-                "Current": 0.7314684497669977,
-                "Yesterday": -1.2555542809469902,
-                "LastWeek": -1.323768119920673,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-23 12:16:01 (UTC)",
+                "LastUpdated": "2024-09-23 14:08:08 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-23 12:16:03 (UTC)",
+                "LastUpdated": "2024-09-23 14:08:10 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": 7.259730042758357,
+                "Yesterday": 5.185427190025873,
+                "LastWeek": 5.069451948183993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-23 14:08:12 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +55,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-23 10:10:20 (UTC)",
+                "LastUpdated": "2024-09-23 12:15:53 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF India A2",
+                "PPMCode": "768499",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
+                "Current": 1.9111436927958358,
+                "Yesterday": -0.18720712998570813,
+                "LastWeek": 0.040185365615645965,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-23 12:15:59 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "CB European Quality Fund A",
+                "PPMCode": "309492",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/633",
+                "Current": 0.7314684497669977,
+                "Yesterday": -1.2555542809469902,
+                "LastWeek": -1.323768119920673,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-23 12:16:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": 4.621522605651288,
+                "Yesterday": 2.594681797691422,
+                "LastWeek": 2.371608012144002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-23 12:16:03 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-23 12:16:09 (UTC)",
+                "LastUpdated": "2024-09-23 14:08:19 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-23 12:16:12 (UTC)",
+                "LastUpdated": "2024-09-23 14:08:21 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-23 12:16:12 (UTC)",
+                "LastUpdated": "2024-09-23 14:08:22 (UTC)",
                 "history": false
             },
             {
@@ -592,7 +620,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-23 12:16:14 (UTC)",
+                "LastUpdated": "2024-09-23 14:08:23 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": -5.914431907121931,
+                "Yesterday": -6.514556663755726,
+                "LastWeek": -9.274358342105293,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-23 14:08:24 (UTC)",
                 "history": false
             },
             {
@@ -606,7 +648,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-23 10:10:34 (UTC)",
+                "LastUpdated": "2024-09-23 12:16:09 (UTC)",
                 "history": true
             },
             {
@@ -620,7 +662,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-23 10:10:37 (UTC)",
+                "LastUpdated": "2024-09-23 12:16:12 (UTC)",
                 "history": true
             },
             {
@@ -634,7 +676,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-23 10:10:39 (UTC)",
+                "LastUpdated": "2024-09-23 12:16:12 (UTC)",
                 "history": true
             },
             {
@@ -648,7 +690,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-23 10:10:41 (UTC)",
+                "LastUpdated": "2024-09-23 12:16:14 (UTC)",
                 "history": true
             },
             {
@@ -817,20 +859,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-17 00:32:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": -4.165259864929632,
-                "Yesterday": -4.420412204340546,
-                "LastWeek": -8.265943617249096,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-16 12:16:40 (UTC)",
                 "history": true
             }
         ]
