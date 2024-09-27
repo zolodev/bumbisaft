@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 3.2718593497514257,
-                "Yesterday": -3.341768358243381,
-                "LastWeek": -12.443318883517334,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-27 20:09:24 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Nordea Kinafond",
                 "PPMCode": "653097",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-27 20:09:29 (UTC)",
+                "LastUpdated": "2024-09-27 22:07:52 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-27 20:09:32 (UTC)",
+                "LastUpdated": "2024-09-27 22:07:55 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-27 20:09:37 (UTC)",
+                "LastUpdated": "2024-09-27 22:08:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 9.25206517664265,
+                "Yesterday": 4.652585293421732,
+                "LastWeek": -10.631847862575365,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-27 22:08:03 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-27 18:11:13 (UTC)",
+                "LastUpdated": "2024-09-27 20:09:24 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-09-27 18:11:18 (UTC)",
+                "LastUpdated": "2024-09-27 20:09:29 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "AGCM Asia Growth RC SEK",
+                "PPMCode": "938845",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
+                "Current": 9.08611784547274,
+                "Yesterday": 3.320333087382725,
+                "LastWeek": -4.20575524401814,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-27 20:09:32 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 9.84088233398905,
+                "Yesterday": 4.456122089462155,
+                "LastWeek": -7.864383893042687,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-09-27 20:09:37 (UTC)",
                 "history": true
             },
             {
@@ -98,34 +126,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-09-27 18:11:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AGCM Asia Growth RC SEK",
-                "PPMCode": "938845",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
-                "Current": 9.08611784547274,
-                "Yesterday": 3.320333087382725,
-                "LastWeek": -4.20575524401814,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-27 18:11:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 9.84088233398905,
-                "Yesterday": 4.456122089462155,
-                "LastWeek": -7.864383893042687,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-09-27 16:11:05 (UTC)",
                 "history": true
             },
             {
@@ -428,6 +428,62 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 9.25206517664265,
+                "Yesterday": 4.652585293421732,
+                "LastWeek": -10.631847862575365,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-27 22:08:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 6.435401159708351,
+                "Yesterday": 2.3016979171698244,
+                "LastWeek": -12.69311845643673,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-27 22:08:09 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 9.84088233398905,
+                "Yesterday": 4.456122089462155,
+                "LastWeek": -7.864383893042687,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-27 22:08:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 9.05087792020898,
+                "Yesterday": 6.565469150770714,
+                "LastWeek": -7.202631907721152,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-09-27 22:08:19 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-China Equities R USD",
                 "PPMCode": "882126",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
@@ -439,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-27 20:09:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -453,7 +509,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-27 20:09:45 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -467,7 +523,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-27 20:09:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -481,62 +537,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-09-27 20:09:54 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 9.84088233398905,
-                "Yesterday": 4.456122089462155,
-                "LastWeek": -7.864383893042687,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-27 18:11:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 3.2718593497514257,
-                "Yesterday": -3.341768358243381,
-                "LastWeek": -12.443318883517334,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-27 18:11:28 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 9.05087792020898,
-                "Yesterday": 6.565469150770714,
-                "LastWeek": -7.202631907721152,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-27 18:11:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 1.7980670780025716,
-                "Yesterday": -3.8867912165884366,
-                "LastWeek": -12.58308025824315,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-27 18:11:33 (UTC)",
                 "history": true
             },
             {
