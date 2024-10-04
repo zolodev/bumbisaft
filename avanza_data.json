@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-03 22:08:10 (UTC)",
+                "LastUpdated": "2024-10-04 00:40:40 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-03 22:08:13 (UTC)",
+                "LastUpdated": "2024-10-04 00:40:44 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-03 22:08:18 (UTC)",
+                "LastUpdated": "2024-10-04 00:40:50 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-03 20:09:18 (UTC)",
+                "LastUpdated": "2024-10-03 22:08:10 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-03 20:09:22 (UTC)",
+                "LastUpdated": "2024-10-03 22:08:13 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-03 20:09:31 (UTC)",
+                "LastUpdated": "2024-10-03 22:08:18 (UTC)",
                 "history": true
             },
             {
@@ -200,7 +200,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 22:08:23 (UTC)",
+                "LastUpdated": "2024-10-04 00:40:57 (UTC)",
                 "history": false
             },
             {
@@ -214,7 +214,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 22:08:25 (UTC)",
+                "LastUpdated": "2024-10-04 00:41:00 (UTC)",
                 "history": false
             },
             {
@@ -228,7 +228,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 22:08:29 (UTC)",
+                "LastUpdated": "2024-10-04 00:41:06 (UTC)",
                 "history": false
             },
             {
@@ -242,7 +242,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 22:08:30 (UTC)",
+                "LastUpdated": "2024-10-04 00:41:08 (UTC)",
                 "history": false
             },
             {
@@ -256,7 +256,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 22:08:31 (UTC)",
+                "LastUpdated": "2024-10-04 00:41:10 (UTC)",
                 "history": false
             },
             {
@@ -270,7 +270,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 20:09:36 (UTC)",
+                "LastUpdated": "2024-10-03 22:08:23 (UTC)",
                 "history": true
             },
             {
@@ -284,7 +284,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 20:09:40 (UTC)",
+                "LastUpdated": "2024-10-03 22:08:25 (UTC)",
                 "history": true
             },
             {
@@ -298,21 +298,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 20:09:47 (UTC)",
+                "LastUpdated": "2024-10-03 22:08:29 (UTC)",
                 "history": true
             },
             {
                 "Name": "JPM China A (dist) USD",
                 "PPMCode": "233585",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 27.04223985924098,
-                "Yesterday": 16.97165671190979,
-                "LastWeek": -7.003399049994613,
+                "Current": 26.29406619214886,
+                "Yesterday": 27.11517844730072,
+                "LastWeek": -6.8967865648839055,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-03 22:08:30 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 10.180721949965726,
+                "Yesterday": 6.864660722450664,
+                "LastWeek": -9.52866683985434,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-03 18:11:35 (UTC)",
+                "LastUpdated": "2024-10-03 22:08:31 (UTC)",
                 "history": true
             },
             {
@@ -341,20 +355,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-01 00:45:20 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 6.435401159708351,
-                "Yesterday": 2.3016979171698244,
-                "LastWeek": -12.69311845643673,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-09-30 16:10:49 (UTC)",
                 "history": true
             },
             {
