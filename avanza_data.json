@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-08 20:07:50 (UTC)",
+                "LastUpdated": "2024-10-08 22:08:27 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-08 18:11:16 (UTC)",
+                "LastUpdated": "2024-10-08 20:07:50 (UTC)",
                 "history": true
             },
             {
@@ -148,20 +148,6 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 34.108997978479394,
-                "Yesterday": 31.534134044834737,
-                "LastWeek": -0.6608840210936433,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 20:08:00 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Nordea Kinafond",
                 "PPMCode": "653097",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
@@ -172,7 +158,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 20:08:04 (UTC)",
+                "LastUpdated": "2024-10-08 22:08:39 (UTC)",
                 "history": false
             },
             {
@@ -186,7 +172,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 20:08:07 (UTC)",
+                "LastUpdated": "2024-10-08 22:08:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "AGCM Asia Growth RC SEK",
+                "PPMCode": "938845",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
+                "Current": 26.258044097478635,
+                "Yesterday": 24.949889228821593,
+                "LastWeek": 9.17818335267432,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-08 22:08:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 24.171047336754764,
+                "Yesterday": 15.113803822533495,
+                "LastWeek": -6.173472190329265,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-08 22:08:46 (UTC)",
                 "history": false
             },
             {
@@ -200,7 +214,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 18:11:28 (UTC)",
+                "LastUpdated": "2024-10-08 20:08:00 (UTC)",
                 "history": true
             },
             {
@@ -214,7 +228,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 18:11:32 (UTC)",
+                "LastUpdated": "2024-10-08 20:08:04 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF China A2",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": 15.063444327842385,
+                "Yesterday": 23.234364519436053,
+                "LastWeek": 7.380844214178629,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-08 20:08:07 (UTC)",
                 "history": true
             },
             {
