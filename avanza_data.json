@@ -13,7 +13,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-09 00:40:15 (UTC)",
+                "LastUpdated": "2024-10-09 02:43:24 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": 1.5436631528220883,
+                "Yesterday": -0.8889543539928947,
+                "LastWeek": 1.755989831244322,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-09 02:43:32 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-08 22:08:27 (UTC)",
+                "LastUpdated": "2024-10-09 00:40:15 (UTC)",
                 "history": true
             },
             {
@@ -148,6 +162,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "BGF China A2",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": 15.063444327842385,
+                "Yesterday": 23.234364519436053,
+                "LastWeek": 7.380844214178629,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-09 02:43:37 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "AGCM Asia Growth RC SEK",
+                "PPMCode": "938845",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
+                "Current": 26.258044097478635,
+                "Yesterday": 24.949889228821593,
+                "LastWeek": 9.17818335267432,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-09 02:43:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 24.171047336754764,
+                "Yesterday": 15.113803822533495,
+                "LastWeek": -6.173472190329265,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-09 02:43:41 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Nordea Kinafond",
                 "PPMCode": "653097",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
@@ -159,7 +215,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-09 00:40:28 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF China A2",
@@ -173,7 +229,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-09 00:40:30 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "AGCM Asia Growth RC SEK",
@@ -187,7 +243,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-09 00:40:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -201,62 +257,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-09 00:40:34 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 30.112475952967138,
-                "Yesterday": 27.738162576844466,
-                "LastWeek": 1.1402983633552675,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 22:08:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 15.063444327842385,
-                "Yesterday": 23.234364519436053,
-                "LastWeek": 7.380844214178629,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 22:08:41 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AGCM Asia Growth RC SEK",
-                "PPMCode": "938845",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
-                "Current": 26.258044097478635,
-                "Yesterday": 24.949889228821593,
-                "LastWeek": 9.17818335267432,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 22:08:42 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 24.171047336754764,
-                "Yesterday": 15.113803822533495,
-                "LastWeek": -6.173472190329265,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-08 22:08:46 (UTC)",
                 "history": true
             },
             {
