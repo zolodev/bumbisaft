@@ -6,28 +6,28 @@
                 "Name": "Allianz China Equity A USD",
                 "PPMCode": "753731",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 17.504418080767692,
+                "Current": 17.675197045239784,
                 "Yesterday": 14.7409394624566,
                 "LastWeek": 14.101890170878322,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 00:40:41 (UTC)",
+                "LastUpdated": "2024-10-11 02:42:43 (UTC)",
                 "history": false
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
                 "PPMCode": "334409",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 18.27655786873019,
+                "Current": 18.448459060191254,
                 "Yesterday": 15.696959444068165,
                 "LastWeek": 14.263237300900814,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 00:40:44 (UTC)",
+                "LastUpdated": "2024-10-11 02:42:47 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 00:40:45 (UTC)",
+                "LastUpdated": "2024-10-11 02:42:48 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 00:40:46 (UTC)",
+                "LastUpdated": "2024-10-11 02:42:49 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 00:40:49 (UTC)",
+                "LastUpdated": "2024-10-11 02:42:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 20.214436167666822,
+                "Yesterday": 17.873411446243978,
+                "LastWeek": 16.50409285818421,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-11 02:42:53 (UTC)",
                 "history": false
             },
             {
@@ -83,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-10 22:08:28 (UTC)",
+                "LastUpdated": "2024-10-11 00:40:41 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-10 22:08:31 (UTC)",
+                "LastUpdated": "2024-10-11 00:40:44 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +125,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-10 22:08:32 (UTC)",
+                "LastUpdated": "2024-10-11 00:40:45 (UTC)",
                 "history": true
             },
             {
@@ -125,7 +139,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-10 22:08:32 (UTC)",
+                "LastUpdated": "2024-10-11 00:40:46 (UTC)",
                 "history": true
             },
             {
@@ -139,7 +153,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-10 22:08:35 (UTC)",
+                "LastUpdated": "2024-10-11 00:40:49 (UTC)",
                 "history": true
             },
             {
@@ -267,26 +281,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-04 12:15:21 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 25.216978585665267,
-                "Yesterday": 16.281785496347243,
-                "LastWeek": -3.8451956699447143,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-04 00:40:44 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": -2.4217447990406016,
+                "Yesterday": -2.9568820061776497,
+                "LastWeek": -8.52346557076598,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-11 02:42:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 4.917612167047221,
+                "Yesterday": 4.492849141103028,
+                "LastWeek": 1.4052459370291843,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-11 02:42:59 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Franklin Technology A Acc USD",
                 "PPMCode": "496729",
@@ -299,7 +327,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-11 00:40:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Financials A2",
@@ -313,7 +341,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-11 00:40:58 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin US Opportunities A(acc)USD",
@@ -327,48 +355,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-11 00:41:03 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": -2.248552104222239,
-                "Yesterday": -3.6577613708353383,
-                "LastWeek": -6.910266159064767,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-10 22:08:40 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 4.76534794444268,
-                "Yesterday": 4.492849141103028,
-                "LastWeek": 1.4052459370291843,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-10 22:08:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": 1.9306837603215832,
-                "Yesterday": 0.7813431473578406,
-                "LastWeek": -2.0779195687664838,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-10 22:08:47 (UTC)",
                 "history": true
             },
             {
