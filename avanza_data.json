@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 22:07:53 (UTC)",
+                "LastUpdated": "2024-10-14 00:42:27 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 22:07:58 (UTC)",
+                "LastUpdated": "2024-10-14 00:42:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 19.76100282691305,
+                "Yesterday": 17.29524106633518,
+                "LastWeek": 16.813267059735335,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-14 00:42:37 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": -0.08452958891308895,
+                "Yesterday": -2.129001899230127,
+                "LastWeek": -1.7619902687636004,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-14 00:42:38 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 20:09:41 (UTC)",
+                "LastUpdated": "2024-10-11 22:07:53 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +83,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-11 20:09:46 (UTC)",
+                "LastUpdated": "2024-10-11 22:07:58 (UTC)",
                 "history": true
             },
             {
@@ -246,17 +274,31 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": -2.4217447990406016,
-                "Yesterday": -2.9568820061776497,
-                "LastWeek": -8.52346557076598,
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": -4.514409244233273,
+                "Yesterday": -5.291725578746334,
+                "LastWeek": -9.41759213527169,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-11 22:08:02 (UTC)",
+                "LastUpdated": "2024-10-14 00:42:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": -2.6464581809314818,
+                "Yesterday": -2.8422945623018743,
+                "LastWeek": -7.454736649597654,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-14 00:42:53 (UTC)",
                 "history": false
             },
             {
@@ -270,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-11 20:09:51 (UTC)",
+                "LastUpdated": "2024-10-11 22:08:02 (UTC)",
                 "history": true
             },
             {
