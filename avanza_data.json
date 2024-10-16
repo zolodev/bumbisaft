@@ -13,8 +13,78 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 10:09:24 (UTC)",
+                "LastUpdated": "2024-10-16 12:15:59 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -0.008133218804332579,
+                "Yesterday": -1.212928498217747,
+                "LastWeek": -4.261723661442314,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-16 12:16:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Dynamisk Aktiefond",
+                "PPMCode": "520759",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2384",
+                "Current": 2.239815870512647,
+                "Yesterday": 1.0186793397764429,
+                "LastWeek": -1.3415452811491073,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-16 12:16:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Teknologi S",
+                "PPMCode": "183343",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+                "Current": -1.0296128819464472,
+                "Yesterday": -2.2014044111429416,
+                "LastWeek": -4.192942892252839,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-16 12:16:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Water AT EUR",
+                "PPMCode": "878694",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
+                "Current": 1.6433547585225898,
+                "Yesterday": 0.2678467626937974,
+                "LastWeek": -0.213486754384123,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-16 12:16:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": -2.6826015592942234,
+                "Yesterday": -3.959786622897004,
+                "LastWeek": -2.5748871563397673,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-16 10:09:24 (UTC)",
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -28,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-16 08:12:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": -2.6826015592942234,
-                "Yesterday": -3.959786622897004,
-                "LastWeek": -2.5748871563397673,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 08:12:14 (UTC)",
                 "history": true
             },
             {
@@ -354,21 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-16 10:09:34 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": -0.008133218804332579,
-                "Yesterday": -1.212928498217747,
-                "LastWeek": -4.261723661442314,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-16 10:09:38 (UTC)",
+                "LastUpdated": "2024-10-16 12:16:15 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +424,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-16 08:12:24 (UTC)",
+                "LastUpdated": "2024-10-16 10:09:34 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -0.008133218804332579,
+                "Yesterday": -1.212928498217747,
+                "LastWeek": -4.261723661442314,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-16 10:09:38 (UTC)",
                 "history": true
             },
             {
@@ -470,20 +526,6 @@
                 "history": true
             },
             {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": -2.432081645871878,
-                "Yesterday": -2.44523336492486,
-                "LastWeek": -6.31479790328719,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-14 12:16:46 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "BGF World Financials A2",
                 "PPMCode": "410258",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
@@ -537,20 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-09 14:08:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AGCM Asia Growth RC SEK",
-                "PPMCode": "938845",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
-                "Current": 26.258044097478635,
-                "Yesterday": 24.949889228821593,
-                "LastWeek": 9.17818335267432,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-09 12:15:49 (UTC)",
                 "history": true
             }
         ]
