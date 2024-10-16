@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 04:10:59 (UTC)",
+                "LastUpdated": "2024-10-16 06:12:24 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 02:46:21 (UTC)",
+                "LastUpdated": "2024-10-16 04:10:59 (UTC)",
                 "history": true
             },
             {
@@ -343,6 +343,20 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 3.4737584360521474,
+                "Yesterday": 3.3352697897654493,
+                "LastWeek": -1.0265112704069612,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-16 06:12:44 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Franklin Technology A Acc USD",
                 "PPMCode": "496729",
