@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 8.280210658493175,
-                "Yesterday": 5.289119241097746,
-                "LastWeek": 1.8161205723384088,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-17 16:10:42 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Franklin Biotechnology Discv A(acc)USD",
                 "PPMCode": "389239",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
@@ -27,7 +13,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-17 16:10:46 (UTC)",
+                "LastUpdated": "2024-10-17 18:10:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 2.518529139833738,
+                "Yesterday": 0.8018983376662459,
+                "LastWeek": -0.4677614454303212,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-17 18:10:44 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-17 16:10:49 (UTC)",
+                "LastUpdated": "2024-10-17 18:10:48 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-17 16:10:51 (UTC)",
+                "LastUpdated": "2024-10-17 18:10:51 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-17 14:08:32 (UTC)",
+                "LastUpdated": "2024-10-17 16:10:42 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-17 14:08:37 (UTC)",
+                "LastUpdated": "2024-10-17 16:10:46 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-17 14:08:40 (UTC)",
+                "LastUpdated": "2024-10-17 16:10:49 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": 6.580454803585085,
+                "Yesterday": 4.395158967268288,
+                "LastWeek": 1.7740577050223645,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-17 16:10:51 (UTC)",
                 "history": true
             },
             {
@@ -487,14 +501,14 @@
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 8.280210658493175,
-                "Yesterday": 5.289119241097746,
-                "LastWeek": 1.8161205723384088,
+                "Current": 8.029756550739156,
+                "Yesterday": 7.068762838745159,
+                "LastWeek": 0.6317082212681006,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 16:10:53 (UTC)",
+                "LastUpdated": "2024-10-17 18:10:58 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 16:10:57 (UTC)",
+                "LastUpdated": "2024-10-17 18:11:00 (UTC)",
                 "history": false
             },
             {
@@ -522,35 +536,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 16:10:58 (UTC)",
+                "LastUpdated": "2024-10-17 18:11:01 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF World Financials A2",
                 "PPMCode": "410258",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 4.962564767532596,
-                "Yesterday": 3.5286059145569824,
-                "LastWeek": -0.07243428899964591,
+                "Current": 5.3787127817549525,
+                "Yesterday": 4.769234975035707,
+                "LastWeek": -0.33293513426104693,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 16:11:02 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Listed Private Equity A",
-                "PPMCode": "341362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": 6.580454803585085,
-                "Yesterday": 4.395158967268288,
-                "LastWeek": 1.7740577050223645,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 16:11:03 (UTC)",
+                "LastUpdated": "2024-10-17 18:11:03 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 14:08:43 (UTC)",
+                "LastUpdated": "2024-10-17 16:10:53 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 14:08:47 (UTC)",
+                "LastUpdated": "2024-10-17 16:10:57 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 14:08:48 (UTC)",
+                "LastUpdated": "2024-10-17 16:10:58 (UTC)",
                 "history": true
             },
             {
@@ -606,7 +606,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-17 14:08:52 (UTC)",
+                "LastUpdated": "2024-10-17 16:11:02 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": 6.580454803585085,
+                "Yesterday": 4.395158967268288,
+                "LastWeek": 1.7740577050223645,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-17 16:11:03 (UTC)",
                 "history": true
             },
             {
