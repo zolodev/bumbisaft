@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 17.93750718023674,
+                "Yesterday": 13.588368970987366,
+                "LastWeek": 5.276822837156111,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-22 02:44:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "AGCM Asia Growth RC SEK",
+                "PPMCode": "938845",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
+                "Current": 16.70521446593776,
+                "Yesterday": 13.298990748528167,
+                "LastWeek": 15.979814970563485,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-22 02:44:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Tillv\u00e4xtmarknad Aktiv A",
+                "PPMCode": "206250",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2156",
+                "Current": 5.954537262646236,
+                "Yesterday": 3.705780530024141,
+                "LastWeek": 3.6917500013146087,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-22 02:44:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Emerging Markets A",
+                "PPMCode": "295857",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364655",
+                "Current": 6.532723772858502,
+                "Yesterday": 4.367179980750716,
+                "LastWeek": 3.926050689765786,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-22 02:44:51 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Nordea Kinafond",
                 "PPMCode": "653097",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-22 00:41:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-22 00:41:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "AGCM Asia Growth RC SEK",
@@ -42,48 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-22 00:41:40 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 17.625999092492776,
-                "Yesterday": 11.860077990029387,
-                "LastWeek": 19.645130104843602,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-21 22:07:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 17.785461745667554,
-                "Yesterday": 13.588368970987366,
-                "LastWeek": 5.276822837156111,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-21 22:07:58 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AGCM Asia Growth RC SEK",
-                "PPMCode": "938845",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/544595",
-                "Current": 16.70521446593776,
-                "Yesterday": 13.298990748528167,
-                "LastWeek": 15.979814970563485,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-21 22:08:01 (UTC)",
                 "history": true
             },
             {
@@ -515,28 +529,14 @@
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 17.785461745667554,
+                "Current": 17.93750718023674,
                 "Yesterday": 13.588368970987366,
                 "LastWeek": 5.276822837156111,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-22 00:41:44 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Biotechnology Discv A(acc)USD",
-                "PPMCode": "389239",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
-                "Current": 3.702700807375402,
-                "Yesterday": 3.2029876690039143,
-                "LastWeek": -2.65122656662823,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-22 00:41:51 (UTC)",
+                "LastUpdated": "2024-10-22 02:44:52 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-21 22:08:05 (UTC)",
+                "LastUpdated": "2024-10-22 00:41:44 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-21 22:08:12 (UTC)",
+                "LastUpdated": "2024-10-22 00:41:51 (UTC)",
                 "history": true
             },
             {
