@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-23 18:11:13 (UTC)",
+                "LastUpdated": "2024-10-23 20:09:54 (UTC)",
                 "history": false
             },
             {
@@ -27,35 +27,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-23 18:11:16 (UTC)",
+                "LastUpdated": "2024-10-23 20:09:57 (UTC)",
                 "history": false
             },
             {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 13.953417234642437,
-                "Yesterday": 12.271828125511451,
-                "LastWeek": 14.292271100191572,
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": 0.22611979743549582,
+                "Yesterday": -1.2936744937141684,
+                "LastWeek": 1.0434302029641904,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-23 18:11:19 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 4.606686639357559,
-                "Yesterday": 3.749037320102305,
-                "LastWeek": 4.94426715480289,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-23 18:11:21 (UTC)",
+                "LastUpdated": "2024-10-23 20:10:03 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +55,49 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-23 16:10:35 (UTC)",
+                "LastUpdated": "2024-10-23 18:11:13 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 14.723588800823764,
+                "Yesterday": 13.379629506491913,
+                "LastWeek": 16.366906181644065,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-23 18:11:16 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF China A2",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": 13.953417234642437,
+                "Yesterday": 12.271828125511451,
+                "LastWeek": 14.292271100191572,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-23 18:11:19 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 4.606686639357559,
+                "Yesterday": 3.749037320102305,
+                "LastWeek": 4.94426715480289,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-23 18:11:21 (UTC)",
                 "history": true
             },
             {
@@ -297,34 +325,6 @@
                 "history": true
             },
             {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 13.246728037972243,
-                "Yesterday": 8.912158965060593,
-                "LastWeek": 12.44184980508883,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-21 18:11:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 15.140111443243075,
-                "Yesterday": 11.050669633838702,
-                "LastWeek": 16.91631172741729,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-18 22:08:02 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "BGF World Technology A2",
                 "PPMCode": "446088",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
@@ -407,82 +407,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-17 00:41:02 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF Natural Resources Fund Class A2 USD",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": -1.4404628989322776,
-                "Yesterday": -2.896342024213484,
-                "LastWeek": 0.10334330578329032,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 20:09:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 3.951912227491652,
-                "Yesterday": 3.5286059145569824,
-                "LastWeek": -0.07243428899964591,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 18:11:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global Frontier Mkts A SEK",
-                "PPMCode": "870907",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
-                "Current": -2.933992612891688,
-                "Yesterday": -4.238566152065487,
-                "LastWeek": -4.4189035080253865,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 18:11:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": -2.6826015592942234,
-                "Yesterday": -3.959786622897004,
-                "LastWeek": -2.5748871563397673,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 18:11:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Fastighet A",
-                "PPMCode": "968420",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
-                "Current": 5.510425128621726,
-                "Yesterday": 4.142973192526404,
-                "LastWeek": 3.7503384782019986,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 18:11:55 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 17.297252271326226,
+                "Yesterday": 16.92333608582013,
+                "LastWeek": 6.920438711554966,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-23 20:10:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 13.29120620676934,
+                "Yesterday": 13.623491431424458,
+                "LastWeek": 12.876853534541935,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-23 20:10:13 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
@@ -495,7 +453,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-23 18:11:24 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -509,34 +467,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-23 18:11:27 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 17.81559800655998,
-                "Yesterday": 18.485133871499848,
-                "LastWeek": 7.534284632920453,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-23 16:10:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 13.29120620676934,
-                "Yesterday": 13.623491431424458,
-                "LastWeek": 12.876853534541935,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-23 16:10:46 (UTC)",
                 "history": true
             },
             {
@@ -635,20 +565,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-18 18:11:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 3.4737584360521474,
-                "Yesterday": 3.3352697897654493,
-                "LastWeek": -1.0265112704069612,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-16 18:12:11 (UTC)",
                 "history": true
             }
         ]
