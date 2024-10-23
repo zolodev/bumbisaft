@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 14.891318161110343,
+                "Yesterday": 13.034952934743352,
+                "LastWeek": 15.755337136547546,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-23 16:10:35 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 5.932951543663211,
+                "Yesterday": 4.973683495459564,
+                "LastWeek": 2.6802861307300265,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-23 16:10:40 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Nordea Kinafond",
                 "PPMCode": "653097",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
@@ -421,20 +449,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-16 18:11:55 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": 0.41628551352927745,
-                "Yesterday": -0.5303000172347505,
-                "LastWeek": 0.38314176245210546,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-16 16:09:21 (UTC)",
-                "history": true
             }
         ]
     },
@@ -452,21 +466,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-23 14:08:52 (UTC)",
+                "LastUpdated": "2024-10-23 16:10:44 (UTC)",
                 "history": false
             },
             {
                 "Name": "Allianz China A Shares AT USD",
                 "PPMCode": "933359",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 11.469125587889973,
-                "Yesterday": 10.700684473961267,
-                "LastWeek": 11.847462801121397,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
+                "Current": 13.29120620676934,
+                "Yesterday": 13.623491431424458,
+                "LastWeek": 12.876853534541935,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-23 14:08:56 (UTC)",
+                "LastUpdated": "2024-10-23 16:10:46 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-23 12:16:23 (UTC)",
+                "LastUpdated": "2024-10-23 14:08:52 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +508,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-23 12:16:27 (UTC)",
+                "LastUpdated": "2024-10-23 14:08:56 (UTC)",
                 "history": true
             },
             {
