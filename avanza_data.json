@@ -6,28 +6,28 @@
                 "Name": "Barings Hong Kong China A USD Inc",
                 "PPMCode": "334409",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 14.891318161110343,
+                "Current": 15.617723074519358,
                 "Yesterday": 13.034952934743352,
                 "LastWeek": 15.755337136547546,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-24 00:40:58 (UTC)",
+                "LastUpdated": "2024-10-24 02:43:31 (UTC)",
                 "history": false
             },
             {
                 "Name": "Allianz China Equity A USD",
                 "PPMCode": "753731",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 14.723588800823764,
+                "Current": 15.448933351905254,
                 "Yesterday": 13.379629506491913,
                 "LastWeek": 16.366906181644065,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-24 00:41:02 (UTC)",
+                "LastUpdated": "2024-10-24 02:43:34 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-23 22:08:13 (UTC)",
+                "LastUpdated": "2024-10-24 00:40:58 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-23 22:08:17 (UTC)",
+                "LastUpdated": "2024-10-24 00:41:02 (UTC)",
                 "history": true
             },
             {
@@ -393,20 +393,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-18 00:41:07 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Fidelity Asia Pacific Opps A-Acc-EUR",
-                "PPMCode": "994095",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/133428",
-                "Current": 4.450776868233964,
-                "Yesterday": 2.7503687727957113,
-                "LastWeek": 7.601722794812948,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-17 00:41:02 (UTC)",
-                "history": true
             }
         ]
     },
@@ -424,21 +410,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-24 00:41:10 (UTC)",
+                "LastUpdated": "2024-10-24 02:43:43 (UTC)",
                 "history": false
             },
             {
                 "Name": "Allianz China A Shares AT USD",
                 "PPMCode": "933359",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 13.29120620676934,
+                "Current": 14.007494446855045,
                 "Yesterday": 13.623491431424458,
                 "LastWeek": 12.876853534541935,
-                "TrendDay": "\u25bc",
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-24 02:43:46 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 17.6464736694381,
+                "Yesterday": 16.207798645138592,
+                "LastWeek": 17.872177505060932,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-24 00:41:13 (UTC)",
+                "LastUpdated": "2024-10-24 02:43:50 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-23 22:08:25 (UTC)",
+                "LastUpdated": "2024-10-24 00:41:10 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-23 22:08:28 (UTC)",
+                "LastUpdated": "2024-10-24 00:41:13 (UTC)",
                 "history": true
             },
             {
