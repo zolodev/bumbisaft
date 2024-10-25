@@ -3,17 +3,59 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Swedbank Robur Fastighet A",
-                "PPMCode": "968420",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
-                "Current": 4.414535666218037,
-                "Yesterday": 3.1763122476446832,
-                "LastWeek": 3.5262449528936806,
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 5.26647621401443,
+                "Yesterday": 3.9314859862096054,
+                "LastWeek": 2.247346615460132,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-25 16:10:43 (UTC)",
+                "LastUpdated": "2024-10-25 18:11:29 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 9.005027450234074,
+                "Yesterday": 7.494837655491147,
+                "LastWeek": 5.590661841070845,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-25 18:11:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 6.843877513251566,
+                "Yesterday": 5.3994860911673745,
+                "LastWeek": 5.4808071167651615,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-25 18:11:31 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 5.974244440996586,
+                "Yesterday": 4.774659273716103,
+                "LastWeek": 3.1618745865963325,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-25 18:11:35 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-25 14:08:15 (UTC)",
+                "LastUpdated": "2024-10-25 16:10:43 (UTC)",
                 "history": true
             },
             {
@@ -386,6 +428,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 17.894464840710086,
+                "Yesterday": 20.445946843709574,
+                "LastWeek": 15.141390218819694,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-25 18:11:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 16.656693046315556,
+                "Yesterday": 19.406092654193394,
+                "LastWeek": 14.247349216745347,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-25 18:11:42 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
@@ -397,7 +467,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-25 16:10:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -411,7 +481,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-25 16:10:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Nordea Kinafond",
@@ -425,7 +495,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-25 16:11:01 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF China A2",
@@ -439,7 +509,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-25 16:11:06 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -453,62 +523,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-25 14:08:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 13.663559536038736,
-                "Yesterday": 15.56486331358192,
-                "LastWeek": 5.235545803479451,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-25 14:08:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 17.894464840710086,
-                "Yesterday": 20.445946843709574,
-                "LastWeek": 15.141390218819694,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-25 14:08:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 16.656693046315556,
-                "Yesterday": 19.406092654193394,
-                "LastWeek": 14.247349216745347,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-25 14:08:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 13.953417234642437,
-                "Yesterday": 12.271828125511451,
-                "LastWeek": 14.292271100191572,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-24 16:11:01 (UTC)",
                 "history": true
             },
             {
