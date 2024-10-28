@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 20:09:45 (UTC)",
+                "LastUpdated": "2024-10-28 22:08:03 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 20:09:47 (UTC)",
+                "LastUpdated": "2024-10-28 22:08:06 (UTC)",
                 "history": false
             },
             {
@@ -41,21 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 20:09:51 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "C WorldWide Sweden 1A",
-                "PPMCode": "792697",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/207548",
-                "Current": 1.0637046101710825,
-                "Yesterday": -0.6495187442637589,
-                "LastWeek": -1.1272444873273293,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 20:09:54 (UTC)",
+                "LastUpdated": "2024-10-28 22:08:11 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 18:12:07 (UTC)",
+                "LastUpdated": "2024-10-28 20:09:45 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 15.716432293707102,
+                "Yesterday": 13.480416553209517,
+                "LastWeek": 10.132714651867037,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-28 20:09:47 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 18:12:12 (UTC)",
+                "LastUpdated": "2024-10-28 20:09:51 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 18:12:15 (UTC)",
+                "LastUpdated": "2024-10-28 20:09:54 (UTC)",
                 "history": true
             },
             {
@@ -367,20 +367,6 @@
                 "history": true
             },
             {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 9.733220972939764,
-                "Yesterday": 8.913893851660056,
-                "LastWeek": 12.254075554493399,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-23 12:16:18 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Tundra Sustainable Frontier Fund A SEK",
                 "PPMCode": "861229",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
@@ -550,8 +536,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 20:09:57 (UTC)",
+                "LastUpdated": "2024-10-28 22:08:15 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": -1.9041039972367846,
+                "Yesterday": -3.283197789430714,
+                "LastWeek": -4.0550130310547265,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-28 22:08:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": 0.1402743142144662,
+                "Yesterday": -1.1710307564422258,
+                "LastWeek": -2.8574397339983375,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-28 20:09:57 (UTC)",
+                "history": true
             },
             {
                 "Name": "Alfred Berg Aktiv R (NOK)",
