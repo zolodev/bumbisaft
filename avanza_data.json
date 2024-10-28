@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 12:16:52 (UTC)",
+                "LastUpdated": "2024-10-28 14:09:11 (UTC)",
                 "history": false
             },
             {
@@ -27,21 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 12:16:53 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 6.711625000266489,
-                "Yesterday": 5.3994860911673745,
-                "LastWeek": 5.4808071167651615,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 12:16:55 (UTC)",
+                "LastUpdated": "2024-10-28 14:09:12 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 10:10:25 (UTC)",
+                "LastUpdated": "2024-10-28 12:16:52 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 10:10:26 (UTC)",
+                "LastUpdated": "2024-10-28 12:16:53 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 10:10:27 (UTC)",
+                "LastUpdated": "2024-10-28 12:16:55 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 12:17:02 (UTC)",
+                "LastUpdated": "2024-10-28 14:09:21 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 12:17:03 (UTC)",
+                "LastUpdated": "2024-10-28 14:09:22 (UTC)",
                 "history": false
             },
             {
@@ -508,8 +494,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 12:17:04 (UTC)",
+                "LastUpdated": "2024-10-28 14:09:23 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 1.7462106801335044,
+                "Yesterday": 0.6165336551802547,
+                "LastWeek": -0.49866640441358745,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-28 12:17:02 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pareto Aksje Norge B",
+                "PPMCode": "165755",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
+                "Current": 2.16875087795772,
+                "Yesterday": 1.2863049644668727,
+                "LastWeek": 0.09564465583394946,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-28 12:17:03 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 1.7185404328041216,
+                "Yesterday": 0.5994041905382007,
+                "LastWeek": -0.28342805198393606,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-28 12:17:04 (UTC)",
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -526,34 +554,6 @@
                 "history": true
             },
             {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 1.7462106801335044,
-                "Yesterday": 0.6165336551802547,
-                "LastWeek": -0.49866640441358745,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 10:10:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pareto Aksje Norge B",
-                "PPMCode": "165755",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": 2.16875087795772,
-                "Yesterday": 1.2863049644668727,
-                "LastWeek": 0.09564465583394946,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 10:10:39 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Lannebo Sverige Plus",
                 "PPMCode": "490292",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
@@ -565,20 +565,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-28 08:13:11 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 1.7185404328041216,
-                "Yesterday": 0.5994041905382007,
-                "LastWeek": -0.28342805198393606,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 06:14:02 (UTC)",
                 "history": true
             },
             {
