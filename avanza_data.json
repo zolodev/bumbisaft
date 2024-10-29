@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Lannebo Sverige H\u00e5llbar A SEK",
+                "PPMCode": "146928",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
+                "Current": -0.2900180143348088,
+                "Yesterday": -2.161294306533284,
+                "LastWeek": -1.947507165276199,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-29 20:10:12 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "AMF Aktiefond Sm\u00e5bolag",
                 "PPMCode": "269357",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-29 18:11:52 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-29 18:11:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sverige H\u00e5llbar A SEK",
@@ -42,48 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-29 18:12:00 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "AMF Aktiefond Sm\u00e5bolag",
-                "PPMCode": "269357",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
-                "Current": -0.7125479237438168,
-                "Yesterday": -2.9383186580598672,
-                "LastWeek": -1.4499521704089242,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-29 16:11:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 15.716432293707102,
-                "Yesterday": 13.480416553209517,
-                "LastWeek": 10.132714651867037,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-29 16:11:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sverige H\u00e5llbar A SEK",
-                "PPMCode": "146928",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/926113",
-                "Current": -0.2900180143348088,
-                "Yesterday": -2.161294306533284,
-                "LastWeek": -1.947507165276199,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-29 16:11:12 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-29 18:12:05 (UTC)",
+                "LastUpdated": "2024-10-29 20:10:22 (UTC)",
                 "history": false
             },
             {
@@ -466,8 +438,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-29 18:12:05 (UTC)",
+                "LastUpdated": "2024-10-29 20:10:24 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 1.5742750049319427,
+                "Yesterday": 1.4361807062536935,
+                "LastWeek": -0.4642598803182709,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-29 18:12:05 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": 0.1402743142144662,
+                "Yesterday": -1.1710307564422258,
+                "LastWeek": -2.8574397339983375,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-29 18:12:05 (UTC)",
+                "history": true
             },
             {
                 "Name": "C WorldWide Sweden 1A",
@@ -481,20 +481,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-29 18:12:10 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Aktiefond Sm\u00e5land",
-                "PPMCode": "272898",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
-                "Current": 0.1402743142144662,
-                "Yesterday": -1.1710307564422258,
-                "LastWeek": -2.8574397339983375,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-29 16:11:16 (UTC)",
                 "history": true
             },
             {
@@ -537,20 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-28 18:12:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": 1.8205101124782124,
-                "Yesterday": 0.27195437503299696,
-                "LastWeek": -0.7049691080952675,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 18:12:27 (UTC)",
                 "history": true
             },
             {
