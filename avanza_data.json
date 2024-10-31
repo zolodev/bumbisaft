@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "DNB Teknologi S",
+                "PPMCode": "183343",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+                "Current": 4.800398006861807,
+                "Yesterday": 3.4755111635558134,
+                "LastWeek": 2.2782030764973213,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-31 10:09:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": -0.2154616276376366,
+                "Yesterday": -1.4523302153020679,
+                "LastWeek": -0.6089707085529312,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-10-31 10:09:59 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin Technology A Acc USD",
                 "PPMCode": "496729",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
@@ -410,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-31 08:12:07 (UTC)",
+                "LastUpdated": "2024-10-31 10:10:06 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-31 08:12:10 (UTC)",
+                "LastUpdated": "2024-10-31 10:10:09 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +466,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-31 08:12:11 (UTC)",
+                "LastUpdated": "2024-10-31 10:10:10 (UTC)",
                 "history": false
             },
             {
@@ -452,8 +480,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-31 08:12:11 (UTC)",
+                "LastUpdated": "2024-10-31 10:10:11 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": -0.2154616276376366,
+                "Yesterday": -1.4523302153020679,
+                "LastWeek": -0.6089707085529312,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-31 08:12:07 (UTC)",
+                "history": true
             },
             {
                 "Name": "Skandia Japan Exponering",
@@ -466,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-31 06:12:40 (UTC)",
+                "LastUpdated": "2024-10-31 08:12:10 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +522,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-31 06:12:41 (UTC)",
+                "LastUpdated": "2024-10-31 08:12:11 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": -1.1159843034946229,
+                "Yesterday": -2.2288662456593857,
+                "LastWeek": -1.585090195744552,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-31 08:12:11 (UTC)",
                 "history": true
             },
             {
