@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-30 22:08:12 (UTC)",
+                "LastUpdated": "2024-10-31 00:41:54 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-10-30 20:09:57 (UTC)",
+                "LastUpdated": "2024-10-30 22:08:12 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-30 22:08:30 (UTC)",
+                "LastUpdated": "2024-10-31 00:42:15 (UTC)",
                 "history": false
             },
             {
@@ -438,8 +438,36 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-30 22:08:31 (UTC)",
+                "LastUpdated": "2024-10-31 00:42:16 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": -1.1590568518915014,
+                "Yesterday": -2.2202513838343654,
+                "LastWeek": -1.654484846631403,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-30 22:08:30 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": -0.8429204925763819,
+                "Yesterday": -1.8376966523853857,
+                "LastWeek": -0.45807329669713603,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-10-30 22:08:31 (UTC)",
+                "history": true
             },
             {
                 "Name": "C Worldwide Sweden Small Cap 1A",
