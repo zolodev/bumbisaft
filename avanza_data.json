@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Simplicity Norden",
+                "PPMCode": "484980",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1660",
+                "Current": -1.4415242969820032,
+                "Yesterday": -2.497175931942461,
+                "LastWeek": -0.7237611588175911,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-01 16:10:12 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Evli Emerging Markets Credit B",
                 "PPMCode": "229625",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/476475",
@@ -326,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-01 14:08:38 (UTC)",
+                "LastUpdated": "2024-11-01 16:10:24 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-01 14:08:39 (UTC)",
+                "LastUpdated": "2024-11-01 16:10:25 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-01 12:16:07 (UTC)",
+                "LastUpdated": "2024-11-01 14:08:38 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-01 12:16:08 (UTC)",
+                "LastUpdated": "2024-11-01 14:08:39 (UTC)",
                 "history": true
             },
             {
@@ -579,20 +593,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-25 16:11:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 14.138610326166443,
-                "Yesterday": 15.096295228650014,
-                "LastWeek": 9.178857751231492,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-25 14:08:23 (UTC)",
                 "history": true
             }
         ]
