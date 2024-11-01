@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Evli Emerging Markets Credit B",
+                "PPMCode": "229625",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/476475",
+                "Current": 1.0376050769063427,
+                "Yesterday": 0.24716762273399784,
+                "LastWeek": 0.015630330717890478,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-01 10:10:01 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
                 "PPMCode": "470104",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-01 08:11:56 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Emerging Markets Credit B",
@@ -28,20 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-01 08:12:05 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": -0.2154616276376366,
-                "Yesterday": -1.4523302153020679,
-                "LastWeek": -0.6089707085529312,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-01 06:13:21 (UTC)",
                 "history": true
             },
             {
@@ -56,20 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-01 06:13:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Emerging Markets Credit B",
-                "PPMCode": "229625",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/476475",
-                "Current": 1.0376050769063427,
-                "Yesterday": 0.24716762273399784,
-                "LastWeek": 0.015630330717890478,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-31 22:08:25 (UTC)",
                 "history": true
             },
             {
@@ -351,20 +337,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-25 14:08:19 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Fondita Global Small Cap B",
-                "PPMCode": "356063",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/192934",
-                "Current": -4.724033102049355,
-                "Yesterday": -5.935294359798477,
-                "LastWeek": -4.7933966646342565,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-25 08:12:05 (UTC)",
-                "history": true
             }
         ]
     },
@@ -375,14 +347,14 @@
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
                 "PPMCode": "470104",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": -0.2154616276376366,
-                "Yesterday": -1.4523302153020679,
-                "LastWeek": -0.6089707085529312,
+                "Current": -3.344433276027308,
+                "Yesterday": -3.650602563257984,
+                "LastWeek": -5.6624583220881775,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-01 08:12:13 (UTC)",
+                "LastUpdated": "2024-11-01 10:10:12 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-01 08:12:18 (UTC)",
+                "LastUpdated": "2024-11-01 10:10:13 (UTC)",
                 "history": false
             },
             {
@@ -410,21 +382,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-01 06:13:36 (UTC)",
+                "LastUpdated": "2024-11-01 08:12:13 (UTC)",
                 "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
                 "PPMCode": "176503",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": -1.1159843034946229,
-                "Yesterday": -2.2288662456593857,
-                "LastWeek": -1.585090195744552,
+                "Current": -4.150998620189815,
+                "Yesterday": -4.48835523840053,
+                "LastWeek": -6.471658141576884,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-01 06:13:38 (UTC)",
+                "LastUpdated": "2024-11-01 08:12:18 (UTC)",
                 "history": true
             },
             {
