@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-04 20:09:56 (UTC)",
+                "LastUpdated": "2024-11-04 22:07:48 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-04 20:10:07 (UTC)",
+                "LastUpdated": "2024-11-04 22:07:52 (UTC)",
                 "history": false
             },
             {
@@ -41,8 +41,22 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-04 20:10:19 (UTC)",
+                "LastUpdated": "2024-11-04 22:07:55 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 21.31321525618108,
+                "Yesterday": 17.924269173182964,
+                "LastWeek": 21.83378767345318,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-04 20:09:56 (UTC)",
+                "history": true
             },
             {
                 "Name": "Spiltan Globalfond Investmentbolag",
@@ -55,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-04 18:11:20 (UTC)",
+                "LastUpdated": "2024-11-04 20:10:07 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 17.971333509360136,
+                "Yesterday": 15.468783340736595,
+                "LastWeek": 17.993443524832472,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-04 20:10:19 (UTC)",
                 "history": true
             },
             {
@@ -353,20 +381,6 @@
                 "history": true
             },
             {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 15.716432293707102,
-                "Yesterday": 13.480416553209517,
-                "LastWeek": 10.132714651867037,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-29 18:11:57 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Carnegie Indienfond A",
                 "PPMCode": "505586",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
@@ -378,20 +392,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-29 08:12:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "C WorldWide Sweden 1A",
-                "PPMCode": "792697",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/207548",
-                "Current": 1.0637046101710825,
-                "Yesterday": -0.6495187442637589,
-                "LastWeek": -1.1272444873273293,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 20:09:54 (UTC)",
                 "history": true
             }
         ]
