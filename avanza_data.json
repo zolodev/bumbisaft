@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 21.31321525618108,
+                "Yesterday": 17.924269173182964,
+                "LastWeek": 21.83378767345318,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-04 20:09:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Globalfond Investmentbolag",
+                "PPMCode": "465147",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/693994",
+                "Current": 5.952255016044308,
+                "Yesterday": 3.794209950985595,
+                "LastWeek": 4.079833562537484,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-04 20:10:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 17.971333509360136,
+                "Yesterday": 15.468783340736595,
+                "LastWeek": 17.993443524832472,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-04 20:10:19 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Spiltan Globalfond Investmentbolag",
                 "PPMCode": "465147",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/693994",
@@ -14,34 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-04 18:11:20 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Access Europa A",
-                "PPMCode": "755504",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/592236",
-                "Current": 0.9630422256975897,
-                "Yesterday": -0.7654951024775641,
-                "LastWeek": 0.6543748456663114,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-04 18:11:26 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Globalfond Investmentbolag",
-                "PPMCode": "465147",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/693994",
-                "Current": 5.952255016044308,
-                "Yesterday": 3.794209950985595,
-                "LastWeek": 4.079833562537484,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-04 16:10:54 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-04 16:11:01 (UTC)",
+                "LastUpdated": "2024-11-04 18:11:26 (UTC)",
                 "history": true
             },
             {
@@ -379,20 +393,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-10-28 20:09:54 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "AMF Aktiefond Sverige",
-                "PPMCode": "681783",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1949",
-                "Current": 1.8360908509926073,
-                "Yesterday": 0.1217297801763099,
-                "LastWeek": 0.41286683776464056,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-10-28 18:12:17 (UTC)",
-                "history": true
             }
         ]
     },
@@ -509,48 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-29 12:16:31 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 1.7462106801335044,
-                "Yesterday": 0.6165336551802547,
-                "LastWeek": -0.49866640441358745,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 18:12:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pareto Aksje Norge B",
-                "PPMCode": "165755",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": 2.16875087795772,
-                "Yesterday": 1.2863049644668727,
-                "LastWeek": 0.09564465583394946,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 18:12:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 1.7185404328041216,
-                "Yesterday": 0.5994041905382007,
-                "LastWeek": -0.28342805198393606,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-28 18:12:28 (UTC)",
                 "history": true
             }
         ]
