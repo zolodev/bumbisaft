@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-05 12:15:59 (UTC)",
+                "LastUpdated": "2024-11-05 14:08:37 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-05 12:16:06 (UTC)",
+                "LastUpdated": "2024-11-05 14:08:43 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-05 12:16:08 (UTC)",
+                "LastUpdated": "2024-11-05 14:08:46 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-05 10:09:37 (UTC)",
+                "LastUpdated": "2024-11-05 12:15:59 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 17.971333509360136,
+                "Yesterday": 15.468783340736595,
+                "LastWeek": 17.993443524832472,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-05 12:16:06 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 22.272426958329266,
+                "Yesterday": 20.096986541147285,
+                "LastWeek": 24.431213653517673,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-05 12:16:08 (UTC)",
                 "history": true
             },
             {
@@ -70,34 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-05 10:09:41 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 17.971333509360136,
-                "Yesterday": 15.468783340736595,
-                "LastWeek": 17.993443524832472,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-05 10:09:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 22.272426958329266,
-                "Yesterday": 20.096986541147285,
-                "LastWeek": 24.431213653517673,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-05 10:09:45 (UTC)",
                 "history": true
             },
             {
@@ -410,8 +410,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-05 12:16:22 (UTC)",
+                "LastUpdated": "2024-11-05 14:09:00 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": -2.9936809187935487,
+                "Yesterday": -0.9870954830591232,
+                "LastWeek": -4.556822059338018,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-05 12:16:22 (UTC)",
+                "history": true
             },
             {
                 "Name": "Spiltan Globalfond Investmentbolag",
@@ -425,20 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-05 10:09:55 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": -2.9936809187935487,
-                "Yesterday": -0.9870954830591232,
-                "LastWeek": -4.556822059338018,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-05 10:09:57 (UTC)",
                 "history": true
             },
             {
@@ -523,20 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-10-29 18:12:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -1.9041039972367846,
-                "Yesterday": -3.283197789430714,
-                "LastWeek": -4.0550130310547265,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-29 12:16:31 (UTC)",
                 "history": true
             }
         ]
