@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 23.937594855295895,
+                "Yesterday": 17.219687613609032,
+                "LastWeek": 15.250573671404002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-06 20:09:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": 19.530081040625525,
+                "Yesterday": 14.723406418744329,
+                "LastWeek": 14.977594183847746,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-06 20:09:57 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Carnegie Listed Private Equity A",
                 "PPMCode": "341362",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-06 18:11:22 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Indienfond A",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-06 18:11:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Water AT EUR",
@@ -42,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-06 18:11:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -344,6 +372,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 23.937594855295895,
+                "Yesterday": 17.219687613609032,
+                "LastWeek": 15.250573671404002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-06 20:10:10 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 7.352819032376321,
+                "Yesterday": 5.29893829451559,
+                "LastWeek": 4.242109075296401,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-06 20:10:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 20.06435672709747,
+                "Yesterday": 22.016265886898704,
+                "LastWeek": 18.398191427202953,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-06 20:10:14 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz China A Shares AT USD",
                 "PPMCode": "933359",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
@@ -355,7 +425,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-06 18:11:42 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Listed Private Equity A",
@@ -369,7 +439,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-06 18:11:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Indienfond A",
@@ -383,20 +453,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-06 18:11:52 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 21.8599591459595,
-                "Yesterday": 19.158051184632953,
-                "LastWeek": 18.188716124213713,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-06 16:11:01 (UTC)",
                 "history": true
             },
             {
