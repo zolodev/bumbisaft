@@ -3,17 +3,17 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 23.937594855295895,
-                "Yesterday": 17.219687613609032,
-                "LastWeek": 15.250573671404002,
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
+                "PPMCode": "456475",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
+                "Current": 19.61458102950935,
+                "Yesterday": 14.437399228866898,
+                "LastWeek": 13.886064290753033,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-07 18:11:16 (UTC)",
+                "LastUpdated": "2024-11-07 20:09:44 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-07 16:10:41 (UTC)",
+                "LastUpdated": "2024-11-07 18:11:16 (UTC)",
                 "history": true
             },
             {
@@ -417,28 +417,14 @@
                 "Name": "BGF World Financials A2",
                 "PPMCode": "410258",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 23.937594855295895,
-                "Yesterday": 17.219687613609032,
-                "LastWeek": 15.250573671404002,
+                "Current": 22.57739378432795,
+                "Yesterday": 21.55287990611571,
+                "LastWeek": 14.15869988982828,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-07 18:11:31 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 16.67604268540715,
-                "Yesterday": 16.40774430298676,
-                "LastWeek": 13.499736029010844,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-07 18:11:32 (UTC)",
+                "LastUpdated": "2024-11-07 20:10:00 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +438,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-07 16:11:01 (UTC)",
+                "LastUpdated": "2024-11-07 18:11:31 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 16.67604268540715,
+                "Yesterday": 16.40774430298676,
+                "LastWeek": 13.499736029010844,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-07 18:11:32 (UTC)",
                 "history": true
             },
             {
@@ -649,20 +649,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-01 20:10:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Japanese Equity Opps R JPY",
-                "PPMCode": "910109",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
-                "Current": -0.8429204925763819,
-                "Yesterday": -1.8376966523853857,
-                "LastWeek": -0.45807329669713603,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-10-31 18:12:11 (UTC)",
                 "history": true
             }
         ]
