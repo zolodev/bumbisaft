@@ -14,7 +14,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-11 18:11:14 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -28,20 +28,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-11 18:11:16 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": 18.62916968486694,
-                "Yesterday": 15.903847478881586,
-                "LastWeek": 12.379153657699243,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-11 16:10:34 (UTC)",
                 "history": true
             },
             {
@@ -435,26 +421,54 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-05 10:09:41 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Swedbank Robur Access Europa A",
-                "PPMCode": "755504",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/592236",
-                "Current": 0.9630422256975897,
-                "Yesterday": -0.7654951024775641,
-                "LastWeek": 0.6543748456663114,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-04 18:11:26 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 23.022847542191485,
+                "Yesterday": 20.22215482493283,
+                "LastWeek": 14.094122780404225,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-11 20:09:35 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 11.836488879469394,
+                "Yesterday": 9.386385961698938,
+                "LastWeek": 3.533800414347664,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-11 20:09:37 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
+                "PPMCode": "916354",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
+                "Current": 17.45679030878754,
+                "Yesterday": 14.804544970073996,
+                "LastWeek": 9.048357484804313,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-11 20:09:39 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Carnegie Listed Private Equity A",
                 "PPMCode": "341362",
@@ -467,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-11 18:11:27 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin US Opportunities A(acc)USD",
@@ -635,20 +649,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-07 02:41:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Listed Private Equity A",
-                "PPMCode": "341362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": 19.530081040625525,
-                "Yesterday": 14.723406418744329,
-                "LastWeek": 14.977594183847746,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-06 18:11:48 (UTC)",
                 "history": true
             },
             {
