@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Global Water AT EUR",
+                "PPMCode": "878694",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
+                "Current": 7.781273068662266,
+                "Yesterday": 6.688815430875884,
+                "LastWeek": 4.846874447177065,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-12 22:08:12 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB L\u00e4kemedelsfond",
                 "PPMCode": "229922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-12 20:09:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Financials A2",
@@ -42,20 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-12 18:11:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 3.2444720600799446,
-                "Yesterday": 0.915896449332931,
-                "LastWeek": -1.1722040662695654,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-12 18:11:33 (UTC)",
                 "history": true
             },
             {
@@ -649,34 +649,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-06 18:11:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 11.322105550252278,
-                "Yesterday": 11.144824764762035,
-                "LastWeek": 8.979953634256113,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-05 20:10:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": -2.9936809187935487,
-                "Yesterday": -0.9870954830591232,
-                "LastWeek": -4.556822059338018,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-05 20:10:06 (UTC)",
                 "history": true
             }
         ]
