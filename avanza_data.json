@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 20.651117009821775,
+                "Yesterday": 19.422181714567976,
+                "LastWeek": 12.32727827657778,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-14 00:41:04 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Digital R USD",
                 "PPMCode": "296749",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
@@ -14,34 +28,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-13 22:07:58 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 20.0956327300545,
-                "Yesterday": 18.438733012555346,
-                "LastWeek": 11.33862129802093,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-13 22:08:02 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 18.49177240796049,
-                "Yesterday": 16.439110531524086,
-                "LastWeek": 9.05425182746323,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-13 20:09:38 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-13 20:09:41 (UTC)",
+                "LastUpdated": "2024-11-13 22:08:02 (UTC)",
                 "history": true
             },
             {
@@ -400,6 +386,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Lannebo Teknik",
+                "PPMCode": "771030",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
+                "Current": 15.350223546944857,
+                "Yesterday": 14.257327372081477,
+                "LastWeek": 7.401887729756592,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-11-14 00:41:14 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Financials A2",
                 "PPMCode": "410258",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
@@ -411,34 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-13 22:08:16 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
-                "PPMCode": "916354",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": 17.396074853131708,
-                "Yesterday": 17.494766248595912,
-                "LastWeek": 7.628694102264605,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-13 22:08:17 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 23.153890347340898,
-                "Yesterday": 22.625720687847547,
-                "LastWeek": 12.876244679498125,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-13 20:09:54 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-13 20:09:56 (UTC)",
+                "LastUpdated": "2024-11-13 22:08:17 (UTC)",
                 "history": true
             },
             {
