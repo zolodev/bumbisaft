@@ -3,17 +3,31 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 20.651117009821775,
-                "Yesterday": 19.422181714567976,
-                "LastWeek": 12.32727827657778,
+                "Name": "Fidelity Asia Pacific Opps A-Acc-EUR",
+                "PPMCode": "994095",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/133428",
+                "Current": 10.748178949866706,
+                "Yesterday": 9.43055706734642,
+                "LastWeek": 9.79919804986671,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-14 02:43:00 (UTC)",
+                "LastUpdated": "2024-11-14 04:11:26 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 25.167558988449475,
+                "Yesterday": 23.954024576826093,
+                "LastWeek": 19.446571073920733,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-11-14 04:11:32 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-11-14 00:41:04 (UTC)",
+                "LastUpdated": "2024-11-14 02:43:00 (UTC)",
                 "history": true
             },
             {
@@ -337,20 +351,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-07 06:12:39 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken Global Sm\u00e5b Index (A1 SEK)",
-                "PPMCode": "549552",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/799913",
-                "Current": 14.5171410644002,
-                "Yesterday": 10.079288118190627,
-                "LastWeek": 9.834008328104506,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-07 04:11:02 (UTC)",
-                "history": true
             }
         ]
     },
@@ -368,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-14 02:43:10 (UTC)",
+                "LastUpdated": "2024-11-14 04:11:39 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-14 00:41:14 (UTC)",
+                "LastUpdated": "2024-11-14 02:43:10 (UTC)",
                 "history": true
             },
             {
