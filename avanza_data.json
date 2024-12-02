@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-02 10:10:58 (UTC)",
+                "LastUpdated": "2024-12-02 12:18:14 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-02 08:13:49 (UTC)",
+                "LastUpdated": "2024-12-02 10:10:58 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 10:11:14 (UTC)",
+                "LastUpdated": "2024-12-02 12:18:27 (UTC)",
                 "history": false
             },
             {
@@ -438,22 +438,8 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 10:11:16 (UTC)",
+                "LastUpdated": "2024-12-02 12:18:32 (UTC)",
                 "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": -5.774907150077142,
-                "Yesterday": -5.985544091345338,
-                "LastWeek": -8.776701853249918,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 08:14:07 (UTC)",
-                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -466,7 +452,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 08:14:16 (UTC)",
+                "LastUpdated": "2024-12-02 10:11:14 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": -3.5166511916614422,
+                "Yesterday": -3.888910401871114,
+                "LastWeek": -8.036031089988226,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-02 10:11:16 (UTC)",
                 "history": true
             },
             {
@@ -551,20 +551,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-11-25 20:10:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 5.124144007932154,
-                "Yesterday": 4.531575593176021,
-                "LastWeek": 1.721427322597791,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-11-25 12:17:45 (UTC)",
                 "history": true
             }
         ]
