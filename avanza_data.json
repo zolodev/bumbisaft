@@ -3,17 +3,17 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 20.230180521731686,
-                "Yesterday": 17.888964424755674,
-                "LastWeek": 24.759624732275633,
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": -3.533240353324037,
+                "Yesterday": -5.449661656077282,
+                "LastWeek": -8.709127537579427,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-02 16:11:21 (UTC)",
+                "LastUpdated": "2024-12-02 18:12:54 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,63 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-02 14:09:27 (UTC)",
+                "LastUpdated": "2024-12-02 18:12:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 17.255726231720153,
+                "Yesterday": 15.330131282225645,
+                "LastWeek": 19.223787155408477,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-02 18:13:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 18.980107648980695,
+                "Yesterday": 17.030754780260153,
+                "LastWeek": 21.394532702203712,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-02 18:13:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Sverigefond A",
+                "PPMCode": "393314",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1892",
+                "Current": -0.9167710738301251,
+                "Yesterday": -2.430231674810879,
+                "LastWeek": -3.66035164576852,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-02 18:13:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 20.230180521731686,
+                "Yesterday": 17.888964424755674,
+                "LastWeek": 24.759624732275633,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-02 16:11:21 (UTC)",
                 "history": true
             },
             {
@@ -393,20 +449,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-25 20:10:27 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Swedbank Robur Sm\u00e5bolagsfond Sverige A",
-                "PPMCode": "856682",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2008",
-                "Current": -3.470915569078021,
-                "Yesterday": -5.700788662476473,
-                "LastWeek": -1.881580527643216,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-25 18:12:25 (UTC)",
-                "history": true
             }
         ]
     },
@@ -424,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 16:11:32 (UTC)",
+                "LastUpdated": "2024-12-02 18:13:12 (UTC)",
                 "history": false
             },
             {
@@ -438,21 +480,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 16:11:36 (UTC)",
+                "LastUpdated": "2024-12-02 18:13:18 (UTC)",
                 "history": false
             },
             {
-                "Name": "Fondita Nordic Micro Cap B",
-                "PPMCode": "785493",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
-                "Current": -3.362093252464261,
-                "Yesterday": -4.351977638770096,
-                "LastWeek": -5.249030260638514,
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": -3.533240353324037,
+                "Yesterday": -5.449661656077282,
+                "LastWeek": -8.709127537579427,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 16:11:41 (UTC)",
+                "LastUpdated": "2024-12-02 18:13:21 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Sm\u00e5bolagsfond A",
+                "PPMCode": "584912",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
+                "Current": 8.15097779957775,
+                "Yesterday": 7.012948469144743,
+                "LastWeek": 3.796126477717828,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-02 18:13:22 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 14:09:39 (UTC)",
+                "LastUpdated": "2024-12-02 16:11:32 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +536,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 14:09:44 (UTC)",
+                "LastUpdated": "2024-12-02 16:11:36 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Fondita Nordic Micro Cap B",
+                "PPMCode": "785493",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
+                "Current": -3.362093252464261,
+                "Yesterday": -4.351977638770096,
+                "LastWeek": -5.249030260638514,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-02 16:11:41 (UTC)",
                 "history": true
             },
             {
