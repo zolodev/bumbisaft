@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 6.163073218780778,
+                "Yesterday": 3.4619678231366953,
+                "LastWeek": 1.5120936850169548,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-03 10:10:54 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Japanese Equity Opps R JPY",
                 "PPMCode": "910109",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
@@ -13,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-03 08:12:55 (UTC)",
+                "LastUpdated": "2024-12-03 10:10:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 5.468807409908053,
+                "Yesterday": 2.8625322600517813,
+                "LastWeek": 0.9387253777968981,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-03 10:10:59 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-03 08:13:00 (UTC)",
+                "LastUpdated": "2024-12-03 10:11:04 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-03 06:13:57 (UTC)",
+                "LastUpdated": "2024-12-03 08:12:55 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-03 06:14:02 (UTC)",
+                "LastUpdated": "2024-12-03 08:13:00 (UTC)",
                 "history": true
             },
             {
@@ -428,6 +456,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 6.163073218780778,
+                "Yesterday": 3.4619678231366953,
+                "LastWeek": 1.5120936850169548,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-03 10:11:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -4.456323857723103,
+                "Yesterday": -4.905834373434886,
+                "LastWeek": -10.070850184937033,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-03 10:11:19 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 5.507392093529007,
+                "Yesterday": 2.8586171723301286,
+                "LastWeek": 0.9213294205189161,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-03 10:11:20 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Carnegie Fastighetsfond Norden A",
                 "PPMCode": "320176",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
@@ -439,7 +509,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-03 08:13:11 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Japanese Equity Opps R JPY",
@@ -453,7 +523,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-03 08:13:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Tundra Sustainable Frontier Fund A SEK",
@@ -467,48 +537,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-03 08:13:13 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -4.456323857723103,
-                "Yesterday": -4.905834373434886,
-                "LastWeek": -10.070850184937033,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-03 06:14:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Japanese Equity Opps R JPY",
-                "PPMCode": "910109",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
-                "Current": 5.507392093529007,
-                "Yesterday": 2.8586171723301286,
-                "LastWeek": 0.9213294205189161,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-03 06:14:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Tundra Sustainable Frontier Fund A SEK",
-                "PPMCode": "861229",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
-                "Current": 12.5981282780844,
-                "Yesterday": 10.856672722909746,
-                "LastWeek": 9.44773919303418,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-03 06:14:15 (UTC)",
                 "history": true
             },
             {
