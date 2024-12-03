@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 5.507392093529007,
+                "Yesterday": 2.8586171723301286,
+                "LastWeek": 0.9213294205189161,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-03 00:45:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 5.664704059497995,
+                "Yesterday": 3.244499535171995,
+                "LastWeek": 1.4068794546018037,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-03 00:45:36 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Skandia Japan Exponering",
                 "PPMCode": "582791",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-02 22:09:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Japanese Equity Opps R JPY",
@@ -438,7 +466,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 22:09:26 (UTC)",
+                "LastUpdated": "2024-12-03 00:45:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 5.507392093529007,
+                "Yesterday": 2.8586171723301286,
+                "LastWeek": 0.9213294205189161,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-03 00:45:49 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 22:09:28 (UTC)",
+                "LastUpdated": "2024-12-03 00:45:50 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +508,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 20:09:31 (UTC)",
+                "LastUpdated": "2024-12-02 22:09:26 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Tundra Sustainable Frontier Fund A SEK",
+                "PPMCode": "861229",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
+                "Current": 12.5981282780844,
+                "Yesterday": 10.856672722909746,
+                "LastWeek": 9.44773919303418,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-02 22:09:28 (UTC)",
                 "history": true
             },
             {
@@ -481,20 +537,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-02 20:09:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Tundra Sustainable Frontier Fund A SEK",
-                "PPMCode": "861229",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
-                "Current": 12.5981282780844,
-                "Yesterday": 10.856672722909746,
-                "LastWeek": 9.44773919303418,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-02 20:09:33 (UTC)",
                 "history": true
             },
             {
