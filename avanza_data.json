@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 25.619278242074177,
+                "Yesterday": 23.101747600991455,
+                "LastWeek": 22.015808692460663,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-05 20:10:44 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
+                "PPMCode": "694539",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
+                "Current": -4.69255313979667,
+                "Yesterday": -6.151501735783046,
+                "LastWeek": -6.902774553366553,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-05 20:10:52 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
                 "PPMCode": "152181",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
@@ -14,48 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-05 18:11:01 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 25.619278242074177,
-                "Yesterday": 23.101747600991455,
-                "LastWeek": 22.015808692460663,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-05 18:11:03 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 24.11232158761157,
-                "Yesterday": 22.16814885208411,
-                "LastWeek": 21.401790244442832,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-05 18:11:12 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 1.117042752680458,
-                "Yesterday": -1.220223408550534,
-                "LastWeek": -4.257964457147973,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-05 16:11:21 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-05 16:11:24 (UTC)",
+                "LastUpdated": "2024-12-05 18:11:03 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 24.11232158761157,
+                "Yesterday": 22.16814885208411,
+                "LastWeek": 21.401790244442832,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-05 18:11:12 (UTC)",
                 "history": true
             },
             {
@@ -112,20 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-05 16:11:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 24.11232158761157,
-                "Yesterday": 22.16814885208411,
-                "LastWeek": 21.401790244442832,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-05 14:09:19 (UTC)",
                 "history": true
             },
             {
@@ -435,26 +421,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-11-29 02:55:10 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 24.551671772546797,
-                "Yesterday": 22.8585333936915,
-                "LastWeek": 26.909696550746286,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-11-28 18:12:19 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 25.619278242074177,
+                "Yesterday": 23.101747600991455,
+                "LastWeek": 22.015808692460663,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-05 20:10:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 2.0167683424134575,
+                "Yesterday": 2.9458780543502994,
+                "LastWeek": -3.0724562033080054,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-05 20:11:04 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
                 "PPMCode": "152181",
@@ -467,7 +467,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-05 18:11:14 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Technology A Acc USD",
@@ -481,34 +481,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-05 18:11:16 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 1.117042752680458,
-                "Yesterday": -1.220223408550534,
-                "LastWeek": -4.257964457147973,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-05 16:11:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 25.619278242074177,
-                "Yesterday": 23.101747600991455,
-                "LastWeek": 22.015808692460663,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-05 16:11:37 (UTC)",
                 "history": true
             },
             {
