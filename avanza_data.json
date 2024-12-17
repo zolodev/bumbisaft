@@ -3,6 +3,76 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": -2.242854294939918,
+                "Yesterday": -2.9477854752302175,
+                "LastWeek": -1.1938761615964584,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-17 10:10:44 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": -0.9589869433082346,
+                "Yesterday": -1.5327024583684181,
+                "LastWeek": 2.1541407822370746,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-17 10:10:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": -3.256657670212311,
+                "Yesterday": -3.7582246996771698,
+                "LastWeek": -1.199233243368784,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-17 10:10:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pareto Global B",
+                "PPMCode": "912691",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/381075",
+                "Current": 8.013659103390433,
+                "Yesterday": 7.504472834174914,
+                "LastWeek": 8.236555832025937,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-17 10:10:52 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 21.945487930192204,
+                "Yesterday": 21.43843808432862,
+                "LastWeek": 18.444990987652243,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-17 10:10:54 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
@@ -14,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-17 08:13:27 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB L\u00e4kemedelsfond",
@@ -28,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-17 08:13:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pareto Global B",
@@ -42,7 +112,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-17 08:13:34 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -56,7 +126,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-17 08:13:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Amerika Tema (A1 SEK)",
@@ -70,76 +140,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-17 08:13:37 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -0.9589869433082346,
-                "Yesterday": -1.5327024583684181,
-                "LastWeek": 2.1541407822370746,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-17 06:14:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": -3.256657670212311,
-                "Yesterday": -3.7582246996771698,
-                "LastWeek": -1.199233243368784,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-17 06:14:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pareto Global B",
-                "PPMCode": "912691",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/381075",
-                "Current": 8.013659103390433,
-                "Yesterday": 7.504472834174914,
-                "LastWeek": 8.236555832025937,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-17 06:14:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 21.945487930192204,
-                "Yesterday": 21.43843808432862,
-                "LastWeek": 18.444990987652243,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-17 06:14:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Amerika Tema (A1 SEK)",
-                "PPMCode": "840033",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1464",
-                "Current": 14.622680340902702,
-                "Yesterday": 14.147374988626488,
-                "LastWeek": 13.571982547584707,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-17 06:14:10 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-17 08:13:44 (UTC)",
+                "LastUpdated": "2024-12-17 10:11:02 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +424,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-17 08:13:46 (UTC)",
+                "LastUpdated": "2024-12-17 10:11:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 22.457045937197393,
+                "Yesterday": 21.290965637308044,
+                "LastWeek": 19.612548477854073,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-17 10:11:05 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-17 06:14:16 (UTC)",
+                "LastUpdated": "2024-12-17 08:13:44 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-17 06:14:17 (UTC)",
+                "LastUpdated": "2024-12-17 08:13:46 (UTC)",
                 "history": true
             },
             {
