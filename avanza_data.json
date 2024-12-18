@@ -3,17 +3,17 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Franklin Biotechnology Discv A(acc)USD",
-                "PPMCode": "389239",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
-                "Current": -0.8060930852471603,
-                "Yesterday": -1.9828774148453763,
-                "LastWeek": 1.1528961991582778,
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 18.430719239241913,
+                "Yesterday": 17.214326828157102,
+                "LastWeek": 22.67537850198427,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-18 16:11:14 (UTC)",
+                "LastUpdated": "2024-12-18 18:12:53 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-18 14:09:04 (UTC)",
+                "LastUpdated": "2024-12-18 18:12:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 19.87848980984007,
+                "Yesterday": 18.502190929255335,
+                "LastWeek": 24.893365533216745,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-18 18:12:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": -0.8060930852471603,
+                "Yesterday": -1.9828774148453763,
+                "LastWeek": 1.1528961991582778,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-18 16:11:14 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +382,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-18 16:11:21 (UTC)",
+                "LastUpdated": "2024-12-18 18:13:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 21.58608883379294,
+                "Yesterday": 21.297678380178947,
+                "LastWeek": 19.455056037645157,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-18 18:13:09 (UTC)",
                 "history": false
             },
             {
@@ -368,21 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-18 16:11:29 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 20.77417187959191,
-                "Yesterday": 21.567656072882986,
-                "LastWeek": 19.130106217725338,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-18 16:11:31 (UTC)",
+                "LastUpdated": "2024-12-18 18:13:10 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +424,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-18 14:09:12 (UTC)",
+                "LastUpdated": "2024-12-18 16:11:21 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Clean Energy Transition R USD",
+                "PPMCode": "887497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
+                "Current": 10.318904034121317,
+                "Yesterday": 10.352452726937866,
+                "LastWeek": 8.987806595547196,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-18 16:11:29 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 20.77417187959191,
+                "Yesterday": 21.567656072882986,
+                "LastWeek": 19.130106217725338,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-18 16:11:31 (UTC)",
                 "history": true
             },
             {
@@ -411,34 +467,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-18 14:09:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": 10.318904034121317,
-                "Yesterday": 10.352452726937866,
-                "LastWeek": 8.987806595547196,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-18 14:09:22 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 20.77417187959191,
-                "Yesterday": 21.567656072882986,
-                "LastWeek": 19.130106217725338,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-18 10:10:19 (UTC)",
                 "history": true
             },
             {
