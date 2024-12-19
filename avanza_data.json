@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-19 10:09:45 (UTC)",
+                "LastUpdated": "2024-12-19 12:17:00 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-19 10:09:47 (UTC)",
+                "LastUpdated": "2024-12-19 12:17:03 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-19 08:12:42 (UTC)",
+                "LastUpdated": "2024-12-19 10:09:45 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-19 08:12:46 (UTC)",
+                "LastUpdated": "2024-12-19 10:09:47 (UTC)",
                 "history": true
             },
             {
@@ -323,20 +323,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-13 14:09:18 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": 16.980883269982296,
-                "Yesterday": 15.469732677735246,
-                "LastWeek": 15.778702237394091,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-12 10:10:26 (UTC)",
-                "history": true
             }
         ]
     },
@@ -354,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-19 10:09:57 (UTC)",
+                "LastUpdated": "2024-12-19 12:17:13 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +354,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-19 10:09:58 (UTC)",
+                "LastUpdated": "2024-12-19 12:17:15 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 18.665915290330375,
+                "Yesterday": 18.967801209324172,
+                "LastWeek": 17.536714170744037,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-19 12:17:19 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-19 08:13:02 (UTC)",
+                "LastUpdated": "2024-12-19 10:09:57 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-19 08:13:04 (UTC)",
+                "LastUpdated": "2024-12-19 10:09:58 (UTC)",
                 "history": true
             },
             {
