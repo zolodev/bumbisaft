@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 20.844786762492078,
+                "Yesterday": 19.56321048697533,
+                "LastWeek": 27.750280894340978,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-19 22:08:13 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "JPM China A (dist) USD",
                 "PPMCode": "233585",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-19 20:09:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Nordea Kinafond",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-19 20:09:45 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -255,20 +269,6 @@
                 "history": true
             },
             {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 31.292949509554624,
-                "Yesterday": 28.99237356670573,
-                "LastWeek": 26.341543174967274,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-13 22:08:20 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "BGF China A2",
                 "PPMCode": "391896",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
@@ -280,20 +280,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-13 22:08:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 24.771686903424666,
-                "Yesterday": 22.94821543373046,
-                "LastWeek": 19.36063109435958,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-13 22:08:26 (UTC)",
                 "history": true
             },
             {
@@ -329,6 +315,20 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Coeli Nordisk F\u00f6retagsobligation R SEK",
+                "PPMCode": "386870",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/490477",
+                "Current": 1.5443185604798337,
+                "Yesterday": 1.266244585138284,
+                "LastWeek": 1.1912695768077246,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-19 22:08:24 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Technology A2",
                 "PPMCode": "446088",
