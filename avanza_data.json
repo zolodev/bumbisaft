@@ -13,8 +13,36 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-19 22:08:13 (UTC)",
+                "LastUpdated": "2024-12-20 00:41:41 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "\u00d6hman Sweden Micro Cap A",
+                "PPMCode": "416867",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
+                "Current": -5.675386560342303,
+                "Yesterday": -6.547213848098797,
+                "LastWeek": -4.969853155693855,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-20 00:41:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 20.844786762492078,
+                "Yesterday": 19.56321048697533,
+                "LastWeek": 27.750280894340978,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-19 22:08:13 (UTC)",
+                "history": true
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -28,20 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-19 20:09:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 20.844786762492078,
-                "Yesterday": 19.56321048697533,
-                "LastWeek": 27.750280894340978,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-19 20:09:45 (UTC)",
                 "history": true
             },
             {
@@ -326,8 +340,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-19 22:08:24 (UTC)",
+                "LastUpdated": "2024-12-20 00:41:53 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Coeli Nordisk F\u00f6retagsobligation R SEK",
+                "PPMCode": "386870",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/490477",
+                "Current": 1.5443185604798337,
+                "Yesterday": 1.266244585138284,
+                "LastWeek": 1.1912695768077246,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-19 22:08:24 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
