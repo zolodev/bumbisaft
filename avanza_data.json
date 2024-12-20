@@ -3,17 +3,17 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 20.844786762492078,
-                "Yesterday": 19.56321048697533,
-                "LastWeek": 27.750280894340978,
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": 4.777175817636709,
+                "Yesterday": 3.7050410681751385,
+                "LastWeek": 6.205101741877623,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-20 02:43:19 (UTC)",
+                "LastUpdated": "2024-12-20 04:11:06 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-20 02:43:22 (UTC)",
+                "LastUpdated": "2024-12-20 04:11:10 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-20 00:41:41 (UTC)",
+                "LastUpdated": "2024-12-20 02:43:19 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-20 00:41:43 (UTC)",
+                "LastUpdated": "2024-12-20 02:43:22 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-20 02:43:31 (UTC)",
+                "LastUpdated": "2024-12-20 04:11:24 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-20 00:41:53 (UTC)",
+                "LastUpdated": "2024-12-20 02:43:31 (UTC)",
                 "history": true
             },
             {
@@ -621,20 +621,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-13 18:12:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 22.369962180449345,
-                "Yesterday": 22.291084164370055,
-                "LastWeek": 19.45940847661975,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-13 02:58:52 (UTC)",
                 "history": true
             }
         ]
