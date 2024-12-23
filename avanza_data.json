@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 17.1698097649067,
+                "Yesterday": 14.68611621904659,
+                "LastWeek": 16.4177750657618,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-23 18:11:35 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Tundra Sustainable Frontier Fund A SEK",
                 "PPMCode": "861229",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
@@ -14,34 +28,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-23 16:10:24 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 17.093794586725746,
-                "Yesterday": 15.274772312621629,
-                "LastWeek": 18.879517723838603,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-23 16:10:32 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Tundra Sustainable Frontier Fund A SEK",
-                "PPMCode": "861229",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
-                "Current": 14.828858019371955,
-                "Yesterday": 12.56075281789666,
-                "LastWeek": 15.046017028023845,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-23 14:08:14 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-23 14:08:19 (UTC)",
+                "LastUpdated": "2024-12-23 16:10:32 (UTC)",
                 "history": true
             },
             {
@@ -344,6 +330,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 23.824683690201052,
+                "Yesterday": 23.75664672162108,
+                "LastWeek": 27.083721673456584,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-23 18:11:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 17.244741416729692,
+                "Yesterday": 16.76909892635109,
+                "LastWeek": 22.240212791463215,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-23 18:11:44 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 15.598561977820975,
+                "Yesterday": 15.106892586762442,
+                "LastWeek": 18.38818254515743,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-23 18:11:46 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Asset Selection C H-SEK",
                 "PPMCode": "639633",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
@@ -355,20 +383,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-23 16:10:44 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Asset Selection C H-SEK",
-                "PPMCode": "639633",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
-                "Current": 2.6605372331053503,
-                "Yesterday": 2.386100922084645,
-                "LastWeek": 1.817473157032028,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-23 14:08:25 (UTC)",
                 "history": true
             },
             {
