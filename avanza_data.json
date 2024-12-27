@@ -3,17 +3,45 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 17.352542534153343,
-                "Yesterday": 14.575818756325909,
-                "LastWeek": 18.064118407787504,
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 1.6433555871069254,
+                "Yesterday": -0.6948010754312162,
+                "LastWeek": 1.6493973355889306,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 18:11:41 (UTC)",
+                "LastUpdated": "2024-12-27 20:09:08 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 16.15272212070259,
+                "Yesterday": 13.830488921637787,
+                "LastWeek": 20.236645414060686,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-27 20:09:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 8.29192124917879,
+                "Yesterday": 5.601794114027633,
+                "LastWeek": 10.562213979112228,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-27 20:09:18 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 16:10:02 (UTC)",
+                "LastUpdated": "2024-12-27 18:11:41 (UTC)",
                 "history": true
             },
             {
@@ -172,7 +200,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 18:11:53 (UTC)",
+                "LastUpdated": "2024-12-27 20:09:24 (UTC)",
                 "history": false
             },
             {
@@ -186,7 +214,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 18:11:57 (UTC)",
+                "LastUpdated": "2024-12-27 20:09:29 (UTC)",
                 "history": false
             },
             {
@@ -200,7 +228,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 18:11:59 (UTC)",
+                "LastUpdated": "2024-12-27 20:09:35 (UTC)",
                 "history": false
             },
             {
@@ -214,7 +242,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 16:10:13 (UTC)",
+                "LastUpdated": "2024-12-27 18:11:53 (UTC)",
                 "history": true
             },
             {
@@ -228,7 +256,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 16:10:17 (UTC)",
+                "LastUpdated": "2024-12-27 18:11:57 (UTC)",
                 "history": true
             },
             {
@@ -242,7 +270,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 16:10:19 (UTC)",
+                "LastUpdated": "2024-12-27 18:11:59 (UTC)",
                 "history": true
             },
             {
@@ -341,20 +369,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-23 16:10:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Coeli Nordisk F\u00f6retagsobligation R SEK",
-                "PPMCode": "386870",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/490477",
-                "Current": 1.5443185604798337,
-                "Yesterday": 1.266244585138284,
-                "LastWeek": 1.1912695768077246,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-20 18:12:12 (UTC)",
                 "history": true
             }
         ]
