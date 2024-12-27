@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 02:42:05 (UTC)",
+                "LastUpdated": "2024-12-27 04:10:43 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 02:42:12 (UTC)",
+                "LastUpdated": "2024-12-27 04:10:49 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 00:41:25 (UTC)",
+                "LastUpdated": "2024-12-27 02:42:05 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 00:41:34 (UTC)",
+                "LastUpdated": "2024-12-27 02:42:12 (UTC)",
                 "history": true
             },
             {
@@ -183,20 +183,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-20 06:12:49 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 20.844786762492078,
-                "Yesterday": 19.56321048697533,
-                "LastWeek": 27.750280894340978,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-20 02:43:19 (UTC)",
-                "history": true
             }
         ]
     },
@@ -204,17 +190,17 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 12.615510104842162,
-                "Yesterday": 10.690908365794323,
-                "LastWeek": 11.387877010213778,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 18.653467319847504,
+                "Yesterday": 19.310140950799287,
+                "LastWeek": 18.969570036081222,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 02:42:14 (UTC)",
+                "LastUpdated": "2024-12-27 04:10:51 (UTC)",
                 "history": false
             },
             {
@@ -228,7 +214,63 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 00:41:37 (UTC)",
+                "LastUpdated": "2024-12-27 04:10:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": 14.245697536197618,
+                "Yesterday": 15.02243803546782,
+                "LastWeek": 14.230085511753169,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-27 04:10:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 3.562235356113861,
+                "Yesterday": 4.167076749281192,
+                "LastWeek": 4.3702012132446395,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-27 04:10:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Biotechnology Discv A(acc)USD",
+                "PPMCode": "389239",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
+                "Current": 0.17875562693589714,
+                "Yesterday": -0.06465117467788942,
+                "LastWeek": 0.31172904227713305,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-27 04:11:01 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 12.615510104842162,
+                "Yesterday": 10.690908365794323,
+                "LastWeek": 11.387877010213778,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-27 02:42:14 (UTC)",
                 "history": true
             },
             {
