@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 8.29192124917879,
+                "Yesterday": 5.601794114027633,
+                "LastWeek": 10.562213979112228,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-27 22:07:53 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Skandia Japan Exponering",
                 "PPMCode": "582791",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
@@ -13,7 +27,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 20:09:08 (UTC)",
+                "LastUpdated": "2024-12-27 22:07:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 18.63913155420901,
+                "Yesterday": 16.526296604769357,
+                "LastWeek": 20.41801969357223,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-27 22:07:58 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +55,36 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 20:09:16 (UTC)",
+                "LastUpdated": "2024-12-27 22:08:01 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 1.6433555871069254,
+                "Yesterday": -0.6948010754312162,
+                "LastWeek": 1.6493973355889306,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-27 20:09:08 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 16.15272212070259,
+                "Yesterday": 13.830488921637787,
+                "LastWeek": 20.236645414060686,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-27 20:09:16 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Energy A2",
@@ -42,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-27 20:09:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -155,34 +211,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-20 22:08:24 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": 4.777175817636709,
-                "Yesterday": 3.7050410681751385,
-                "LastWeek": 6.205101741877623,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-20 20:09:42 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global Frontier Mkts A SEK",
-                "PPMCode": "870907",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
-                "Current": 6.519959345413068,
-                "Yesterday": 5.527011571777023,
-                "LastWeek": 7.7616782883047675,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-20 20:09:43 (UTC)",
-                "history": true
             }
         ]
     },
@@ -200,7 +228,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 20:09:24 (UTC)",
+                "LastUpdated": "2024-12-27 22:08:07 (UTC)",
                 "history": false
             },
             {
@@ -214,21 +242,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 20:09:29 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": 14.245697536197618,
-                "Yesterday": 15.02243803546782,
-                "LastWeek": 14.230085511753169,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 20:09:35 (UTC)",
+                "LastUpdated": "2024-12-27 22:08:11 (UTC)",
                 "history": false
             },
             {
@@ -242,7 +256,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 18:11:53 (UTC)",
+                "LastUpdated": "2024-12-27 20:09:24 (UTC)",
                 "history": true
             },
             {
@@ -256,7 +270,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 18:11:57 (UTC)",
+                "LastUpdated": "2024-12-27 20:09:29 (UTC)",
                 "history": true
             },
             {
@@ -270,7 +284,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 18:11:59 (UTC)",
+                "LastUpdated": "2024-12-27 20:09:35 (UTC)",
                 "history": true
             },
             {
