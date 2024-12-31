@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-31 16:09:42 (UTC)",
+                "LastUpdated": "2024-12-31 18:11:04 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-31 16:09:47 (UTC)",
+                "LastUpdated": "2024-12-31 18:11:07 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-31 16:09:48 (UTC)",
+                "LastUpdated": "2024-12-31 18:11:08 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-31 16:09:53 (UTC)",
+                "LastUpdated": "2024-12-31 18:11:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "PriorNilsson Realinvest A",
+                "PPMCode": "487108",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
+                "Current": -11.985673558059274,
+                "Yesterday": -12.919893269312317,
+                "LastWeek": -10.960989368249143,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-31 18:11:16 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +83,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2024-12-31 14:07:55 (UTC)",
+                "LastUpdated": "2024-12-31 16:09:42 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Tundra Sustainable Frontier Fund A SEK",
+                "PPMCode": "861229",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
+                "Current": 18.03767824306977,
+                "Yesterday": 16.19886895881761,
+                "LastWeek": 15.699267945737777,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-31 16:09:47 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Holberg Global A",
+                "PPMCode": "282632",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74108",
+                "Current": 11.114085338462921,
+                "Yesterday": 9.402493876900092,
+                "LastWeek": 14.255179103258056,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-31 16:09:48 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sverige",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": -1.9997143265247903,
+                "Yesterday": -3.199542922439664,
+                "LastWeek": -0.45707756034853214,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2024-12-31 16:09:53 (UTC)",
                 "history": true
             },
             {
@@ -84,48 +140,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-31 14:07:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Tundra Sustainable Frontier Fund A SEK",
-                "PPMCode": "861229",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
-                "Current": 18.03767824306977,
-                "Yesterday": 16.19886895881761,
-                "LastWeek": 15.699267945737777,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-31 14:08:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Global A",
-                "PPMCode": "282632",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74108",
-                "Current": 11.114085338462921,
-                "Yesterday": 9.402493876900092,
-                "LastWeek": 14.255179103258056,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-31 14:08:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sverige",
-                "PPMCode": "806869",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
-                "Current": -1.9997143265247903,
-                "Yesterday": -3.199542922439664,
-                "LastWeek": -0.45707756034853214,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-31 14:08:08 (UTC)",
                 "history": true
             },
             {
@@ -242,7 +256,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-31 16:09:59 (UTC)",
+                "LastUpdated": "2024-12-31 18:11:18 (UTC)",
                 "history": false
             },
             {
@@ -256,7 +270,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-31 16:10:05 (UTC)",
+                "LastUpdated": "2024-12-31 18:11:22 (UTC)",
                 "history": false
             },
             {
@@ -270,7 +284,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-31 16:10:09 (UTC)",
+                "LastUpdated": "2024-12-31 18:11:25 (UTC)",
                 "history": false
             },
             {
@@ -284,21 +298,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-31 14:08:14 (UTC)",
+                "LastUpdated": "2024-12-31 16:09:59 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 5.581190947044615,
+                "Yesterday": 5.618859277395873,
+                "LastWeek": 4.510782559563049,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2024-12-31 16:10:05 (UTC)",
                 "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
                 "PPMCode": "176503",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 2.285139069521567,
-                "Yesterday": -0.08211404792291695,
-                "LastWeek": 2.227209784627202,
-                "TrendDay": "\u25b2",
+                "Current": 5.735974885156337,
+                "Yesterday": 5.956202739693624,
+                "LastWeek": 4.31314036052334,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-31 14:08:16 (UTC)",
+                "LastUpdated": "2024-12-31 16:10:09 (UTC)",
                 "history": true
             },
             {
@@ -313,20 +341,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-31 14:08:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 5.581190947044615,
-                "Yesterday": 5.618859277395873,
-                "LastWeek": 4.510782559563049,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-31 14:08:23 (UTC)",
                 "history": true
             },
             {
