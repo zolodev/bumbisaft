@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 1.9270000043976019,
+                "Yesterday": -0.749841319582606,
+                "LastWeek": -2.1501461227985352,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-06 00:43:51 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin India A(acc)USD",
                 "PPMCode": "170894",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-03 22:07:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -70,20 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-03 10:09:31 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": 4.864699676448857,
-                "Yesterday": 2.2926499080784524,
-                "LastWeek": 3.25024209506009,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-03 06:12:42 (UTC)",
                 "history": true
             },
             {
@@ -491,26 +491,96 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2024-12-30 16:10:14 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 16.15272212070259,
-                "Yesterday": 13.830488921637787,
-                "LastWeek": 20.236645414060686,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2024-12-27 22:08:01 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 1.6249944701567482,
+                "Yesterday": 0.8644882946384722,
+                "LastWeek": -2.6638920805216184,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-06 00:43:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 5.305358911775801,
+                "Yesterday": 4.82225991381462,
+                "LastWeek": -0.2860821158057901,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-06 00:43:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -1.5412544278304507,
+                "Yesterday": -2.41904646103678,
+                "LastWeek": -5.114137530734372,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-06 00:43:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pareto Aksje Norge B",
+                "PPMCode": "165755",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
+                "Current": 2.8538143975044137,
+                "Yesterday": 0.9668868078472439,
+                "LastWeek": -0.28926545751780547,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-06 00:44:01 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 1.9270000043976019,
+                "Yesterday": -0.749841319582606,
+                "LastWeek": -2.1501461227985352,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-06 00:44:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 3.6705202750900883,
+                "Yesterday": 3.6799452654586915,
+                "LastWeek": -0.9986741308873204,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-06 00:44:04 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Energy A2",
                 "PPMCode": "517748",
@@ -523,7 +593,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-03 22:08:00 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -537,7 +607,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-03 22:08:01 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pareto Aksje Norge B",
@@ -551,7 +621,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-03 22:08:05 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -565,7 +635,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-03 22:08:06 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Alfred Berg Norge R (NOK)",
@@ -579,76 +649,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-03 22:08:08 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 5.41280785699103,
-                "Yesterday": 4.82225991381462,
-                "LastWeek": -0.2860821158057901,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-03 20:09:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -1.5412544278304507,
-                "Yesterday": -2.41904646103678,
-                "LastWeek": -5.114137530734372,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-03 20:09:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pareto Aksje Norge B",
-                "PPMCode": "165755",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": 2.8538143975044137,
-                "Yesterday": 0.9668868078472439,
-                "LastWeek": -0.28926545751780547,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-03 20:09:41 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 1.9270000043976019,
-                "Yesterday": -0.749841319582606,
-                "LastWeek": -2.1501461227985352,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-03 20:09:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 3.8013998097833324,
-                "Yesterday": 3.6799452654586915,
-                "LastWeek": -0.9986741308873204,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-03 20:09:45 (UTC)",
                 "history": true
             },
             {
@@ -775,20 +775,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2024-12-30 16:10:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 18.653467319847504,
-                "Yesterday": 19.310140950799287,
-                "LastWeek": 18.969570036081222,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2024-12-27 22:08:07 (UTC)",
                 "history": true
             }
         ]
