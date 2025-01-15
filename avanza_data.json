@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": -6.999930964443061,
+                "Yesterday": -8.953726256321941,
+                "LastWeek": -6.218397267393856,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-15 06:12:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": -0.640858137326885,
+                "Yesterday": -2.348500504904793,
+                "LastWeek": -3.6607798252806982,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-15 06:12:10 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin Biotechnology Discv A(acc)USD",
                 "PPMCode": "389239",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-15 04:10:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Natural Resources A(acc)USD",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-15 04:10:50 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -42,48 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-15 04:10:52 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Biotechnology Discv A(acc)USD",
-                "PPMCode": "389239",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
-                "Current": -4.533321359047136,
-                "Yesterday": -6.660504519886761,
-                "LastWeek": -5.859425727927984,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-15 02:39:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 3.9871894807403807,
-                "Yesterday": 2.1037116411785237,
-                "LastWeek": -2.5510674322071294,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-15 02:39:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": -0.640858137326885,
-                "Yesterday": -2.348500504904793,
-                "LastWeek": -3.6607798252806982,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-15 02:39:09 (UTC)",
                 "history": true
             },
             {
@@ -487,14 +473,14 @@
                 "Name": "Franklin Natural Resources A(acc)USD",
                 "PPMCode": "532558",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 3.9871894807403807,
-                "Yesterday": 2.1037116411785237,
-                "LastWeek": -2.5510674322071294,
+                "Current": 3.7728764123445515,
+                "Yesterday": 3.749714211676082,
+                "LastWeek": -0.682748878970672,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-15 04:10:57 (UTC)",
+                "LastUpdated": "2025-01-15 06:12:19 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-15 04:11:00 (UTC)",
+                "LastUpdated": "2025-01-15 06:12:20 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-15 04:11:03 (UTC)",
+                "LastUpdated": "2025-01-15 06:12:23 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-15 02:39:15 (UTC)",
+                "LastUpdated": "2025-01-15 04:10:57 (UTC)",
                 "history": true
             },
             {
@@ -550,21 +536,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-15 02:39:18 (UTC)",
+                "LastUpdated": "2025-01-15 04:11:00 (UTC)",
                 "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": -7.620761811576974,
+                "Current": -7.704169377552156,
                 "Yesterday": -7.832491384568146,
                 "LastWeek": -9.811096920203704,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-15 02:39:21 (UTC)",
+                "LastUpdated": "2025-01-15 04:11:03 (UTC)",
                 "history": true
             },
             {
