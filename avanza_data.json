@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-01-20 18:11:15 (UTC)",
+                "LastUpdated": "2025-01-20 20:09:00 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-01-20 18:11:17 (UTC)",
+                "LastUpdated": "2025-01-20 20:09:02 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-01-20 18:11:20 (UTC)",
+                "LastUpdated": "2025-01-20 20:09:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 1.476440052536349,
+                "Yesterday": -0.5677365797137841,
+                "LastWeek": -2.593734194243827,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-20 20:09:09 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +69,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-01-20 16:10:04 (UTC)",
+                "LastUpdated": "2025-01-20 18:11:15 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": -4.056845321798826,
+                "Yesterday": -6.07476659535274,
+                "LastWeek": -7.453351111053622,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-20 18:11:17 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": -2.9608417422875877,
+                "Yesterday": -4.928240777621281,
+                "LastWeek": -6.151121549994129,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-20 18:11:20 (UTC)",
                 "history": true
             },
             {
@@ -269,20 +311,6 @@
                 "history": true
             },
             {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": -8.031225242298307,
-                "Yesterday": -9.45711152387596,
-                "LastWeek": -6.373626639605577,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-15 08:11:43 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Franklin Biotechnology Discv A(acc)USD",
                 "PPMCode": "389239",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/455",
@@ -365,40 +393,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-13 20:09:08 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 5.972888872449225,
-                "Yesterday": 4.334232741759314,
-                "LastWeek": -0.6428730698544808,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-13 18:12:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Health R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": 6.765217659478664,
-                "Yesterday": 5.558386787524743,
-                "LastWeek": 2.549580291667647,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-13 18:12:40 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 16.571443793775238,
+                "Yesterday": 15.384653599863544,
+                "LastWeek": 10.937087857472,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-20 20:09:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 1.476440052536349,
+                "Yesterday": -0.5677365797137841,
+                "LastWeek": -2.593734194243827,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-20 20:09:16 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
                 "PPMCode": "842690",
@@ -410,7 +438,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-20 18:11:25 (UTC)",
+                "LastUpdated": "2025-01-20 20:09:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Sverige (A1 SEK)",
+                "PPMCode": "916189",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1959",
+                "Current": 0.9073305978214024,
+                "Yesterday": 0.7384215336831879,
+                "LastWeek": -2.8006122953574994,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-20 20:09:19 (UTC)",
                 "history": false
             },
             {
@@ -424,8 +466,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-20 18:11:27 (UTC)",
+                "LastUpdated": "2025-01-20 20:09:21 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
+                "PPMCode": "952010",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
+                "Current": -1.4881554569006301,
+                "Yesterday": -1.8233970887537354,
+                "LastWeek": -4.986967233601934,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-20 20:09:23 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": -0.2821550255536633,
+                "Yesterday": -0.6867546848381559,
+                "LastWeek": -3.7372231686541793,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-20 18:11:25 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -11.38323979034612,
+                "Yesterday": -11.299900560369169,
+                "LastWeek": -13.580158289843453,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-20 18:11:27 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Financials A2",
@@ -439,7 +523,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-20 18:11:28 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "AMF Aktiefond Sverige",
@@ -453,20 +537,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-20 18:11:30 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 15.081312654112416,
-                "Yesterday": 13.986433538005116,
-                "LastWeek": 10.120743365913345,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-20 16:10:14 (UTC)",
                 "history": true
             },
             {
@@ -526,34 +596,6 @@
                 "history": true
             },
             {
-                "Name": "AMF Aktiefond Sverige",
-                "PPMCode": "681783",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1949",
-                "Current": 1.110258016285132,
-                "Yesterday": -0.4344048653344986,
-                "LastWeek": -2.6529004101590115,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-20 08:12:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -11.682798538907777,
-                "Yesterday": -13.346999873386526,
-                "LastWeek": -14.190987571458319,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-17 22:08:23 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
                 "PPMCode": "952010",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
@@ -565,20 +607,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-17 18:11:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": -0.6179745351872551,
-                "Yesterday": -1.6727931383517205,
-                "LastWeek": -2.6530286079590955,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-17 18:11:50 (UTC)",
                 "history": true
             },
             {
@@ -817,20 +845,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-13 20:09:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Health R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": 6.765217659478664,
-                "Yesterday": 5.558386787524743,
-                "LastWeek": 2.549580291667647,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-13 18:13:02 (UTC)",
                 "history": true
             }
         ]
