@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-01-21 18:12:05 (UTC)",
+                "LastUpdated": "2025-01-21 20:09:28 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-01-21 18:12:08 (UTC)",
+                "LastUpdated": "2025-01-21 20:09:30 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Clean Energy Transition R USD",
+                "PPMCode": "887497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
+                "Current": 5.870732230753116,
+                "Yesterday": 4.287589396118836,
+                "LastWeek": 4.96869838481878,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-21 18:12:05 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": -3.9425217036060376,
+                "Yesterday": -5.341187320043348,
+                "LastWeek": -6.926129555558701,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-21 18:12:08 (UTC)",
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Fastighet A",
@@ -42,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-21 16:10:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": 5.870732230753116,
-                "Yesterday": 4.287589396118836,
-                "LastWeek": 4.96869838481878,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-21 16:10:32 (UTC)",
                 "history": true
             },
             {
@@ -241,20 +255,6 @@
                 "history": true
             },
             {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": -6.999930964443061,
-                "Yesterday": -8.953726256321941,
-                "LastWeek": -6.218397267393856,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-15 18:11:44 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Lannebo Sm\u00e5bolag",
                 "PPMCode": "842690",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
@@ -326,35 +326,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 18:12:14 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 16.571443793775238,
-                "Yesterday": 15.384653599863544,
-                "LastWeek": 10.937087857472,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 18:12:16 (UTC)",
+                "LastUpdated": "2025-01-21 20:09:35 (UTC)",
                 "history": false
             },
             {
                 "Name": "Handelsbanken Sverige (A1 SEK)",
                 "PPMCode": "916189",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1959",
-                "Current": 0.9073305978214024,
-                "Yesterday": 0.7384215336831879,
-                "LastWeek": -2.8006122953574994,
+                "Current": 1.344503824618847,
+                "Yesterday": 0.6294483184698144,
+                "LastWeek": -3.491609664469698,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 18:12:17 (UTC)",
+                "LastUpdated": "2025-01-21 20:09:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
+                "PPMCode": "952010",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
+                "Current": -0.7560927283534744,
+                "Yesterday": -1.6025361600951082,
+                "LastWeek": -5.670695462651077,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-21 20:09:39 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 16.081502443343247,
+                "Yesterday": 16.96412642378825,
+                "LastWeek": 9.909021557279923,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-21 20:09:40 (UTC)",
                 "history": false
             },
             {
@@ -368,21 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 18:12:21 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
-                "PPMCode": "952010",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
-                "Current": -1.4881554569006301,
-                "Yesterday": -1.8233970887537354,
-                "LastWeek": -4.986967233601934,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 18:12:22 (UTC)",
+                "LastUpdated": "2025-01-21 20:09:41 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 18:12:25 (UTC)",
+                "LastUpdated": "2025-01-21 20:09:43 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 16:10:38 (UTC)",
+                "LastUpdated": "2025-01-21 18:12:14 (UTC)",
                 "history": true
             },
             {
@@ -424,21 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 16:10:40 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": -0.2821550255536633,
-                "Yesterday": -0.6867546848381559,
-                "LastWeek": -3.7372231686541793,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 16:10:41 (UTC)",
+                "LastUpdated": "2025-01-21 18:12:16 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +438,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 16:10:43 (UTC)",
+                "LastUpdated": "2025-01-21 18:12:17 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": -0.19650539062085323,
+                "Yesterday": -0.520473737320086,
+                "LastWeek": -4.67364172287428,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-21 18:12:21 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
+                "PPMCode": "952010",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
+                "Current": -1.4881554569006301,
+                "Yesterday": -1.8233970887537354,
+                "LastWeek": -4.986967233601934,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-21 18:12:22 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "AMF Aktiefond Sverige",
+                "PPMCode": "681783",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1949",
+                "Current": 1.2597745455275449,
+                "Yesterday": 0.623362544041911,
+                "LastWeek": -3.44907198281487,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-21 18:12:25 (UTC)",
                 "history": true
             },
             {
@@ -467,34 +495,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-21 16:10:45 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
-                "PPMCode": "952010",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
-                "Current": -1.4881554569006301,
-                "Yesterday": -1.8233970887537354,
-                "LastWeek": -4.986967233601934,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 16:10:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AMF Aktiefond Sverige",
-                "PPMCode": "681783",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1949",
-                "Current": 0.8196968630251317,
-                "Yesterday": 0.6617920685528117,
-                "LastWeek": -2.872459191165372,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-21 14:08:40 (UTC)",
                 "history": true
             },
             {
