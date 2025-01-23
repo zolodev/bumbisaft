@@ -3,6 +3,76 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 14.905823921355168,
+                "Yesterday": 12.711238979260276,
+                "LastWeek": 9.780030037557953,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-23 22:07:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 1.4452329224084348,
+                "Yesterday": -0.35546747579687554,
+                "LastWeek": 0.09603702632340158,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-23 22:08:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 12.202832262302861,
+                "Yesterday": 10.485478934205299,
+                "LastWeek": 8.355848847222159,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-23 22:08:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Enter Select A",
+                "PPMCode": "643700",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/91107",
+                "Current": 3.345198964763904,
+                "Yesterday": 1.7693332613630288,
+                "LastWeek": -3.3068463651678743,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-23 22:08:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Enter Sverige A",
+                "PPMCode": "170423",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1963",
+                "Current": 3.50110631050682,
+                "Yesterday": 1.9420344480196985,
+                "LastWeek": -3.167468189210493,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-23 22:08:07 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Digital R USD",
                 "PPMCode": "296749",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
@@ -14,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-23 20:09:05 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Technology A Acc USD",
@@ -28,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-23 20:09:07 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -42,7 +112,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-23 20:09:09 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -56,48 +126,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-23 18:11:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 12.352836883524047,
-                "Yesterday": 9.954705386894947,
-                "LastWeek": 8.636223666877004,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-23 18:11:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 14.905823921355168,
-                "Yesterday": 12.711238979260276,
-                "LastWeek": 9.780030037557953,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-23 18:11:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 1.4452329224084348,
-                "Yesterday": -0.35546747579687554,
-                "LastWeek": 0.09603702632340158,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-23 18:11:55 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-23 20:09:17 (UTC)",
+                "LastUpdated": "2025-01-23 22:08:12 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +410,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-23 20:09:23 (UTC)",
+                "LastUpdated": "2025-01-23 22:08:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Sverige (A1 SEK)",
+                "PPMCode": "916189",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1959",
+                "Current": 3.136171776681414,
+                "Yesterday": 2.766981100555738,
+                "LastWeek": -3.6919067612566936,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-23 22:08:19 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +438,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-23 18:12:02 (UTC)",
+                "LastUpdated": "2025-01-23 20:09:17 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 14.905823921355168,
+                "Yesterday": 12.711238979260276,
+                "LastWeek": 9.780030037557953,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-01-23 20:09:23 (UTC)",
                 "history": true
             },
             {
