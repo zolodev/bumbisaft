@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin Technology A Acc USD",
+                "PPMCode": "496729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
+                "Current": 11.19865532035415,
+                "Yesterday": 7.016421211989199,
+                "LastWeek": 9.981473422392341,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-29 04:10:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": 7.890191164355587,
+                "Yesterday": 4.9424062818867185,
+                "LastWeek": 5.5814668831046745,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-29 04:10:59 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Water AT EUR",
+                "PPMCode": "878694",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
+                "Current": 0.4172807545553045,
+                "Yesterday": -2.153367184781459,
+                "LastWeek": -0.4094118835848189,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-29 04:11:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Europe Small Cap Equity AT EUR",
+                "PPMCode": "538751",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
+                "Current": -0.09995994456225017,
+                "Yesterday": -2.4561355018339297,
+                "LastWeek": -2.285007136233239,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-01-29 04:11:03 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Global Water AT EUR",
                 "PPMCode": "878694",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
@@ -14,34 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-29 02:38:13 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz Europe Small Cap Equity AT EUR",
-                "PPMCode": "538751",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
-                "Current": -0.06461341008425317,
-                "Yesterday": -2.4561355018339297,
-                "LastWeek": -2.285007136233239,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-29 02:38:17 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz Global Water AT EUR",
-                "PPMCode": "878694",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
-                "Current": 0.45281026191713913,
-                "Yesterday": -2.153367184781459,
-                "LastWeek": -0.4094118835848189,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-29 00:41:11 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-01-29 00:41:13 (UTC)",
+                "LastUpdated": "2025-01-29 02:38:17 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-29 02:38:24 (UTC)",
+                "LastUpdated": "2025-01-29 04:11:07 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-29 02:38:29 (UTC)",
+                "LastUpdated": "2025-01-29 04:11:10 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-29 02:38:33 (UTC)",
+                "LastUpdated": "2025-01-29 04:11:13 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-29 00:41:18 (UTC)",
+                "LastUpdated": "2025-01-29 02:38:24 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-29 00:41:22 (UTC)",
+                "LastUpdated": "2025-01-29 02:38:29 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-29 00:41:24 (UTC)",
+                "LastUpdated": "2025-01-29 02:38:33 (UTC)",
                 "history": true
             },
             {
