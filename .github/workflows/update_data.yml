@@ -25,9 +25,8 @@ jobs:
             - name: Install dependencies
               run: |
                   python -m pip install --upgrade pip
-                  pip install setuptools
-                  pip install cffi packaging
                   pip install -r requirements.txt
+              #   pip install setuptools
               #   pip install requests
               #   pip install selenium-wire
               #   pip install haralyzer
