@@ -323,26 +323,68 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-01-27 08:13:10 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": -2.853325674566269,
-                "Yesterday": -3.8988258998758263,
-                "LastWeek": -4.819742977168434,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-01-24 22:07:57 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 3.0889458072361884,
+                "Yesterday": 1.1498654019564947,
+                "LastWeek": -3.375137878500341,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-03 00:42:11 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 2.3945387564331346,
+                "Yesterday": 0.3242021428802598,
+                "LastWeek": -3.1621658674006814,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-03 00:42:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": -2.9379017778151875,
+                "Yesterday": -4.839326304995339,
+                "LastWeek": -8.45512065435528,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-03 00:42:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
+                "PPMCode": "679837",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
+                "Current": 1.6399129584660652,
+                "Yesterday": 0.223911192405953,
+                "LastWeek": -4.027247784540662,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-03 00:42:17 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
                 "PPMCode": "334409",
@@ -355,7 +397,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-31 22:07:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -369,7 +411,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-31 22:07:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -383,7 +425,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-31 22:07:50 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
@@ -397,7 +439,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-31 22:07:53 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
@@ -411,76 +453,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-31 22:07:56 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 2.5436422107569,
-                "Yesterday": 1.1498654019564947,
-                "LastWeek": -3.375137878500341,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-31 20:09:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 2.3945387564331346,
-                "Yesterday": 0.3242021428802598,
-                "LastWeek": -3.1621658674006814,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-31 20:09:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": -3.451325509011347,
-                "Yesterday": -4.839326304995339,
-                "LastWeek": -8.45512065435528,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-31 20:09:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": 1.6399129584660652,
-                "Yesterday": 0.223911192405953,
-                "LastWeek": -4.027247784540662,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-31 20:09:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 1.9716071839260714,
-                "Yesterday": 0.6627778126241316,
-                "LastWeek": -2.977273202450398,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-31 20:09:13 (UTC)",
                 "history": true
             },
             {
@@ -719,20 +691,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-27 06:13:28 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Technology A Acc USD",
-                "PPMCode": "496729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/397",
-                "Current": 16.10842069188279,
-                "Yesterday": 15.853384502119896,
-                "LastWeek": 10.402030133037016,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-24 22:08:10 (UTC)",
                 "history": true
             }
         ]
