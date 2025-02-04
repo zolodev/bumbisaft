@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 0.8723242978637981,
+                "Yesterday": -0.8656892913073768,
+                "LastWeek": -1.070931647340809,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-04 22:08:08 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Emerging Markets R USD",
                 "PPMCode": "404236",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2186",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-04 20:09:09 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Natural Resources Fund Class A2 USD",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-04 20:09:10 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Emerging Markets A2",
@@ -42,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-04 20:09:13 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -382,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-04 20:09:16 (UTC)",
+                "LastUpdated": "2025-02-04 22:08:14 (UTC)",
                 "history": false
             },
             {
@@ -396,35 +410,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-04 20:09:18 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": 0.32722710202589583,
-                "Yesterday": -0.8083334461490655,
-                "LastWeek": -2.9706530810019918,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-04 20:09:24 (UTC)",
+                "LastUpdated": "2025-02-04 22:08:16 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 3.117580248332854,
-                "Yesterday": 2.3945387564331346,
-                "LastWeek": -3.8894988135428425,
+                "Current": 3.2312759675841276,
+                "Yesterday": 3.029191196349028,
+                "LastWeek": -3.007099131729863,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-04 18:12:04 (UTC)",
+                "LastUpdated": "2025-02-04 20:09:16 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +438,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-04 18:12:08 (UTC)",
+                "LastUpdated": "2025-02-04 20:09:18 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": 0.32722710202589583,
+                "Yesterday": -0.8083334461490655,
+                "LastWeek": -2.9706530810019918,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-04 20:09:24 (UTC)",
                 "history": true
             },
             {
@@ -565,20 +579,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-01-30 16:10:42 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Norden A",
-                "PPMCode": "354290",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74111",
-                "Current": 3.4654241133483428,
-                "Yesterday": 2.8429965369500327,
-                "LastWeek": 0.6291512053780941,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-01-28 20:09:47 (UTC)",
                 "history": true
             }
         ]
