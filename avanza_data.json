@@ -13,21 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-11 16:11:09 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 1.5635607355515329,
-                "Yesterday": -0.027660124470782622,
-                "LastWeek": -1.8070628985115837,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-11 16:11:18 (UTC)",
+                "LastUpdated": "2025-02-11 18:10:32 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-11 16:11:20 (UTC)",
+                "LastUpdated": "2025-02-11 18:10:38 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-11 14:08:20 (UTC)",
+                "LastUpdated": "2025-02-11 16:11:09 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-11 14:08:29 (UTC)",
+                "LastUpdated": "2025-02-11 16:11:18 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": -1.2299973917377283,
+                "Yesterday": -2.7219471934145814,
+                "LastWeek": -1.0985323963147882,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-11 16:11:20 (UTC)",
                 "history": true
             },
             {
@@ -84,20 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-11 10:10:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": -1.2299973917377283,
-                "Yesterday": -2.7219471934145814,
-                "LastWeek": -1.0985323963147882,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-11 10:10:10 (UTC)",
                 "history": true
             },
             {
@@ -456,6 +442,62 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": -2.705027859522301,
+                "Yesterday": -3.9692146097626306,
+                "LastWeek": -5.7164905661923555,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-11 18:10:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": -4.708943476313088,
+                "Yesterday": -4.332622091682176,
+                "LastWeek": -8.133370411599548,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-11 18:10:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 1.4786343448290995,
+                "Yesterday": 0.31619116129252445,
+                "LastWeek": -4.36605629999748,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-11 18:10:46 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 2.1197959231956696,
+                "Yesterday": -0.10561889306943908,
+                "LastWeek": -4.45434305909171,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-11 18:10:47 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF China A2",
                 "PPMCode": "391896",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
@@ -467,7 +509,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-02-11 16:11:24 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Mining A2",
@@ -481,7 +523,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-02-11 16:11:28 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -495,7 +537,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-02-11 16:11:29 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Nordea Kinafond",
@@ -509,7 +551,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-02-11 16:11:30 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -523,76 +565,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-02-11 16:11:36 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 3.8052310639949307,
-                "Yesterday": 2.378844912690818,
-                "LastWeek": -3.7508674832117963,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-11 14:08:34 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": -4.708943476313088,
-                "Yesterday": -4.332622091682176,
-                "LastWeek": -8.133370411599548,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-11 14:08:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 1.4786343448290995,
-                "Yesterday": 0.31619116129252445,
-                "LastWeek": -4.36605629999748,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-11 14:08:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 2.1197959231956696,
-                "Yesterday": -0.10561889306943908,
-                "LastWeek": -4.45434305909171,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-11 14:08:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 9.088650411351715,
-                "Yesterday": 8.314947437835766,
-                "LastWeek": 1.703870455979464,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-11 14:08:44 (UTC)",
                 "history": true
             },
             {
