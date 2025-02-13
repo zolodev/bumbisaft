@@ -13,8 +13,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-13 20:09:40 (UTC)",
+                "LastUpdated": "2025-02-13 22:08:01 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 0.7537324249891437,
+                "Yesterday": -1.478475141324824,
+                "LastWeek": -0.8262066966226891,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-13 22:08:09 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": 7.210321691275462,
+                "Yesterday": 5.1113049659138685,
+                "LastWeek": 4.462968347818601,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-13 22:08:11 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 6.629831222513155,
+                "Yesterday": 3.664935087161151,
+                "LastWeek": 0.5158975452685735,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-13 20:09:40 (UTC)",
+                "history": true
             },
             {
                 "Name": "JPM China A (dist) USD",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-13 20:09:42 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-13 20:09:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -56,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-13 20:09:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF China A2",
@@ -70,62 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-13 18:12:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 6.629831222513155,
-                "Yesterday": 3.664935087161151,
-                "LastWeek": 0.5158975452685735,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-13 18:12:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 4.198056449049354,
-                "Yesterday": 1.3784429672731604,
-                "LastWeek": -1.4072760774819397,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-13 18:12:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 8.378334325329584,
-                "Yesterday": 5.8555692928271235,
-                "LastWeek": 3.72703614363723,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-13 18:12:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 0.7537324249891437,
-                "Yesterday": -1.478475141324824,
-                "LastWeek": -0.8262066966226891,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-13 18:12:12 (UTC)",
                 "history": true
             },
             {
@@ -393,34 +379,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-07 02:41:56 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB Nordenfond",
-                "PPMCode": "484923",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1651",
-                "Current": 3.2971569257893045,
-                "Yesterday": 1.244163614504995,
-                "LastWeek": 1.6643669238321894,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-06 20:09:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Sm\u00e5bolag Sverige",
-                "PPMCode": "103606",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
-                "Current": 5.514929920780019,
-                "Yesterday": 3.5226580244861867,
-                "LastWeek": 2.44030801617639,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-06 20:09:53 (UTC)",
-                "history": true
             }
         ]
     },
@@ -438,49 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-13 20:09:50 (UTC)",
+                "LastUpdated": "2025-02-13 22:08:16 (UTC)",
                 "history": false
             },
             {
                 "Name": "Pictet-China Equities R USD",
                 "PPMCode": "882126",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 8.378334325329584,
-                "Yesterday": 5.8555692928271235,
-                "LastWeek": 3.72703614363723,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-13 20:09:52 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 4.198056449049354,
-                "Yesterday": 1.3784429672731604,
-                "LastWeek": -1.4072760774819397,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-13 20:09:56 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 6.903680739187261,
-                "Yesterday": 8.027115437220763,
-                "LastWeek": 2.625129718158813,
+                "Current": 7.352372991488024,
+                "Yesterday": 8.827282881525235,
+                "LastWeek": 4.877311898636977,
                 "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-13 20:09:59 (UTC)",
+                "LastUpdated": "2025-02-13 22:08:23 (UTC)",
                 "history": false
             },
             {
@@ -494,21 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-13 18:12:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 8.455319626134013,
-                "Yesterday": 5.182506189033282,
-                "LastWeek": 1.7288098354953068,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-13 18:12:16 (UTC)",
+                "LastUpdated": "2025-02-13 20:09:50 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-13 18:12:18 (UTC)",
+                "LastUpdated": "2025-02-13 20:09:52 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +452,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-13 18:12:21 (UTC)",
+                "LastUpdated": "2025-02-13 20:09:56 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF China A2",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": 6.903680739187261,
+                "Yesterday": 8.027115437220763,
+                "LastWeek": 2.625129718158813,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-13 20:09:59 (UTC)",
                 "history": true
             },
             {
