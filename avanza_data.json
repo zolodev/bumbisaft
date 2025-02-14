@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
+                "PPMCode": "694539",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
+                "Current": 6.342456277901112,
+                "Yesterday": 4.1241447683328945,
+                "LastWeek": 2.0563909614245692,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-14 10:09:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": 7.210321691275462,
+                "Yesterday": 5.1113049659138685,
+                "LastWeek": 4.462968347818601,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-14 10:09:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sverige A",
+                "PPMCode": "904904",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/430255",
+                "Current": 7.89890073284477,
+                "Yesterday": 5.837774816788812,
+                "LastWeek": 4.651065956029321,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-14 10:09:06 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Avanza Emerging Markets",
                 "PPMCode": "715955",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-14 08:11:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Aktiefond Sm\u00e5land",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-14 08:11:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Aktiefond Stabil",
@@ -42,48 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-14 08:12:03 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 0.7537324249891437,
-                "Yesterday": -1.478475141324824,
-                "LastWeek": -0.8262066966226891,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-14 06:12:22 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Aktiefond Sm\u00e5land",
-                "PPMCode": "272898",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
-                "Current": 7.210321691275462,
-                "Yesterday": 5.1113049659138685,
-                "LastWeek": 4.462968347818601,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-14 06:12:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Aktiefond Stabil",
-                "PPMCode": "339184",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
-                "Current": 7.546504046331444,
-                "Yesterday": 5.652590802746122,
-                "LastWeek": 4.389214896636352,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-14 06:12:30 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-14 08:12:10 (UTC)",
+                "LastUpdated": "2025-02-14 10:09:16 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-14 06:12:41 (UTC)",
+                "LastUpdated": "2025-02-14 08:12:10 (UTC)",
                 "history": true
             },
             {
