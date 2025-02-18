@@ -302,6 +302,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Lannebo Sverige",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": 10.690909090909082,
+                "Yesterday": 9.483636363636357,
+                "LastWeek": 7.360000000000003,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-18 10:09:51 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Nordea Kinafond",
                 "PPMCode": "653097",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
@@ -312,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-18 08:12:20 (UTC)",
+                "LastUpdated": "2025-02-18 10:09:54 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-18 08:12:23 (UTC)",
+                "LastUpdated": "2025-02-18 10:09:58 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-18 06:12:58 (UTC)",
+                "LastUpdated": "2025-02-18 08:12:20 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-18 06:13:01 (UTC)",
+                "LastUpdated": "2025-02-18 08:12:23 (UTC)",
                 "history": true
             },
             {
