@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 13.45280810494934,
-                "Yesterday": 11.727549631149458,
-                "LastWeek": 6.817020734069184,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-19 18:11:49 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Templeton Emerging Markets A(acc)USD",
                 "PPMCode": "425067",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
@@ -27,21 +13,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-19 18:11:51 (UTC)",
+                "LastUpdated": "2025-02-19 20:09:53 (UTC)",
                 "history": false
             },
             {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": -0.6350906698968941,
-                "Yesterday": -1.6965808742217179,
-                "LastWeek": -1.61963080824671,
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": -4.571475608834102,
+                "Yesterday": -5.9056219692543,
+                "LastWeek": -4.406406546488998,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-19 18:11:52 (UTC)",
+                "LastUpdated": "2025-02-19 20:09:54 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-19 18:11:52 (UTC)",
+                "LastUpdated": "2025-02-19 20:09:56 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-19 16:11:06 (UTC)",
+                "LastUpdated": "2025-02-19 18:11:49 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +69,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-19 16:11:08 (UTC)",
+                "LastUpdated": "2025-02-19 18:11:51 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": -0.6350906698968941,
+                "Yesterday": -1.6965808742217179,
+                "LastWeek": -1.61963080824671,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-19 18:11:52 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz Global Water AT EUR",
+                "PPMCode": "878694",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
+                "Current": -3.800214534809859,
+                "Yesterday": -5.202299733524959,
+                "LastWeek": -3.5781567894257162,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-19 18:11:52 (UTC)",
                 "history": true
             },
             {
@@ -270,49 +284,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-19 18:11:57 (UTC)",
+                "LastUpdated": "2025-02-19 20:10:00 (UTC)",
                 "history": false
             },
             {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 13.45280810494934,
-                "Yesterday": 11.727549631149458,
-                "LastWeek": 6.817020734069184,
+                "Name": "Lannebo Sverige",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": 11.252004081037747,
+                "Yesterday": 10.916775980177809,
+                "LastWeek": 6.952339309138604,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-19 18:11:58 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 9.243968994046705,
-                "Yesterday": 8.097178341627826,
-                "LastWeek": 3.8420061402795755,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-19 18:11:59 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 11.978056699224048,
-                "Yesterday": 11.438179705254315,
-                "LastWeek": 7.695707311543552,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-19 18:12:04 (UTC)",
+                "LastUpdated": "2025-02-19 20:10:07 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-19 16:11:13 (UTC)",
+                "LastUpdated": "2025-02-19 18:11:57 (UTC)",
                 "history": true
             },
             {
@@ -340,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-19 16:11:14 (UTC)",
+                "LastUpdated": "2025-02-19 18:11:58 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +340,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-19 16:11:16 (UTC)",
+                "LastUpdated": "2025-02-19 18:11:59 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 11.978056699224048,
+                "Yesterday": 11.438179705254315,
+                "LastWeek": 7.695707311543552,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-19 18:12:04 (UTC)",
                 "history": true
             },
             {
@@ -383,20 +383,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-02-19 14:09:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-China Equities R USD",
-                "PPMCode": "882126",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
-                "Current": 11.978056699224048,
-                "Yesterday": 11.438179705254315,
-                "LastWeek": 7.695707311543552,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-18 22:08:17 (UTC)",
                 "history": true
             },
             {
