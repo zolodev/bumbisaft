@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-21 16:10:30 (UTC)",
+                "LastUpdated": "2025-02-21 18:11:52 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-02-21 16:10:31 (UTC)",
+                "LastUpdated": "2025-02-21 18:11:55 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 2.7760527424987362,
+                "Yesterday": 0.9180815544354034,
+                "LastWeek": 0.3289277301898383,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-21 18:11:59 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 11.199517574163675,
+                "Yesterday": 6.770592981434486,
+                "LastWeek": 5.348346042851119,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-21 16:10:30 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 12.922917620431946,
+                "Yesterday": 9.627606985474843,
+                "LastWeek": 7.21302747270242,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-02-21 16:10:31 (UTC)",
+                "history": true
             },
             {
                 "Name": "Barings Global Emerging Mkts A Inc",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-21 16:10:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sverige Plus",
@@ -56,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-21 16:10:39 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sverige",
@@ -70,7 +112,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-21 16:10:40 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "C Worldwide Sweden Small Cap 1A",
@@ -84,7 +126,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-21 16:10:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -98,48 +140,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-21 14:07:00 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sverige Plus",
-                "PPMCode": "490292",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
-                "Current": 11.636122764407162,
-                "Yesterday": 10.487966438507398,
-                "LastWeek": 7.518215941708989,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-21 14:07:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sverige",
-                "PPMCode": "806869",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
-                "Current": 12.268758324700322,
-                "Yesterday": 11.114399881604271,
-                "LastWeek": 8.568891519905293,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-21 14:07:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": 12.125041204263264,
-                "Yesterday": 11.016646522360169,
-                "LastWeek": 10.728216679485772,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-21 14:07:04 (UTC)",
                 "history": true
             },
             {
@@ -255,20 +255,6 @@
                 "history": true
             },
             {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 10.27824715878904,
-                "Yesterday": 8.708820573426706,
-                "LastWeek": 4.423203270888427,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-19 14:09:04 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Nordea Kinafond",
                 "PPMCode": "653097",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
@@ -323,34 +309,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-17 18:11:44 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 10.290655183890339,
-                "Yesterday": 6.723620698666793,
-                "LastWeek": 2.3379921109290365,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-17 16:10:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
-                "PPMCode": "694539",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
-                "Current": 6.342456277901112,
-                "Yesterday": 4.1241447683328945,
-                "LastWeek": 2.0563909614245692,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-14 18:11:25 (UTC)",
-                "history": true
             }
         ]
     },
@@ -368,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 16:10:43 (UTC)",
+                "LastUpdated": "2025-02-21 18:12:03 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 16:10:45 (UTC)",
+                "LastUpdated": "2025-02-21 18:12:04 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 16:10:46 (UTC)",
+                "LastUpdated": "2025-02-21 18:12:05 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 16:10:46 (UTC)",
+                "LastUpdated": "2025-02-21 18:12:06 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 16:10:48 (UTC)",
+                "LastUpdated": "2025-02-21 18:12:09 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 16:10:49 (UTC)",
+                "LastUpdated": "2025-02-21 18:12:10 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 14:07:09 (UTC)",
+                "LastUpdated": "2025-02-21 16:10:43 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 14:07:10 (UTC)",
+                "LastUpdated": "2025-02-21 16:10:45 (UTC)",
                 "history": true
             },
             {
@@ -480,21 +438,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 14:07:11 (UTC)",
+                "LastUpdated": "2025-02-21 16:10:46 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 11.199517574163675,
+                "Yesterday": 6.770592981434486,
+                "LastWeek": 5.348346042851119,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-02-21 16:10:46 (UTC)",
                 "history": true
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
                 "PPMCode": "334409",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 9.220007076432745,
-                "Yesterday": 9.957067601757856,
-                "LastWeek": 4.035633554231118,
-                "TrendDay": "\u25bc",
+                "Current": 12.922917620431946,
+                "Yesterday": 9.627606985474843,
+                "LastWeek": 7.21302747270242,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 14:07:12 (UTC)",
+                "LastUpdated": "2025-02-21 16:10:48 (UTC)",
                 "history": true
             },
             {
@@ -508,21 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 14:07:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 6.185830880188626,
-                "Yesterday": 8.334825656435473,
-                "LastWeek": 2.246244527054133,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-02-21 14:07:18 (UTC)",
+                "LastUpdated": "2025-02-21 16:10:49 (UTC)",
                 "history": true
             },
             {
