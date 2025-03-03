@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": -4.819611870456873,
+                "Yesterday": -6.447876972372275,
+                "LastWeek": 0.8467517530483085,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-03 22:08:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Storebrand USA A SEK",
+                "PPMCode": "248161",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1505",
+                "Current": -3.318278744293706,
+                "Yesterday": -4.7992185094664475,
+                "LastWeek": -0.19531181700349387,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-03 22:08:51 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Mining A2",
                 "PPMCode": "481911",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-03 20:09:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin US Opportunities A(acc)USD",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-03 20:09:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Storebrand USA A SEK",
@@ -42,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-03 20:09:55 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Equity Growth AT USD",
@@ -56,34 +84,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-03 18:11:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": -4.819611870456873,
-                "Yesterday": -6.447876972372275,
-                "LastWeek": 0.8467517530483085,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-03 18:11:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand USA A SEK",
-                "PPMCode": "248161",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1505",
-                "Current": -3.318278744293706,
-                "Yesterday": -4.7992185094664475,
-                "LastWeek": -0.19531181700349387,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-03 14:09:14 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-03 20:10:04 (UTC)",
+                "LastUpdated": "2025-03-03 22:09:04 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-03 16:12:06 (UTC)",
+                "LastUpdated": "2025-03-03 20:10:04 (UTC)",
                 "history": true
             },
             {
