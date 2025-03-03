@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-03 10:10:31 (UTC)",
+                "LastUpdated": "2025-03-03 14:09:07 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-03 10:10:37 (UTC)",
+                "LastUpdated": "2025-03-03 14:09:14 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-03 08:13:17 (UTC)",
+                "LastUpdated": "2025-03-03 10:10:31 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Storebrand USA A SEK",
+                "PPMCode": "248161",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1505",
+                "Current": -3.318278744293706,
+                "Yesterday": -4.7992185094664475,
+                "LastWeek": -0.19531181700349387,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-03 10:10:37 (UTC)",
                 "history": true
             },
             {
@@ -410,8 +424,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-03 10:10:48 (UTC)",
+                "LastUpdated": "2025-03-03 14:09:24 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": -4.100486252201487,
+                "Yesterday": -4.526737364957632,
+                "LastWeek": -5.25006616549216,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-03 10:10:48 (UTC)",
+                "history": true
             },
             {
                 "Name": "Nordea Kinafond",
