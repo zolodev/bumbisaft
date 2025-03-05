@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 11.262467213235388,
+                "Yesterday": 8.368659964475762,
+                "LastWeek": 14.057495679382562,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-05 18:12:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": -0.29520142060698357,
+                "Yesterday": -2.1597258338893206,
+                "LastWeek": 2.178976176109622,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-05 18:12:49 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Handelsbanken Sverige 100 Index (A1 SEK)",
                 "PPMCode": "465914",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/315116",
@@ -266,34 +294,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-02-26 20:10:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Access Asien A",
-                "PPMCode": "978981",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/596635",
-                "Current": 1.4785351803593434,
-                "Yesterday": -0.29351254971882956,
-                "LastWeek": 1.1767933068166132,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-26 18:12:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Global Emerging Mkts A Inc",
-                "PPMCode": "191080",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2138",
-                "Current": 1.14798686415274,
-                "Yesterday": -0.46765037687669603,
-                "LastWeek": 1.0114640137164317,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-02-26 18:12:39 (UTC)",
                 "history": true
             }
         ]
