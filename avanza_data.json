@@ -169,34 +169,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-05 20:10:17 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken Sverige 100 Index (A1 SEK)",
-                "PPMCode": "465914",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/315116",
-                "Current": 7.128968074522934,
-                "Yesterday": 6.09342497965091,
-                "LastWeek": 7.106357963281182,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-04 20:09:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": -9.732116210936889,
-                "Yesterday": -10.79873669904835,
-                "LastWeek": -5.375997136039865,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-04 18:12:33 (UTC)",
-                "history": true
             }
         ]
     },
@@ -214,7 +186,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-11 18:12:42 (UTC)",
+                "LastUpdated": "2025-03-11 20:10:12 (UTC)",
                 "history": false
             },
             {
@@ -228,7 +200,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-11 18:12:46 (UTC)",
+                "LastUpdated": "2025-03-11 20:10:18 (UTC)",
                 "history": false
             },
             {
@@ -242,7 +214,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-11 16:11:40 (UTC)",
+                "LastUpdated": "2025-03-11 18:12:42 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 6.323618786808957,
+                "Yesterday": 5.748286830972087,
+                "LastWeek": 8.432338734930646,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-11 18:12:46 (UTC)",
                 "history": true
             },
             {
