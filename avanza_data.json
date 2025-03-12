@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-12 20:10:10 (UTC)",
+                "LastUpdated": "2025-03-12 22:08:38 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-12 20:10:15 (UTC)",
+                "LastUpdated": "2025-03-12 22:08:44 (UTC)",
                 "history": false
             },
             {
@@ -41,8 +41,50 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-12 20:10:18 (UTC)",
+                "LastUpdated": "2025-03-12 22:08:47 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": -15.75917844479267,
+                "Yesterday": -18.786484408277996,
+                "LastWeek": -9.452752613132295,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-12 20:10:10 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": -20.85815337602647,
+                "Yesterday": -22.621655468774314,
+                "LastWeek": -9.823150682635124,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-12 20:10:15 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": -11.40237680467381,
+                "Yesterday": -13.309480624260935,
+                "LastWeek": -0.052149726599528025,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-12 20:10:18 (UTC)",
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -56,20 +98,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-12 20:10:20 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": -19.795864882668347,
-                "Yesterday": -21.40443827427204,
-                "LastWeek": -10.638825337687086,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-12 18:12:57 (UTC)",
                 "history": true
             },
             {
@@ -393,34 +421,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-05 22:08:51 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 3.9069514736739364,
-                "Yesterday": 1.2403528930098386,
-                "LastWeek": 5.051031487932548,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-05 20:10:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources Fund Class A2 USD",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": -9.625916296007867,
-                "Yesterday": -8.893484065568662,
-                "LastWeek": -4.073305287292229,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-05 20:10:17 (UTC)",
-                "history": true
             }
         ]
     },
@@ -438,8 +438,78 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-12 20:10:27 (UTC)",
+                "LastUpdated": "2025-03-12 22:08:50 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 7.077006472990618,
+                "Yesterday": 7.4295211388342715,
+                "LastWeek": 8.903342574533383,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-12 22:08:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Templeton Global Bond A(acc)SEK-H1",
+                "PPMCode": "460899",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
+                "Current": 0.2141327623126293,
+                "Yesterday": 0.10706638115631464,
+                "LastWeek": -0.856531049250536,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-12 22:08:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": -2.9930565630966894,
+                "Yesterday": -1.992696145922086,
+                "LastWeek": 0.06485284452550465,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-12 22:08:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": -5.392998607823589,
+                "Yesterday": -6.316464829396818,
+                "LastWeek": -2.68820067108125,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-12 22:08:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 2.1748439764336562,
+                "Yesterday": 0.8649101829783006,
+                "LastWeek": 2.3205233404155368,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-12 20:10:27 (UTC)",
+                "history": true
             },
             {
                 "Name": "Nordea Kinafond",
@@ -453,7 +523,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-12 20:10:29 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Templeton Global Bond A(acc)SEK-H1",
@@ -467,7 +537,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-12 20:10:30 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Holberg Norge A",
@@ -481,7 +551,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-12 20:10:35 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Proethos Fond",
@@ -495,62 +565,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-12 18:13:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 2.1748439764336562,
-                "Yesterday": 0.8649101829783006,
-                "LastWeek": 2.3205233404155368,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-12 18:13:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 7.077006472990618,
-                "Yesterday": 7.4295211388342715,
-                "LastWeek": 8.903342574533383,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-12 18:13:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Templeton Global Bond A(acc)SEK-H1",
-                "PPMCode": "460899",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
-                "Current": 0.2141327623126293,
-                "Yesterday": 0.10706638115631464,
-                "LastWeek": -0.856531049250536,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-12 18:13:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Norge A",
-                "PPMCode": "318469",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
-                "Current": -2.9930565630966894,
-                "Yesterday": -1.992696145922086,
-                "LastWeek": 0.06485284452550465,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-12 18:13:13 (UTC)",
                 "history": true
             },
             {
