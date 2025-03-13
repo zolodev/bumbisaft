@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-13 08:13:20 (UTC)",
+                "LastUpdated": "2025-03-13 10:10:14 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-13 08:13:29 (UTC)",
+                "LastUpdated": "2025-03-13 10:10:20 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-13 06:13:16 (UTC)",
+                "LastUpdated": "2025-03-13 08:13:20 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-13 06:13:22 (UTC)",
+                "LastUpdated": "2025-03-13 08:13:29 (UTC)",
                 "history": true
             },
             {
@@ -372,6 +372,62 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": -3.167813758369727,
+                "Yesterday": -4.328095307578311,
+                "LastWeek": -1.806941068774197,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-13 10:10:24 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 2.4428281993996297,
+                "Yesterday": 0.8649101829783006,
+                "LastWeek": 2.3205233404155368,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-13 10:10:25 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": -4.599504331813419,
+                "Yesterday": -5.344309097988412,
+                "LastWeek": -1.9585063106732379,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-13 10:10:31 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": -5.392998607823589,
+                "Yesterday": -6.316464829396818,
+                "LastWeek": -2.68820067108125,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-13 10:10:32 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
@@ -383,7 +439,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-13 08:13:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Alfred Berg Norge R (NOK)",
@@ -397,7 +453,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-13 08:13:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Holberg Norge A",
@@ -411,7 +467,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-13 08:13:45 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Alfred Berg Aktiv R (NOK)",
@@ -425,62 +481,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-13 08:13:47 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 2.4428281993996297,
-                "Yesterday": 0.8649101829783006,
-                "LastWeek": 2.3205233404155368,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-13 06:13:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": -4.599504331813419,
-                "Yesterday": -5.344309097988412,
-                "LastWeek": -1.9585063106732379,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-13 06:13:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Norge A",
-                "PPMCode": "318469",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
-                "Current": -2.9930565630966894,
-                "Yesterday": -1.992696145922086,
-                "LastWeek": 0.06485284452550465,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-13 06:13:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": -5.392998607823589,
-                "Yesterday": -6.316464829396818,
-                "LastWeek": -2.68820067108125,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-13 06:13:34 (UTC)",
                 "history": true
             },
             {
