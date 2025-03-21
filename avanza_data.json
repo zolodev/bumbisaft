@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
+                "PPMCode": "456475",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
+                "Current": -14.544797615614916,
+                "Yesterday": -16.38789117635374,
+                "LastWeek": -16.065872718394093,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-21 08:12:19 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin US Opportunities A(acc)USD",
                 "PPMCode": "384107",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
@@ -312,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-21 06:14:55 (UTC)",
+                "LastUpdated": "2025-03-21 08:12:25 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +340,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-21 06:14:58 (UTC)",
+                "LastUpdated": "2025-03-21 08:12:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": 6.541809854472054,
+                "Yesterday": 5.14385765795361,
+                "LastWeek": 0.5186516374966471,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-21 08:12:31 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-21 04:11:43 (UTC)",
+                "LastUpdated": "2025-03-21 06:14:55 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-21 04:11:48 (UTC)",
+                "LastUpdated": "2025-03-21 06:14:58 (UTC)",
                 "history": true
             },
             {
