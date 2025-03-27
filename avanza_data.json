@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-27 10:09:54 (UTC)",
+                "LastUpdated": "2025-03-27 12:17:48 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-27 10:09:56 (UTC)",
+                "LastUpdated": "2025-03-27 12:17:50 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-27 10:09:59 (UTC)",
+                "LastUpdated": "2025-03-27 12:17:53 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-27 10:10:00 (UTC)",
+                "LastUpdated": "2025-03-27 12:17:54 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-27 08:13:02 (UTC)",
+                "LastUpdated": "2025-03-27 10:09:54 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-27 08:13:03 (UTC)",
+                "LastUpdated": "2025-03-27 10:09:56 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-27 08:13:07 (UTC)",
+                "LastUpdated": "2025-03-27 10:09:59 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-27 08:13:08 (UTC)",
+                "LastUpdated": "2025-03-27 10:10:00 (UTC)",
                 "history": true
             },
             {
@@ -511,6 +511,34 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -15.097213121275654,
+                "Yesterday": -14.845238872638541,
+                "LastWeek": -15.786558220913186,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-27 12:18:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Teknologi S",
+                "PPMCode": "183343",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+                "Current": -6.5314649125276585,
+                "Yesterday": -6.028150979215631,
+                "LastWeek": -7.94742190688926,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-27 12:18:03 (UTC)",
+                "history": false
+            },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
                 "PPMCode": "456475",
