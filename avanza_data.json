@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-28 04:11:52 (UTC)",
+                "LastUpdated": "2025-03-28 06:13:59 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-28 04:11:54 (UTC)",
+                "LastUpdated": "2025-03-28 06:14:02 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-28 02:55:12 (UTC)",
+                "LastUpdated": "2025-03-28 04:11:52 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-28 02:55:15 (UTC)",
+                "LastUpdated": "2025-03-28 04:11:54 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-28 04:11:57 (UTC)",
+                "LastUpdated": "2025-03-28 06:14:07 (UTC)",
                 "history": false
             },
             {
@@ -536,22 +536,8 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-28 04:12:04 (UTC)",
+                "LastUpdated": "2025-03-28 06:14:17 (UTC)",
                 "history": false
-            },
-            {
-                "Name": "Nordea Indienfond",
-                "PPMCode": "469692",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
-                "Current": -14.678803790995687,
-                "Yesterday": -14.291712549023906,
-                "LastWeek": -18.810132971841178,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-28 02:55:17 (UTC)",
-                "history": true
             },
             {
                 "Name": "Pictet-Indian Equities R USD",
@@ -564,7 +550,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-28 02:55:19 (UTC)",
+                "LastUpdated": "2025-03-28 04:11:57 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": -13.463500251006016,
+                "Yesterday": -13.798615317525586,
+                "LastWeek": -16.427483961387082,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-28 04:12:04 (UTC)",
                 "history": true
             },
             {
@@ -817,20 +817,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-21 10:10:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 14.668613301596412,
-                "Yesterday": 14.270035248097676,
-                "LastWeek": 9.008462784516926,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-21 04:11:51 (UTC)",
                 "history": true
             }
         ]
