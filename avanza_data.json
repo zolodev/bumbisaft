@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-28 02:55:12 (UTC)",
+                "LastUpdated": "2025-03-28 04:11:52 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-28 02:55:15 (UTC)",
+                "LastUpdated": "2025-03-28 04:11:54 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-28 00:44:20 (UTC)",
+                "LastUpdated": "2025-03-28 02:55:12 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-28 00:44:22 (UTC)",
+                "LastUpdated": "2025-03-28 02:55:15 (UTC)",
                 "history": true
             },
             {
@@ -512,6 +512,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": -12.935074721456367,
+                "Yesterday": -13.58192515241266,
+                "LastWeek": -16.42199541328441,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-28 04:11:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": -13.463500251006016,
+                "Yesterday": -13.798615317525586,
+                "LastWeek": -16.427483961387082,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-28 04:12:04 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Nordea Indienfond",
                 "PPMCode": "469692",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
@@ -523,34 +551,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-28 02:55:17 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": -12.935074721456367,
-                "Yesterday": -13.58192515241266,
-                "LastWeek": -16.42199541328441,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-28 02:55:19 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Nordea Indienfond",
-                "PPMCode": "469692",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
-                "Current": -14.678803790995687,
-                "Yesterday": -14.291712549023906,
-                "LastWeek": -18.810132971841178,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-28 00:44:24 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-28 00:44:26 (UTC)",
+                "LastUpdated": "2025-03-28 02:55:19 (UTC)",
                 "history": true
             },
             {
