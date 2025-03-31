@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-31 16:11:39 (UTC)",
+                "LastUpdated": "2025-03-31 18:13:16 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-31 16:11:46 (UTC)",
+                "LastUpdated": "2025-03-31 18:13:21 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-31 16:11:51 (UTC)",
+                "LastUpdated": "2025-03-31 18:13:26 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-03-31 14:09:49 (UTC)",
+                "LastUpdated": "2025-03-31 16:11:39 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "PriorNilsson Realinvest A",
+                "PPMCode": "487108",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
+                "Current": -7.288755797031624,
+                "Yesterday": -8.534021194219402,
+                "LastWeek": -5.910563260223402,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-31 16:11:46 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar L\u00e5ng R\u00e4ntefond A",
+                "PPMCode": "242081",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2088",
+                "Current": 0.03510912538203605,
+                "Yesterday": -0.7715634027740518,
+                "LastWeek": -1.1187071229058738,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-03-31 16:11:51 (UTC)",
                 "history": true
             },
             {
@@ -70,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-31 14:09:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "PriorNilsson Realinvest A",
-                "PPMCode": "487108",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
-                "Current": -7.288755797031624,
-                "Yesterday": -8.534021194219402,
-                "LastWeek": -5.910563260223402,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-31 14:09:55 (UTC)",
                 "history": true
             },
             {
@@ -407,104 +421,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-03-24 20:09:38 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Carnegie Listed Private Equity A",
-                "PPMCode": "341362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": -9.631733888150421,
-                "Yesterday": -11.29348427521,
-                "LastWeek": -12.437039516968312,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-24 18:12:55 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Naventi Offensiv Flex",
-                "PPMCode": "727057",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/331224",
-                "Current": -8.554107772829573,
-                "Yesterday": -9.985299357830277,
-                "LastWeek": -10.91814997123116,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-24 18:13:00 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AMF Aktiefond Global",
-                "PPMCode": "908277",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1887",
-                "Current": -5.880749405233932,
-                "Yesterday": -7.204103885804915,
-                "LastWeek": -7.575832672482155,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-24 18:13:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": -14.435853411491387,
-                "Yesterday": -15.593337877477358,
-                "LastWeek": -19.76695874410966,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-24 18:13:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": -0.3581872828160574,
-                "Yesterday": -1.539624056893204,
-                "LastWeek": -4.7752089654298695,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-24 16:12:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": -15.280093322704094,
-                "Yesterday": -16.277821156034385,
-                "LastWeek": -20.88238239205712,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-24 16:12:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Indienfond",
-                "PPMCode": "469692",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
-                "Current": -14.02204656273461,
-                "Yesterday": -15.019628595138308,
-                "LastWeek": -19.660845234227413,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-03-24 16:12:39 (UTC)",
-                "history": true
             }
         ]
     },
@@ -522,8 +438,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-31 16:11:55 (UTC)",
+                "LastUpdated": "2025-03-31 18:13:32 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar L\u00e5ng R\u00e4ntefond A",
+                "PPMCode": "242081",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2088",
+                "Current": 0.03510912538203605,
+                "Yesterday": -0.7715634027740518,
+                "LastWeek": -1.1187071229058738,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-31 18:13:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -10.109699701369038,
+                "Yesterday": -10.175933982780974,
+                "LastWeek": -10.635319681092234,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-03-31 16:11:55 (UTC)",
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar L\u00e5ng R\u00e4ntefond A",
@@ -537,34 +481,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-31 16:12:00 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar L\u00e5ng R\u00e4ntefond A",
-                "PPMCode": "242081",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2088",
-                "Current": 0.03510912538203605,
-                "Yesterday": -0.7715634027740518,
-                "LastWeek": -1.1187071229058738,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-31 14:10:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -9.706935374337794,
-                "Yesterday": -11.330383889551907,
-                "LastWeek": -10.445721814499038,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-31 14:10:04 (UTC)",
                 "history": true
             },
             {
