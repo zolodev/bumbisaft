@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Carnegie Sm\u00e5bolagsfond A",
+                "PPMCode": "584912",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
+                "Current": 4.614198443204452,
+                "Yesterday": 2.5328265529429705,
+                "LastWeek": 6.889043884629248,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-01 18:12:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF US Flexible Equity A2",
+                "PPMCode": "804385",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
+                "Current": -15.445986825907454,
+                "Yesterday": -16.65955456569162,
+                "LastWeek": -12.902406390761067,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-01 18:12:24 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": -22.19554725856306,
+                "Yesterday": -23.261893148979954,
+                "LastWeek": -17.361558035337357,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-01 18:12:26 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "D&G Sm\u00e5bolag",
+                "PPMCode": "140491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
+                "Current": -6.412551503511301,
+                "Yesterday": -7.680784066044204,
+                "LastWeek": -4.542830252968477,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-01 18:12:27 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Storebrand Global Low Volatility A SEK",
                 "PPMCode": "912220",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/436351",
@@ -347,14 +403,14 @@
                 "Name": "Carnegie Fastighetsfond Norden A",
                 "PPMCode": "320176",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -10.109699701369038,
-                "Yesterday": -10.175933982780974,
-                "LastWeek": -10.635319681092234,
+                "Current": -9.705449362634475,
+                "Yesterday": -10.109699701369038,
+                "LastWeek": -11.167500692973562,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-01 16:10:24 (UTC)",
+                "LastUpdated": "2025-04-01 18:12:31 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +424,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-01 16:10:28 (UTC)",
+                "LastUpdated": "2025-04-01 18:12:36 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-01 14:09:36 (UTC)",
+                "LastUpdated": "2025-04-01 16:10:24 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +452,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-01 14:09:41 (UTC)",
+                "LastUpdated": "2025-04-01 16:10:28 (UTC)",
                 "history": true
             },
             {
@@ -663,20 +719,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-03-26 02:53:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": -15.312159443573364,
-                "Yesterday": -16.234527057085455,
-                "LastWeek": -21.27158532417525,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-03-25 16:10:17 (UTC)",
                 "history": true
             }
         ]
