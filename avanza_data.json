@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": -22.142028589907515,
+                "Yesterday": -25.753855003477966,
+                "LastWeek": -13.710022581773785,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-08 18:12:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": -13.683308515867711,
+                "Yesterday": -17.305963373831307,
+                "LastWeek": 0.7051267868932933,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-08 18:12:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Naventi Offensiv Flex",
+                "PPMCode": "727057",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/331224",
+                "Current": -18.023671834084478,
+                "Yesterday": -21.373969072717813,
+                "LastWeek": -12.369564504568055,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-08 18:12:37 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Europe Small Cap Equity AT EUR",
                 "PPMCode": "538751",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-08 16:11:53 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Global Leaders A USD Inc",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-08 16:11:55 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Eastern Europe A USD Inc",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-08 16:11:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Short Corporate Bond B",
@@ -295,34 +337,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-01 20:10:59 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF US Flexible Equity A2",
-                "PPMCode": "804385",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
-                "Current": -15.445986825907454,
-                "Yesterday": -16.65955456569162,
-                "LastWeek": -12.902406390761067,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-01 18:12:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "D&G Sm\u00e5bolag",
-                "PPMCode": "140491",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
-                "Current": -6.412551503511301,
-                "Yesterday": -7.680784066044204,
-                "LastWeek": -4.542830252968477,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-01 18:12:27 (UTC)",
-                "history": true
             }
         ]
     },
@@ -340,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 16:12:06 (UTC)",
+                "LastUpdated": "2025-04-08 18:12:48 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 16:12:10 (UTC)",
+                "LastUpdated": "2025-04-08 18:12:52 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 16:12:11 (UTC)",
+                "LastUpdated": "2025-04-08 18:12:53 (UTC)",
                 "history": false
             },
             {
@@ -382,21 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 16:12:12 (UTC)",
+                "LastUpdated": "2025-04-08 18:12:55 (UTC)",
                 "history": false
             },
             {
-                "Name": "Carnegie Obligationsfond A",
-                "PPMCode": "554691",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2098",
-                "Current": 0.8655133936006908,
-                "Yesterday": 0.5970192393137175,
-                "LastWeek": -0.7244196950240022,
-                "TrendDay": "\u25b2",
+                "Name": "Storebrand Obligation A SEK",
+                "PPMCode": "534800",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2128",
+                "Current": 0.7453219474166274,
+                "Yesterday": 0.7642940217256841,
+                "LastWeek": -0.5979543561285569,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 16:12:15 (UTC)",
+                "LastUpdated": "2025-04-08 18:13:01 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 14:10:00 (UTC)",
+                "LastUpdated": "2025-04-08 16:12:06 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 14:10:03 (UTC)",
+                "LastUpdated": "2025-04-08 16:12:10 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 14:10:04 (UTC)",
+                "LastUpdated": "2025-04-08 16:12:11 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 14:10:05 (UTC)",
+                "LastUpdated": "2025-04-08 16:12:12 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-08 14:10:07 (UTC)",
+                "LastUpdated": "2025-04-08 16:12:15 (UTC)",
                 "history": true
             },
             {
