@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-09 02:56:31 (UTC)",
+                "LastUpdated": "2025-04-09 04:11:52 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,78 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-09 02:56:32 (UTC)",
+                "LastUpdated": "2025-04-09 04:11:53 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF US Flexible Equity A2",
+                "PPMCode": "804385",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
+                "Current": -21.27227065192991,
+                "Yesterday": -25.865168762038472,
+                "LastWeek": -16.550532376039396,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-09 04:11:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": -17.31184032714421,
+                "Yesterday": -22.098767678725547,
+                "LastWeek": -9.14111697194699,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-09 04:11:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": -16.02337793336695,
+                "Yesterday": -20.48832586703059,
+                "LastWeek": -6.280594535259743,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-09 04:11:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": -27.905828607048093,
+                "Yesterday": -32.19166624100425,
+                "LastWeek": -22.430142818180666,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-09 02:56:31 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": -13.933451630473368,
+                "Yesterday": -19.022949216500862,
+                "LastWeek": -7.63134864269055,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-09 02:56:32 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF US Flexible Equity A2",
@@ -42,7 +112,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-09 02:56:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Financials A2",
@@ -56,7 +126,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-09 02:56:35 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Skandia Japan Exponering",
@@ -70,62 +140,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-09 02:56:38 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": -27.728000517446084,
-                "Yesterday": -32.19166624100425,
-                "LastWeek": -22.430142818180666,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-09 00:44:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF US Flexible Equity A2",
-                "PPMCode": "804385",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
-                "Current": -21.27227065192991,
-                "Yesterday": -25.865168762038472,
-                "LastWeek": -16.550532376039396,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-09 00:44:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": -17.31184032714421,
-                "Yesterday": -22.098767678725547,
-                "LastWeek": -9.14111697194699,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-09 00:44:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": -16.02337793336695,
-                "Yesterday": -20.48832586703059,
-                "LastWeek": -6.280594535259743,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-09 00:44:53 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-09 02:56:42 (UTC)",
+                "LastUpdated": "2025-04-09 04:12:01 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-09 02:56:45 (UTC)",
+                "LastUpdated": "2025-04-09 04:12:04 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-09 02:56:48 (UTC)",
+                "LastUpdated": "2025-04-09 04:12:07 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +522,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-09 00:44:57 (UTC)",
+                "LastUpdated": "2025-04-09 02:56:42 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Captor Iris Bond A",
+                "PPMCode": "180927",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1089362",
+                "Current": 0.3653142210112353,
+                "Yesterday": 0.8747926597581125,
+                "LastWeek": -1.4851356574047245,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-09 02:56:45 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Storebrand Obligation A SEK",
+                "PPMCode": "534800",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2128",
+                "Current": 0.7453219474166274,
+                "Yesterday": 0.7642940217256841,
+                "LastWeek": -0.5979543561285569,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-09 02:56:48 (UTC)",
                 "history": true
             },
             {
@@ -523,34 +565,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-09 00:44:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Captor Iris Bond A",
-                "PPMCode": "180927",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1089362",
-                "Current": 0.3653142210112353,
-                "Yesterday": 0.8747926597581125,
-                "LastWeek": -1.4851356574047245,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-09 00:45:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Obligation A SEK",
-                "PPMCode": "534800",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2128",
-                "Current": 0.7453219474166274,
-                "Yesterday": 0.7642940217256841,
-                "LastWeek": -0.5979543561285569,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-09 00:45:04 (UTC)",
                 "history": true
             },
             {
