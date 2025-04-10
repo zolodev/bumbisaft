@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-10 20:10:45 (UTC)",
+                "LastUpdated": "2025-04-10 22:08:54 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-10 20:10:50 (UTC)",
+                "LastUpdated": "2025-04-10 22:08:58 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-10 18:13:18 (UTC)",
+                "LastUpdated": "2025-04-10 20:10:45 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-10 18:13:21 (UTC)",
+                "LastUpdated": "2025-04-10 20:10:50 (UTC)",
                 "history": true
             },
             {
@@ -427,6 +427,34 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 8.092969403402488,
+                "Yesterday": 5.994592612165888,
+                "LastWeek": 9.954842660062369,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-10 22:09:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Evli Short Corporate Bond B",
+                "PPMCode": "621631",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/869",
+                "Current": -3.5438393397075747,
+                "Yesterday": -4.662090535781087,
+                "LastWeek": -4.77610106791068,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-10 22:09:08 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Captor Iris Bond A",
                 "PPMCode": "180927",
