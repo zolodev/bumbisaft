@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
+                "PPMCode": "456475",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
+                "Current": -22.538271392185248,
+                "Yesterday": -29.87425604991544,
+                "LastWeek": -19.450894412612737,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-11 02:56:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Index",
+                "PPMCode": "551507",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/181108",
+                "Current": -17.861261212385255,
+                "Yesterday": -25.40964684481001,
+                "LastWeek": -15.747402852751513,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-11 02:56:48 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin US Opportunities A(acc)USD",
                 "PPMCode": "384107",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
@@ -14,34 +42,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-11 00:45:25 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
-                "PPMCode": "456475",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
-                "Current": -22.538271392185248,
-                "Yesterday": -29.87425604991544,
-                "LastWeek": -19.450894412612737,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-11 00:45:28 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": -20.160031593775113,
-                "Yesterday": -28.38369107297374,
-                "LastWeek": -19.86532896592892,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-10 22:08:54 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-10 22:08:58 (UTC)",
+                "LastUpdated": "2025-04-11 00:45:28 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-11 00:45:36 (UTC)",
+                "LastUpdated": "2025-04-11 02:56:56 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-11 00:45:37 (UTC)",
+                "LastUpdated": "2025-04-11 02:56:57 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-10 22:09:07 (UTC)",
+                "LastUpdated": "2025-04-11 00:45:36 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-10 22:09:08 (UTC)",
+                "LastUpdated": "2025-04-11 00:45:37 (UTC)",
                 "history": true
             },
             {
