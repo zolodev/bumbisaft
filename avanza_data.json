@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": -10.373118571471657,
+                "Yesterday": -16.659125870961894,
+                "LastWeek": -7.610171025246573,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-11 12:17:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -21.24399444232715,
+                "Yesterday": -26.66760194818641,
+                "LastWeek": -19.252144895613586,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-11 12:17:58 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
                 "PPMCode": "456475",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
@@ -396,21 +424,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-11 10:10:35 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Evli Short Corporate Bond B",
-                "PPMCode": "621631",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/869",
-                "Current": -3.5438393397075747,
-                "Yesterday": -4.662090535781087,
-                "LastWeek": -4.77610106791068,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-11 10:10:36 (UTC)",
+                "LastUpdated": "2025-04-11 12:18:11 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +438,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-11 08:13:30 (UTC)",
+                "LastUpdated": "2025-04-11 10:10:35 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-11 08:13:31 (UTC)",
+                "LastUpdated": "2025-04-11 10:10:36 (UTC)",
                 "history": true
             },
             {
