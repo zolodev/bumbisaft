@@ -13,7 +13,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-11 14:09:39 (UTC)",
+                "LastUpdated": "2025-04-11 16:11:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": -11.371248218416508,
+                "Yesterday": -16.734390969235044,
+                "LastWeek": -8.595195274420163,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-11 16:11:41 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-11 12:17:55 (UTC)",
+                "LastUpdated": "2025-04-11 14:09:39 (UTC)",
                 "history": true
             },
             {
@@ -379,34 +393,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-04 18:12:44 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -7.1851435650537105,
-                "Yesterday": -10.688626109923941,
-                "LastWeek": -12.311750238151859,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-04 16:10:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Templeton Global Bond A(acc)SEK-H1",
-                "PPMCode": "460899",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
-                "Current": 6.152125279642067,
-                "Yesterday": 4.586129753914991,
-                "LastWeek": 4.586129753914991,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-04 16:11:01 (UTC)",
-                "history": true
             }
         ]
     },
@@ -424,7 +410,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-11 14:09:55 (UTC)",
+                "LastUpdated": "2025-04-11 16:11:47 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +424,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-11 12:18:11 (UTC)",
+                "LastUpdated": "2025-04-11 14:09:55 (UTC)",
                 "history": true
             },
             {
@@ -593,20 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-04 20:10:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -7.1851435650537105,
-                "Yesterday": -10.688626109923941,
-                "LastWeek": -12.311750238151859,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-04 16:11:03 (UTC)",
                 "history": true
             }
         ]
