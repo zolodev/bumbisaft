@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-15 18:11:27 (UTC)",
+                "LastUpdated": "2025-04-15 20:10:42 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -7.458140044199327,
+                "Yesterday": -10.666632312829154,
+                "LastWeek": -5.53426658655976,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-15 18:11:27 (UTC)",
+                "history": true
             },
             {
                 "Name": "Carnegie Sm\u00e5bolagsfond A",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-15 18:11:29 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
@@ -42,20 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-15 18:11:32 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": -3.0689693103068882,
-                "Yesterday": -6.077439225607735,
-                "LastWeek": -4.982950170498297,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-15 16:09:50 (UTC)",
                 "history": true
             },
             {
@@ -379,40 +379,54 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-09 16:11:49 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Carnegie Listed Private Equity A",
-                "PPMCode": "341362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": -22.142028589907515,
-                "Yesterday": -25.753855003477966,
-                "LastWeek": -13.710022581773785,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-08 18:12:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Naventi Offensiv Flex",
-                "PPMCode": "727057",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/331224",
-                "Current": -18.023671834084478,
-                "Yesterday": -21.373969072717813,
-                "LastWeek": -12.369564504568055,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-08 18:12:37 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 20.285370933318895,
+                "Yesterday": 19.078955728815064,
+                "LastWeek": 6.332995088312638,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-15 20:10:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": -7.953519881421442,
+                "Yesterday": -8.494770848018353,
+                "LastWeek": -8.539998549683393,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-15 20:10:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Europe Small Cap Equity AT EUR",
+                "PPMCode": "538751",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
+                "Current": -8.080259767867627,
+                "Yesterday": -10.170839403008621,
+                "LastWeek": -7.965921643553245,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-15 20:10:52 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
@@ -425,7 +439,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-15 18:11:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Mining A2",
@@ -439,34 +453,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-15 18:11:39 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 19.680201275440158,
-                "Yesterday": 19.99733043435554,
-                "LastWeek": 7.558369542638286,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-15 16:09:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": -10.283187955127222,
-                "Yesterday": -10.229183587123577,
-                "LastWeek": -11.81771922418905,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-15 16:10:00 (UTC)",
                 "history": true
             },
             {
