@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-15 22:08:55 (UTC)",
+                "LastUpdated": "2025-04-16 00:46:46 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,36 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-15 22:09:04 (UTC)",
+                "LastUpdated": "2025-04-16 00:46:55 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": -13.063888832516133,
+                "Yesterday": -14.888881136512042,
+                "LastWeek": -12.400287567106187,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-15 22:08:55 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": -22.96575178219454,
+                "Yesterday": -25.772405481049393,
+                "LastWeek": -21.91677596408184,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-15 22:09:04 (UTC)",
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -311,20 +339,6 @@
                 "history": true
             },
             {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -25.654804879980702,
-                "Yesterday": -28.810854849810774,
-                "LastWeek": -15.360626392870252,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-10 00:44:49 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "SEB L\u00e4kemedelsfond",
                 "PPMCode": "229922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
@@ -410,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-15 22:09:11 (UTC)",
+                "LastUpdated": "2025-04-16 00:47:03 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-15 22:09:14 (UTC)",
+                "LastUpdated": "2025-04-16 00:47:05 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +452,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-15 22:09:21 (UTC)",
+                "LastUpdated": "2025-04-16 00:47:12 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-15 20:10:47 (UTC)",
+                "LastUpdated": "2025-04-15 22:09:11 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-15 20:10:48 (UTC)",
+                "LastUpdated": "2025-04-15 22:09:14 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +494,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-15 20:10:52 (UTC)",
+                "LastUpdated": "2025-04-15 22:09:21 (UTC)",
                 "history": true
             },
             {
@@ -663,20 +677,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-09 06:14:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Obligationsfond icke-utd",
-                "PPMCode": "648964",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2075",
-                "Current": 0.7719900690010985,
-                "Yesterday": 0.4422196427419936,
-                "LastWeek": -0.9748017024569541,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-09 00:44:59 (UTC)",
                 "history": true
             }
         ]
