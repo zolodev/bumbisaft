@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": -7.889761584631651,
+                "Yesterday": -8.336950415327331,
+                "LastWeek": -8.647511513515676,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-22 16:11:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -6.68944511748031,
+                "Yesterday": -7.9855592340724995,
+                "LastWeek": -18.48454438806519,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-22 16:11:44 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": -6.349199379799246,
+                "Yesterday": -6.556574991830198,
+                "LastWeek": -10.04955979319982,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-22 16:11:46 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Carnegie Indienfond A",
                 "PPMCode": "505586",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-22 14:09:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Indian Equities R USD",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-22 14:10:01 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Asset Selection C H-SEK",
@@ -42,20 +84,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-22 12:17:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": -13.765343926268821,
-                "Yesterday": -14.477640394202924,
-                "LastWeek": -14.62150941410937,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-22 12:17:51 (UTC)",
                 "history": true
             },
             {
@@ -227,20 +255,6 @@
                 "history": true
             },
             {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": -13.063888832516133,
-                "Yesterday": -14.888881136512042,
-                "LastWeek": -12.400287567106187,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-16 18:13:25 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
@@ -295,34 +309,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-15 18:11:32 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -4.564178723347054,
-                "Yesterday": -7.455766038800883,
-                "LastWeek": -2.692677288641293,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-15 16:09:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": -8.725593185254017,
-                "Yesterday": -11.93843887645984,
-                "LastWeek": -7.342921245640648,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-15 14:10:09 (UTC)",
-                "history": true
             }
         ]
     },
@@ -340,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 14:10:05 (UTC)",
+                "LastUpdated": "2025-04-22 16:11:48 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 14:10:07 (UTC)",
+                "LastUpdated": "2025-04-22 16:11:49 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 14:10:10 (UTC)",
+                "LastUpdated": "2025-04-22 16:11:52 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +368,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 14:10:12 (UTC)",
+                "LastUpdated": "2025-04-22 16:11:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Delphi Nordic A",
+                "PPMCode": "388298",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/79692",
+                "Current": -7.841827434117553,
+                "Yesterday": -7.443462059238717,
+                "LastWeek": -14.325319197532718,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-22 16:11:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": -7.373315589355481,
+                "Yesterday": -7.591307416217886,
+                "LastWeek": -13.083464910481277,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-22 16:11:58 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 12:17:56 (UTC)",
+                "LastUpdated": "2025-04-22 14:10:05 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 12:17:58 (UTC)",
+                "LastUpdated": "2025-04-22 14:10:07 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +438,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 12:18:00 (UTC)",
+                "LastUpdated": "2025-04-22 14:10:10 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Evli Aktieindex B",
+                "PPMCode": "610410",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/416835",
+                "Current": -6.6133201206824035,
+                "Yesterday": -5.904777678667297,
+                "LastWeek": -14.219764656673428,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-22 14:10:12 (UTC)",
                 "history": true
             },
             {
