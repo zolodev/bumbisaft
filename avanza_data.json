@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": -22.70963396910346,
+                "Yesterday": -26.47826699182489,
+                "LastWeek": -25.655429731744476,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-23 18:13:44 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Global Leaders A USD Inc",
+                "PPMCode": "872440",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2376",
+                "Current": -22.399396674717504,
+                "Yesterday": -24.993442447326515,
+                "LastWeek": -20.88546517294059,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-23 18:13:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Naventi Offensiv Flex",
+                "PPMCode": "727057",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/331224",
+                "Current": -18.399022459407682,
+                "Yesterday": -21.933385025524526,
+                "LastWeek": -18.852269542014476,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-23 18:13:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Access Global A",
+                "PPMCode": "114819",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/600075",
+                "Current": -18.068623584427304,
+                "Yesterday": -21.387120401149364,
+                "LastWeek": -18.98980224237986,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-23 18:13:51 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF India A2",
                 "PPMCode": "768499",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-23 16:12:42 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Water AT EUR",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-23 16:12:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
@@ -42,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-23 16:12:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Europa A USD Inc",
@@ -56,7 +112,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-23 16:12:47 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -70,20 +126,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-23 16:12:50 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": -10.014451385641292,
-                "Yesterday": -11.06618664419933,
-                "LastWeek": -10.936407406371552,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-23 14:10:00 (UTC)",
                 "history": true
             },
             {
@@ -379,26 +421,110 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-17 00:45:31 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -22.96575178219454,
-                "Yesterday": -25.772405481049393,
-                "LastWeek": -21.91677596408184,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-16 18:13:30 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "D&G Sm\u00e5bolag",
+                "PPMCode": "140491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
+                "Current": -9.740580250877183,
+                "Yesterday": -12.661945712606709,
+                "LastWeek": -15.884483030661903,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 18:13:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sverige Plus",
+                "PPMCode": "490292",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
+                "Current": -10.137684854665984,
+                "Yesterday": -13.350331463539014,
+                "LastWeek": -16.17542070372259,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 18:13:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": -4.235926194834224,
+                "Yesterday": -7.646863259029985,
+                "LastWeek": -8.34469230129545,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 18:13:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Sverige Exponering",
+                "PPMCode": "292193",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/403595",
+                "Current": -9.353338848161572,
+                "Yesterday": -12.217246199047262,
+                "LastWeek": -14.687508914054256,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 18:14:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Access Sverige A",
+                "PPMCode": "719674",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/592235",
+                "Current": -9.83475151066717,
+                "Yesterday": -12.68652114934025,
+                "LastWeek": -14.949438895054879,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 18:14:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": -4.3347286479283555,
+                "Yesterday": -6.271664692681197,
+                "LastWeek": -7.104531830961982,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 18:14:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Asset Selection C H-SEK",
+                "PPMCode": "639633",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
+                "Current": -15.164829477824354,
+                "Yesterday": -16.54608497645292,
+                "LastWeek": -15.23158929772809,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 18:14:05 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Indecap Guide Sverige C",
                 "PPMCode": "106849",
@@ -411,7 +537,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-23 16:12:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Asset Selection C H-SEK",
@@ -425,7 +551,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-23 16:12:56 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Indienfond A",
@@ -439,7 +565,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-23 16:12:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag",
@@ -453,34 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-23 16:13:01 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Indecap Guide Sverige C",
-                "PPMCode": "106849",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
-                "Current": -12.306452742941207,
-                "Yesterday": -11.59531983465283,
-                "LastWeek": -15.764029986688143,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 14:10:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Asset Selection C H-SEK",
-                "PPMCode": "639633",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
-                "Current": -15.164829477824354,
-                "Yesterday": -16.54608497645292,
-                "LastWeek": -15.23158929772809,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 14:10:17 (UTC)",
                 "history": true
             },
             {
