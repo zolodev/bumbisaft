@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-23 10:10:59 (UTC)",
+                "LastUpdated": "2025-04-23 12:18:00 (UTC)",
                 "history": false
             },
             {
@@ -27,21 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-23 10:11:07 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": -29.610192470248798,
-                "Yesterday": -31.141680087189943,
-                "LastWeek": -26.458765127169958,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-23 10:11:10 (UTC)",
+                "LastUpdated": "2025-04-23 12:18:09 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-23 08:13:24 (UTC)",
+                "LastUpdated": "2025-04-23 10:10:59 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-23 08:13:33 (UTC)",
+                "LastUpdated": "2025-04-23 10:11:07 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-23 08:13:36 (UTC)",
+                "LastUpdated": "2025-04-23 10:11:10 (UTC)",
                 "history": true
             },
             {
@@ -372,20 +358,6 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "DNB Gr\u00f6nt Skifte Norden S",
-                "PPMCode": "147512",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
-                "Current": -11.650097295247702,
-                "Yesterday": -11.116800812373612,
-                "LastWeek": -18.088467411007965,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 10:11:15 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Evli Aktieindex B",
                 "PPMCode": "610410",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/416835",
@@ -396,21 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 10:11:16 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -7.373315589355481,
-                "Yesterday": -7.591307416217886,
-                "LastWeek": -13.083464910481277,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 10:11:19 (UTC)",
+                "LastUpdated": "2025-04-23 12:18:11 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 10:11:24 (UTC)",
+                "LastUpdated": "2025-04-23 12:18:14 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 08:13:41 (UTC)",
+                "LastUpdated": "2025-04-23 10:11:15 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +410,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 08:13:43 (UTC)",
+                "LastUpdated": "2025-04-23 10:11:16 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": -7.373315589355481,
+                "Yesterday": -7.591307416217886,
+                "LastWeek": -13.083464910481277,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 10:11:19 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Evli Sverige Sm\u00e5bolag B",
+                "PPMCode": "420463",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
+                "Current": -6.814914690760354,
+                "Yesterday": -6.201894706913657,
+                "LastWeek": -12.754660135080965,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-23 10:11:24 (UTC)",
                 "history": true
             },
             {
@@ -467,34 +453,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-23 08:13:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -7.373315589355481,
-                "Yesterday": -7.591307416217886,
-                "LastWeek": -13.083464910481277,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 08:13:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Sverige Sm\u00e5bolag B",
-                "PPMCode": "420463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
-                "Current": -6.814914690760354,
-                "Yesterday": -6.201894706913657,
-                "LastWeek": -12.754660135080965,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 08:13:53 (UTC)",
                 "history": true
             },
             {
