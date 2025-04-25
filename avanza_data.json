@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Global Equity Growth AT USD",
+                "PPMCode": "273839",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1173921",
+                "Current": -19.889260085884768,
+                "Yesterday": -22.47542946862812,
+                "LastWeek": -21.107298626135844,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-25 16:11:37 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Teknologifond",
                 "PPMCode": "194092",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
@@ -508,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-25 14:09:34 (UTC)",
+                "LastUpdated": "2025-04-25 16:11:50 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +536,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-25 14:09:36 (UTC)",
+                "LastUpdated": "2025-04-25 16:11:52 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Sm\u00e5bolagsfond A",
+                "PPMCode": "584912",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
+                "Current": 3.673341885244568,
+                "Yesterday": 1.82211878203045,
+                "LastWeek": -3.8584798852269877,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-25 16:11:54 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-25 12:17:44 (UTC)",
+                "LastUpdated": "2025-04-25 14:09:34 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-25 12:17:45 (UTC)",
+                "LastUpdated": "2025-04-25 14:09:36 (UTC)",
                 "history": true
             },
             {
