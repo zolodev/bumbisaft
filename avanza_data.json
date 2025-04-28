@@ -14,7 +14,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-28 18:14:04 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -98,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-25 06:14:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": -21.701576806151632,
-                "Yesterday": -26.489934271875228,
-                "LastWeek": -22.957560760382066,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-24 18:12:39 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 18:14:11 (UTC)",
+                "LastUpdated": "2025-04-28 20:10:31 (UTC)",
                 "history": false
             },
             {
@@ -550,35 +536,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 18:14:15 (UTC)",
+                "LastUpdated": "2025-04-28 20:10:34 (UTC)",
                 "history": false
             },
             {
-                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": 2.398673903858028,
-                "Yesterday": 0.23401696623004206,
-                "LastWeek": -8.453862905060614,
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": -19.425823410652068,
+                "Yesterday": -20.066920514350187,
+                "LastWeek": -22.172002786160014,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 16:11:47 (UTC)",
-                "history": true
+                "LastUpdated": "2025-04-28 20:10:38 (UTC)",
+                "history": false
             },
             {
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 1.2856588677816756,
-                "Yesterday": -0.24108505229420396,
-                "LastWeek": -5.848099350172576,
+                "Current": 1.1577782790718316,
+                "Yesterday": -0.5036004278906661,
+                "LastWeek": -6.35847394901225,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 12:18:17 (UTC)",
+                "LastUpdated": "2025-04-28 18:14:11 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
+                "PPMCode": "679837",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
+                "Current": 1.9269679159841988,
+                "Yesterday": 1.1818736551369775,
+                "LastWeek": -7.409191636959242,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-28 18:14:15 (UTC)",
                 "history": true
             },
             {
