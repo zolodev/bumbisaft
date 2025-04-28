@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Fondita Nordic Micro Cap B",
+                "PPMCode": "785493",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
+                "Current": -5.518393118459168,
+                "Yesterday": -7.6094065185194255,
+                "LastWeek": -9.230448503802473,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-28 22:09:43 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Digital R USD",
                 "PPMCode": "296749",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
@@ -522,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 20:10:31 (UTC)",
+                "LastUpdated": "2025-04-28 22:09:46 (UTC)",
                 "history": false
             },
             {
@@ -536,21 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 20:10:34 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": -19.425823410652068,
-                "Yesterday": -20.066920514350187,
-                "LastWeek": -22.172002786160014,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 20:10:38 (UTC)",
+                "LastUpdated": "2025-04-28 22:09:49 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 18:14:11 (UTC)",
+                "LastUpdated": "2025-04-28 20:10:31 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +578,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 18:14:15 (UTC)",
+                "LastUpdated": "2025-04-28 20:10:34 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": -19.425823410652068,
+                "Yesterday": -20.066920514350187,
+                "LastWeek": -22.172002786160014,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-28 20:10:38 (UTC)",
                 "history": true
             },
             {
