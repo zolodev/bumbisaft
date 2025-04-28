@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": -19.91799498396956,
+                "Yesterday": -21.948023753365188,
+                "LastWeek": -23.207669690370572,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-28 18:14:04 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-28 16:11:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Equity Growth AT USD",
@@ -154,20 +168,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-24 16:11:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": -29.710342943024997,
-                "Yesterday": -34.11599945347725,
-                "LastWeek": -29.458942478480672,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-24 16:11:53 (UTC)",
                 "history": true
             },
             {
@@ -526,17 +526,31 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": 2.398673903858028,
-                "Yesterday": 0.23401696623004206,
-                "LastWeek": -8.453862905060614,
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": 1.1577782790718316,
+                "Yesterday": -0.5036004278906661,
+                "LastWeek": -6.35847394901225,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 16:11:47 (UTC)",
+                "LastUpdated": "2025-04-28 18:14:11 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
+                "PPMCode": "679837",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
+                "Current": 1.9269679159841988,
+                "Yesterday": 1.1818736551369775,
+                "LastWeek": -7.409191636959242,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-28 18:14:15 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 14:11:17 (UTC)",
+                "LastUpdated": "2025-04-28 16:11:47 (UTC)",
                 "history": true
             },
             {
