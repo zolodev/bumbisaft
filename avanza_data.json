@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -21.083307152891802,
+                "Yesterday": -22.67821471123467,
+                "LastWeek": -23.979481449428285,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-29 10:11:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Teknologi S",
+                "PPMCode": "183343",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+                "Current": -15.75907140110381,
+                "Yesterday": -17.350990504750477,
+                "LastWeek": -18.383319398988295,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-29 10:11:18 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Fondita Nordic Micro Cap B",
                 "PPMCode": "785493",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-29 08:14:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -28,20 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-29 08:14:47 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Fondita Nordic Micro Cap B",
-                "PPMCode": "785493",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
-                "Current": -5.518393118459168,
-                "Yesterday": -7.6094065185194255,
-                "LastWeek": -9.230448503802473,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-29 06:14:40 (UTC)",
                 "history": true
             },
             {
@@ -84,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-28 14:11:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": -25.215395513854105,
-                "Yesterday": -28.07156090596149,
-                "LastWeek": -25.43157854637973,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-25 12:17:30 (UTC)",
                 "history": true
             },
             {
@@ -491,62 +491,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-22 12:17:49 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "DNB Gr\u00f6nt Skifte Norden S",
-                "PPMCode": "147512",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
-                "Current": -11.07062932570215,
-                "Yesterday": -13.114280319916158,
-                "LastWeek": -14.392387313718217,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-22 10:10:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Norden A",
-                "PPMCode": "354290",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74111",
-                "Current": -1.7408502202824014,
-                "Yesterday": -3.9896229621726476,
-                "LastWeek": -3.7295001874976386,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-22 10:10:20 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Holberg Norge A",
-                "PPMCode": "318469",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
-                "Current": -6.320833275232827,
-                "Yesterday": -8.167159424947043,
-                "LastWeek": -8.548605591445389,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-22 10:10:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -8.29208648996568,
-                "Yesterday": -10.012027846089083,
-                "LastWeek": -12.077688508043211,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-22 10:10:30 (UTC)",
-                "history": true
             }
         ]
     },
@@ -564,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 08:14:53 (UTC)",
+                "LastUpdated": "2025-04-29 10:11:26 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 08:14:54 (UTC)",
+                "LastUpdated": "2025-04-29 10:11:27 (UTC)",
                 "history": false
             },
             {
@@ -592,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 08:14:58 (UTC)",
+                "LastUpdated": "2025-04-29 10:11:30 (UTC)",
                 "history": false
             },
             {
@@ -606,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 06:14:46 (UTC)",
+                "LastUpdated": "2025-04-29 08:14:53 (UTC)",
                 "history": true
             },
             {
@@ -620,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 06:14:47 (UTC)",
+                "LastUpdated": "2025-04-29 08:14:54 (UTC)",
                 "history": true
             },
             {
@@ -634,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 06:14:50 (UTC)",
+                "LastUpdated": "2025-04-29 08:14:58 (UTC)",
                 "history": true
             },
             {
@@ -1041,20 +985,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-22 18:13:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "PriorNilsson Realinvest A",
-                "PPMCode": "487108",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
-                "Current": -8.397328088803818,
-                "Yesterday": -7.997740920574864,
-                "LastWeek": -13.92082726289037,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 10:10:45 (UTC)",
                 "history": true
             }
         ]
