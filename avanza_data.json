@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-29 00:47:08 (UTC)",
+                "LastUpdated": "2025-04-29 03:01:01 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-28 22:09:43 (UTC)",
+                "LastUpdated": "2025-04-29 00:47:08 (UTC)",
                 "history": true
             },
             {
@@ -540,17 +540,31 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": -23.914165612147716,
+                "Yesterday": -23.273379642851154,
+                "LastWeek": -26.762855049658057,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-29 03:01:09 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 1.1577782790718316,
+                "Current": 0.46988958857122587,
                 "Yesterday": -0.5036004278906661,
                 "LastWeek": -6.35847394901225,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 00:47:12 (UTC)",
+                "LastUpdated": "2025-04-29 03:01:10 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 00:47:15 (UTC)",
+                "LastUpdated": "2025-04-29 03:01:16 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 22:09:46 (UTC)",
+                "LastUpdated": "2025-04-29 00:47:12 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-28 22:09:49 (UTC)",
+                "LastUpdated": "2025-04-29 00:47:15 (UTC)",
                 "history": true
             },
             {
