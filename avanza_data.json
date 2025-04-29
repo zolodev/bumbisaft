@@ -13,8 +13,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-29 16:12:02 (UTC)",
+                "LastUpdated": "2025-04-29 18:13:39 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 11.8689864458648,
+                "Yesterday": 10.446750875357976,
+                "LastWeek": 21.062785687425077,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-29 18:13:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": -16.951106054410886,
+                "Yesterday": -17.828423790984456,
+                "LastWeek": -17.536873418546627,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-29 18:13:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": -22.48896934611657,
+                "Yesterday": -23.851986238569886,
+                "LastWeek": -25.230368414987986,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-29 16:12:02 (UTC)",
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -42,20 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-29 12:19:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -22.48896934611657,
-                "Yesterday": -23.851986238569886,
-                "LastWeek": -25.230368414987986,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-29 12:19:18 (UTC)",
                 "history": true
             },
             {
@@ -393,26 +421,54 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-23 10:11:10 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "D&G Sm\u00e5bolag",
-                "PPMCode": "140491",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
-                "Current": -12.888026238180192,
-                "Yesterday": -14.415138302839242,
-                "LastWeek": -19.790515767088323,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-22 18:13:12 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": -24.79076845041847,
+                "Yesterday": -24.847127116972416,
+                "LastWeek": -28.329388226674556,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-29 18:14:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": -23.409062591848766,
+                "Yesterday": -23.627503767922445,
+                "LastWeek": -27.05756851367278,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-29 18:14:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": -23.914165612147716,
+                "Yesterday": -23.273379642851154,
+                "LastWeek": -26.762855049658057,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-04-29 18:14:04 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Franklin US Opportunities A(acc)USD",
                 "PPMCode": "384107",
@@ -425,7 +481,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-29 16:12:17 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -439,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-29 16:12:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
@@ -453,48 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-29 16:12:24 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": -23.914165612147716,
-                "Yesterday": -23.273379642851154,
-                "LastWeek": -26.762855049658057,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 12:19:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 0.46988958857122587,
-                "Yesterday": -0.5036004278906661,
-                "LastWeek": -6.35847394901225,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 12:19:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": 1.9269679159841988,
-                "Yesterday": 1.1818736551369775,
-                "LastWeek": -7.409191636959242,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 12:19:27 (UTC)",
                 "history": true
             },
             {
@@ -873,34 +887,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-23 06:14:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 21.21352645437019,
-                "Yesterday": 24.3788299736076,
-                "LastWeek": 5.538578226781982,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 18:13:18 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Nordiska Sm\u00e5b (A1 SEK)",
-                "PPMCode": "751495",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1682",
-                "Current": -7.723657360170671,
-                "Yesterday": -7.052337445505988,
-                "LastWeek": -12.671598181986823,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-22 18:13:33 (UTC)",
                 "history": true
             }
         ]
