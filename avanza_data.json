@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-30 10:10:34 (UTC)",
+                "LastUpdated": "2025-04-30 12:17:46 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-30 10:10:36 (UTC)",
+                "LastUpdated": "2025-04-30 12:17:49 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-04-30 08:13:27 (UTC)",
+                "LastUpdated": "2025-04-30 10:10:34 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Fondita Global Megatrends B",
+                "PPMCode": "202002",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
+                "Current": -16.57599889693077,
+                "Yesterday": -17.76643646484719,
+                "LastWeek": -20.604728578206263,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-04-30 10:10:36 (UTC)",
                 "history": true
             },
             {
@@ -435,20 +449,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-23 12:18:09 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": -29.610192470248798,
-                "Yesterday": -31.141680087189943,
-                "LastWeek": -26.458765127169958,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-23 10:11:10 (UTC)",
-                "history": true
             }
         ]
     },
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-30 10:10:45 (UTC)",
+                "LastUpdated": "2025-04-30 12:18:02 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-30 10:10:47 (UTC)",
+                "LastUpdated": "2025-04-30 12:18:06 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-30 10:10:48 (UTC)",
+                "LastUpdated": "2025-04-30 12:18:08 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-30 08:13:37 (UTC)",
+                "LastUpdated": "2025-04-30 10:10:45 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-30 08:13:39 (UTC)",
+                "LastUpdated": "2025-04-30 10:10:47 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-30 08:13:41 (UTC)",
+                "LastUpdated": "2025-04-30 10:10:48 (UTC)",
                 "history": true
             },
             {
@@ -859,34 +859,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-23 12:18:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Gr\u00f6nt Skifte Norden S",
-                "PPMCode": "147512",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
-                "Current": -11.650097295247702,
-                "Yesterday": -11.116800812373612,
-                "LastWeek": -18.088467411007965,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 10:11:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -7.373315589355481,
-                "Yesterday": -7.591307416217886,
-                "LastWeek": -13.083464910481277,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-23 10:11:19 (UTC)",
                 "history": true
             }
         ]
