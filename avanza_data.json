@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Handelsbanken Asien Tema (A1 SEK)",
+                "PPMCode": "504100",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
+                "Current": -8.95244016164128,
+                "Yesterday": -10.985390115013987,
+                "LastWeek": -15.57766034607813,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-06 14:10:05 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Teknologifond",
                 "PPMCode": "194092",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-06 12:20:14 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
@@ -28,20 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-06 10:10:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": -17.925021770078263,
-                "Yesterday": -20.261107197945744,
-                "LastWeek": -27.0474275643369,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-06 10:10:50 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-06 12:20:25 (UTC)",
+                "LastUpdated": "2025-05-06 14:10:12 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-06 10:10:58 (UTC)",
+                "LastUpdated": "2025-05-06 12:20:25 (UTC)",
                 "history": true
             },
             {
