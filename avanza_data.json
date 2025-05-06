@@ -3,17 +3,31 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Handelsbanken Asien Tema (A1 SEK)",
-                "PPMCode": "504100",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
-                "Current": -8.95244016164128,
-                "Yesterday": -10.985390115013987,
-                "LastWeek": -15.57766034607813,
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 7.097908343980731,
+                "Yesterday": 3.6055853448372277,
+                "LastWeek": 4.6601636262799495,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-06 16:11:49 (UTC)",
+                "LastUpdated": "2025-05-06 18:13:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Emerging Markets A",
+                "PPMCode": "295857",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364655",
+                "Current": -7.539407920030762,
+                "Yesterday": -9.265667051134187,
+                "LastWeek": -13.967704728950409,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-06 18:13:43 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-06 14:10:05 (UTC)",
+                "LastUpdated": "2025-05-06 16:11:49 (UTC)",
                 "history": true
             },
             {
@@ -456,6 +470,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -16.551517695034985,
+                "Yesterday": -16.918700764601212,
+                "LastWeek": -23.220606175474696,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-06 18:13:50 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF US Flexible Equity A2",
                 "PPMCode": "804385",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
@@ -467,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-06 16:11:55 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -481,20 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-06 16:11:58 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF US Flexible Equity A2",
-                "PPMCode": "804385",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
-                "Current": -18.55028030697465,
-                "Yesterday": -19.22303249647707,
-                "LastWeek": -23.83253612142379,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-06 14:10:12 (UTC)",
                 "history": true
             },
             {
@@ -551,20 +565,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-05 18:11:20 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": -19.543270888748275,
-                "Yesterday": -20.07877793737948,
-                "LastWeek": -25.151138486635933,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-05 12:18:30 (UTC)",
                 "history": true
             },
             {
@@ -635,34 +635,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-04-30 18:13:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 0.46988958857122587,
-                "Yesterday": -0.5036004278906661,
-                "LastWeek": -6.35847394901225,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 16:12:18 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": 1.9269679159841988,
-                "Yesterday": 1.1818736551369775,
-                "LastWeek": -7.409191636959242,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-29 16:12:24 (UTC)",
                 "history": true
             }
         ]
