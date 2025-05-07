@@ -13,7 +13,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-07 14:10:34 (UTC)",
+                "LastUpdated": "2025-05-07 16:12:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": -9.178213423482738,
+                "Yesterday": -10.798046009788225,
+                "LastWeek": -9.286076643524613,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-07 16:12:31 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-07 12:19:02 (UTC)",
+                "LastUpdated": "2025-05-07 14:10:34 (UTC)",
                 "history": true
             },
             {
@@ -421,26 +435,26 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-30 18:13:27 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Fondita Global Megatrends B",
-                "PPMCode": "202002",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
-                "Current": -16.57599889693077,
-                "Yesterday": -17.76643646484719,
-                "LastWeek": -20.604728578206263,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-30 16:11:54 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Handelsbanken Asien Tema (A1 SEK)",
+                "PPMCode": "504100",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
+                "Current": -9.32929334428924,
+                "Yesterday": -9.747329498767458,
+                "LastWeek": -13.147082990961382,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-07 16:12:40 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
                 "PPMCode": "420463",
@@ -453,7 +467,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-07 14:10:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Asien Tema (A1 SEK)",
@@ -467,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-07 14:10:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -481,20 +495,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-07 12:19:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Sverige Sm\u00e5bolag B",
-                "PPMCode": "420463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
-                "Current": -1.4709050298286568,
-                "Yesterday": -1.559670058237669,
-                "LastWeek": -8.992139756567658,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-07 12:19:18 (UTC)",
                 "history": true
             },
             {
