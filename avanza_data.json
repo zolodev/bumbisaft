@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-07 16:12:28 (UTC)",
+                "LastUpdated": "2025-05-07 18:14:15 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-07 16:12:31 (UTC)",
+                "LastUpdated": "2025-05-07 18:14:17 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-07 14:10:34 (UTC)",
+                "LastUpdated": "2025-05-07 16:12:28 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": -9.178213423482738,
+                "Yesterday": -10.798046009788225,
+                "LastWeek": -9.286076643524613,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-07 16:12:31 (UTC)",
                 "history": true
             },
             {
@@ -393,54 +407,54 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-04-30 20:10:46 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken Norden (A1 SEK)",
-                "PPMCode": "811117",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1632",
-                "Current": -10.017467380043147,
-                "Yesterday": -11.522965350523773,
-                "LastWeek": -13.765196370388535,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-30 18:13:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Sverigefond A",
-                "PPMCode": "393314",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1892",
-                "Current": -6.757309718805764,
-                "Yesterday": -8.300561503839091,
-                "LastWeek": -10.839473337990391,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-30 18:13:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Aktiefond Stabil",
-                "PPMCode": "339184",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
-                "Current": -10.732530892048846,
-                "Yesterday": -12.161788464057526,
-                "LastWeek": -13.66236336908903,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-04-30 18:13:27 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": -21.83091143685089,
+                "Yesterday": -22.891328411983267,
+                "LastWeek": -24.879610240356474,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-07 18:14:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Time Global",
+                "PPMCode": "439471",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
+                "Current": -16.003803994193902,
+                "Yesterday": -16.810651183742937,
+                "LastWeek": -18.65458731668252,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-07 18:14:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Asien Tema (A1 SEK)",
+                "PPMCode": "504100",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
+                "Current": -9.32929334428924,
+                "Yesterday": -9.747329498767458,
+                "LastWeek": -13.147082990961382,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-07 18:14:37 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Handelsbanken Asien Tema (A1 SEK)",
                 "PPMCode": "504100",
@@ -453,7 +467,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-07 16:12:40 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
@@ -467,20 +481,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-07 14:10:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Asien Tema (A1 SEK)",
-                "PPMCode": "504100",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
-                "Current": -9.32929334428924,
-                "Yesterday": -9.747329498767458,
-                "LastWeek": -13.147082990961382,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-07 14:10:46 (UTC)",
                 "history": true
             },
             {
@@ -621,20 +621,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-01 00:53:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": -20.208505903031593,
-                "Yesterday": -20.43405045733763,
-                "LastWeek": -24.26409234841093,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-04-30 18:13:36 (UTC)",
                 "history": true
             }
         ]
