@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": -0.9326541064683104,
+                "Yesterday": -4.811528585647998,
+                "LastWeek": -3.021976181751469,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-08 18:13:24 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
+                "PPMCode": "679837",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
+                "Current": 1.0427072927073027,
+                "Yesterday": -1.894980019980018,
+                "LastWeek": -0.9209540459540424,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-08 18:13:25 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 0.22282728197903054,
+                "Yesterday": -1.7467897888139385,
+                "LastWeek": -5.709893359434036,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-08 18:13:30 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "DNB SMB S",
                 "PPMCode": "290833",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-08 16:12:07 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-08 16:12:09 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -42,34 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-08 14:09:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 0.22282728197903054,
-                "Yesterday": -1.7467897888139385,
-                "LastWeek": -5.709893359434036,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-08 14:09:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 6.322624516387862,
-                "Yesterday": 4.323956951854373,
-                "LastWeek": 3.556173053489192,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-08 14:09:29 (UTC)",
                 "history": true
             },
             {
@@ -281,82 +295,68 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-02 18:13:17 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": -7.314301587101167,
-                "Yesterday": -9.696847262029515,
-                "LastWeek": -11.334452847817577,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-01 18:13:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Sm\u00e5bolag Sverige",
-                "PPMCode": "103606",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
-                "Current": -4.132220402838235,
-                "Yesterday": -6.570416816433018,
-                "LastWeek": -9.340096116724572,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-01 18:13:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Sm\u00e5bolagsfond Sverige A",
-                "PPMCode": "856682",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2008",
-                "Current": -6.950812028906669,
-                "Yesterday": -9.28976610459243,
-                "LastWeek": -11.535472841712641,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-01 18:13:11 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Sm\u00e5bolagsfond A",
-                "PPMCode": "584912",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
-                "Current": 2.9474264747958365,
-                "Yesterday": 0.403657476989206,
-                "LastWeek": -3.4976997710133197,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-01 18:13:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": -6.979006656426023,
-                "Yesterday": -9.016897081413216,
-                "LastWeek": -10.942140296979009,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-01 18:13:17 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": -20.561795376187145,
+                "Yesterday": -21.83091143685089,
+                "LastWeek": -24.785131600284846,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-08 18:13:35 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF US Flexible Equity A2",
+                "PPMCode": "804385",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
+                "Current": -18.983594270459704,
+                "Yesterday": -20.007441205786936,
+                "LastWeek": -23.595438382095647,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-08 18:13:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": -21.78730093945869,
+                "Yesterday": -22.778791861335385,
+                "LastWeek": -25.599109820909383,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-08 18:13:39 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Time Global",
+                "PPMCode": "439471",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
+                "Current": -15.304069272736372,
+                "Yesterday": -16.003803994193902,
+                "LastWeek": -18.43435607387758,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-08 18:13:40 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF US Flexible Equity A2",
                 "PPMCode": "804385",
@@ -369,7 +369,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-08 16:12:15 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -383,7 +383,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-08 16:12:17 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -397,7 +397,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-08 16:12:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Skandia Time Global",
@@ -411,62 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-08 16:12:23 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF US Flexible Equity A2",
-                "PPMCode": "804385",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
-                "Current": -20.007441205786936,
-                "Yesterday": -20.933192369292904,
-                "LastWeek": -23.97120467311055,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-08 14:09:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": -22.778791861335385,
-                "Yesterday": -23.668083239916836,
-                "LastWeek": -25.68784774435749,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-08 14:09:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": -21.83091143685089,
-                "Yesterday": -22.891328411983267,
-                "LastWeek": -24.879610240356474,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-08 14:09:40 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Time Global",
-                "PPMCode": "439471",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
-                "Current": -16.003803994193902,
-                "Yesterday": -16.810651183742937,
-                "LastWeek": -18.65458731668252,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-08 14:09:44 (UTC)",
                 "history": true
             },
             {
