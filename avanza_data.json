@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": -4.877907397962974,
+                "Yesterday": -6.792958600392414,
+                "LastWeek": -10.106797646975261,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-14 20:09:35 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
@@ -270,21 +284,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-14 18:12:59 (UTC)",
+                "LastUpdated": "2025-05-14 20:09:44 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF Sustainable Energy A2",
                 "PPMCode": "553578",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
-                "Current": -4.135042489341097,
-                "Yesterday": -6.861084024488042,
-                "LastWeek": -16.236358506891808,
+                "Current": -3.675913900875939,
+                "Yesterday": -3.9655235967011335,
+                "LastWeek": -13.413502641625966,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-14 16:12:27 (UTC)",
+                "LastUpdated": "2025-05-14 18:12:59 (UTC)",
                 "history": true
             },
             {
@@ -411,20 +425,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-08 06:14:41 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Asien Tema (A1 SEK)",
-                "PPMCode": "504100",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
-                "Current": -9.32929334428924,
-                "Yesterday": -9.747329498767458,
-                "LastWeek": -13.147082990961382,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-07 18:14:37 (UTC)",
                 "history": true
             }
         ]
