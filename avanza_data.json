@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-20 06:15:00 (UTC)",
+                "LastUpdated": "2025-05-20 10:11:04 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-20 06:15:04 (UTC)",
+                "LastUpdated": "2025-05-20 10:11:05 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-20 04:13:53 (UTC)",
+                "LastUpdated": "2025-05-20 06:15:00 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-20 04:13:57 (UTC)",
+                "LastUpdated": "2025-05-20 06:15:04 (UTC)",
                 "history": true
             },
             {
@@ -358,6 +358,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "DNB Teknologi S",
+                "PPMCode": "183343",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+                "Current": -7.485490436009205,
+                "Yesterday": -8.033947236897001,
+                "LastWeek": -14.725318310084726,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-20 10:11:19 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -9.207401758485224,
+                "Yesterday": -9.789297177296799,
+                "LastWeek": -15.66607522281994,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-20 10:11:22 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
                 "PPMCode": "456475",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
@@ -369,7 +397,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-20 06:15:16 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Teknologi S",
@@ -383,20 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-20 06:15:22 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
-                "PPMCode": "456475",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
-                "Current": -13.200048215684829,
-                "Yesterday": -14.179628402585765,
-                "LastWeek": -20.785548253421208,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-20 04:14:10 (UTC)",
                 "history": true
             },
             {
@@ -453,20 +467,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-16 16:12:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Teknologi S",
-                "PPMCode": "183343",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
-                "Current": -7.945703063439212,
-                "Yesterday": -8.383175625611155,
-                "LastWeek": -14.140092669154528,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-16 10:10:55 (UTC)",
                 "history": true
             },
             {
