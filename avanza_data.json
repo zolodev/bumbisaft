@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 3.438933144558034,
+                "Yesterday": 1.3411885782542035,
+                "LastWeek": 8.231115756505861,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-20 20:11:11 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": -2.535848505856164,
+                "Yesterday": -4.174116101725836,
+                "LastWeek": -8.698507680519576,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-20 20:11:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sverige Plus",
+                "PPMCode": "490292",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
+                "Current": -6.032436708860767,
+                "Yesterday": -7.4663765822784915,
+                "LastWeek": -10.4628164556962,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-20 20:11:16 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Lannebo Sverige Plus",
                 "PPMCode": "490292",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-20 18:13:52 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Health Care S",
@@ -309,20 +351,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-14 08:14:08 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": -10.236462004794788,
-                "Yesterday": -15.12645881507412,
-                "LastWeek": -18.53096532378769,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-13 20:11:02 (UTC)",
-                "history": true
             }
         ]
     },
@@ -340,8 +368,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-20 18:14:05 (UTC)",
+                "LastUpdated": "2025-05-20 20:11:27 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 5.9758516402356,
+                "Yesterday": 6.070600429724647,
+                "LastWeek": 0.00040325497739827427,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-20 18:14:05 (UTC)",
+                "history": true
             },
             {
                 "Name": "Alfred Berg Aktiv R (NOK)",
@@ -355,7 +397,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-20 18:14:06 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
