@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Lannebo Sverige Plus",
+                "PPMCode": "490292",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
+                "Current": -6.032436708860767,
+                "Yesterday": -7.4663765822784915,
+                "LastWeek": -10.4628164556962,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-20 18:13:52 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "DNB Health Care S",
                 "PPMCode": "255001",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
@@ -315,6 +329,34 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 5.9758516402356,
+                "Yesterday": 6.070600429724647,
+                "LastWeek": 0.00040325497739827427,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-20 18:14:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 2.3469591359475017,
+                "Yesterday": 2.8602554002904004,
+                "LastWeek": -1.7296694160846973,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-20 18:14:06 (UTC)",
+                "history": false
+            },
             {
                 "Name": "SEB Teknologifond",
                 "PPMCode": "194092",
