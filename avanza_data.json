@@ -14,34 +14,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-20 10:11:04 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 6.554167912666409,
-                "Yesterday": 4.603043725860992,
-                "LastWeek": 0.14922019928487873,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-20 10:11:05 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": -14.571798870812197,
-                "Yesterday": -16.33573173953887,
-                "LastWeek": -14.64382253129054,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-20 06:15:00 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-20 06:15:04 (UTC)",
+                "LastUpdated": "2025-05-20 10:11:05 (UTC)",
                 "history": true
             },
             {
@@ -337,26 +309,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-13 20:11:02 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": -7.869374104118106,
-                "Yesterday": -12.450409514260766,
-                "LastWeek": -15.497780548111587,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-13 10:11:12 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": -9.207401758485224,
+                "Yesterday": -9.789297177296799,
+                "LastWeek": -15.66607522281994,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-20 12:19:08 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Dynamisk Aktiefond",
+                "PPMCode": "520759",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2384",
+                "Current": -8.605881252444846,
+                "Yesterday": -9.571916934537478,
+                "LastWeek": -14.00105447556848,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-20 12:19:11 (UTC)",
+                "history": false
+            },
             {
                 "Name": "DNB Teknologi S",
                 "PPMCode": "183343",
@@ -369,7 +355,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-20 10:11:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -383,7 +369,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-20 10:11:22 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
@@ -397,20 +383,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-20 06:15:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Teknologi S",
-                "PPMCode": "183343",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
-                "Current": -7.485490436009205,
-                "Yesterday": -8.033947236897001,
-                "LastWeek": -14.725318310084726,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-20 06:15:22 (UTC)",
                 "history": true
             },
             {
@@ -495,20 +467,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-14 04:13:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": -7.869374104118106,
-                "Yesterday": -12.450409514260766,
-                "LastWeek": -15.497780548111587,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-13 10:11:30 (UTC)",
                 "history": true
             }
         ]
