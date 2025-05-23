@@ -281,20 +281,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-16 16:11:48 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": -1.1114555108579551,
-                "Yesterday": -2.8903222032451263,
-                "LastWeek": -3.932064650593799,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-16 14:09:50 (UTC)",
-                "history": true
             }
         ]
     },
@@ -312,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 14:09:52 (UTC)",
+                "LastUpdated": "2025-05-23 16:11:32 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +312,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 14:09:57 (UTC)",
+                "LastUpdated": "2025-05-23 16:11:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 6.2979230374029305,
+                "Yesterday": 7.309876781872307,
+                "LastWeek": 3.9467576290428372,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-23 16:11:39 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 12:18:18 (UTC)",
+                "LastUpdated": "2025-05-23 14:09:52 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 12:18:25 (UTC)",
+                "LastUpdated": "2025-05-23 14:09:57 (UTC)",
                 "history": true
             },
             {
