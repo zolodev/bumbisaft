@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": -0.4409268688657741,
+                "Yesterday": -1.759863275021693,
+                "LastWeek": 0.17586069185255873,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-26 00:51:10 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Templeton Global Bond A(acc)SEK-H1",
+                "PPMCode": "460899",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
+                "Current": 5.370569280343716,
+                "Yesterday": 4.189044038668086,
+                "LastWeek": 3.114930182599346,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-26 00:51:12 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
@@ -277,14 +305,14 @@
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 9.429156567276221,
+                "Current": 8.236898683963933,
                 "Yesterday": 7.389506385187411,
                 "LastWeek": 0.1775069695267129,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 22:09:49 (UTC)",
+                "LastUpdated": "2025-05-26 00:51:15 (UTC)",
                 "history": false
             },
             {
@@ -298,21 +326,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 22:09:58 (UTC)",
+                "LastUpdated": "2025-05-26 00:51:22 (UTC)",
                 "history": false
             },
             {
-                "Name": "SEB Asset Selection C H-SEK",
-                "PPMCode": "639633",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
-                "Current": -16.158791402303432,
-                "Yesterday": -15.997413752319472,
-                "LastWeek": -17.6542943801679,
-                "TrendDay": "\u25bc",
+                "Name": "Templeton Global Bond A(acc)SEK-H1",
+                "PPMCode": "460899",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
+                "Current": 5.370569280343716,
+                "Yesterday": 4.189044038668086,
+                "LastWeek": 3.114930182599346,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 22:10:01 (UTC)",
+                "LastUpdated": "2025-05-26 00:51:24 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 20:11:04 (UTC)",
+                "LastUpdated": "2025-05-23 22:09:49 (UTC)",
                 "history": true
             },
             {
@@ -340,7 +368,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 20:11:11 (UTC)",
+                "LastUpdated": "2025-05-23 22:09:58 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Asset Selection C H-SEK",
+                "PPMCode": "639633",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
+                "Current": -16.158791402303432,
+                "Yesterday": -15.997413752319472,
+                "LastWeek": -17.6542943801679,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-23 22:10:01 (UTC)",
                 "history": true
             },
             {
