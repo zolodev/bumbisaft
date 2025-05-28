@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
+                "PPMCode": "456475",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
+                "Current": -11.212955549133753,
+                "Yesterday": -14.106579431808358,
+                "LastWeek": -9.732100805909669,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-28 20:11:25 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Security R USD",
                 "PPMCode": "968891",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-28 18:12:30 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Clean Energy Transition R USD",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-28 18:12:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
@@ -42,48 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-28 18:12:33 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": -8.94024157672289,
-                "Yesterday": -11.950779803031809,
-                "LastWeek": -8.31671510529958,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-28 16:11:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": -8.138553215200076,
-                "Yesterday": -11.151931785510108,
-                "LastWeek": -5.201538067533956,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-28 16:11:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
-                "PPMCode": "456475",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
-                "Current": -11.212955549133753,
-                "Yesterday": -14.106579431808358,
-                "LastWeek": -9.732100805909669,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-28 16:11:06 (UTC)",
                 "history": true
             },
             {
@@ -351,34 +323,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-22 00:48:42 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB Nordenfond",
-                "PPMCode": "484923",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1651",
-                "Current": -4.616547581108267,
-                "Yesterday": -5.794624753476723,
-                "LastWeek": -8.893928407024736,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-21 20:11:11 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": -7.4841782257971765,
-                "Yesterday": -8.870127231113033,
-                "LastWeek": -7.032923904502737,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-21 18:14:00 (UTC)",
-                "history": true
             }
         ]
     },
@@ -396,8 +340,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-28 18:12:40 (UTC)",
+                "LastUpdated": "2025-05-28 20:11:36 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 1.9368944870372793,
+                "Yesterday": 0.24894068220677892,
+                "LastWeek": 0.8267951404891479,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-28 18:12:40 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
@@ -411,7 +369,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-28 18:12:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
