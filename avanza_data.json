@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-30 18:13:33 (UTC)",
+                "LastUpdated": "2025-05-30 20:10:48 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-30 18:13:36 (UTC)",
+                "LastUpdated": "2025-05-30 20:10:50 (UTC)",
                 "history": false
             },
             {
@@ -41,8 +41,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-30 18:13:38 (UTC)",
+                "LastUpdated": "2025-05-30 20:10:51 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -4.195235292426778,
+                "Yesterday": -5.831481810512468,
+                "LastWeek": -4.69963660187156,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-30 18:13:33 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": -2.6056252282966037,
+                "Yesterday": -4.1945695848045705,
+                "LastWeek": -4.428954097163021,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-30 18:13:36 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2 JPY",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 0.6168490044196567,
+                "Yesterday": -0.2159081964303194,
+                "LastWeek": -1.9675532874350008,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-30 18:13:38 (UTC)",
+                "history": true
             },
             {
                 "Name": "DNB Teknologi S",
@@ -255,20 +297,6 @@
                 "history": true
             },
             {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -5.656812206448282,
-                "Yesterday": -7.669806980790331,
-                "LastWeek": -5.65047085495639,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-27 00:47:50 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Nordea Indienfond",
                 "PPMCode": "469692",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
@@ -354,8 +382,22 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-30 18:13:53 (UTC)",
+                "LastUpdated": "2025-05-30 20:11:01 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Swedbank Robur Fastighet A",
+                "PPMCode": "968420",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
+                "Current": -9.318663838812304,
+                "Yesterday": -10.352598091198306,
+                "LastWeek": -8.974019088016961,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-05-30 18:13:53 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
