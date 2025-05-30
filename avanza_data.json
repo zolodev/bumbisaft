@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -4.195235292426778,
+                "Yesterday": -5.831481810512468,
+                "LastWeek": -4.69963660187156,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-30 18:13:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": -2.6056252282966037,
+                "Yesterday": -4.1945695848045705,
+                "LastWeek": -4.428954097163021,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-30 18:13:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2 JPY",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 0.6168490044196567,
+                "Yesterday": -0.2159081964303194,
+                "LastWeek": -1.9675532874350008,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-30 18:13:38 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "DNB Teknologi S",
                 "PPMCode": "183343",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
@@ -302,17 +344,17 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 16.65878985334351,
-                "Yesterday": 16.412348371061768,
-                "LastWeek": 8.371875619237143,
+                "Name": "Swedbank Robur Fastighet A",
+                "PPMCode": "968420",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
+                "Current": -9.318663838812304,
+                "Yesterday": -10.352598091198306,
+                "LastWeek": -8.974019088016961,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-30 16:12:24 (UTC)",
+                "LastUpdated": "2025-05-30 18:13:53 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-30 14:10:37 (UTC)",
+                "LastUpdated": "2025-05-30 16:12:24 (UTC)",
                 "history": true
             },
             {
@@ -439,20 +481,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-05-26 12:18:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -23.139605377260246,
-                "Yesterday": -22.592214153178563,
-                "LastWeek": -23.152434515994972,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-23 18:12:32 (UTC)",
                 "history": true
             }
         ]
