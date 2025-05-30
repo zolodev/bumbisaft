@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "DNB Teknologi S",
+                "PPMCode": "183343",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+                "Current": -4.166522084419874,
+                "Yesterday": -7.034875638535219,
+                "LastWeek": -3.752247571945755,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-30 08:13:46 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
                 "PPMCode": "456475",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
@@ -14,48 +28,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-05-30 06:14:29 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Lannebo Teknik",
-                "PPMCode": "771030",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
-                "Current": -5.821299638989165,
-                "Yesterday": -8.754512635379067,
-                "LastWeek": -5.550541516245489,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-30 06:14:33 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Index",
-                "PPMCode": "551507",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/181108",
-                "Current": -9.549441390282892,
-                "Yesterday": -12.324642117828954,
-                "LastWeek": -8.58334939932658,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-30 06:14:37 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Aktiv A",
-                "PPMCode": "456475",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1482",
-                "Current": -11.212955549133753,
-                "Yesterday": -14.106579431808358,
-                "LastWeek": -9.732100805909669,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-05-30 04:14:36 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +41,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-05-30 04:14:40 (UTC)",
+                "LastUpdated": "2025-05-30 06:14:33 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar USA Index",
+                "PPMCode": "551507",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/181108",
+                "Current": -9.549441390282892,
+                "Yesterday": -12.324642117828954,
+                "LastWeek": -8.58334939932658,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-05-30 06:14:37 (UTC)",
                 "history": true
             },
             {
@@ -298,7 +284,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-30 06:14:45 (UTC)",
+                "LastUpdated": "2025-05-30 08:13:55 (UTC)",
                 "history": false
             },
             {
@@ -312,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-05-30 04:14:47 (UTC)",
+                "LastUpdated": "2025-05-30 06:14:45 (UTC)",
                 "history": true
             },
             {
