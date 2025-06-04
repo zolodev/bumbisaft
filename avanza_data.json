@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": -7.128330890553855,
+                "Yesterday": -9.355394166640457,
+                "LastWeek": -6.462643152537048,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-04 20:09:05 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-04 18:13:51 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-04 18:13:53 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -42,34 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-04 16:12:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -15.277230577767165,
-                "Yesterday": -17.750757811333635,
-                "LastWeek": -18.259396032663307,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-04 16:12:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": -1.6670133874646382,
-                "Yesterday": -4.310840210588778,
-                "LastWeek": -3.7119000430577884,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-04 16:12:26 (UTC)",
                 "history": true
             },
             {
@@ -358,6 +344,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": -9.78522632620707,
+                "Yesterday": -11.310631255141157,
+                "LastWeek": -15.037510890959883,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-04 20:09:08 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
@@ -368,35 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-04 18:13:59 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -15.277230577767165,
-                "Yesterday": -17.750757811333635,
-                "LastWeek": -18.259396032663307,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-04 18:14:02 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF Japan Small & MidCap Opps A2 JPY",
-                "PPMCode": "159442",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
-                "Current": 2.176926159647016,
-                "Yesterday": 1.8002095934718028,
-                "LastWeek": -2.6889294366576637,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-04 18:14:03 (UTC)",
+                "LastUpdated": "2025-06-04 20:09:10 (UTC)",
                 "history": false
             },
             {
@@ -410,35 +382,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-04 18:14:05 (UTC)",
+                "LastUpdated": "2025-06-04 20:09:12 (UTC)",
                 "history": false
             },
             {
-                "Name": "DNB Teknologi S",
-                "PPMCode": "183343",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
-                "Current": -4.756278141977663,
-                "Yesterday": -4.158649927826866,
-                "LastWeek": -4.22569414128792,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 1.0194706030945684,
+                "Yesterday": 0.03378402462935432,
+                "LastWeek": -2.818100070708714,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-04 18:14:06 (UTC)",
+                "LastUpdated": "2025-06-04 20:09:14 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 21.45910474674374,
-                "Yesterday": 20.10955743956772,
-                "LastWeek": 12.085984103245545,
-                "TrendDay": "\u25b2",
+                "Current": 23.25640916834033,
+                "Yesterday": 23.297087851234167,
+                "LastWeek": 14.679963600999052,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-04 16:12:31 (UTC)",
+                "LastUpdated": "2025-06-04 18:13:59 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +424,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-04 16:12:34 (UTC)",
+                "LastUpdated": "2025-06-04 18:14:02 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2 JPY",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 2.176926159647016,
+                "Yesterday": 1.8002095934718028,
+                "LastWeek": -2.6889294366576637,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-04 18:14:03 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Mining A2 USD",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 2.725187224596755,
+                "Yesterday": 1.0059372305928767,
+                "LastWeek": -1.515633338516052,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-04 18:14:05 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-04 16:12:37 (UTC)",
+                "LastUpdated": "2025-06-04 18:14:06 (UTC)",
                 "history": true
             },
             {
