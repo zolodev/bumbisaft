@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF US Basic Value A2 USD",
+                "PPMCode": "768556",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1546",
+                "Current": -1.8101568380399922,
+                "Yesterday": -3.7979332454307464,
+                "LastWeek": -4.0277057225799595,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-06 18:14:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
+                "PPMCode": "694539",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
+                "Current": 5.346129869376752,
+                "Yesterday": 3.3099438943415977,
+                "LastWeek": 1.0477405511982318,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-06 18:14:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sweden Micro Cap A",
+                "PPMCode": "416867",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
+                "Current": 2.630173016068704,
+                "Yesterday": 0.657543254017176,
+                "LastWeek": -1.5796449266428307,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-06 18:14:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 25.417561380209964,
+                "Yesterday": 23.13946988898005,
+                "LastWeek": 16.353591657904794,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-06 18:14:08 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "\u00d6hman Sm\u00e5bolagsfond A",
                 "PPMCode": "694539",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 16:12:47 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Sweden Micro Cap A",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 16:12:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
@@ -42,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 16:12:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Gr\u00f6nt Skifte Norden S",
@@ -56,62 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 16:12:52 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
-                "PPMCode": "694539",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
-                "Current": 5.346129869376752,
-                "Yesterday": 3.3099438943415977,
-                "LastWeek": 1.0477405511982318,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 14:09:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Sweden Micro Cap A",
-                "PPMCode": "416867",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
-                "Current": 2.630173016068704,
-                "Yesterday": 0.657543254017176,
-                "LastWeek": -1.5796449266428307,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 14:09:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 25.417561380209964,
-                "Yesterday": 23.13946988898005,
-                "LastWeek": 16.353591657904794,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 14:09:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Gr\u00f6nt Skifte Norden S",
-                "PPMCode": "147512",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
-                "Current": -2.16588932661732,
-                "Yesterday": -3.779091115879264,
-                "LastWeek": -4.116001121108002,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 14:09:53 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 16:12:57 (UTC)",
+                "LastUpdated": "2025-06-06 18:14:13 (UTC)",
                 "history": false
             },
             {
@@ -536,21 +536,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 16:12:59 (UTC)",
+                "LastUpdated": "2025-06-06 18:14:16 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF World Mining A2 USD",
                 "PPMCode": "481911",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 3.0617928949709663,
-                "Yesterday": 1.671819223388416,
-                "LastWeek": -1.4320549547707673,
+                "Current": 0.44245407586143615,
+                "Yesterday": 1.6203010917178695,
+                "LastWeek": -2.1609842379393998,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-06 18:14:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2 USD",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 3.5397778290230155,
+                "Yesterday": 3.1344088245409583,
+                "LastWeek": 0.6519331594679721,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 16:13:00 (UTC)",
+                "LastUpdated": "2025-06-06 18:14:20 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 16:13:04 (UTC)",
+                "LastUpdated": "2025-06-06 18:14:21 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 14:09:58 (UTC)",
+                "LastUpdated": "2025-06-06 16:12:57 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 14:10:00 (UTC)",
+                "LastUpdated": "2025-06-06 16:12:59 (UTC)",
                 "history": true
             },
             {
@@ -606,21 +620,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 14:10:01 (UTC)",
+                "LastUpdated": "2025-06-06 16:13:00 (UTC)",
                 "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 2.1194188860769625,
-                "Yesterday": 1.666798318982525,
-                "LastWeek": -0.3031427774598786,
+                "Current": 0.7403014892222887,
+                "Yesterday": 0.43389307839883184,
+                "LastWeek": -1.7675084767215439,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 14:10:05 (UTC)",
+                "LastUpdated": "2025-06-06 16:13:04 (UTC)",
                 "history": true
             },
             {
