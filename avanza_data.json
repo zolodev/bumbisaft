@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
+                "PPMCode": "694539",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
+                "Current": 5.346129869376752,
+                "Yesterday": 3.3099438943415977,
+                "LastWeek": 1.0477405511982318,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-06 14:09:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sweden Micro Cap A",
+                "PPMCode": "416867",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
+                "Current": 2.630173016068704,
+                "Yesterday": 0.657543254017176,
+                "LastWeek": -1.5796449266428307,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-06 14:09:50 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 25.417561380209964,
+                "Yesterday": 23.13946988898005,
+                "LastWeek": 16.353591657904794,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-06 14:09:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Gr\u00f6nt Skifte Norden S",
+                "PPMCode": "147512",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
+                "Current": -2.16588932661732,
+                "Yesterday": -3.779091115879264,
+                "LastWeek": -4.116001121108002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-06 14:09:53 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
                 "PPMCode": "420463",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 12:18:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Sm\u00e5bolagsfond A",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 12:18:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Sweden Micro Cap A",
@@ -42,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 12:18:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
@@ -56,7 +112,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 12:18:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Gr\u00f6nt Skifte Norden S",
@@ -70,76 +126,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-06 12:18:48 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Evli Sverige Sm\u00e5bolag B",
-                "PPMCode": "420463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
-                "Current": 4.23380689911251,
-                "Yesterday": 1.9055434139790182,
-                "LastWeek": 0.9966357799977574,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 10:11:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Sm\u00e5bolagsfond A",
-                "PPMCode": "694539",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
-                "Current": 5.346129869376752,
-                "Yesterday": 3.3099438943415977,
-                "LastWeek": 1.0477405511982318,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 10:11:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Sweden Micro Cap A",
-                "PPMCode": "416867",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
-                "Current": 2.630173016068704,
-                "Yesterday": 0.657543254017176,
-                "LastWeek": -1.5796449266428307,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 10:11:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 25.417561380209964,
-                "Yesterday": 23.13946988898005,
-                "LastWeek": 16.353591657904794,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 10:11:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Gr\u00f6nt Skifte Norden S",
-                "PPMCode": "147512",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
-                "Current": -2.16588932661732,
-                "Yesterday": -3.779091115879264,
-                "LastWeek": -4.116001121108002,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 10:11:08 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 12:18:54 (UTC)",
+                "LastUpdated": "2025-06-06 14:09:58 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 12:18:57 (UTC)",
+                "LastUpdated": "2025-06-06 14:10:00 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 12:18:58 (UTC)",
+                "LastUpdated": "2025-06-06 14:10:01 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 12:19:05 (UTC)",
+                "LastUpdated": "2025-06-06 14:10:05 (UTC)",
                 "history": false
             },
             {
@@ -592,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 10:11:12 (UTC)",
+                "LastUpdated": "2025-06-06 12:18:54 (UTC)",
                 "history": true
             },
             {
@@ -606,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 10:11:14 (UTC)",
+                "LastUpdated": "2025-06-06 12:18:57 (UTC)",
                 "history": true
             },
             {
@@ -620,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 10:11:15 (UTC)",
+                "LastUpdated": "2025-06-06 12:18:58 (UTC)",
                 "history": true
             },
             {
@@ -634,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-06 10:11:20 (UTC)",
+                "LastUpdated": "2025-06-06 12:19:05 (UTC)",
                 "history": true
             },
             {
