@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-11 20:10:02 (UTC)",
+                "LastUpdated": "2025-06-11 22:09:36 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "DNB Gr\u00f6nt Skifte Norden S",
+                "PPMCode": "147512",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
+                "Current": -0.10685841046178052,
+                "Yesterday": -1.5822418587386942,
+                "LastWeek": -4.421349740424972,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-11 20:10:02 (UTC)",
+                "history": true
             },
             {
                 "Name": "Nordea Kinafond",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-11 20:10:03 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-China Equities R USD",
@@ -213,20 +227,6 @@
                 "history": true
             },
             {
-                "Name": "DNB Gr\u00f6nt Skifte Norden S",
-                "PPMCode": "147512",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
-                "Current": -2.16588932661732,
-                "Yesterday": -3.779091115879264,
-                "LastWeek": -4.116001121108002,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-06 16:12:52 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
                 "PPMCode": "420463",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
@@ -379,20 +379,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-05 14:10:28 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": -7.128330890553855,
-                "Yesterday": -9.355394166640457,
-                "LastWeek": -6.462643152537048,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-05 00:49:51 (UTC)",
-                "history": true
             }
         ]
     },
@@ -410,7 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-11 20:10:06 (UTC)",
+                "LastUpdated": "2025-06-11 22:09:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Asienfond ex Japan A",
+                "PPMCode": "914945",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
+                "Current": 7.145467001598531,
+                "Yesterday": 6.932328537717898,
+                "LastWeek": 3.091649539468678,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-11 22:09:52 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-11 18:14:31 (UTC)",
+                "LastUpdated": "2025-06-11 20:10:06 (UTC)",
                 "history": true
             },
             {
