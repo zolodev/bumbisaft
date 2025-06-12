@@ -3,17 +3,31 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "DNB Gr\u00f6nt Skifte Norden S",
-                "PPMCode": "147512",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506919",
-                "Current": -0.10685841046178052,
-                "Yesterday": -1.5822418587386942,
-                "LastWeek": -4.421349740424972,
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": -2.956216182542286,
+                "Yesterday": -4.0236836189205345,
+                "LastWeek": -7.532849825884967,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-12 14:10:43 (UTC)",
+                "LastUpdated": "2025-06-12 16:12:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Tundra Sustainable Frontier Fund A SEK",
+                "PPMCode": "861229",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
+                "Current": -0.03631921286360935,
+                "Yesterday": -1.0499554264205786,
+                "LastWeek": -2.0041602007461927,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-12 16:12:45 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-12 12:18:51 (UTC)",
+                "LastUpdated": "2025-06-12 14:10:43 (UTC)",
                 "history": true
             },
             {
@@ -281,62 +295,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-05 20:09:18 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
-                "PPMCode": "952010",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2006",
-                "Current": -1.7771010913566552,
-                "Yesterday": -3.9594147994517215,
-                "LastWeek": -4.987631823976277,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-05 16:12:22 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2 USD",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 16.41323429449364,
-                "Yesterday": 14.020797655285708,
-                "LastWeek": 10.886621129772582,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-05 16:12:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Sm\u00e5bolagsfond Sverige A",
-                "PPMCode": "856682",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2008",
-                "Current": -2.229886901419749,
-                "Yesterday": -4.223149113660063,
-                "LastWeek": -4.628218496831632,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-05 16:12:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": -0.2503014854180061,
-                "Yesterday": -2.276930201577438,
-                "LastWeek": -2.4466964286214714,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-05 16:12:27 (UTC)",
-                "history": true
             }
         ]
     },
@@ -354,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-12 14:10:49 (UTC)",
+                "LastUpdated": "2025-06-12 16:12:50 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-12 12:18:56 (UTC)",
+                "LastUpdated": "2025-06-12 14:10:49 (UTC)",
                 "history": true
             },
             {
