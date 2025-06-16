@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-16 20:11:10 (UTC)",
+                "LastUpdated": "2025-06-16 22:09:38 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-16 20:11:13 (UTC)",
+                "LastUpdated": "2025-06-16 22:09:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 6.167176350662596,
+                "Yesterday": 4.199011997177127,
+                "LastWeek": 2.313181212263772,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-16 22:09:44 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-16 20:11:15 (UTC)",
+                "LastUpdated": "2025-06-16 22:09:46 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-16 20:11:16 (UTC)",
+                "LastUpdated": "2025-06-16 22:09:47 (UTC)",
                 "history": false
             },
             {
@@ -69,8 +83,92 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-16 20:11:17 (UTC)",
+                "LastUpdated": "2025-06-16 22:09:49 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
+                "PPMCode": "679837",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
+                "Current": 10.704066014507205,
+                "Yesterday": 9.106940839821656,
+                "LastWeek": 10.574299594064009,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-16 22:09:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Financials A2 USD",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 6.945995494501925,
+                "Yesterday": 3.6347509139363092,
+                "LastWeek": 2.428800293616738,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-16 20:11:10 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF Latin American A2 USD",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": 10.272063496502806,
+                "Yesterday": 8.043266493321886,
+                "LastWeek": 10.69459179115711,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-16 20:11:13 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": -0.5235610275471041,
+                "Yesterday": -2.0873466565616656,
+                "LastWeek": -0.6106073374535557,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-16 20:11:15 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 3.631266249501699,
+                "Yesterday": 2.066655184546277,
+                "LastWeek": 3.6960903380065018,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-16 20:11:16 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": -3.2764542914670174,
+                "Yesterday": -5.149001467168215,
+                "LastWeek": -2.521944895347208,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-16 20:11:17 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
@@ -87,20 +185,6 @@
                 "history": true
             },
             {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": -3.2764542914670174,
-                "Yesterday": -5.149001467168215,
-                "LastWeek": -2.521944895347208,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-16 18:14:20 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "BGF World Energy A2 USD",
                 "PPMCode": "517748",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
@@ -112,20 +196,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-16 18:14:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 3.631266249501699,
-                "Yesterday": 2.066655184546277,
-                "LastWeek": 3.6960903380065018,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-16 18:14:24 (UTC)",
                 "history": true
             },
             {
@@ -353,20 +423,6 @@
                 "history": true
             },
             {
-                "Name": "BGF World Financials A2 USD",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 4.20823468069791,
-                "Yesterday": -1.5921978838377056,
-                "LastWeek": -1.0863132645246765,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-10 16:12:35 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "BGF India A2 USD",
                 "PPMCode": "768499",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
@@ -438,35 +494,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-16 20:11:22 (UTC)",
+                "LastUpdated": "2025-06-16 22:09:52 (UTC)",
                 "history": false
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 5.539671193709789,
-                "Yesterday": 5.210070685410216,
-                "LastWeek": 1.7909617981097574,
+                "Current": 6.167176350662596,
+                "Yesterday": 4.199011997177127,
+                "LastWeek": 2.313181212263772,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-16 20:11:23 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": -8.700293568187877,
-                "Yesterday": -9.634374165999466,
-                "LastWeek": -10.381638644248733,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-16 20:11:26 (UTC)",
+                "LastUpdated": "2025-06-16 22:09:54 (UTC)",
                 "history": false
             },
             {
@@ -480,21 +522,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-16 20:11:28 (UTC)",
+                "LastUpdated": "2025-06-16 22:09:59 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF World Energy A2 USD",
                 "PPMCode": "517748",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": -2.803745878807953,
-                "Yesterday": -4.3298919384541055,
-                "LastWeek": -5.992378617496144,
+                "Current": -3.1875856468507484,
+                "Yesterday": -3.4208422075253146,
+                "LastWeek": -5.7868227029854635,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-16 18:14:34 (UTC)",
+                "LastUpdated": "2025-06-16 20:11:22 (UTC)",
                 "history": true
             },
             {
@@ -508,7 +550,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-16 18:14:35 (UTC)",
+                "LastUpdated": "2025-06-16 20:11:23 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": -8.700293568187877,
+                "Yesterday": -9.634374165999466,
+                "LastWeek": -10.381638644248733,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-16 20:11:26 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 10.248178097597195,
+                "Yesterday": 10.083787479838634,
+                "LastWeek": 6.706482375667538,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-16 20:11:28 (UTC)",
                 "history": true
             },
             {
@@ -523,34 +593,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-16 18:14:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": -8.700293568187877,
-                "Yesterday": -9.634374165999466,
-                "LastWeek": -10.381638644248733,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-16 18:14:41 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 10.880957128797945,
-                "Yesterday": 9.917449258350654,
-                "LastWeek": 6.4315992898569,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-16 18:14:43 (UTC)",
                 "history": true
             },
             {
