@@ -13,8 +13,36 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-17 18:14:07 (UTC)",
+                "LastUpdated": "2025-06-17 20:11:25 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "PriorNilsson Realinvest A",
+                "PPMCode": "487108",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
+                "Current": -0.49071895424836554,
+                "Yesterday": -2.2316339869281077,
+                "LastWeek": -0.30614379084967414,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-17 20:11:31 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 3.954134980465852,
+                "Yesterday": 1.8629887069288815,
+                "LastWeek": 4.126941422259268,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-17 18:14:07 (UTC)",
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-17 18:14:10 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Financials A2 USD",
@@ -56,34 +84,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-17 16:12:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 3.954134980465852,
-                "Yesterday": 1.8629887069288815,
-                "LastWeek": 4.126941422259268,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-17 16:12:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 6.167176350662596,
-                "Yesterday": 4.199011997177127,
-                "LastWeek": 2.313181212263772,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-17 10:11:27 (UTC)",
                 "history": true
             },
             {
@@ -379,20 +379,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-11 18:14:25 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": 6.519383765761011,
-                "Yesterday": 4.075649593709864,
-                "LastWeek": 5.000144682089048,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-10 18:14:04 (UTC)",
-                "history": true
             }
         ]
     },
@@ -410,35 +396,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-17 18:14:12 (UTC)",
+                "LastUpdated": "2025-06-17 20:11:33 (UTC)",
                 "history": false
             },
             {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 6.167176350662596,
-                "Yesterday": 4.199011997177127,
-                "LastWeek": 2.313181212263772,
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 8.661893452374514,
+                "Yesterday": 7.97844169971498,
+                "LastWeek": 5.226377981056018,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-17 18:14:15 (UTC)",
+                "LastUpdated": "2025-06-17 20:11:40 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF World Energy A2 USD",
                 "PPMCode": "517748",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": -3.1875856468507484,
-                "Yesterday": -3.4208422075253146,
-                "LastWeek": -5.7868227029854635,
+                "Current": -2.9325402693927045,
+                "Yesterday": -4.23721022994262,
+                "LastWeek": -8.313290218717208,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-17 16:12:53 (UTC)",
+                "LastUpdated": "2025-06-17 18:14:12 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-17 16:12:55 (UTC)",
+                "LastUpdated": "2025-06-17 18:14:15 (UTC)",
                 "history": true
             },
             {
@@ -593,20 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-11 18:14:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 3.87679284608516,
-                "Yesterday": 2.0242368551785335,
-                "LastWeek": 0.19220665348065558,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-10 18:14:18 (UTC)",
                 "history": true
             }
         ]
