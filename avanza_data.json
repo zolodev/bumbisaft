@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-20 00:50:40 (UTC)",
+                "LastUpdated": "2025-06-20 03:10:45 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-20 00:50:42 (UTC)",
+                "LastUpdated": "2025-06-20 03:10:46 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-20 00:50:45 (UTC)",
+                "LastUpdated": "2025-06-20 03:10:48 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-19 22:09:25 (UTC)",
+                "LastUpdated": "2025-06-20 00:50:40 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-19 22:09:26 (UTC)",
+                "LastUpdated": "2025-06-20 00:50:42 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-19 22:09:28 (UTC)",
+                "LastUpdated": "2025-06-20 00:50:45 (UTC)",
                 "history": true
             },
             {
@@ -393,26 +393,68 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-13 12:19:15 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": -2.956216182542286,
-                "Yesterday": -4.0236836189205345,
-                "LastWeek": -7.532849825884967,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-13 00:50:52 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Financials A2 USD",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 7.055367917334035,
+                "Yesterday": 5.392823998274931,
+                "LastWeek": 4.7745918537361325,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-20 03:10:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2 USD",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": -4.522502048423669,
+                "Yesterday": -4.200136688488467,
+                "LastWeek": -8.528535894284078,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-20 03:10:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 7.400715700567124,
+                "Yesterday": 7.120161587623448,
+                "LastWeek": 6.196024531877465,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-20 03:10:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Natural Resources A2 USD",
+                "PPMCode": "536806",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
+                "Current": -3.250881179865757,
+                "Yesterday": -2.859272213552947,
+                "LastWeek": -4.977098048773273,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-20 03:10:58 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Energy A2 USD",
                 "PPMCode": "517748",
@@ -425,7 +467,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-20 00:50:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Financials A2 USD",
@@ -439,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-20 00:50:55 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -453,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-20 00:50:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Natural Resources A2 USD",
@@ -467,62 +509,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-20 00:50:59 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Energy A2 USD",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": -4.974500479690061,
-                "Yesterday": -4.200136688488467,
-                "LastWeek": -8.528535894284078,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-19 22:09:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Financials A2 USD",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 6.548558884887202,
-                "Yesterday": 5.392823998274931,
-                "LastWeek": 4.7745918537361325,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-19 22:09:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 7.400715700567124,
-                "Yesterday": 7.120161587623448,
-                "LastWeek": 6.196024531877465,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-19 22:09:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources A2 USD",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": -3.70889957028573,
-                "Yesterday": -2.859272213552947,
-                "LastWeek": -4.977098048773273,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-19 22:09:38 (UTC)",
                 "history": true
             },
             {
@@ -635,20 +621,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-13 06:15:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Asienfond ex Japan A",
-                "PPMCode": "914945",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
-                "Current": 8.59915984117545,
-                "Yesterday": 7.998388736500862,
-                "LastWeek": 3.8582088120767932,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-13 00:51:13 (UTC)",
                 "history": true
             }
         ]
