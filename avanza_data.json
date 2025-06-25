@@ -6,14 +6,28 @@
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 5.406434776301858,
+                "Current": 4.066258666561207,
                 "Yesterday": 0.890713782503137,
                 "LastWeek": -0.22487544083822897,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-25 00:51:39 (UTC)",
+                "LastUpdated": "2025-06-25 03:13:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": -5.273472453080011,
+                "Yesterday": -7.968098321095401,
+                "LastWeek": -4.357435479450597,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-25 03:13:35 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-06-24 22:09:27 (UTC)",
+                "LastUpdated": "2025-06-25 00:51:39 (UTC)",
                 "history": true
             },
             {
@@ -277,14 +291,14 @@
                 "Name": "BGF World Financials A2",
                 "PPMCode": "410258",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 9.637975495238084,
+                "Current": 8.243998023266089,
                 "Yesterday": 7.134781401390692,
                 "LastWeek": 1.023950518245637,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-25 00:51:49 (UTC)",
+                "LastUpdated": "2025-06-25 03:13:44 (UTC)",
                 "history": false
             },
             {
@@ -298,7 +312,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-25 00:51:52 (UTC)",
+                "LastUpdated": "2025-06-25 03:13:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Templeton Emerging Markets A(acc)USD",
+                "PPMCode": "425067",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
+                "Current": 3.675867705115595,
+                "Yesterday": 2.180021990181027,
+                "LastWeek": 0.7183517935467497,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-25 03:13:48 (UTC)",
                 "history": false
             },
             {
@@ -312,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-24 22:09:38 (UTC)",
+                "LastUpdated": "2025-06-25 00:51:49 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-24 22:09:41 (UTC)",
+                "LastUpdated": "2025-06-25 00:51:52 (UTC)",
                 "history": true
             },
             {
