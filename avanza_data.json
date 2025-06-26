@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": -0.7234221832185961,
+                "Yesterday": -2.907621181993448,
+                "LastWeek": -0.9364804074808095,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-26 18:14:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 4.029117571826268,
+                "Yesterday": 2.1855149731180736,
+                "LastWeek": -0.3284116138753761,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-26 18:14:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF India A2 USD",
+                "PPMCode": "768499",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
+                "Current": 1.814870247008139,
+                "Yesterday": 0.541274657785397,
+                "LastWeek": -1.321385233516083,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-06-26 18:14:10 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-26 16:12:27 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Asian Dragon A2",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-26 16:12:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -45,20 +87,6 @@
                 "history": true
             },
             {
-                "Name": "BGF Asian Dragon A2",
-                "PPMCode": "608463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58",
-                "Current": 2.8982210803672857,
-                "Yesterday": 1.4144426574462976,
-                "LastWeek": -1.7304596025879673,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-26 14:10:02 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Nordea Kinafond",
                 "PPMCode": "653097",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
@@ -70,20 +98,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-06-26 00:50:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 4.066258666561207,
-                "Yesterday": 0.890713782503137,
-                "LastWeek": -0.22487544083822897,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-06-25 14:10:37 (UTC)",
                 "history": true
             },
             {
@@ -246,6 +260,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "BGF Asian Dragon A2",
+                "PPMCode": "608463",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58",
+                "Current": 3.1507337280957697,
+                "Yesterday": 3.014342607248384,
+                "LastWeek": -1.0458401633197234,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-26 18:14:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 4.029117571826268,
+                "Yesterday": 2.1855149731180736,
+                "LastWeek": -0.3284116138753761,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-26 18:14:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": 8.645719036135183,
+                "Yesterday": 7.321578645688696,
+                "LastWeek": 2.952185129612206,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-06-26 18:14:20 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
@@ -257,7 +313,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-26 16:12:38 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Financials A2",
@@ -271,20 +327,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-26 16:12:39 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Financials A2",
-                "PPMCode": "410258",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
-                "Current": 7.314073961392512,
-                "Yesterday": 8.31142029669296,
-                "LastWeek": -0.24237998828929846,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-26 14:10:07 (UTC)",
                 "history": true
             },
             {
@@ -313,20 +355,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-25 06:16:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 5.406434776301858,
-                "Yesterday": 0.890713782503137,
-                "LastWeek": -0.22487544083822897,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-24 20:11:41 (UTC)",
                 "history": true
             },
             {
@@ -425,34 +453,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-06-20 18:13:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 15.722893775620307,
-                "Yesterday": 14.795818893406237,
-                "LastWeek": 14.50636825220287,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-19 16:12:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 9.882977524550565,
-                "Yesterday": 9.149832232716962,
-                "LastWeek": 6.55547180408294,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-06-19 16:12:41 (UTC)",
                 "history": true
             }
         ]
