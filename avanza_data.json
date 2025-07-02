@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 10.781840175768211,
+                "Yesterday": 8.376320838931983,
+                "LastWeek": 13.272257347533428,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-02 12:18:58 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Evli Aktieindex B",
                 "PPMCode": "610410",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/416835",
@@ -14,34 +28,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-02 10:11:08 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 10.781840175768211,
-                "Yesterday": 8.376320838931983,
-                "LastWeek": 13.272257347533428,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-02 10:11:09 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Evli Aktieindex B",
-                "PPMCode": "610410",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/416835",
-                "Current": -0.9222586692314875,
-                "Yesterday": -3.104144178955277,
-                "LastWeek": -2.670000098000916,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-02 08:14:29 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-02 08:14:30 (UTC)",
+                "LastUpdated": "2025-07-02 10:11:09 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-02 10:11:19 (UTC)",
+                "LastUpdated": "2025-07-02 12:19:09 (UTC)",
                 "history": false
             },
             {
@@ -424,8 +410,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-02 10:11:25 (UTC)",
+                "LastUpdated": "2025-07-02 12:19:14 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 10.182409842499691,
+                "Yesterday": 9.31761380348955,
+                "LastWeek": 4.392329913715221,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-02 10:11:19 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 15.941056095314504,
+                "Yesterday": 15.139124104941024,
+                "LastWeek": 10.838105743233205,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-02 10:11:25 (UTC)",
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
@@ -453,20 +467,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-02 08:14:41 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 10.182409842499691,
-                "Yesterday": 9.31761380348955,
-                "LastWeek": 4.392329913715221,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-02 08:14:43 (UTC)",
                 "history": true
             },
             {
