@@ -14,7 +14,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-08 12:20:17 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00c5landsbanken Global Aktie B",
@@ -28,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-08 12:20:22 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Dynamisk Aktiefond",
@@ -42,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-08 12:20:25 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Teknologi S",
@@ -56,20 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-08 10:11:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 23.772826582464184,
-                "Yesterday": 22.02300602473103,
-                "LastWeek": 19.805109452398316,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-08 10:11:07 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-08 12:20:31 (UTC)",
+                "LastUpdated": "2025-07-08 14:10:19 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +354,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-08 12:20:33 (UTC)",
+                "LastUpdated": "2025-07-08 14:10:22 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Natural Resources A2 USD",
+                "PPMCode": "536806",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
+                "Current": 13.90935848203451,
+                "Yesterday": 15.229192888292605,
+                "LastWeek": 10.665039635404632,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-08 14:10:30 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-08 10:11:10 (UTC)",
+                "LastUpdated": "2025-07-08 12:20:31 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-08 10:11:13 (UTC)",
+                "LastUpdated": "2025-07-08 12:20:33 (UTC)",
                 "history": true
             },
             {
