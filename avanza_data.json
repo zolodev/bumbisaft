@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 23.772826582464184,
+                "Yesterday": 22.02300602473103,
+                "LastWeek": 19.805109452398316,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-08 12:20:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00c5landsbanken Global Aktie B",
+                "PPMCode": "989491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118857",
+                "Current": 10.848954248670324,
+                "Yesterday": 9.594529048155088,
+                "LastWeek": 7.822892797787204,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-08 12:20:22 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Dynamisk Aktiefond",
+                "PPMCode": "520759",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2384",
+                "Current": 13.677488685445027,
+                "Yesterday": 12.508627993965565,
+                "LastWeek": 9.965074707061513,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-08 12:20:25 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "DNB Teknologi S",
                 "PPMCode": "183343",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-08 10:11:03 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -28,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-08 10:11:07 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "DNB Teknologi S",
-                "PPMCode": "183343",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
-                "Current": 25.3442387807215,
-                "Yesterday": 23.369434959952372,
-                "LastWeek": 20.579177587335074,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-08 08:15:00 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-08 10:11:10 (UTC)",
+                "LastUpdated": "2025-07-08 12:20:31 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-08 10:11:13 (UTC)",
+                "LastUpdated": "2025-07-08 12:20:33 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-08 08:15:04 (UTC)",
+                "LastUpdated": "2025-07-08 10:11:10 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-08 08:15:06 (UTC)",
+                "LastUpdated": "2025-07-08 10:11:13 (UTC)",
                 "history": true
             },
             {
