@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 22.174519179373764,
+                "Yesterday": 19.392808045184914,
+                "LastWeek": 18.382381508788725,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-09 18:14:13 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "JPM China A (dist) USD",
                 "PPMCode": "233585",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
@@ -13,35 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-09 16:10:29 (UTC)",
+                "LastUpdated": "2025-07-09 18:14:15 (UTC)",
                 "history": false
             },
             {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 10.163450936182482,
-                "Yesterday": 8.286803593955682,
-                "LastWeek": 7.758856328467542,
+                "Name": "SEB Sverige Expanderad",
+                "PPMCode": "158261",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1984",
+                "Current": 19.604370700121407,
+                "Yesterday": 17.548522865236748,
+                "LastWeek": 16.53808174828005,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-09 16:10:32 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 14.635660676285175,
-                "Yesterday": 12.748509004747827,
-                "LastWeek": 13.389734040336517,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-09 16:10:35 (UTC)",
+                "LastUpdated": "2025-07-09 18:14:18 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-09 16:10:37 (UTC)",
+                "LastUpdated": "2025-07-09 18:14:21 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-09 14:10:41 (UTC)",
+                "LastUpdated": "2025-07-09 16:10:29 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-09 14:10:43 (UTC)",
+                "LastUpdated": "2025-07-09 16:10:32 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": 14.635660676285175,
+                "Yesterday": 12.748509004747827,
+                "LastWeek": 13.389734040336517,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-09 16:10:35 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "D&G Aktiefond",
+                "PPMCode": "291906",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1919",
+                "Current": 18.138181725432336,
+                "Yesterday": 16.238941209619156,
+                "LastWeek": 14.521338714590511,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-09 16:10:37 (UTC)",
                 "history": true
             },
             {
@@ -98,20 +126,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-09 14:10:45 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 14.635660676285175,
-                "Yesterday": 12.748509004747827,
-                "LastWeek": 13.389734040336517,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-09 14:10:48 (UTC)",
                 "history": true
             },
             {
@@ -379,26 +393,54 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-02 18:14:32 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 10.781840175768211,
-                "Yesterday": 8.376320838931983,
-                "LastWeek": 13.272257347533428,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-02 16:12:16 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Carnegie Sm\u00e5bolagsfond A",
+                "PPMCode": "584912",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
+                "Current": 26.020391928527513,
+                "Yesterday": 24.6441116754928,
+                "LastWeek": 21.033358174096662,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-09 18:14:26 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Fondita Nordic Micro Cap B",
+                "PPMCode": "785493",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
+                "Current": 21.723808212295207,
+                "Yesterday": 21.29241081028538,
+                "LastWeek": 17.257655980564486,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-09 18:14:31 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Fondita Nordic Small Cap B",
+                "PPMCode": "237834",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
+                "Current": 17.84295728419059,
+                "Yesterday": 17.221792868271578,
+                "LastWeek": 14.090432714863146,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-09 18:14:34 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
                 "PPMCode": "687509",
@@ -411,7 +453,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-09 16:10:40 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Sustainable Energy A2",
@@ -425,7 +467,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-09 16:10:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Sm\u00e5bolagsfond A",
@@ -439,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-09 16:10:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Fondita Nordic Micro Cap B",
@@ -453,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-09 16:10:47 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Natural Resources A2 USD",
@@ -467,7 +509,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-09 16:10:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Fondita Nordic Small Cap B",
@@ -481,76 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-09 16:10:51 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 20.875830042098865,
-                "Yesterday": 22.130115880387127,
-                "LastWeek": 15.52883989410182,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-09 14:10:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Sustainable Energy A2",
-                "PPMCode": "553578",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
-                "Current": 25.21418064997423,
-                "Yesterday": 26.176376177118478,
-                "LastWeek": 21.659548239864538,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-09 14:10:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Nordic Micro Cap B",
-                "PPMCode": "785493",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
-                "Current": 21.723808212295207,
-                "Yesterday": 21.29241081028538,
-                "LastWeek": 17.257655980564486,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-09 14:10:58 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources A2 USD",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": 12.591717691051285,
-                "Yesterday": 11.678527473117024,
-                "LastWeek": 8.206989501111098,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-09 14:11:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Nordic Small Cap B",
-                "PPMCode": "237834",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
-                "Current": 17.84295728419059,
-                "Yesterday": 17.221792868271578,
-                "LastWeek": 14.090432714863146,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-09 14:11:03 (UTC)",
                 "history": true
             },
             {
