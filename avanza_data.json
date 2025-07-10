@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Sverige Expanderad",
+                "PPMCode": "158261",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1984",
+                "Current": 19.604370700121407,
+                "Yesterday": 17.548522865236748,
+                "LastWeek": 16.53808174828005,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-10 18:14:39 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Sweden Equity C (SEK)",
+                "PPMCode": "846527",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1907",
+                "Current": 19.76774387576552,
+                "Yesterday": 17.73704068241469,
+                "LastWeek": 16.579861111111114,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-10 18:14:40 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pareto Sverige A",
+                "PPMCode": "643700",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/91107",
+                "Current": 14.755556124211514,
+                "Yesterday": 12.91630947963713,
+                "LastWeek": 9.954642578399874,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-10 18:14:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Nordenfond",
+                "PPMCode": "484923",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1651",
+                "Current": 20.979887541152365,
+                "Yesterday": 19.13567897757621,
+                "LastWeek": 17.805595750259776,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-10 18:14:44 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
@@ -14,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-10 16:12:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Sverige Expanderad",
@@ -28,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-10 16:12:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Sweden Equity C (SEK)",
@@ -42,48 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-10 16:12:34 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 21.724671577374398,
-                "Yesterday": 19.392808045184914,
-                "LastWeek": 18.382381508788725,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-10 14:11:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Sverige Expanderad",
-                "PPMCode": "158261",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1984",
-                "Current": 19.604370700121407,
-                "Yesterday": 17.548522865236748,
-                "LastWeek": 16.53808174828005,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-10 14:11:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Sweden Equity C (SEK)",
-                "PPMCode": "846527",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1907",
-                "Current": 19.76774387576552,
-                "Yesterday": 17.73704068241469,
-                "LastWeek": 16.579861111111114,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-10 14:11:50 (UTC)",
                 "history": true
             },
             {
@@ -351,40 +365,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-04 14:10:17 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Lannebo Sverige Plus",
-                "PPMCode": "490292",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
-                "Current": 6.029036905685468,
-                "Yesterday": 3.269422586722823,
-                "LastWeek": 1.5405075917100748,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-03 16:12:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources A2 USD",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": 1.5718250297099896,
-                "Yesterday": -0.7328285708235005,
-                "LastWeek": 1.3318113036984056,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-03 16:12:37 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Fondita Nordic Micro Cap B",
+                "PPMCode": "785493",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
+                "Current": 24.91515079349484,
+                "Yesterday": 24.879236234641535,
+                "LastWeek": 21.646365335433913,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-10 18:14:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Evli Sverige Sm\u00e5bolag B",
+                "PPMCode": "420463",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
+                "Current": 23.56840520949412,
+                "Yesterday": 23.206434504976244,
+                "LastWeek": 19.86533195450808,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-10 18:14:53 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Carnegie Sm\u00e5bolagsfond A",
                 "PPMCode": "584912",
@@ -397,7 +411,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-10 16:12:38 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Fondita Nordic Micro Cap B",
@@ -411,7 +425,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-10 16:12:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
@@ -425,48 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-10 16:12:46 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Sm\u00e5bolagsfond A",
-                "PPMCode": "584912",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
-                "Current": 26.020391928527513,
-                "Yesterday": 24.6441116754928,
-                "LastWeek": 21.033358174096662,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-10 14:11:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Nordic Micro Cap B",
-                "PPMCode": "785493",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
-                "Current": 24.91515079349484,
-                "Yesterday": 24.879236234641535,
-                "LastWeek": 21.646365335433913,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-10 14:11:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Sverige Sm\u00e5bolag B",
-                "PPMCode": "420463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
-                "Current": 23.56840520949412,
-                "Yesterday": 23.206434504976244,
-                "LastWeek": 19.86533195450808,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-10 14:12:02 (UTC)",
                 "history": true
             },
             {
