@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Indecap Guide Sverige C",
+                "PPMCode": "106849",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
+                "Current": 15.102057681183364,
+                "Yesterday": 13.118750516486227,
+                "LastWeek": 11.370961077596897,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-14 08:16:09 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "\u00d6hman Sverige A",
                 "PPMCode": "904904",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/430255",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-14 06:17:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Indecap Guide Sverige C",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-14 06:17:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Marknad Sverige Bred A",
@@ -42,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-14 06:17:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Storebrand Sverige A SEK",
@@ -56,62 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-14 06:17:21 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "\u00d6hman Sverige A",
-                "PPMCode": "904904",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/430255",
-                "Current": 17.56430297001562,
-                "Yesterday": 15.536923878546721,
-                "LastWeek": 13.258490834162275,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-14 04:32:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Indecap Guide Sverige C",
-                "PPMCode": "106849",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
-                "Current": 15.102057681183364,
-                "Yesterday": 13.118750516486227,
-                "LastWeek": 11.370961077596897,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-14 04:32:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Marknad Sverige Bred A",
-                "PPMCode": "577833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/24328",
-                "Current": 14.87611521161063,
-                "Yesterday": 12.920301200328044,
-                "LastWeek": 10.89738810606626,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-14 04:32:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Sverige A SEK",
-                "PPMCode": "212332",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1950",
-                "Current": 14.78778299866451,
-                "Yesterday": 12.866296305113655,
-                "LastWeek": 10.983385136056146,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-14 04:32:37 (UTC)",
                 "history": true
             },
             {
@@ -452,21 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 06:17:26 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Fondita Nordic Micro Cap B",
-                "PPMCode": "785493",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
-                "Current": 22.059327835774788,
-                "Yesterday": 21.23816934556228,
-                "LastWeek": 17.350804910039678,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 06:17:29 (UTC)",
+                "LastUpdated": "2025-07-14 08:16:16 (UTC)",
                 "history": false
             },
             {
@@ -480,21 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 06:17:30 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Fondita Nordic Small Cap B",
-                "PPMCode": "237834",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
-                "Current": 18.612091993267562,
-                "Yesterday": 17.450992708013306,
-                "LastWeek": 13.831181510046411,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 06:17:31 (UTC)",
+                "LastUpdated": "2025-07-14 08:16:18 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 04:32:44 (UTC)",
+                "LastUpdated": "2025-07-14 06:17:26 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 04:32:48 (UTC)",
+                "LastUpdated": "2025-07-14 06:17:29 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 04:32:49 (UTC)",
+                "LastUpdated": "2025-07-14 06:17:30 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 04:32:51 (UTC)",
+                "LastUpdated": "2025-07-14 06:17:31 (UTC)",
                 "history": true
             },
             {
