@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Evli Aktieindex B",
+                "PPMCode": "610410",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/416835",
+                "Current": 8.31588590357897,
+                "Yesterday": 6.218361660043406,
+                "LastWeek": 6.896369030799655,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-18 14:11:52 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Spiltan Aktiefond Stabil",
                 "PPMCode": "339184",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
@@ -340,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-18 12:20:40 (UTC)",
+                "LastUpdated": "2025-07-18 14:11:57 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-18 12:20:42 (UTC)",
+                "LastUpdated": "2025-07-18 14:11:59 (UTC)",
                 "history": false
             },
             {
@@ -368,21 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-18 12:20:45 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 14.701255106501474,
-                "Yesterday": 13.269059378536575,
-                "LastWeek": 9.436279813867849,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-18 12:20:47 (UTC)",
+                "LastUpdated": "2025-07-18 14:12:01 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-18 10:11:52 (UTC)",
+                "LastUpdated": "2025-07-18 12:20:40 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-18 10:11:56 (UTC)",
+                "LastUpdated": "2025-07-18 12:20:42 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-18 10:11:59 (UTC)",
+                "LastUpdated": "2025-07-18 12:20:45 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-18 10:12:01 (UTC)",
+                "LastUpdated": "2025-07-18 12:20:47 (UTC)",
                 "history": true
             },
             {
