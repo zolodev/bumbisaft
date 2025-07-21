@@ -3,17 +3,59 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Evli Aktieindex B",
-                "PPMCode": "610410",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/416835",
-                "Current": 8.31588590357897,
-                "Yesterday": 6.218361660043406,
-                "LastWeek": 6.896369030799655,
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": 15.790550275518989,
+                "Yesterday": 14.626427430739314,
+                "LastWeek": 9.220202179347286,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-21 12:21:16 (UTC)",
+                "LastUpdated": "2025-07-21 14:13:11 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF China A2 USD",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": 15.193871614704415,
+                "Yesterday": 14.171240289304613,
+                "LastWeek": 9.34677580446265,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-21 14:13:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Fondita Nordic Micro Cap B",
+                "PPMCode": "785493",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70685",
+                "Current": 19.680640945169696,
+                "Yesterday": 18.650304945782523,
+                "LastWeek": 18.148103197753727,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-21 14:13:15 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Sustainable Energy A2",
+                "PPMCode": "553578",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
+                "Current": 28.30559498930576,
+                "Yesterday": 27.217495229066106,
+                "LastWeek": 25.2774659212274,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-07-21 14:13:17 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-21 10:12:32 (UTC)",
+                "LastUpdated": "2025-07-21 12:21:16 (UTC)",
                 "history": true
             },
             {
@@ -281,34 +323,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-14 16:13:12 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Indecap Guide Sverige C",
-                "PPMCode": "106849",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
-                "Current": 15.102057681183364,
-                "Yesterday": 13.118750516486227,
-                "LastWeek": 11.370961077596897,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-14 14:11:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Delphi Nordic A",
-                "PPMCode": "388298",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/79692",
-                "Current": 16.715337014548258,
-                "Yesterday": 15.498293005649396,
-                "LastWeek": 13.869649702952378,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-14 14:11:54 (UTC)",
-                "history": true
             }
         ]
     },
@@ -326,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-21 12:21:27 (UTC)",
+                "LastUpdated": "2025-07-21 14:13:23 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-21 12:21:29 (UTC)",
+                "LastUpdated": "2025-07-21 14:13:26 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-21 10:12:49 (UTC)",
+                "LastUpdated": "2025-07-21 12:21:27 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-21 10:12:51 (UTC)",
+                "LastUpdated": "2025-07-21 12:21:29 (UTC)",
                 "history": true
             },
             {
@@ -509,48 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-14 18:15:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Sm\u00e5bolagsfond A",
-                "PPMCode": "584912",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
-                "Current": 20.3470520920637,
-                "Yesterday": 20.677395611716427,
-                "LastWeek": 15.919062144069802,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 14:12:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Sweden Equity C (SEK)",
-                "PPMCode": "846527",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1907",
-                "Current": 15.671891945183866,
-                "Yesterday": 16.509908311150546,
-                "LastWeek": 13.020473890039108,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 14:12:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Sverige Expanderad",
-                "PPMCode": "158261",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1984",
-                "Current": 15.441682148180636,
-                "Yesterday": 16.259790696154663,
-                "LastWeek": 12.953126021079758,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-14 14:12:05 (UTC)",
                 "history": true
             }
         ]
