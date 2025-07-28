@@ -13,35 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 06:18:38 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 10.52188485648562,
-                "Yesterday": 8.84050180628127,
-                "LastWeek": 4.916326095033311,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 06:18:39 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 11.41440128799518,
-                "Yesterday": 9.761698099739256,
-                "LastWeek": 5.237159188452682,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 06:18:40 (UTC)",
+                "LastUpdated": "2025-07-28 08:16:48 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 06:18:44 (UTC)",
+                "LastUpdated": "2025-07-28 08:16:53 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 06:18:45 (UTC)",
+                "LastUpdated": "2025-07-28 08:16:54 (UTC)",
                 "history": false
             },
             {
@@ -83,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 04:37:00 (UTC)",
+                "LastUpdated": "2025-07-28 06:18:38 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 04:37:01 (UTC)",
+                "LastUpdated": "2025-07-28 06:18:39 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 04:37:02 (UTC)",
+                "LastUpdated": "2025-07-28 06:18:40 (UTC)",
                 "history": true
             },
             {
@@ -125,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 04:37:10 (UTC)",
+                "LastUpdated": "2025-07-28 06:18:44 (UTC)",
                 "history": true
             },
             {
@@ -139,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 04:37:11 (UTC)",
+                "LastUpdated": "2025-07-28 06:18:45 (UTC)",
                 "history": true
             },
             {
@@ -400,6 +372,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 7.180789655968592,
+                "Yesterday": 8.87290958867961,
+                "LastWeek": 3.0906751987333854,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-28 08:16:59 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 8.032643788750304,
+                "Yesterday": 9.768551542684373,
+                "LastWeek": 4.025807244680068,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-07-28 08:17:02 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
                 "PPMCode": "470104",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
@@ -411,7 +411,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-28 06:18:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Skandia Japan Exponering",
@@ -425,7 +425,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-28 06:18:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -439,48 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-28 06:18:52 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 11.41440128799518,
-                "Yesterday": 9.761698099739256,
-                "LastWeek": 5.237159188452682,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-28 04:37:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 7.180789655968592,
-                "Yesterday": 8.87290958867961,
-                "LastWeek": 3.0906751987333854,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-28 04:37:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 10.52188485648562,
-                "Yesterday": 8.84050180628127,
-                "LastWeek": 4.916326095033311,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-28 04:37:22 (UTC)",
                 "history": true
             },
             {
