@@ -302,6 +302,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Franklin US Opportunities A(acc)USD",
+                "PPMCode": "384107",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
+                "Current": 16.9155001165851,
+                "Yesterday": 16.11646976793448,
+                "LastWeek": 12.393740271248907,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-01 20:11:49 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
                 "PPMCode": "916354",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
@@ -313,7 +327,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 18:15:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Security R USD",
@@ -327,7 +341,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 18:15:24 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -397,34 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 16:13:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
-                "PPMCode": "916354",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": 16.068252467123703,
-                "Yesterday": 15.106449033828406,
-                "LastWeek": 9.491156973938788,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-01 16:13:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 16.373421574619268,
-                "Yesterday": 16.56475809664397,
-                "LastWeek": 13.844159087536212,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-31 16:13:52 (UTC)",
                 "history": true
             },
             {
