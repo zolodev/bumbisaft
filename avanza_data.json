@@ -14,7 +14,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-01 16:13:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -28,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-01 16:13:35 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Amerika Tema (A1 SEK)",
@@ -42,48 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-01 16:13:41 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF US Flexible Equity A2",
-                "PPMCode": "804385",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
-                "Current": 28.555253648705392,
-                "Yesterday": 26.045250777954752,
-                "LastWeek": 21.355625562769312,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-01 14:13:11 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 30.499012166330804,
-                "Yesterday": 28.093889337570545,
-                "LastWeek": 22.798355975513555,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-01 14:13:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Amerika Tema (A1 SEK)",
-                "PPMCode": "840033",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1464",
-                "Current": 20.400813244263702,
-                "Yesterday": 18.434020718365762,
-                "LastWeek": 13.731242133798036,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-01 14:13:16 (UTC)",
                 "history": true
             },
             {
@@ -344,6 +302,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
+                "PPMCode": "916354",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
+                "Current": 16.068252467123703,
+                "Yesterday": 15.106449033828406,
+                "LastWeek": 9.491156973938788,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-01 18:15:18 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 16.393934710298147,
+                "Yesterday": 16.373421574619268,
+                "LastWeek": 12.242923426048872,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-01 18:15:24 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -355,7 +341,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 16:13:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -369,7 +355,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 16:13:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Tundra Sustainable Frontier Fund A SEK",
@@ -383,7 +369,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 16:13:53 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Amerika Tema (A1 SEK)",
@@ -397,7 +383,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 16:13:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF US Flexible Equity A2",
@@ -411,7 +397,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 16:13:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
@@ -425,90 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 16:13:59 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 32.671587904746566,
-                "Yesterday": 30.710041789460714,
-                "LastWeek": 24.183873627154625,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-01 14:13:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 30.499012166330804,
-                "Yesterday": 28.093889337570545,
-                "LastWeek": 22.798355975513555,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-01 14:13:22 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Tundra Sustainable Frontier Fund A SEK",
-                "PPMCode": "861229",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
-                "Current": 19.34600119419762,
-                "Yesterday": 17.621439359348116,
-                "LastWeek": 13.596290962734022,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-01 14:13:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Amerika Tema (A1 SEK)",
-                "PPMCode": "840033",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1464",
-                "Current": 20.400813244263702,
-                "Yesterday": 18.434020718365762,
-                "LastWeek": 13.731242133798036,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-01 14:13:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF US Flexible Equity A2",
-                "PPMCode": "804385",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1573",
-                "Current": 28.555253648705392,
-                "Yesterday": 26.045250777954752,
-                "LastWeek": 21.355625562769312,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-01 14:13:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
-                "PPMCode": "916354",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": 15.106449033828406,
-                "Yesterday": 14.227179133889889,
-                "LastWeek": 11.020053002311244,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-31 18:16:13 (UTC)",
                 "history": true
             },
             {
@@ -635,20 +537,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-07-28 06:18:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Nordenfond",
-                "PPMCode": "484923",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1651",
-                "Current": 13.648550322051085,
-                "Yesterday": 12.388662081127485,
-                "LastWeek": 11.252791288670325,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-07-25 18:15:01 (UTC)",
                 "history": true
             }
         ]
