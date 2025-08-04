@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 20.682321121752032,
+                "Yesterday": 18.30945120182448,
+                "LastWeek": 17.687693877334816,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-04 18:15:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 21.885149298714385,
+                "Yesterday": 19.66388671470855,
+                "LastWeek": 19.11329428805341,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-04 18:15:51 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Templeton Global Bond A(acc)SEK-H1",
                 "PPMCode": "460899",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-04 16:14:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -28,20 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-04 16:14:49 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Templeton Global Bond A(acc)SEK-H1",
-                "PPMCode": "460899",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
-                "Current": 2.913631633714892,
-                "Yesterday": 1.8730489073881345,
-                "LastWeek": 3.8501560874089598,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-04 14:15:41 (UTC)",
                 "history": true
             },
             {
@@ -56,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-04 14:15:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 6.152515379952381,
-                "Yesterday": 5.3287393248853725,
-                "LastWeek": 5.1184817479016145,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-04 14:15:45 (UTC)",
                 "history": true
             },
             {
@@ -295,26 +295,26 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-07-29 16:13:06 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Allianz Global Equity Growth AT USD",
-                "PPMCode": "273839",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1173921",
-                "Current": 12.332160070171437,
-                "Yesterday": 11.43937001293128,
-                "LastWeek": 12.513442518153523,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-07-28 18:15:37 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Tundra Sustainable Frontier Fund A SEK",
+                "PPMCode": "861229",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
+                "Current": 17.71386636846519,
+                "Yesterday": 16.80877830584287,
+                "LastWeek": 13.726586525020956,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-04 18:16:02 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Tundra Sustainable Frontier Fund A SEK",
                 "PPMCode": "861229",
@@ -327,7 +327,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-04 16:14:58 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Teknologi S",
@@ -341,20 +341,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-04 14:15:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Tundra Sustainable Frontier Fund A SEK",
-                "PPMCode": "861229",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
-                "Current": 17.403673913807037,
-                "Yesterday": 19.34600119419762,
-                "LastWeek": 13.940500860524747,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-04 14:15:56 (UTC)",
                 "history": true
             },
             {
