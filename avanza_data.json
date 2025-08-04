@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Templeton Global Bond A(acc)SEK-H1",
+                "PPMCode": "460899",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/212549",
+                "Current": 2.913631633714892,
+                "Yesterday": 1.8730489073881345,
+                "LastWeek": 3.8501560874089598,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-04 00:59:23 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 24.461028794560303,
+                "Yesterday": 23.46537103249331,
+                "LastWeek": 23.546177867929092,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-04 00:59:25 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "DNB SMB S",
                 "PPMCode": "290833",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-01 22:10:17 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin US Opportunities A(acc)USD",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-01 22:10:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF US Flexible Equity A2",
@@ -341,20 +369,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-01 22:10:28 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": 16.9155001165851,
-                "Yesterday": 16.11646976793448,
-                "LastWeek": 12.393740271248907,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-01 20:11:49 (UTC)",
                 "history": true
             },
             {
