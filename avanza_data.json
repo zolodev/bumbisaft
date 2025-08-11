@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": 10.43176689368494,
+                "Yesterday": 9.202603832358742,
+                "LastWeek": 10.859647254452426,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-11 16:13:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Indienfond A",
+                "PPMCode": "505586",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
+                "Current": 0.6668304343207914,
+                "Yesterday": -0.4525179672181697,
+                "LastWeek": 2.7116286192410044,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-11 16:13:21 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Europe Small Cap Equity AT EUR",
+                "PPMCode": "538751",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
+                "Current": 7.068496664238147,
+                "Yesterday": 5.903960110073684,
+                "LastWeek": 6.927829925128824,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-11 16:13:24 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Indecap Guide Sverige C",
                 "PPMCode": "106849",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
@@ -14,34 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-11 14:12:55 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 11.494817540922067,
-                "Yesterday": 9.849231197413012,
-                "LastWeek": 9.239585786250375,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-11 14:12:56 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Indecap Guide Sverige C",
-                "PPMCode": "106849",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
-                "Current": 4.367859862909356,
-                "Yesterday": 2.7875095201827844,
-                "LastWeek": 4.805788271134808,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-11 12:20:48 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-11 12:20:49 (UTC)",
+                "LastUpdated": "2025-08-11 14:12:56 (UTC)",
                 "history": true
             },
             {
@@ -351,20 +365,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-04 16:14:49 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 24.461028794560303,
-                "Yesterday": 23.46537103249331,
-                "LastWeek": 23.546177867929092,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-04 14:15:44 (UTC)",
-                "history": true
             }
         ]
     },
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-11 14:13:09 (UTC)",
+                "LastUpdated": "2025-08-11 16:13:27 (UTC)",
                 "history": false
             },
             {
@@ -396,21 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-11 14:13:12 (UTC)",
+                "LastUpdated": "2025-08-11 16:13:31 (UTC)",
                 "history": false
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 11.494817540922067,
-                "Yesterday": 9.849231197413012,
-                "LastWeek": 9.239585786250375,
+                "Current": 12.303923599697535,
+                "Yesterday": 11.494817540922067,
+                "LastWeek": 6.933257838919155,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-11 14:13:18 (UTC)",
+                "LastUpdated": "2025-08-11 16:13:33 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-11 14:13:19 (UTC)",
+                "LastUpdated": "2025-08-11 16:13:38 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-11 12:21:00 (UTC)",
+                "LastUpdated": "2025-08-11 14:13:09 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-11 12:21:03 (UTC)",
+                "LastUpdated": "2025-08-11 14:13:12 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-11 12:21:09 (UTC)",
+                "LastUpdated": "2025-08-11 14:13:18 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-11 12:21:10 (UTC)",
+                "LastUpdated": "2025-08-11 14:13:19 (UTC)",
                 "history": true
             },
             {
@@ -551,20 +551,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-06 16:14:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Teknologi S",
-                "PPMCode": "183343",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
-                "Current": 21.309656860331145,
-                "Yesterday": 21.044379857120756,
-                "LastWeek": 18.307837810881352,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-04 14:15:54 (UTC)",
                 "history": true
             }
         ]
