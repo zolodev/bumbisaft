@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-14 16:13:20 (UTC)",
+                "LastUpdated": "2025-08-14 18:14:52 (UTC)",
                 "history": false
             },
             {
@@ -27,21 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-14 16:13:26 (UTC)",
+                "LastUpdated": "2025-08-14 18:15:00 (UTC)",
                 "history": false
             },
             {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 6.491508775917235,
-                "Yesterday": 4.038275482212319,
-                "LastWeek": 4.3487004533454225,
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 18.60050301167383,
+                "Yesterday": 16.16475338419124,
+                "LastWeek": 16.244007188616695,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-14 16:13:27 (UTC)",
+                "LastUpdated": "2025-08-14 18:15:08 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-14 14:10:23 (UTC)",
+                "LastUpdated": "2025-08-14 16:13:20 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 7.518917176212966,
+                "Yesterday": 5.015466293870536,
+                "LastWeek": 5.136817515372526,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-14 16:13:26 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF China A2",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": 6.491508775917235,
+                "Yesterday": 4.038275482212319,
+                "LastWeek": 4.3487004533454225,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-14 16:13:27 (UTC)",
                 "history": true
             },
             {
@@ -84,34 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-14 14:10:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 7.518917176212966,
-                "Yesterday": 5.015466293870536,
-                "LastWeek": 5.136817515372526,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-14 14:10:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 6.491508775917235,
-                "Yesterday": 4.038275482212319,
-                "LastWeek": 4.3487004533454225,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-14 14:10:31 (UTC)",
                 "history": true
             },
             {
@@ -379,20 +379,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-07 18:16:08 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Allianz Global Equity Growth AT USD",
-                "PPMCode": "273839",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1173921",
-                "Current": 9.536477820293822,
-                "Yesterday": 7.783614085483191,
-                "LastWeek": 11.062088677225809,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-07 16:13:58 (UTC)",
-                "history": true
             }
         ]
     },
@@ -410,21 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-14 16:13:38 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 8.312085670576232,
-                "Yesterday": 7.1328403875573665,
-                "LastWeek": 3.9361295257521745,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-14 16:13:39 (UTC)",
+                "LastUpdated": "2025-08-14 18:15:25 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-14 16:13:40 (UTC)",
+                "LastUpdated": "2025-08-14 18:15:26 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-14 14:10:40 (UTC)",
+                "LastUpdated": "2025-08-14 16:13:38 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-14 14:10:42 (UTC)",
+                "LastUpdated": "2025-08-14 16:13:39 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-14 14:10:43 (UTC)",
+                "LastUpdated": "2025-08-14 16:13:40 (UTC)",
                 "history": true
             },
             {
