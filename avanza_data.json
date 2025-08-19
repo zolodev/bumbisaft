@@ -3,45 +3,31 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "BGF Sustainable Energy A2",
-                "PPMCode": "553578",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
-                "Current": 10.561071190939783,
-                "Yesterday": 6.206158276820969,
-                "LastWeek": 6.083688390800586,
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": 1.5575916230366587,
+                "Yesterday": -0.7569808027923147,
+                "LastWeek": 0.4264834205933772,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 18:13:52 (UTC)",
+                "LastUpdated": "2025-08-19 20:11:08 (UTC)",
                 "history": false
             },
             {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 1.4650357392965445,
-                "Yesterday": -0.964797662927124,
-                "LastWeek": -2.0349341131699434,
+                "Name": "Spiltan Aktiefond Stabil",
+                "PPMCode": "339184",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
+                "Current": 2.18905783138171,
+                "Yesterday": 0.3307770921261017,
+                "LastWeek": 0.35262086236084206,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 18:13:55 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 20.939806781722154,
-                "Yesterday": 19.1199155322753,
-                "LastWeek": 15.41957275795404,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 18:14:02 (UTC)",
+                "LastUpdated": "2025-08-19 20:11:15 (UTC)",
                 "history": false
             },
             {
@@ -55,21 +41,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 18:14:02 (UTC)",
+                "LastUpdated": "2025-08-19 20:11:17 (UTC)",
                 "history": false
             },
             {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": -3.271756014915925,
-                "Yesterday": -4.69023117541766,
-                "LastWeek": -5.12965171687977,
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": -4.802419791951028,
+                "Yesterday": -6.459393089560443,
+                "LastWeek": -4.731165710908402,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-19 20:11:19 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 1.4111975037086255,
+                "Yesterday": -0.34336794720958347,
+                "LastWeek": 0.8178167681211292,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 18:14:04 (UTC)",
+                "LastUpdated": "2025-08-19 20:11:21 (UTC)",
                 "history": false
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 16:12:26 (UTC)",
+                "LastUpdated": "2025-08-19 18:13:52 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 16:12:29 (UTC)",
+                "LastUpdated": "2025-08-19 18:13:55 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 16:12:36 (UTC)",
+                "LastUpdated": "2025-08-19 18:14:02 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 0.9141536198381891,
+                "Yesterday": -0.8878848376589249,
+                "LastWeek": 0.5516444257644126,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-19 18:14:02 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": -3.271756014915925,
+                "Yesterday": -4.69023117541766,
+                "LastWeek": -5.12965171687977,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-19 18:14:04 (UTC)",
                 "history": true
             },
             {
@@ -333,14 +361,28 @@
                 "Name": "BGF Sustainable Energy A2",
                 "PPMCode": "553578",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
-                "Current": 10.561071190939783,
-                "Yesterday": 6.206158276820969,
-                "LastWeek": 6.083688390800586,
+                "Current": 14.203393866904765,
+                "Yesterday": 13.119755973418998,
+                "LastWeek": 9.348396280965304,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 18:14:07 (UTC)",
+                "LastUpdated": "2025-08-19 20:11:24 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 2.967090759765436,
+                "Yesterday": 2.648660720718133,
+                "LastWeek": -2.174978026886445,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-19 20:11:28 (UTC)",
                 "history": false
             },
             {
@@ -354,21 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 18:14:09 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 20.939806781722154,
-                "Yesterday": 19.1199155322753,
-                "LastWeek": 15.41957275795404,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 18:14:10 (UTC)",
+                "LastUpdated": "2025-08-19 20:11:32 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 18:14:13 (UTC)",
+                "LastUpdated": "2025-08-19 20:11:36 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 16:12:39 (UTC)",
+                "LastUpdated": "2025-08-19 18:14:07 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 16:12:41 (UTC)",
+                "LastUpdated": "2025-08-19 18:14:09 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +452,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 16:12:43 (UTC)",
+                "LastUpdated": "2025-08-19 18:14:10 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 3.011060507482106,
+                "Yesterday": 2.7508132726089767,
+                "LastWeek": -1.4703968770331757,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-19 18:14:13 (UTC)",
                 "history": true
             },
             {
