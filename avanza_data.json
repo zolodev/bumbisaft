@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-20 00:46:46 (UTC)",
+                "LastUpdated": "2025-08-20 03:02:31 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-20 00:46:51 (UTC)",
+                "LastUpdated": "2025-08-20 03:02:35 (UTC)",
                 "history": false
             },
             {
@@ -41,21 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-20 00:46:52 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Nordea Indienfond",
-                "PPMCode": "469692",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
-                "Current": -4.802419791951028,
-                "Yesterday": -6.459393089560443,
-                "LastWeek": -4.731165710908402,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-20 00:46:53 (UTC)",
+                "LastUpdated": "2025-08-20 03:02:37 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-20 00:46:55 (UTC)",
+                "LastUpdated": "2025-08-20 03:02:39 (UTC)",
                 "history": false
             },
             {
@@ -83,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-20 00:46:57 (UTC)",
+                "LastUpdated": "2025-08-20 03:02:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "D&G Aktiefond",
+                "PPMCode": "291906",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1919",
+                "Current": 1.6015252853950728,
+                "Yesterday": -0.0761473387912598,
+                "LastWeek": 0.03345625079967173,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-20 03:02:42 (UTC)",
                 "history": false
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 22:09:21 (UTC)",
+                "LastUpdated": "2025-08-20 00:46:46 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 22:09:28 (UTC)",
+                "LastUpdated": "2025-08-20 00:46:51 (UTC)",
                 "history": true
             },
             {
@@ -125,7 +125,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 22:09:30 (UTC)",
+                "LastUpdated": "2025-08-20 00:46:52 (UTC)",
                 "history": true
             },
             {
@@ -139,7 +139,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 22:09:32 (UTC)",
+                "LastUpdated": "2025-08-20 00:46:53 (UTC)",
                 "history": true
             },
             {
@@ -153,7 +153,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 22:09:34 (UTC)",
+                "LastUpdated": "2025-08-20 00:46:55 (UTC)",
                 "history": true
             },
             {
@@ -167,7 +167,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-08-19 22:09:37 (UTC)",
+                "LastUpdated": "2025-08-20 00:46:57 (UTC)",
                 "history": true
             },
             {
@@ -421,26 +421,68 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-13 20:10:55 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": -0.04060129593467896,
-                "Yesterday": -1.7807236365504489,
-                "LastWeek": 1.9471456549355064,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-13 00:51:48 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF Sustainable Energy A2",
+                "PPMCode": "553578",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
+                "Current": 14.267239332606563,
+                "Yesterday": 13.119755973418998,
+                "LastWeek": 9.348396280965304,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-20 03:02:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 2.967090759765436,
+                "Yesterday": 2.648660720718133,
+                "LastWeek": -2.174978026886445,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-20 03:02:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 0.48254507105243644,
+                "Yesterday": -0.12390165973876138,
+                "LastWeek": -4.671913328164949,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-20 03:02:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 3.011060507482106,
+                "Yesterday": 2.7508132726089767,
+                "LastWeek": -1.4703968770331757,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-08-20 03:02:54 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF Sustainable Energy A2",
                 "PPMCode": "553578",
@@ -453,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-20 00:46:58 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB L\u00e4kemedelsfond",
@@ -467,7 +509,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-20 00:47:01 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Health Care S",
@@ -481,7 +523,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-20 00:47:03 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
@@ -495,62 +537,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-08-20 00:47:06 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF Sustainable Energy A2",
-                "PPMCode": "553578",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
-                "Current": 14.203393866904765,
-                "Yesterday": 13.119755973418998,
-                "LastWeek": 9.348396280965304,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 22:09:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 2.967090759765436,
-                "Yesterday": 2.648660720718133,
-                "LastWeek": -2.174978026886445,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 22:09:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 0.48254507105243644,
-                "Yesterday": -0.12390165973876138,
-                "LastWeek": -4.671913328164949,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 22:09:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 3.011060507482106,
-                "Yesterday": 2.7508132726089767,
-                "LastWeek": -1.4703968770331757,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-19 22:09:50 (UTC)",
                 "history": true
             },
             {
