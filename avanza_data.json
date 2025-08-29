@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 25.658585197476068,
+                "Yesterday": 23.18348554265013,
+                "LastWeek": 15.98338736784635,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-29 18:13:19 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 7.1840822809814995,
+                "Yesterday": 5.967646088215589,
+                "LastWeek": 4.021569733582849,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-08-29 18:13:27 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-29 16:11:23 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-29 16:11:26 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -42,48 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-08-29 16:11:27 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 1.638098770986603,
-                "Yesterday": -0.6547375078775372,
-                "LastWeek": -1.5609406143783766,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-29 14:09:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 23.18348554265013,
-                "Yesterday": 20.594733546675787,
-                "LastWeek": 14.832303210496972,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-29 14:09:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": 3.052312494372585,
-                "Yesterday": 1.2605420330742185,
-                "LastWeek": 0.5822503676580923,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-08-29 14:09:34 (UTC)",
                 "history": true
             },
             {
@@ -438,35 +424,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-29 16:11:34 (UTC)",
+                "LastUpdated": "2025-08-29 18:13:32 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 1.638098770986603,
-                "Yesterday": -0.6547375078775372,
-                "LastWeek": -1.5609406143783766,
-                "TrendDay": "\u25b2",
+                "Current": 1.3699183657939125,
+                "Yesterday": 1.638098770986603,
+                "LastWeek": -2.161714185273266,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-29 16:11:41 (UTC)",
+                "LastUpdated": "2025-08-29 18:13:43 (UTC)",
                 "history": false
             },
             {
                 "Name": "Allianz China A Shares AT USD",
                 "PPMCode": "933359",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 23.18348554265013,
-                "Yesterday": 20.594733546675787,
-                "LastWeek": 14.832303210496972,
+                "Current": 25.658585197476068,
+                "Yesterday": 23.18348554265013,
+                "LastWeek": 15.98338736784635,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-29 14:09:43 (UTC)",
+                "LastUpdated": "2025-08-29 16:11:34 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-08-29 14:09:54 (UTC)",
+                "LastUpdated": "2025-08-29 16:11:41 (UTC)",
                 "history": true
             },
             {
