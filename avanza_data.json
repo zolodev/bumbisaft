@@ -3,17 +3,17 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 11.618553798606628,
-                "Yesterday": 9.139181454020148,
-                "LastWeek": 6.972812432312447,
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 26.234542739035554,
+                "Yesterday": 22.911128242308656,
+                "LastWeek": 24.18312272777248,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-09-11 14:09:41 (UTC)",
+                "LastUpdated": "2025-09-11 16:11:05 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-09-11 12:17:53 (UTC)",
+                "LastUpdated": "2025-09-11 16:11:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 11.618553798606628,
+                "Yesterday": 9.139181454020148,
+                "LastWeek": 6.972812432312447,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-09-11 14:09:41 (UTC)",
                 "history": true
             },
             {
@@ -396,35 +410,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-11 14:09:53 (UTC)",
+                "LastUpdated": "2025-09-11 16:11:22 (UTC)",
                 "history": false
             },
             {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 8.600880653260168,
-                "Yesterday": 7.5489061942532505,
-                "LastWeek": 5.267455067468127,
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 26.234542739035554,
+                "Yesterday": 22.911128242308656,
+                "LastWeek": 24.18312272777248,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-11 14:09:59 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": -0.30555262880622913,
-                "Yesterday": -1.0733853124012194,
-                "LastWeek": -1.0167527130966214,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-11 14:10:00 (UTC)",
+                "LastUpdated": "2025-09-11 16:11:26 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-11 12:18:09 (UTC)",
+                "LastUpdated": "2025-09-11 14:09:53 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-11 12:18:15 (UTC)",
+                "LastUpdated": "2025-09-11 14:09:59 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-11 12:18:16 (UTC)",
+                "LastUpdated": "2025-09-11 14:10:00 (UTC)",
                 "history": true
             },
             {
@@ -607,20 +607,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-09-04 18:13:22 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 24.88570081726297,
-                "Yesterday": 24.93956962637696,
-                "LastWeek": 21.92991401521789,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-04 14:09:41 (UTC)",
                 "history": true
             }
         ]
