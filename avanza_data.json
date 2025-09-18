@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 18.113355483272137,
-                "Yesterday": 15.086398224541142,
-                "LastWeek": 12.593185190808388,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-09-18 20:10:55 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Skandia Time Global",
                 "PPMCode": "439471",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-09-18 20:10:57 (UTC)",
+                "LastUpdated": "2025-09-18 22:08:41 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-09-18 20:11:00 (UTC)",
+                "LastUpdated": "2025-09-18 22:08:43 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-09-18 20:11:04 (UTC)",
+                "LastUpdated": "2025-09-18 22:08:48 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-09-18 18:14:10 (UTC)",
+                "LastUpdated": "2025-09-18 20:10:55 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +69,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-09-18 18:14:13 (UTC)",
+                "LastUpdated": "2025-09-18 20:10:57 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 19.878961087168072,
+                "Yesterday": 16.847678384583514,
+                "LastWeek": 19.366900826392943,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-09-18 20:11:00 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 4.745918174989102,
+                "Yesterday": 3.355515607136779,
+                "LastWeek": 3.271479591867863,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-09-18 20:11:04 (UTC)",
                 "history": true
             },
             {
@@ -98,20 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-09-18 18:14:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 4.745918174989102,
-                "Yesterday": 3.355515607136779,
-                "LastWeek": 3.271479591867863,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-09-18 18:14:20 (UTC)",
                 "history": true
             },
             {
@@ -372,6 +372,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": 12.861339362881063,
+                "Yesterday": 13.760259914389792,
+                "LastWeek": 9.802935496855861,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-09-18 22:09:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Global Emerging Mkts A Inc",
+                "PPMCode": "191080",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2138",
+                "Current": 11.077668748273451,
+                "Yesterday": 10.90904989628366,
+                "LastWeek": 6.922157552250178,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-09-18 22:09:02 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "JPM China A (dist) USD",
                 "PPMCode": "233585",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
@@ -383,7 +411,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-09-18 20:11:14 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -397,34 +425,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-09-18 20:11:18 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Global Emerging Mkts A Inc",
-                "PPMCode": "191080",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2138",
-                "Current": 11.077668748273451,
-                "Yesterday": 10.90904989628366,
-                "LastWeek": 6.922157552250178,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-18 20:11:19 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "JPM China A (dist) USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 18.113355483272137,
-                "Yesterday": 15.086398224541142,
-                "LastWeek": 12.593185190808388,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-18 18:14:34 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-18 18:14:41 (UTC)",
+                "LastUpdated": "2025-09-18 20:11:19 (UTC)",
                 "history": true
             },
             {
@@ -509,20 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-09-17 20:10:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 13.333994018417904,
-                "Yesterday": 10.718321141589977,
-                "LastWeek": 8.536416922602479,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-09-17 16:11:56 (UTC)",
                 "history": true
             },
             {
