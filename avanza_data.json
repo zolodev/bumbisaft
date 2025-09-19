@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 12.138073824851988,
+                "Yesterday": 9.191711688395705,
+                "LastWeek": 9.212739801365197,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-09-19 20:10:38 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Skandia Time Global",
                 "PPMCode": "439471",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
@@ -14,34 +28,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-09-19 18:13:37 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 12.138073824851988,
-                "Yesterday": 9.191711688395705,
-                "LastWeek": 9.212739801365197,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-09-19 18:13:38 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Skandia Time Global",
-                "PPMCode": "439471",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
-                "Current": 11.646709759457439,
-                "Yesterday": 8.696619688460308,
-                "LastWeek": 7.1399809261417815,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-09-19 16:11:01 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-09-19 16:11:02 (UTC)",
+                "LastUpdated": "2025-09-19 18:13:38 (UTC)",
                 "history": true
             },
             {
@@ -371,6 +357,20 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 18.403430893085552,
+                "Yesterday": 16.80460461966745,
+                "LastWeek": 13.14799488375592,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-09-19 20:10:43 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
                 "PPMCode": "334409",
