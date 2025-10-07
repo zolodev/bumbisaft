@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-07 20:10:26 (UTC)",
+                "LastUpdated": "2025-10-07 22:09:05 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-07 20:10:29 (UTC)",
+                "LastUpdated": "2025-10-07 22:09:08 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-07 18:14:23 (UTC)",
+                "LastUpdated": "2025-10-07 20:10:26 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-07 18:14:25 (UTC)",
+                "LastUpdated": "2025-10-07 20:10:29 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-07 20:10:34 (UTC)",
+                "LastUpdated": "2025-10-07 22:09:14 (UTC)",
                 "history": false
             },
             {
@@ -382,8 +382,78 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-07 20:10:37 (UTC)",
+                "LastUpdated": "2025-10-07 22:09:17 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 8.721371548226669,
+                "Yesterday": 9.3783536186363,
+                "LastWeek": 0.9736945425991285,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-07 22:09:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 20.195451314854314,
+                "Yesterday": 20.049751243781103,
+                "LastWeek": 12.818052594172016,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-07 22:09:23 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 3.6251105216622364,
+                "Yesterday": 3.6251105216622364,
+                "LastWeek": -2.298850574712647,
+                "TrendDay": "-",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-07 22:09:25 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 6.3738453115771865,
+                "Yesterday": 6.221463656923191,
+                "LastWeek": -0.9196603290831634,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-07 20:10:34 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 7.6829325289682755,
+                "Yesterday": 8.16648630769839,
+                "LastWeek": 0.31062488090914436,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-07 20:10:37 (UTC)",
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
@@ -397,7 +467,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-07 20:10:40 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -411,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-07 20:10:43 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Healthcare A",
@@ -425,76 +495,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-07 20:10:45 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 7.493274167443757,
-                "Yesterday": 6.018771593227362,
-                "LastWeek": 0.2097244998945954,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-07 18:14:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 6.3738453115771865,
-                "Yesterday": 6.221463656923191,
-                "LastWeek": -0.9196603290831634,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-07 18:14:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 8.721371548226669,
-                "Yesterday": 9.3783536186363,
-                "LastWeek": 0.9736945425991285,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-07 18:14:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 20.195451314854314,
-                "Yesterday": 20.049751243781103,
-                "LastWeek": 12.818052594172016,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-07 18:14:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 3.6251105216622364,
-                "Yesterday": 3.6251105216622364,
-                "LastWeek": -2.298850574712647,
-                "TrendDay": "-",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-07 18:14:36 (UTC)",
                 "history": true
             },
             {
