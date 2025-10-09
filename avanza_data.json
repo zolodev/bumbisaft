@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 28.34292536310833,
+                "Yesterday": 25.062118785600596,
+                "LastWeek": 20.522340508936594,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-09 18:13:46 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-09 16:14:04 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -295,68 +309,26 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-03 06:14:19 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 6.671922217842592,
-                "Yesterday": 3.387202732886608,
-                "LastWeek": 2.824858757062147,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-02 18:13:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 4.6239080245162665,
-                "Yesterday": 1.574096348771499,
-                "LastWeek": 1.1299455313831939,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-02 18:13:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 23.035554227666573,
-                "Yesterday": 19.80504929787871,
-                "LastWeek": 17.51568568867644,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-02 18:13:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 3.603930140811143,
-                "Yesterday": 0.9578665209178001,
-                "LastWeek": 0.6493505325229887,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-02 18:13:33 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 28.34292536310833,
+                "Yesterday": 25.062118785600596,
+                "LastWeek": 20.522340508936594,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-09 18:13:54 (UTC)",
+                "history": false
+            },
             {
                 "Name": "DNB Health Care S",
                 "PPMCode": "255001",
