@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 31.40924421097731,
+                "Yesterday": 28.372440528362503,
+                "LastWeek": 24.08719085227959,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-09 20:10:43 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-09 18:13:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -326,8 +340,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-09 18:13:54 (UTC)",
+                "LastUpdated": "2025-10-09 20:10:53 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 31.40924421097731,
+                "Yesterday": 28.372440528362503,
+                "LastWeek": 24.08719085227959,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-09 20:10:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 28.34292536310833,
+                "Yesterday": 25.062118785600596,
+                "LastWeek": 20.522340508936594,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-09 18:13:54 (UTC)",
+                "history": true
             },
             {
                 "Name": "DNB Health Care S",
@@ -439,20 +481,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-07 16:12:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 24.870685991870285,
-                "Yesterday": 23.762823515063936,
-                "LastWeek": 18.354190247412703,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-03 20:10:31 (UTC)",
                 "history": true
             },
             {
