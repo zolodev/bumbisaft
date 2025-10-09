@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 31.40924421097731,
+                "Yesterday": 28.372440528362503,
+                "LastWeek": 24.08719085227959,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-09 16:14:04 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Avanza Emerging Markets",
                 "PPMCode": "715955",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
@@ -481,20 +495,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-03 06:14:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 25.951883568278443,
-                "Yesterday": 26.09701364169125,
-                "LastWeek": 18.728024667098524,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-02 16:11:49 (UTC)",
                 "history": true
             }
         ]
