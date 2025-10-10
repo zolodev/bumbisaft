@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-10 18:14:14 (UTC)",
+                "LastUpdated": "2025-10-10 20:10:19 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-10 18:14:16 (UTC)",
+                "LastUpdated": "2025-10-10 20:10:20 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-10 16:12:14 (UTC)",
+                "LastUpdated": "2025-10-10 18:14:14 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-10 16:12:16 (UTC)",
+                "LastUpdated": "2025-10-10 18:14:16 (UTC)",
                 "history": true
             },
             {
@@ -329,6 +329,20 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 27.004511730170627,
+                "Yesterday": 27.378013931406453,
+                "LastWeek": 20.86533361483457,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-10 20:10:44 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
