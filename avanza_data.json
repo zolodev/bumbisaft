@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 43.02808060338361,
+                "Yesterday": 40.544890697667924,
+                "LastWeek": 41.006635158359664,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-13 20:11:10 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
                 "PPMCode": "313742",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
@@ -13,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 18:13:32 (UTC)",
+                "LastUpdated": "2025-10-13 20:11:13 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 18:13:34 (UTC)",
+                "LastUpdated": "2025-10-13 20:11:15 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 18:13:35 (UTC)",
+                "LastUpdated": "2025-10-13 20:11:15 (UTC)",
                 "history": false
             },
             {
@@ -55,22 +69,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 18:13:36 (UTC)",
+                "LastUpdated": "2025-10-13 20:11:16 (UTC)",
                 "history": false
             },
             {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -3.9455538470200806,
-                "Yesterday": -7.01269003932627,
-                "LastWeek": -4.719767579257238,
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": -4.935547450404361,
+                "Yesterday": -6.037188950991498,
+                "LastWeek": -8.92171129340786,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 16:12:04 (UTC)",
-                "history": true
+                "LastUpdated": "2025-10-13 20:11:17 (UTC)",
+                "history": false
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -83,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 16:12:13 (UTC)",
+                "LastUpdated": "2025-10-13 18:13:32 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 16:12:15 (UTC)",
+                "LastUpdated": "2025-10-13 18:13:34 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +125,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 16:12:16 (UTC)",
+                "LastUpdated": "2025-10-13 18:13:35 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -2.2753208094978237,
+                "Yesterday": -3.4938421587193083,
+                "LastWeek": -6.367687333166405,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-13 18:13:36 (UTC)",
                 "history": true
             },
             {
@@ -358,20 +386,6 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 27.004511730170627,
-                "Yesterday": 27.378013931406453,
-                "LastWeek": 20.86533361483457,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 18:13:39 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Nordea Indienfond",
                 "PPMCode": "469692",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
@@ -382,21 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 18:13:41 (UTC)",
+                "LastUpdated": "2025-10-13 20:11:20 (UTC)",
                 "history": false
             },
             {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": -4.146998680987723,
-                "Yesterday": -4.637832329619247,
-                "LastWeek": -7.473418629648658,
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 26.153457667472313,
+                "Yesterday": 24.865625338191265,
+                "LastWeek": 20.50791818476968,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 18:13:42 (UTC)",
+                "LastUpdated": "2025-10-13 20:11:23 (UTC)",
                 "history": false
             },
             {
@@ -410,21 +424,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 18:13:44 (UTC)",
+                "LastUpdated": "2025-10-13 20:11:24 (UTC)",
                 "history": false
             },
             {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 14.031441452598253,
-                "Yesterday": 13.860714225469643,
-                "LastWeek": 7.891408974155997,
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -2.2753208094978237,
+                "Yesterday": -3.4938421587193083,
+                "LastWeek": -6.367687333166405,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 18:13:46 (UTC)",
+                "LastUpdated": "2025-10-13 20:11:27 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 16:12:21 (UTC)",
+                "LastUpdated": "2025-10-13 18:13:39 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +466,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 16:12:23 (UTC)",
+                "LastUpdated": "2025-10-13 18:13:41 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": -4.146998680987723,
+                "Yesterday": -4.637832329619247,
+                "LastWeek": -7.473418629648658,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-13 18:13:42 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 14.060290286564953,
+                "Yesterday": 12.459992556754752,
+                "LastWeek": 9.668775586155572,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-13 18:13:44 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 14.031441452598253,
+                "Yesterday": 13.860714225469643,
+                "LastWeek": 7.891408974155997,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-13 18:13:46 (UTC)",
                 "history": true
             },
             {
@@ -467,48 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-13 16:12:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": -4.146998680987723,
-                "Yesterday": -4.637832329619247,
-                "LastWeek": -7.473418629648658,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 16:12:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 14.060290286564953,
-                "Yesterday": 12.459992556754752,
-                "LastWeek": 9.668775586155572,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 16:12:28 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 14.031441452598253,
-                "Yesterday": 13.860714225469643,
-                "LastWeek": 7.891408974155997,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-13 16:12:30 (UTC)",
                 "history": true
             },
             {
