@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 43.304439732093,
+                "Yesterday": 39.165221826234955,
+                "LastWeek": 36.20591740761646,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-14 18:14:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 0.5246334722414976,
+                "Yesterday": -2.1957775747049944,
+                "LastWeek": -6.028171563538123,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-14 18:14:50 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -316,6 +344,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 0.5246334722414976,
+                "Yesterday": -2.1957775747049944,
+                "LastWeek": -6.028171563538123,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-14 18:14:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": -0.8031821406232021,
+                "Yesterday": -3.032566811862647,
+                "LastWeek": -4.660963210764197,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-14 18:15:06 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
@@ -327,7 +383,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-14 16:12:28 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -341,7 +397,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-14 16:12:32 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -355,48 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-14 16:12:35 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 26.153457667472313,
-                "Yesterday": 24.865625338191265,
-                "LastWeek": 20.50791818476968,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-14 14:10:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -2.2753208094978237,
-                "Yesterday": -3.4938421587193083,
-                "LastWeek": -6.367687333166405,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-14 14:10:55 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": -0.8031821406232021,
-                "Yesterday": -3.032566811862647,
-                "LastWeek": -4.660963210764197,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-14 14:10:58 (UTC)",
                 "history": true
             },
             {
@@ -593,20 +607,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-08 06:15:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Norden Selektiv",
-                "PPMCode": "674630",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512557",
-                "Current": 0.9081513126162795,
-                "Yesterday": -0.3293598842417124,
-                "LastWeek": -3.532005787914283,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-07 16:12:07 (UTC)",
                 "history": true
             }
         ]
