@@ -13,8 +13,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-16 18:14:11 (UTC)",
+                "LastUpdated": "2025-10-16 20:11:03 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 10.86449342302427,
+                "Yesterday": 8.897993444461443,
+                "LastWeek": 14.61214260511882,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-16 20:11:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 50.01141347577981,
+                "Yesterday": 47.21637594972386,
+                "LastWeek": 41.754454244080804,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-16 18:14:11 (UTC)",
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -140,20 +168,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-15 18:14:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 43.304439732093,
-                "Yesterday": 39.165221826234955,
-                "LastWeek": 36.20591740761646,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-15 16:10:44 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 18:14:14 (UTC)",
+                "LastUpdated": "2025-10-16 20:11:09 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 18:14:19 (UTC)",
+                "LastUpdated": "2025-10-16 20:11:15 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 18:14:21 (UTC)",
+                "LastUpdated": "2025-10-16 20:11:18 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 18:14:22 (UTC)",
+                "LastUpdated": "2025-10-16 20:11:19 (UTC)",
                 "history": false
             },
             {
@@ -438,21 +452,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 18:14:25 (UTC)",
+                "LastUpdated": "2025-10-16 20:11:21 (UTC)",
                 "history": false
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
                 "PPMCode": "320176",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -0.09212452602099384,
-                "Yesterday": -0.5894747384022229,
-                "LastWeek": -6.237281867141179,
-                "TrendDay": "\u25b2",
+                "Current": 0.6441778470312178,
+                "Yesterday": 0.9546430029201812,
+                "LastWeek": -5.301533679941397,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 16:13:01 (UTC)",
+                "LastUpdated": "2025-10-16 18:14:14 (UTC)",
                 "history": true
             },
             {
@@ -466,21 +480,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 16:13:04 (UTC)",
+                "LastUpdated": "2025-10-16 18:14:19 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 50.01141347577981,
+                "Yesterday": 47.21637594972386,
+                "LastWeek": 41.754454244080804,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-16 18:14:21 (UTC)",
                 "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 27.035692893132733,
-                "Yesterday": 21.845600930199783,
-                "LastWeek": 19.030337197420806,
+                "Current": 27.85438304207578,
+                "Yesterday": 27.80121229307717,
+                "LastWeek": 19.892949558682783,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 16:13:05 (UTC)",
+                "LastUpdated": "2025-10-16 18:14:22 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-16 16:13:09 (UTC)",
+                "LastUpdated": "2025-10-16 18:14:25 (UTC)",
                 "history": true
             },
             {
