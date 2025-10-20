@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-20 08:14:30 (UTC)",
+                "LastUpdated": "2025-10-20 10:11:42 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-20 06:16:10 (UTC)",
+                "LastUpdated": "2025-10-20 08:14:30 (UTC)",
                 "history": true
             },
             {
@@ -365,34 +365,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-13 20:11:17 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Tillv\u00e4xtmarknad Aktiv A",
-                "PPMCode": "206250",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2156",
-                "Current": 12.690914249146365,
-                "Yesterday": 8.822086052919333,
-                "LastWeek": 7.847488034433652,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 08:15:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 11.823579487780227,
-                "Yesterday": 10.068279667421658,
-                "LastWeek": 8.935384244439726,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-13 08:15:25 (UTC)",
-                "history": true
             }
         ]
     },
@@ -410,8 +382,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-20 08:14:37 (UTC)",
+                "LastUpdated": "2025-10-20 10:11:47 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "PriorNilsson Realinvest A",
+                "PPMCode": "487108",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
+                "Current": 2.3029211063133594,
+                "Yesterday": 2.0766673915069376,
+                "LastWeek": -1.900893624512035,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-20 10:11:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 49.70777162752076,
+                "Yesterday": 51.93762425586744,
+                "LastWeek": 44.73484871671152,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-20 08:14:37 (UTC)",
+                "history": true
             },
             {
                 "Name": "PriorNilsson Realinvest A",
@@ -425,7 +425,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-20 08:14:42 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -439,34 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-20 06:16:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 49.70777162752076,
-                "Yesterday": 51.93762425586744,
-                "LastWeek": 44.73484871671152,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-20 06:16:18 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "PriorNilsson Realinvest A",
-                "PPMCode": "487108",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
-                "Current": 2.3029211063133594,
-                "Yesterday": 2.0766673915069376,
-                "LastWeek": -1.900893624512035,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-20 06:16:21 (UTC)",
                 "history": true
             },
             {
