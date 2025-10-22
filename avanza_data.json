@@ -13,8 +13,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-22 20:11:49 (UTC)",
+                "LastUpdated": "2025-10-22 22:07:49 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 1.8605070129466046,
+                "Yesterday": 0.11360602724581091,
+                "LastWeek": -4.2953231726458485,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-22 22:07:50 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "PriorNilsson Realinvest A",
+                "PPMCode": "487108",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
+                "Current": 4.457794543017852,
+                "Yesterday": 2.6255193861024444,
+                "LastWeek": -1.6162415850396055,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-22 20:11:49 (UTC)",
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-22 20:11:50 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
@@ -42,34 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-22 18:15:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "PriorNilsson Realinvest A",
-                "PPMCode": "487108",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
-                "Current": 4.457794543017852,
-                "Yesterday": 2.6255193861024444,
-                "LastWeek": -1.6162415850396055,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-22 18:15:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 1.8605070129466046,
-                "Yesterday": 0.11360602724581091,
-                "LastWeek": -4.2953231726458485,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-22 18:15:31 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 20:12:01 (UTC)",
+                "LastUpdated": "2025-10-22 22:07:59 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 20:12:03 (UTC)",
+                "LastUpdated": "2025-10-22 22:08:01 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 20:12:06 (UTC)",
+                "LastUpdated": "2025-10-22 22:08:03 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 20:12:07 (UTC)",
+                "LastUpdated": "2025-10-22 22:08:04 (UTC)",
                 "history": false
             },
             {
@@ -452,8 +452,78 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 20:12:09 (UTC)",
+                "LastUpdated": "2025-10-22 22:08:05 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Skandia Sm\u00e5bolag Sverige",
+                "PPMCode": "103606",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
+                "Current": 1.6540279891707081,
+                "Yesterday": 0.5724445402260147,
+                "LastWeek": -1.5772530743639028,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-22 20:12:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": -1.4410735122520433,
+                "Yesterday": -2.000518604952671,
+                "LastWeek": -3.811098145987292,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-22 20:12:03 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "\u00d6hman Sverige A",
+                "PPMCode": "904904",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/430255",
+                "Current": 6.019112232656262,
+                "Yesterday": 4.695321226161429,
+                "LastWeek": 2.730318950895637,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-22 20:12:06 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "PriorNilsson Realinvest A",
+                "PPMCode": "487108",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
+                "Current": 4.457794543017852,
+                "Yesterday": 2.6255193861024444,
+                "LastWeek": -1.6162415850396055,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-22 20:12:07 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Health R USD",
+                "PPMCode": "688986",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
+                "Current": 1.5014783874319086,
+                "Yesterday": 0.5217121545019717,
+                "LastWeek": -1.6845994118251921,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-22 20:12:09 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Premium Brands R EUR",
@@ -470,20 +540,6 @@
                 "history": true
             },
             {
-                "Name": "Skandia Sm\u00e5bolag Sverige",
-                "PPMCode": "103606",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
-                "Current": 1.6540279891707081,
-                "Yesterday": 0.5724445402260147,
-                "LastWeek": -1.5772530743639028,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 18:15:40 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Spiltan Aktiefond Stabil",
                 "PPMCode": "339184",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
@@ -495,20 +551,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-22 18:15:45 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Sverige A",
-                "PPMCode": "904904",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/430255",
-                "Current": 6.019112232656262,
-                "Yesterday": 4.695321226161429,
-                "LastWeek": 2.730318950895637,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 18:15:46 (UTC)",
                 "history": true
             },
             {
@@ -537,20 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-22 14:11:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "PriorNilsson Realinvest A",
-                "PPMCode": "487108",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
-                "Current": 1.8617979070966504,
-                "Yesterday": 2.3880032437670207,
-                "LastWeek": -2.3338540978467273,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-21 10:11:08 (UTC)",
                 "history": true
             },
             {
