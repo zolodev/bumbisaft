@@ -13,8 +13,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-22 16:13:03 (UTC)",
+                "LastUpdated": "2025-10-22 18:15:23 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "PriorNilsson Realinvest A",
+                "PPMCode": "487108",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
+                "Current": 4.457794543017852,
+                "Yesterday": 2.6255193861024444,
+                "LastWeek": -1.6162415850396055,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-22 18:15:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 1.8605070129466046,
+                "Yesterday": 0.11360602724581091,
+                "LastWeek": -4.2953231726458485,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-22 18:15:31 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": -3.0270762638476425,
+                "Yesterday": -5.230510670780597,
+                "LastWeek": -5.3536720699454134,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-22 16:13:03 (UTC)",
+                "history": true
             },
             {
                 "Name": "PriorNilsson Realinvest A",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-22 16:13:10 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-22 16:13:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -56,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-22 16:13:13 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -70,62 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-22 14:10:55 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -3.0270762638476425,
-                "Yesterday": -5.230510670780597,
-                "LastWeek": -5.3536720699454134,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-22 14:10:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "PriorNilsson Realinvest A",
-                "PPMCode": "487108",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459035",
-                "Current": 4.457794543017852,
-                "Yesterday": 2.6255193861024444,
-                "LastWeek": -1.6162415850396055,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-22 14:11:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 1.8605070129466046,
-                "Yesterday": 0.11360602724581091,
-                "LastWeek": -4.2953231726458485,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-22 14:11:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 1.467652732152826,
-                "Yesterday": -0.2301750745934082,
-                "LastWeek": -4.226610563304281,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-22 14:11:04 (UTC)",
                 "history": true
             },
             {
@@ -407,34 +393,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-16 16:12:57 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Asian Equities Ex Japan R USD",
-                "PPMCode": "917955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/187",
-                "Current": 8.302088402266396,
-                "Yesterday": 6.347306302888306,
-                "LastWeek": 8.36912446259296,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-15 18:14:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Japan Small & MidCap Opps A2",
-                "PPMCode": "159442",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
-                "Current": 7.923034371884559,
-                "Yesterday": 5.282464323092248,
-                "LastWeek": 9.004438674391164,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-15 18:14:52 (UTC)",
-                "history": true
             }
         ]
     },
@@ -452,21 +410,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 16:13:21 (UTC)",
+                "LastUpdated": "2025-10-22 18:15:38 (UTC)",
                 "history": false
             },
             {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 11.06781231034594,
-                "Yesterday": 11.629986903887318,
-                "LastWeek": 10.856996837767914,
-                "TrendDay": "\u25bc",
+                "Name": "Skandia Sm\u00e5bolag Sverige",
+                "PPMCode": "103606",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
+                "Current": 1.6540279891707081,
+                "Yesterday": 0.5724445402260147,
+                "LastWeek": -1.5772530743639028,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 16:13:27 (UTC)",
+                "LastUpdated": "2025-10-22 18:15:40 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +438,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 16:13:29 (UTC)",
+                "LastUpdated": "2025-10-22 18:15:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "\u00d6hman Sverige A",
+                "PPMCode": "904904",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/430255",
+                "Current": 6.019112232656262,
+                "Yesterday": 4.695321226161429,
+                "LastWeek": 2.730318950895637,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-22 18:15:46 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +466,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-22 14:11:10 (UTC)",
+                "LastUpdated": "2025-10-22 16:13:21 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 11.06781231034594,
+                "Yesterday": 11.629986903887318,
+                "LastWeek": 10.856996837767914,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-22 16:13:27 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Spiltan Aktiefond Stabil",
+                "PPMCode": "339184",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
+                "Current": 3.6531295693599386,
+                "Yesterday": 2.379604735625677,
+                "LastWeek": 0.7263808310928737,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-22 16:13:29 (UTC)",
                 "history": true
             },
             {
