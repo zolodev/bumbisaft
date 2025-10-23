@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-23 14:10:16 (UTC)",
+                "LastUpdated": "2025-10-23 16:12:23 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-23 14:10:17 (UTC)",
+                "LastUpdated": "2025-10-23 16:12:25 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Europe Small Cap Equity AT EUR",
+                "PPMCode": "538751",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
+                "Current": -3.1201111566646107,
+                "Yesterday": -4.264590904053676,
+                "LastWeek": -3.8802905576675517,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-23 16:12:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "AMF Aktiefond Sm\u00e5bolag",
+                "PPMCode": "269357",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
+                "Current": 0.24756194980741653,
+                "Yesterday": -0.8273156533499986,
+                "LastWeek": -3.843933150364218,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-23 16:12:30 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-23 12:19:45 (UTC)",
+                "LastUpdated": "2025-10-23 14:10:16 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-23 12:19:47 (UTC)",
+                "LastUpdated": "2025-10-23 14:10:17 (UTC)",
                 "history": true
             },
             {
@@ -414,6 +442,76 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "AMF Aktiefond Sm\u00e5bolag",
+                "PPMCode": "269357",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
+                "Current": 0.24756194980741653,
+                "Yesterday": -0.8273156533499986,
+                "LastWeek": -3.843933150364218,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-23 16:12:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag A",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": -1.3334722366913232,
+                "Yesterday": -2.317949786436081,
+                "LastWeek": -5.42764871340764,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-23 16:12:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Sm\u00e5bolag Sverige",
+                "PPMCode": "103606",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
+                "Current": 1.6540279891707081,
+                "Yesterday": 0.5724445402260147,
+                "LastWeek": -1.5772530743639028,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-23 16:12:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": -1.4410735122520433,
+                "Yesterday": -2.000518604952671,
+                "LastWeek": -3.811098145987292,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-23 16:12:37 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Health R USD",
+                "PPMCode": "688986",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
+                "Current": 1.5014783874319086,
+                "Yesterday": 0.5217121545019717,
+                "LastWeek": -1.6845994118251921,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-23 16:12:40 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Skandia Sm\u00e5bolag Sverige",
                 "PPMCode": "103606",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
@@ -425,7 +523,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-23 14:10:24 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
@@ -439,7 +537,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-23 14:10:25 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Health R USD",
@@ -453,7 +551,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-23 14:10:28 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "AMF Aktiefond Sm\u00e5bolag",
@@ -467,7 +565,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-23 14:10:30 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag A",
@@ -481,62 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-23 14:10:32 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Skandia Sm\u00e5bolag Sverige",
-                "PPMCode": "103606",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2012",
-                "Current": 1.6540279891707081,
-                "Yesterday": 0.5724445402260147,
-                "LastWeek": -1.5772530743639028,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-23 12:19:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -1.4410735122520433,
-                "Yesterday": -2.000518604952671,
-                "LastWeek": -3.811098145987292,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-23 12:19:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Health R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": 1.5014783874319086,
-                "Yesterday": 0.5217121545019717,
-                "LastWeek": -1.6845994118251921,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-23 12:19:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AMF Aktiefond Sm\u00e5bolag",
-                "PPMCode": "269357",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
-                "Current": 0.31842802166588985,
-                "Yesterday": -0.5888518189600787,
-                "LastWeek": -2.8522509980878388,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-23 12:19:58 (UTC)",
                 "history": true
             },
             {
