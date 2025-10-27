@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-27 20:09:24 (UTC)",
+                "LastUpdated": "2025-10-27 22:08:56 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 23.49211125620967,
+                "Yesterday": 20.47537602410005,
+                "LastWeek": 25.00206476278597,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-27 20:09:24 (UTC)",
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -365,48 +379,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-21 16:13:20 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 9.370058352549666,
-                "Yesterday": 7.137918316723255,
-                "LastWeek": 16.270506241237715,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-20 20:11:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 11.107101803323756,
-                "Yesterday": 8.880111898075786,
-                "LastWeek": 13.121511840296165,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-20 20:11:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "AMF Aktiefond Asien Stilla havet",
-                "PPMCode": "823096",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/143369",
-                "Current": 7.482090740249402,
-                "Yesterday": 5.716222988709072,
-                "LastWeek": 8.000943368414859,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-20 20:11:18 (UTC)",
-                "history": true
             }
         ]
     },
@@ -424,8 +396,92 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-27 20:09:30 (UTC)",
+                "LastUpdated": "2025-10-27 22:09:01 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag A",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 1.949846201970705,
+                "Yesterday": 1.4910588603305277,
+                "LastWeek": -4.321985297951094,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-27 22:09:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Sm\u00e5bolag Sverige Vis A",
+                "PPMCode": "515676",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2011",
+                "Current": -0.6574185297132165,
+                "Yesterday": -2.686706241673149,
+                "LastWeek": -6.279098028980344,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-27 22:09:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 24.419290250794987,
+                "Yesterday": 21.96774873088601,
+                "LastWeek": 19.312377352069248,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-27 22:09:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "D&G Sm\u00e5bolag",
+                "PPMCode": "140491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
+                "Current": 2.123266971024605,
+                "Yesterday": 1.698638210383881,
+                "LastWeek": -3.2932842899598485,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-27 22:09:08 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": -0.6150265957446884,
+                "Yesterday": -1.0536006546644856,
+                "LastWeek": -6.079940671031105,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-27 22:09:10 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 0.36295817189648616,
+                "Yesterday": 0.01318706160869821,
+                "LastWeek": -6.911276193586061,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-27 20:09:30 (UTC)",
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag A",
@@ -439,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-27 20:09:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Sm\u00e5bolag Sverige Vis A",
@@ -453,7 +509,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-27 20:09:34 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -467,7 +523,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-27 20:09:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "D&G Sm\u00e5bolag",
@@ -481,7 +537,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-27 20:09:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "C Worldwide Sweden Small Cap 1A",
@@ -495,90 +551,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-27 20:09:40 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -0.06337493489950936,
-                "Yesterday": -2.7910070339903004,
-                "LastWeek": -7.444986164185011,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-27 18:15:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag A",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": 1.949846201970705,
-                "Yesterday": 1.4910588603305277,
-                "LastWeek": -4.321985297951094,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-27 18:15:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Sm\u00e5bolag Sverige Vis A",
-                "PPMCode": "515676",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2011",
-                "Current": -0.6574185297132165,
-                "Yesterday": -2.686706241673149,
-                "LastWeek": -6.279098028980344,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-27 18:15:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 24.419290250794987,
-                "Yesterday": 21.96774873088601,
-                "LastWeek": 19.312377352069248,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-27 18:15:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "D&G Sm\u00e5bolag",
-                "PPMCode": "140491",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
-                "Current": 2.123266971024605,
-                "Yesterday": 1.698638210383881,
-                "LastWeek": -3.2932842899598485,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-27 18:15:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": -0.6150265957446884,
-                "Yesterday": -1.0536006546644856,
-                "LastWeek": -6.079940671031105,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-27 18:15:34 (UTC)",
                 "history": true
             },
             {
