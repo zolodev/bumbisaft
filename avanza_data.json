@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-10-30 20:10:38 (UTC)",
+                "LastUpdated": "2025-10-30 22:09:29 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Asian Equities Ex Japan R USD",
+                "PPMCode": "917955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/187",
+                "Current": 8.764116842184086,
+                "Yesterday": 7.995575911595214,
+                "LastWeek": 6.573788797374765,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-10-30 20:10:38 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Japanese Equity Opps R JPY",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-30 20:10:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -424,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-30 20:10:45 (UTC)",
+                "LastUpdated": "2025-10-30 22:09:40 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +452,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-30 20:10:50 (UTC)",
+                "LastUpdated": "2025-10-30 22:09:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 11.38552894526828,
+                "Yesterday": 12.14520264163725,
+                "LastWeek": 6.206373353179262,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-30 22:09:49 (UTC)",
                 "history": false
             },
             {
@@ -452,8 +480,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-30 20:10:52 (UTC)",
+                "LastUpdated": "2025-10-30 22:09:52 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 26.904803190567012,
+                "Yesterday": 28.170625975377128,
+                "LastWeek": 19.739899427778727,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-30 20:10:45 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 23.07478741511008,
+                "Yesterday": 21.84112316354926,
+                "LastWeek": 19.067704214779383,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-30 20:10:50 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 0.9249153654496141,
+                "Yesterday": -0.2586623093203416,
+                "LastWeek": -3.8485489792601495,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-10-30 20:10:52 (UTC)",
+                "history": true
             },
             {
                 "Name": "Evli Finland Select B",
@@ -467,20 +537,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-30 20:10:53 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 27.560142201359874,
-                "Yesterday": 22.745314603251295,
-                "LastWeek": 22.213785248334638,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-30 18:14:02 (UTC)",
                 "history": true
             },
             {
@@ -495,34 +551,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-30 18:14:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 0.9249153654496141,
-                "Yesterday": -0.2586623093203416,
-                "LastWeek": -3.8485489792601495,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-30 18:14:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Finland Select B",
-                "PPMCode": "570044",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
-                "Current": 6.855381822191277,
-                "Yesterday": 6.810928909698549,
-                "LastWeek": 1.591562084630765,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-30 18:14:09 (UTC)",
                 "history": true
             },
             {
