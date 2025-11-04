@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 9.82213205239996,
+                "Yesterday": 7.90044207857386,
+                "LastWeek": 7.434951243785413,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-04 10:12:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 9.936125455874828,
+                "Yesterday": 8.072341456409752,
+                "LastWeek": 7.356479588537,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-04 10:12:14 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
@@ -267,20 +295,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-29 03:08:01 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Sm\u00e5bolag Sverige Vis A",
-                "PPMCode": "515676",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2011",
-                "Current": -0.6574185297132165,
-                "Yesterday": -2.686706241673149,
-                "LastWeek": -6.279098028980344,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-28 10:11:37 (UTC)",
-                "history": true
             }
         ]
     },
@@ -298,7 +312,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-04 08:14:28 (UTC)",
+                "LastUpdated": "2025-11-04 10:12:16 (UTC)",
                 "history": false
             },
             {
@@ -312,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-04 08:14:29 (UTC)",
+                "LastUpdated": "2025-11-04 10:12:17 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +340,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-04 06:16:23 (UTC)",
+                "LastUpdated": "2025-11-04 08:14:28 (UTC)",
                 "history": true
             },
             {
@@ -340,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-04 06:16:24 (UTC)",
+                "LastUpdated": "2025-11-04 08:14:29 (UTC)",
                 "history": true
             },
             {
