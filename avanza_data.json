@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 9.936125455874828,
-                "Yesterday": 8.072341456409752,
-                "LastWeek": 7.356479588537,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-05 10:12:07 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Swedbank Robur Healthcare A",
                 "PPMCode": "928341",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-05 10:12:15 (UTC)",
+                "LastUpdated": "2025-11-05 12:19:59 (UTC)",
                 "history": false
             },
             {
@@ -41,8 +27,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-05 10:12:17 (UTC)",
+                "LastUpdated": "2025-11-05 12:20:01 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 9.936125455874828,
+                "Yesterday": 8.072341456409752,
+                "LastWeek": 7.356479588537,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-05 10:12:07 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 7.957639939485636,
+                "Yesterday": 6.535552193646002,
+                "LastWeek": 7.685325264750398,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-05 10:12:15 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 3.113712218407211,
+                "Yesterday": 1.7870515377365122,
+                "LastWeek": 2.2568853355308276,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-05 10:12:17 (UTC)",
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -59,20 +87,6 @@
                 "history": true
             },
             {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 9.936125455874828,
-                "Yesterday": 8.072341456409752,
-                "LastWeek": 7.356479588537,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-05 08:14:04 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Templeton Emerging Markets A(acc)USD",
                 "PPMCode": "425067",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
@@ -84,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-04 20:11:34 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Japan Small & MidCap Opps A2",
-                "PPMCode": "159442",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
-                "Current": 3.113712218407211,
-                "Yesterday": 1.7870515377365122,
-                "LastWeek": 2.2568853355308276,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-04 20:11:36 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 10:12:21 (UTC)",
+                "LastUpdated": "2025-11-05 12:20:04 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 10:12:27 (UTC)",
+                "LastUpdated": "2025-11-05 12:20:10 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 10:12:32 (UTC)",
+                "LastUpdated": "2025-11-05 12:20:14 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 08:14:14 (UTC)",
+                "LastUpdated": "2025-11-05 10:12:21 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 08:14:20 (UTC)",
+                "LastUpdated": "2025-11-05 10:12:27 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 08:14:24 (UTC)",
+                "LastUpdated": "2025-11-05 10:12:32 (UTC)",
                 "history": true
             },
             {
