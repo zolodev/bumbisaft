@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 9.936125455874828,
+                "Yesterday": 8.072341456409752,
+                "LastWeek": 7.356479588537,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-05 10:12:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 7.957639939485636,
+                "Yesterday": 6.535552193646002,
+                "LastWeek": 7.685325264750398,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-05 10:12:15 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 3.113712218407211,
+                "Yesterday": 1.7870515377365122,
+                "LastWeek": 2.2568853355308276,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-05 10:12:17 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Storebrand Japan A SEK",
                 "PPMCode": "176503",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
@@ -14,34 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-05 08:14:02 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 9.936125455874828,
-                "Yesterday": 8.072341456409752,
-                "LastWeek": 7.356479588537,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-05 08:14:04 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 9.82213205239996,
-                "Yesterday": 7.90044207857386,
-                "LastWeek": 7.434951243785413,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-05 06:15:55 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-05 06:15:57 (UTC)",
+                "LastUpdated": "2025-11-05 08:14:04 (UTC)",
                 "history": true
             },
             {
@@ -295,48 +309,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-10-29 12:20:12 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 10.83655636728262,
-                "Yesterday": 8.659217877094974,
-                "LastWeek": 7.914338919925499,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-29 08:14:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Asienfond A",
-                "PPMCode": "385401",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/146",
-                "Current": 11.864135780629757,
-                "Yesterday": 9.933847571430231,
-                "LastWeek": 7.069542667636042,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-29 08:14:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Global Growth A",
-                "PPMCode": "163923",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/372",
-                "Current": 10.480086395915837,
-                "Yesterday": 8.763949340576634,
-                "LastWeek": 6.161599633471879,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-10-29 08:14:32 (UTC)",
-                "history": true
             }
         ]
     },
@@ -354,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 08:14:14 (UTC)",
+                "LastUpdated": "2025-11-05 10:12:21 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 08:14:20 (UTC)",
+                "LastUpdated": "2025-11-05 10:12:27 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 08:14:24 (UTC)",
+                "LastUpdated": "2025-11-05 10:12:32 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 06:16:09 (UTC)",
+                "LastUpdated": "2025-11-05 08:14:14 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 06:16:17 (UTC)",
+                "LastUpdated": "2025-11-05 08:14:20 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-05 06:16:21 (UTC)",
+                "LastUpdated": "2025-11-05 08:14:24 (UTC)",
                 "history": true
             },
             {
@@ -607,48 +579,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-10-29 16:13:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Nordic Small Cap B",
-                "PPMCode": "237834",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1681",
-                "Current": -4.389147946387408,
-                "Yesterday": -5.306006925027748,
-                "LastWeek": -8.789615245527283,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-29 10:11:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Sm\u00e5bolag Sverige Vis A",
-                "PPMCode": "515676",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2011",
-                "Current": -0.2831473023217367,
-                "Yesterday": -0.5533232481082976,
-                "LastWeek": -5.833454724031458,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-29 08:14:40 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sweden Micro Cap A",
-                "PPMCode": "416867",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
-                "Current": 0.3157939657747768,
-                "Yesterday": -0.6277946106393065,
-                "LastWeek": -3.9616495255977915,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-10-29 08:14:52 (UTC)",
                 "history": true
             }
         ]
