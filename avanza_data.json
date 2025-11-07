@@ -3,6 +3,104 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 26.948547048354847,
+                "Yesterday": 23.08197774702704,
+                "LastWeek": 19.01586065973357,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-07 18:14:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 9.909514905557923,
+                "Yesterday": 7.285812091876168,
+                "LastWeek": 7.582055051408153,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-07 18:14:31 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 9.291990360506173,
+                "Yesterday": 6.927275151351804,
+                "LastWeek": 7.010208631102992,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-07 18:14:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 9.614790856545701,
+                "Yesterday": 7.3932656102561305,
+                "LastWeek": 10.356304503035178,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-07 18:14:37 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 19.605111749559036,
+                "Yesterday": 17.252094801954733,
+                "LastWeek": 16.11227981168375,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-07 18:14:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF China A2",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": 9.755481038219978,
+                "Yesterday": 7.649488803432155,
+                "LastWeek": 6.642274619613116,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-07 18:14:39 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Evli Finland Select B",
+                "PPMCode": "570044",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
+                "Current": 7.034420825708016,
+                "Yesterday": 5.108313818995517,
+                "LastWeek": 7.8565046713877775,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-07 18:14:41 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
@@ -14,7 +112,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-07 16:10:47 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2",
@@ -28,7 +126,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-07 16:10:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
@@ -42,7 +140,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-07 16:10:56 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -56,7 +154,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-07 16:11:01 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -70,76 +168,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-07 16:11:03 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 18.930407565828983,
-                "Yesterday": 15.276315247514743,
-                "LastWeek": 16.701707655539316,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-07 14:10:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 26.948547048354847,
-                "Yesterday": 23.08197774702704,
-                "LastWeek": 19.01586065973357,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-07 14:10:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 9.909514905557923,
-                "Yesterday": 7.285812091876168,
-                "LastWeek": 7.582055051408153,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-07 14:10:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": 11.672300897647531,
-                "Yesterday": 9.103153379460984,
-                "LastWeek": 10.913108482394488,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-07 14:10:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": 10.369850927561922,
-                "Yesterday": 7.855100985569807,
-                "LastWeek": 8.282766789875609,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-07 14:10:19 (UTC)",
                 "history": true
             },
             {
@@ -340,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-07 16:11:05 (UTC)",
+                "LastUpdated": "2025-11-07 18:14:42 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-07 16:11:08 (UTC)",
+                "LastUpdated": "2025-11-07 18:14:45 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-07 16:11:12 (UTC)",
+                "LastUpdated": "2025-11-07 18:14:48 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-07 14:10:20 (UTC)",
+                "LastUpdated": "2025-11-07 16:11:05 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-07 14:10:22 (UTC)",
+                "LastUpdated": "2025-11-07 16:11:08 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-07 14:10:25 (UTC)",
+                "LastUpdated": "2025-11-07 16:11:12 (UTC)",
                 "history": true
             },
             {
