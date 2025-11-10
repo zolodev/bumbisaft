@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Emerging Marketsfond",
+                "PPMCode": "950774",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
+                "Current": 8.893314788448397,
+                "Yesterday": 10.183501087728827,
+                "LastWeek": 8.07525492358464,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-10 14:10:41 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Evli Finland Select B",
                 "PPMCode": "570044",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
@@ -14,34 +28,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-10 12:19:47 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 11.367688447087852,
-                "Yesterday": 10.196730857214153,
-                "LastWeek": 8.33894827323267,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-10 12:19:57 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Evli Finland Select B",
-                "PPMCode": "570044",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
-                "Current": 7.034420825708016,
-                "Yesterday": 5.108313818995517,
-                "LastWeek": 7.8565046713877775,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-10 10:12:36 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-10 10:12:48 (UTC)",
+                "LastUpdated": "2025-11-10 12:19:57 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-10 12:20:04 (UTC)",
+                "LastUpdated": "2025-11-10 14:10:46 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +368,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-10 12:20:10 (UTC)",
+                "LastUpdated": "2025-11-10 14:10:50 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": 10.03497751199201,
+                "Yesterday": 11.295308743611846,
+                "LastWeek": 7.042232449695182,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-10 14:10:54 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-10 10:12:57 (UTC)",
+                "LastUpdated": "2025-11-10 12:20:04 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-10 10:13:02 (UTC)",
+                "LastUpdated": "2025-11-10 12:20:10 (UTC)",
                 "history": true
             },
             {
