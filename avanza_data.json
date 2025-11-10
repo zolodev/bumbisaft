@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Evli Finland Select B",
+                "PPMCode": "570044",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
+                "Current": 7.034420825708016,
+                "Yesterday": 5.108313818995517,
+                "LastWeek": 7.8565046713877775,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-10 10:12:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Emerging Marketsfond",
+                "PPMCode": "950774",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
+                "Current": 11.367688447087852,
+                "Yesterday": 10.196730857214153,
+                "LastWeek": 8.33894827323267,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-10 10:12:48 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
                 "PPMCode": "470104",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-10 08:15:25 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Finland Select B",
@@ -28,20 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-10 08:15:27 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 9.909514905557923,
-                "Yesterday": 7.285812091876168,
-                "LastWeek": 7.582055051408153,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-10 06:17:16 (UTC)",
                 "history": true
             },
             {
@@ -56,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-10 06:17:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Finland Select B",
-                "PPMCode": "570044",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
-                "Current": 7.034420825708016,
-                "Yesterday": 5.108313818995517,
-                "LastWeek": 7.8565046713877775,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-10 06:17:21 (UTC)",
                 "history": true
             },
             {
@@ -354,21 +354,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-10 08:15:41 (UTC)",
+                "LastUpdated": "2025-11-10 10:12:57 (UTC)",
                 "history": false
             },
             {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 9.909514905557923,
-                "Yesterday": 7.285812091876168,
-                "LastWeek": 7.582055051408153,
-                "TrendDay": "\u25b2",
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 11.728203537077261,
+                "Yesterday": 12.131554452373578,
+                "LastWeek": 8.439342227738152,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-10 08:15:44 (UTC)",
+                "LastUpdated": "2025-11-10 10:13:02 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +382,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-10 06:17:37 (UTC)",
+                "LastUpdated": "2025-11-10 08:15:41 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 9.909514905557923,
+                "Yesterday": 7.285812091876168,
+                "LastWeek": 7.582055051408153,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-10 08:15:44 (UTC)",
                 "history": true
             },
             {
@@ -467,20 +481,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-11-04 18:14:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 9.936125455874828,
-                "Yesterday": 8.072341456409752,
-                "LastWeek": 7.356479588537,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-04 18:15:06 (UTC)",
                 "history": true
             },
             {
