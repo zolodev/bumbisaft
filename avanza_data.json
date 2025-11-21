@@ -480,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-20 22:09:54 (UTC)",
+                "LastUpdated": "2025-11-21 00:48:55 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-20 22:09:58 (UTC)",
+                "LastUpdated": "2025-11-21 00:48:59 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-20 22:10:01 (UTC)",
+                "LastUpdated": "2025-11-21 00:49:02 (UTC)",
                 "history": false
             },
             {
@@ -522,21 +522,63 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-20 22:10:04 (UTC)",
+                "LastUpdated": "2025-11-21 00:49:06 (UTC)",
                 "history": false
             },
             {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 33.406996493198086,
-                "Yesterday": 30.804705183402977,
-                "LastWeek": 22.725993089608977,
+                "Current": 34.99022903319225,
+                "Yesterday": 34.038248588170475,
+                "LastWeek": 24.869629424087165,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-20 20:12:10 (UTC)",
+                "LastUpdated": "2025-11-20 22:09:54 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Indian Equities R USD",
+                "PPMCode": "874271",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
+                "Current": -1.8336597692602703,
+                "Yesterday": -1.9045994128673596,
+                "LastWeek": -3.72706628980292,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-20 22:09:58 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 12.379041078292136,
+                "Yesterday": 10.813475874185361,
+                "LastWeek": 7.435479894865116,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-20 22:10:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF India A2",
+                "PPMCode": "768499",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
+                "Current": -0.23237066120108105,
+                "Yesterday": -0.0014964232381320093,
+                "LastWeek": -1.5667490005934708,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-20 22:10:04 (UTC)",
                 "history": true
             },
             {
@@ -554,34 +596,6 @@
                 "history": true
             },
             {
-                "Name": "Pictet-Indian Equities R USD",
-                "PPMCode": "874271",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/121",
-                "Current": -1.5448826387865984,
-                "Yesterday": -3.149884326781006,
-                "LastWeek": -3.765263707907625,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-20 20:12:22 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": 0.18424649463763518,
-                "Yesterday": -1.301998506009518,
-                "LastWeek": -1.4536762979621638,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-20 16:13:09 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Swedbank Robur Healthcare A",
                 "PPMCode": "928341",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
@@ -593,20 +607,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-11-20 08:15:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 10.794308072921236,
-                "Yesterday": 11.234362114645656,
-                "LastWeek": 6.720474444229989,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-19 20:11:01 (UTC)",
                 "history": true
             },
             {
