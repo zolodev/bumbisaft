@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 18.475899914670695,
+                "Yesterday": 14.336642780111985,
+                "LastWeek": 16.993305021957898,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-25 18:16:20 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Mining A2",
                 "PPMCode": "481911",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
@@ -424,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-25 16:13:44 (UTC)",
+                "LastUpdated": "2025-11-25 18:16:28 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +452,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-25 16:13:46 (UTC)",
+                "LastUpdated": "2025-11-25 18:16:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 14.118208295671392,
+                "Yesterday": 12.395801948378027,
+                "LastWeek": 9.709249774028326,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-25 18:16:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia USA",
+                "PPMCode": "511139",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1478",
+                "Current": 3.971426577006312,
+                "Yesterday": 2.7228517579170357,
+                "LastWeek": 1.533378318635562,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-25 18:16:35 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-25 14:11:04 (UTC)",
+                "LastUpdated": "2025-11-25 16:13:44 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-25 14:11:06 (UTC)",
+                "LastUpdated": "2025-11-25 16:13:46 (UTC)",
                 "history": true
             },
             {
