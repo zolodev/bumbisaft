@@ -3,17 +3,45 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 18.475899914670695,
-                "Yesterday": 14.336642780111985,
-                "LastWeek": 16.993305021957898,
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 6.1643630899005615,
+                "Yesterday": 3.5081041640530253,
+                "LastWeek": 5.886990774453985,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-26 16:12:35 (UTC)",
+                "LastUpdated": "2025-11-26 18:13:11 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Clean Energy Transition R USD",
+                "PPMCode": "887497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
+                "Current": 7.409527283800288,
+                "Yesterday": 4.8412328700439735,
+                "LastWeek": 5.175696613701556,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-26 18:13:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 20.77903412371935,
+                "Yesterday": 18.082701256055188,
+                "LastWeek": 17.197661687975234,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-26 18:13:17 (UTC)",
                 "history": false
             },
             {
@@ -27,21 +55,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-26 16:12:41 (UTC)",
+                "LastUpdated": "2025-11-26 18:13:21 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF World Gold A2",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 29.453248423463883,
-                "Yesterday": 26.809254223013703,
-                "LastWeek": 26.338661288785044,
+                "Current": 31.32311842879343,
+                "Yesterday": 28.40759586435042,
+                "LastWeek": 26.927031297126803,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-26 16:12:44 (UTC)",
+                "LastUpdated": "2025-11-26 18:13:25 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-26 14:10:43 (UTC)",
+                "LastUpdated": "2025-11-26 16:12:35 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +97,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-26 14:10:51 (UTC)",
+                "LastUpdated": "2025-11-26 16:12:41 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 29.453248423463883,
+                "Yesterday": 26.809254223013703,
+                "LastWeek": 26.338661288785044,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-11-26 16:12:44 (UTC)",
                 "history": true
             },
             {
@@ -196,20 +238,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-21 18:15:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 35.47269285911885,
-                "Yesterday": 30.906789485227314,
-                "LastWeek": 23.20384582782912,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-20 20:11:53 (UTC)",
                 "history": true
             },
             {
@@ -379,34 +407,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-19 18:15:28 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 10.669902821092922,
-                "Yesterday": 9.741851518260011,
-                "LastWeek": 6.564842170034643,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-19 16:14:20 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 9.228639749404776,
-                "Yesterday": 8.639999816333303,
-                "LastWeek": 8.661020895956687,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-19 16:14:27 (UTC)",
-                "history": true
             }
         ]
     },
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-26 16:12:48 (UTC)",
+                "LastUpdated": "2025-11-26 18:13:30 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-26 16:12:51 (UTC)",
+                "LastUpdated": "2025-11-26 18:13:36 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-26 16:12:52 (UTC)",
+                "LastUpdated": "2025-11-26 18:13:37 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-26 16:12:54 (UTC)",
+                "LastUpdated": "2025-11-26 18:13:39 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-26 14:10:57 (UTC)",
+                "LastUpdated": "2025-11-26 16:12:48 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-26 14:11:02 (UTC)",
+                "LastUpdated": "2025-11-26 16:12:51 (UTC)",
                 "history": true
             },
             {
@@ -508,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-26 14:11:03 (UTC)",
+                "LastUpdated": "2025-11-26 16:12:52 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-26 14:11:04 (UTC)",
+                "LastUpdated": "2025-11-26 16:12:54 (UTC)",
                 "history": true
             },
             {
