@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-27 12:20:13 (UTC)",
+                "LastUpdated": "2025-11-27 14:10:23 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-27 12:20:16 (UTC)",
+                "LastUpdated": "2025-11-27 14:10:26 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-27 10:11:44 (UTC)",
+                "LastUpdated": "2025-11-27 12:20:13 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-11-27 10:11:46 (UTC)",
+                "LastUpdated": "2025-11-27 12:20:16 (UTC)",
                 "history": true
             },
             {
@@ -239,20 +239,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-11-20 16:12:59 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 17.97222863550909,
-                "Yesterday": 15.729410600613475,
-                "LastWeek": 25.78910913948349,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-11-20 14:10:08 (UTC)",
-                "history": true
             }
         ]
     },
@@ -270,8 +256,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-27 12:20:32 (UTC)",
+                "LastUpdated": "2025-11-27 14:10:42 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 16.650215378176178,
+                "Yesterday": 15.726269161681858,
+                "LastWeek": 10.559285676915296,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-27 14:10:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
+                "PPMCode": "916354",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
+                "Current": -5.250104118825101,
+                "Yesterday": -6.555873904825349,
+                "LastWeek": -8.779258742844823,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-11-27 12:20:32 (UTC)",
+                "history": true
             },
             {
                 "Name": "SEB L\u00e4kemedelsfond",
@@ -285,7 +299,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-11-27 12:20:35 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Health Care S",
@@ -299,34 +313,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-11-27 10:11:58 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
-                "PPMCode": "916354",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": -5.250104118825101,
-                "Yesterday": -6.555873904825349,
-                "LastWeek": -8.779258742844823,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-27 10:12:00 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 16.650215378176178,
-                "Yesterday": 15.726269161681858,
-                "LastWeek": 10.559285676915296,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-27 10:12:01 (UTC)",
                 "history": true
             },
             {
