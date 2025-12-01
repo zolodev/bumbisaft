@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -5.345565859382486,
-                "Yesterday": -7.1176617712102335,
-                "LastWeek": -7.968998653219728,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-01 12:21:11 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-01 12:21:15 (UTC)",
+                "LastUpdated": "2025-12-01 14:11:31 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-01 12:21:21 (UTC)",
+                "LastUpdated": "2025-12-01 14:11:35 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 35.720300364188326,
+                "Yesterday": 34.49810581174632,
+                "LastWeek": 29.749637435192692,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-01 14:11:38 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-01 10:13:08 (UTC)",
+                "LastUpdated": "2025-12-01 12:21:11 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-01 10:13:13 (UTC)",
+                "LastUpdated": "2025-12-01 12:21:15 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Evli Sverige Sm\u00e5bolag B",
+                "PPMCode": "420463",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
+                "Current": -4.198138464653988,
+                "Yesterday": -5.446918724269405,
+                "LastWeek": -8.471206608895592,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-01 12:21:21 (UTC)",
                 "history": true
             },
             {
@@ -214,7 +228,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-01 12:21:24 (UTC)",
+                "LastUpdated": "2025-12-01 14:11:42 (UTC)",
                 "history": false
             },
             {
@@ -228,7 +242,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-01 12:21:27 (UTC)",
+                "LastUpdated": "2025-12-01 14:11:44 (UTC)",
                 "history": false
             },
             {
@@ -242,7 +256,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-01 12:21:30 (UTC)",
+                "LastUpdated": "2025-12-01 14:11:47 (UTC)",
                 "history": false
             },
             {
@@ -256,7 +270,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-01 10:13:19 (UTC)",
+                "LastUpdated": "2025-12-01 12:21:24 (UTC)",
                 "history": true
             },
             {
@@ -270,7 +284,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-01 10:13:22 (UTC)",
+                "LastUpdated": "2025-12-01 12:21:27 (UTC)",
                 "history": true
             },
             {
@@ -284,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-01 10:13:24 (UTC)",
+                "LastUpdated": "2025-12-01 12:21:30 (UTC)",
                 "history": true
             },
             {
