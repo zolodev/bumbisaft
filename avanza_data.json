@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 9.682694650405717,
+                "Yesterday": 8.698063240478067,
+                "LastWeek": 5.6004604537830005,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-04 10:12:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Teknologi S",
+                "PPMCode": "183343",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+                "Current": 13.125348845423668,
+                "Yesterday": 12.150119288006794,
+                "LastWeek": 8.892826335316721,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-04 10:12:52 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Emerging Marketsfond",
+                "PPMCode": "950774",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
+                "Current": 9.842852432032497,
+                "Yesterday": 8.897639322638843,
+                "LastWeek": 7.157128170454259,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-04 10:12:53 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-04 08:15:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Natural Resources A(acc)USD",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-04 08:15:52 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Teknologi S",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-04 08:15:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Emerging Marketsfond",
@@ -56,62 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-04 08:15:55 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 7.1382416663499075,
-                "Yesterday": 5.750883728001814,
-                "LastWeek": 1.4930252005017197,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-04 06:17:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 9.682694650405717,
-                "Yesterday": 8.698063240478067,
-                "LastWeek": 5.6004604537830005,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-04 06:17:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Teknologi S",
-                "PPMCode": "183343",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
-                "Current": 13.125348845423668,
-                "Yesterday": 12.150119288006794,
-                "LastWeek": 8.892826335316721,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-04 06:17:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 9.842852432032497,
-                "Yesterday": 8.897639322638843,
-                "LastWeek": 7.157128170454259,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-04 06:17:18 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-04 08:16:00 (UTC)",
+                "LastUpdated": "2025-12-04 10:13:00 (UTC)",
                 "history": false
             },
             {
@@ -340,21 +326,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-04 08:16:01 (UTC)",
+                "LastUpdated": "2025-12-04 10:13:01 (UTC)",
                 "history": false
             },
             {
-                "Name": "Lannebo Sverige",
-                "PPMCode": "806869",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
-                "Current": 11.043285238623762,
-                "Yesterday": 11.376248612652612,
-                "LastWeek": 6.270810210876798,
+                "Name": "BGF World Gold A2",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 26.441960333729085,
+                "Yesterday": 28.142573011632177,
+                "LastWeek": 18.918570330897953,
                 "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-04 08:16:07 (UTC)",
+                "LastUpdated": "2025-12-04 10:13:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Aktiespararna Direktavkastning A",
+                "PPMCode": "528894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/693833",
+                "Current": 6.567931005581484,
+                "Yesterday": 6.785633906003581,
+                "LastWeek": 2.505561698584662,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-04 10:13:08 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-04 06:17:25 (UTC)",
+                "LastUpdated": "2025-12-04 08:16:00 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +382,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-04 06:17:26 (UTC)",
+                "LastUpdated": "2025-12-04 08:16:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Lannebo Sverige",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": 11.043285238623762,
+                "Yesterday": 11.376248612652612,
+                "LastWeek": 6.270810210876798,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-04 08:16:07 (UTC)",
                 "history": true
             },
             {
@@ -484,20 +498,6 @@
                 "history": true
             },
             {
-                "Name": "Lannebo Sverige",
-                "PPMCode": "806869",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
-                "Current": 9.265306122448983,
-                "Yesterday": 8.585034013605446,
-                "LastWeek": 3.9999999999999964,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-28 16:12:25 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
                 "PPMCode": "916354",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
@@ -523,20 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-11-28 04:14:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 15.599491901201073,
-                "Yesterday": 13.434287588897792,
-                "LastWeek": 8.909902716501634,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-11-27 10:11:58 (UTC)",
                 "history": true
             }
         ]
