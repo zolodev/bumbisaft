@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 18:13:47 (UTC)",
+                "LastUpdated": "2025-12-09 20:11:07 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 18:13:50 (UTC)",
+                "LastUpdated": "2025-12-09 20:11:10 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 3.812704453750499,
+                "Yesterday": 2.967602433715605,
+                "LastWeek": 2.055356847370903,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-09 20:11:17 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 16:14:24 (UTC)",
+                "LastUpdated": "2025-12-09 18:13:47 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 16:14:26 (UTC)",
+                "LastUpdated": "2025-12-09 18:13:50 (UTC)",
                 "history": true
             },
             {
@@ -393,48 +407,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-04 08:15:48 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Gold A2",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 34.94965719474346,
-                "Yesterday": 33.0743780757506,
-                "LastWeek": 26.709295658442677,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-02 18:16:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources A2",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": 5.793138175627989,
-                "Yesterday": 4.6091777141467265,
-                "LastWeek": 2.968086659505549,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-02 18:16:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 2.467530773900536,
-                "Yesterday": 1.4609873021267066,
-                "LastWeek": 3.3072835945148684,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-02 18:17:02 (UTC)",
-                "history": true
             }
         ]
     },
@@ -452,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-09 18:14:03 (UTC)",
+                "LastUpdated": "2025-12-09 20:11:28 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-09 16:14:35 (UTC)",
+                "LastUpdated": "2025-12-09 18:14:03 (UTC)",
                 "history": true
             },
             {
@@ -607,20 +579,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-12-03 16:15:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources A2",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": 5.793138175627989,
-                "Yesterday": 4.6091777141467265,
-                "LastWeek": 2.968086659505549,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-02 18:17:14 (UTC)",
                 "history": true
             }
         ]
