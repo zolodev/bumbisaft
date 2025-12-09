@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 9.279679220965207,
-                "Yesterday": 7.439495918659612,
-                "LastWeek": 9.286839467277675,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 08:15:56 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Allianz China A Shares AT USD",
                 "PPMCode": "933359",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 08:15:58 (UTC)",
+                "LastUpdated": "2025-12-09 10:12:57 (UTC)",
                 "history": false
             },
             {
@@ -41,21 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 08:16:01 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Asienfond A",
-                "PPMCode": "385401",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/146",
-                "Current": 10.460969488838991,
-                "Yesterday": 9.273587650682998,
-                "LastWeek": 10.27415253679679,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 08:16:09 (UTC)",
+                "LastUpdated": "2025-12-09 10:13:00 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 08:16:10 (UTC)",
+                "LastUpdated": "2025-12-09 10:13:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 32.199087253384754,
+                "Yesterday": 30.86912267330125,
+                "LastWeek": 31.787953269932345,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-09 10:13:09 (UTC)",
                 "history": false
             },
             {
@@ -83,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 06:17:23 (UTC)",
+                "LastUpdated": "2025-12-09 08:15:56 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 06:17:25 (UTC)",
+                "LastUpdated": "2025-12-09 08:15:58 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +97,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 06:17:28 (UTC)",
+                "LastUpdated": "2025-12-09 08:16:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Asienfond A",
+                "PPMCode": "385401",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/146",
+                "Current": 10.460969488838991,
+                "Yesterday": 9.273587650682998,
+                "LastWeek": 10.27415253679679,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-09 08:16:09 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 2.988668513374481,
+                "Yesterday": 1.9191129436581817,
+                "LastWeek": 0.3156045760635788,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-09 08:16:10 (UTC)",
                 "history": true
             },
             {
@@ -392,20 +406,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-04 08:15:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 3.0314976064700025,
-                "Yesterday": 1.8070874893847129,
-                "LastWeek": 3.368091754013726,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-03 18:16:10 (UTC)",
                 "history": true
             },
             {
