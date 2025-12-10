@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 21.005373505928056,
+                "Yesterday": 18.89886824709238,
+                "LastWeek": 20.70852279041346,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-10 16:15:56 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Teknologifond",
                 "PPMCode": "194092",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
@@ -396,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 14:13:54 (UTC)",
+                "LastUpdated": "2025-12-10 16:16:14 (UTC)",
                 "history": false
             },
             {
@@ -410,8 +424,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 14:13:55 (UTC)",
+                "LastUpdated": "2025-12-10 16:16:15 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 8.763603193536358,
+                "Yesterday": 9.41571072239042,
+                "LastWeek": 5.578381683707893,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-10 16:16:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": -0.6285811723374373,
+                "Yesterday": -0.8475046485883627,
+                "LastWeek": -2.217018028673736,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-10 14:13:54 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": -2.858040947555029,
+                "Yesterday": -1.842503281190061,
+                "LastWeek": -4.1919774456944685,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-10 14:13:55 (UTC)",
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -425,48 +481,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-12-10 14:13:56 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -1.2575643938757657,
-                "Yesterday": -1.6422599187242692,
-                "LastWeek": -4.5836284487864845,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 12:21:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Listed Private Equity A",
-                "PPMCode": "341362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": -0.6285811723374373,
-                "Yesterday": -0.8475046485883627,
-                "LastWeek": -2.217018028673736,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 12:21:28 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 8.763603193536358,
-                "Yesterday": 9.41571072239042,
-                "LastWeek": 5.578381683707893,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 12:21:30 (UTC)",
                 "history": true
             },
             {
@@ -579,34 +593,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-12-04 08:16:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 9.881701827634473,
-                "Yesterday": 7.863040913145,
-                "LastWeek": 3.6658797568609964,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-03 16:15:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 22.66685003976925,
-                "Yesterday": 23.84133613340361,
-                "LastWeek": 13.858063749587593,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-03 16:15:46 (UTC)",
                 "history": true
             }
         ]
