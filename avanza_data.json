@@ -14,20 +14,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-10 12:21:14 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 3.812704453750499,
-                "Yesterday": 2.967602433715605,
-                "LastWeek": 2.055356847370903,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-10 10:12:48 (UTC)",
                 "history": true
             },
             {
@@ -400,20 +386,6 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -1.2575643938757657,
-                "Yesterday": -1.6422599187242692,
-                "LastWeek": -4.5836284487864845,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 12:21:23 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Carnegie Listed Private Equity A",
                 "PPMCode": "341362",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
@@ -424,7 +396,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 12:21:28 (UTC)",
+                "LastUpdated": "2025-12-10 14:13:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": -2.858040947555029,
+                "Yesterday": -1.842503281190061,
+                "LastWeek": -4.1919774456944685,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-10 14:13:55 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 12:21:30 (UTC)",
+                "LastUpdated": "2025-12-10 14:13:56 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 10:12:59 (UTC)",
+                "LastUpdated": "2025-12-10 12:21:23 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +452,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-10 10:13:04 (UTC)",
+                "LastUpdated": "2025-12-10 12:21:28 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 8.763603193536358,
+                "Yesterday": 9.41571072239042,
+                "LastWeek": 5.578381683707893,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-10 12:21:30 (UTC)",
                 "history": true
             },
             {
