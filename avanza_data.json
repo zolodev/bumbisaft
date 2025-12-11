@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-11 03:16:54 (UTC)",
+                "LastUpdated": "2025-12-11 04:26:42 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-11 03:17:01 (UTC)",
+                "LastUpdated": "2025-12-11 04:26:47 (UTC)",
                 "history": false
             },
             {
@@ -41,35 +41,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-11 03:17:02 (UTC)",
+                "LastUpdated": "2025-12-11 04:26:49 (UTC)",
                 "history": false
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 21.005373505928056,
+                "Current": 20.534418026382113,
                 "Yesterday": 18.89886824709238,
                 "LastWeek": 20.70852279041346,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-11 00:53:03 (UTC)",
+                "LastUpdated": "2025-12-11 03:16:54 (UTC)",
                 "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 22.985519619162748,
+                "Current": 22.370092848873316,
                 "Yesterday": 21.190983827054346,
                 "LastWeek": 26.009114734096023,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-11 00:53:08 (UTC)",
+                "LastUpdated": "2025-12-11 03:17:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Franklin Mutual Glbl DiscvA(acc)USD",
+                "PPMCode": "717496",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/39648",
+                "Current": 3.9183986408115046,
+                "Yesterday": 2.9230852422249454,
+                "LastWeek": 2.9300336449456137,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-11 03:17:02 (UTC)",
                 "history": true
             },
             {
@@ -480,8 +494,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-11 03:17:15 (UTC)",
+                "LastUpdated": "2025-12-11 04:27:00 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": -2.858040947555029,
+                "Yesterday": -1.842503281190061,
+                "LastWeek": -4.1919774456944685,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-11 04:27:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": -1.0293658867778488,
+                "Yesterday": -1.0042626899895348,
+                "LastWeek": -3.3584086676404215,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-11 04:27:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 7.71069845748434,
+                "Yesterday": 8.360649546827798,
+                "LastWeek": 6.400503413764186,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-11 03:17:15 (UTC)",
+                "history": true
             },
             {
                 "Name": "DNB SMB S",
@@ -495,7 +551,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-12-11 03:17:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Listed Private Equity A",
@@ -509,48 +565,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-12-11 03:17:19 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 8.252399783062927,
-                "Yesterday": 8.360649546827798,
-                "LastWeek": 6.400503413764186,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-11 00:53:24 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -2.858040947555029,
-                "Yesterday": -1.842503281190061,
-                "LastWeek": -4.1919774456944685,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-11 00:53:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Listed Private Equity A",
-                "PPMCode": "341362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": -1.0293658867778488,
-                "Yesterday": -1.0042626899895348,
-                "LastWeek": -3.3584086676404215,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-11 00:53:29 (UTC)",
                 "history": true
             },
             {
