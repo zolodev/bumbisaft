@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 4.724681793027106,
-                "Yesterday": 2.220531267293863,
-                "LastWeek": 4.323464305478694,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-16 10:12:56 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
                 "PPMCode": "679837",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-16 10:13:05 (UTC)",
+                "LastUpdated": "2025-12-16 14:13:53 (UTC)",
                 "history": false
             },
             {
@@ -41,21 +27,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-16 10:13:08 (UTC)",
+                "LastUpdated": "2025-12-16 14:13:54 (UTC)",
                 "history": false
             },
             {
                 "Name": "SEB Emerging Marketsfond",
                 "PPMCode": "950774",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 5.86869982143861,
-                "Yesterday": 4.353738946996448,
-                "LastWeek": 5.410115623184597,
+                "Current": 4.865388849803712,
+                "Yesterday": 6.191361041444019,
+                "LastWeek": 6.056830448489018,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-16 14:13:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 0.9777685359829192,
+                "Yesterday": -0.43644228168518395,
+                "LastWeek": 0.6819431332683974,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-16 10:13:10 (UTC)",
+                "LastUpdated": "2025-12-16 14:13:58 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-16 08:16:27 (UTC)",
+                "LastUpdated": "2025-12-16 10:12:56 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
+                "PPMCode": "679837",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
+                "Current": 8.229031793986467,
+                "Yesterday": 6.491152352179543,
+                "LastWeek": 9.414472737735569,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-16 10:13:05 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Evli GEM B",
+                "PPMCode": "367987",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/864973",
+                "Current": -0.009985130205421426,
+                "Yesterday": -1.5195974064792288,
+                "LastWeek": -0.12407559940779374,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-16 10:13:08 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Emerging Marketsfond",
+                "PPMCode": "950774",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
+                "Current": 5.86869982143861,
+                "Yesterday": 4.353738946996448,
+                "LastWeek": 5.410115623184597,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-16 10:13:10 (UTC)",
                 "history": true
             },
             {
@@ -98,20 +140,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-16 08:16:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": 8.229031793986467,
-                "Yesterday": 6.491152352179543,
-                "LastWeek": 9.414472737735569,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-16 08:16:38 (UTC)",
                 "history": true
             },
             {
@@ -491,34 +519,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-09 20:11:10 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 8.993999154587936,
-                "Yesterday": 7.353370805089685,
-                "LastWeek": 5.272364694045466,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 14:12:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -0.7128772069797352,
-                "Yesterday": -2.1378862911143437,
-                "LastWeek": -5.485278778654674,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-09 14:12:17 (UTC)",
-                "history": true
             }
         ]
     },
@@ -536,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-16 10:13:14 (UTC)",
+                "LastUpdated": "2025-12-16 14:14:02 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-16 10:13:19 (UTC)",
+                "LastUpdated": "2025-12-16 14:14:05 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-16 10:13:21 (UTC)",
+                "LastUpdated": "2025-12-16 14:14:07 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-16 08:16:41 (UTC)",
+                "LastUpdated": "2025-12-16 10:13:14 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-16 08:16:44 (UTC)",
+                "LastUpdated": "2025-12-16 10:13:19 (UTC)",
                 "history": true
             },
             {
@@ -606,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-16 08:16:45 (UTC)",
+                "LastUpdated": "2025-12-16 10:13:21 (UTC)",
                 "history": true
             },
             {
