@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 1.8647730573689285,
+                "Yesterday": 0.7580041024064447,
+                "LastWeek": 5.765360521046432,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-17 16:14:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": -5.5034347675344755,
+                "Yesterday": -6.472319534374327,
+                "LastWeek": -1.9723237920937058,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-17 16:14:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Global Emerging Mkts A Inc",
+                "PPMCode": "191080",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2138",
+                "Current": 2.9400400799787985,
+                "Yesterday": 2.1969970366474656,
+                "LastWeek": 6.191831516233662,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-17 16:14:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 20.550562082116272,
+                "Yesterday": 19.70223247395504,
+                "LastWeek": 19.414188538964446,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-17 16:14:54 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Small Cap Europe A",
                 "PPMCode": "896761",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/936",
@@ -466,21 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 14:12:23 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 18.136786570474392,
-                "Yesterday": 18.80790955568603,
-                "LastWeek": 18.336997028440503,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 14:12:25 (UTC)",
+                "LastUpdated": "2025-12-17 16:14:57 (UTC)",
                 "history": false
             },
             {
@@ -494,21 +536,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 14:12:26 (UTC)",
+                "LastUpdated": "2025-12-17 16:14:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 20.550562082116272,
+                "Yesterday": 19.70223247395504,
+                "LastWeek": 19.414188538964446,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-17 16:15:01 (UTC)",
                 "history": false
             },
             {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 8.459748426523026,
-                "Yesterday": 8.685682143657635,
-                "LastWeek": 5.651503501426063,
+                "Current": 8.535019555847951,
+                "Yesterday": 9.254375488888655,
+                "LastWeek": 6.9584911795295135,
                 "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 14:12:28 (UTC)",
+                "LastUpdated": "2025-12-17 16:15:05 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 14:12:33 (UTC)",
+                "LastUpdated": "2025-12-17 16:15:06 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 12:21:26 (UTC)",
+                "LastUpdated": "2025-12-17 14:12:23 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +606,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 12:21:28 (UTC)",
+                "LastUpdated": "2025-12-17 14:12:25 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 12:21:29 (UTC)",
+                "LastUpdated": "2025-12-17 14:12:26 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +634,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 12:21:31 (UTC)",
+                "LastUpdated": "2025-12-17 14:12:28 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +648,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-17 12:21:36 (UTC)",
+                "LastUpdated": "2025-12-17 14:12:33 (UTC)",
                 "history": true
             },
             {
