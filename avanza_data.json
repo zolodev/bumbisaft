@@ -3,6 +3,62 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": -3.251305426535494,
+                "Yesterday": -4.757233938205005,
+                "LastWeek": 2.2639413784150317,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-19 10:11:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Aktiespararna Topp Sverige A",
+                "PPMCode": "290072",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1961",
+                "Current": 8.392403955543895,
+                "Yesterday": 6.918580615179404,
+                "LastWeek": 7.325964216631515,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-19 10:11:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 29.72150111563711,
+                "Yesterday": 28.095672587656523,
+                "LastWeek": 21.470694526723562,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-19 10:11:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Avanza Zero",
+                "PPMCode": "734491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/41567",
+                "Current": 7.606273950628297,
+                "Yesterday": 6.298458247928002,
+                "LastWeek": 6.957936012833085,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-19 10:11:59 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
@@ -14,34 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-19 08:15:49 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": -4.286194440372639,
-                "Yesterday": -5.391706511448384,
-                "LastWeek": -1.188696144515495,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-19 08:15:53 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 29.72150111563711,
-                "Yesterday": 28.095672587656523,
-                "LastWeek": 21.470694526723562,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-19 06:16:59 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +83,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-19 06:17:02 (UTC)",
+                "LastUpdated": "2025-12-19 08:15:53 (UTC)",
                 "history": true
             },
             {
@@ -508,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-19 08:15:57 (UTC)",
+                "LastUpdated": "2025-12-19 10:12:05 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-19 08:16:03 (UTC)",
+                "LastUpdated": "2025-12-19 10:12:13 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-19 08:16:04 (UTC)",
+                "LastUpdated": "2025-12-19 10:12:14 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-19 06:17:09 (UTC)",
+                "LastUpdated": "2025-12-19 08:15:57 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-19 06:17:16 (UTC)",
+                "LastUpdated": "2025-12-19 08:16:03 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-19 06:17:17 (UTC)",
+                "LastUpdated": "2025-12-19 08:16:04 (UTC)",
                 "history": true
             },
             {
