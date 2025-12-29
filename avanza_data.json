@@ -14,7 +14,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-29 18:16:53 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -28,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-29 18:16:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "East Capital Global EM Sustainable A SEK",
@@ -42,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-29 18:16:58 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -56,20 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2025-12-29 18:17:00 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": -1.2811732937542522,
-                "Yesterday": -2.594284609069475,
-                "LastWeek": -0.7960432547479492,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-29 16:12:55 (UTC)",
                 "history": true
             },
             {
@@ -143,20 +129,6 @@
                 "history": true
             },
             {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 19.726509858666354,
-                "Yesterday": 17.587437588069317,
-                "LastWeek": 16.561771754633913,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-23 16:14:04 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Franklin India A(acc)USD",
                 "PPMCode": "170894",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
@@ -186,8 +158,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-29 18:17:09 (UTC)",
+                "LastUpdated": "2025-12-29 20:12:36 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 1.8756072626500828,
+                "Yesterday": 0.4776147145548777,
+                "LastWeek": 0.28075600503553055,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-29 18:17:09 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
