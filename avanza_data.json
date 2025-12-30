@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 1.5674771244343662,
+                "Yesterday": -0.4567593523800271,
+                "LastWeek": -1.0969215286292648,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-30 14:11:25 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Handelsbanken Asien Tema (A1 SEK)",
                 "PPMCode": "504100",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
@@ -144,7 +158,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-30 12:21:40 (UTC)",
+                "LastUpdated": "2025-12-30 14:11:31 (UTC)",
                 "history": false
             },
             {
@@ -158,7 +172,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-30 12:21:43 (UTC)",
+                "LastUpdated": "2025-12-30 14:11:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 1.5674771244343662,
+                "Yesterday": -0.4567593523800271,
+                "LastWeek": -1.0969215286292648,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-30 14:11:37 (UTC)",
                 "history": false
             },
             {
@@ -172,7 +200,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-30 12:21:47 (UTC)",
+                "LastUpdated": "2025-12-30 14:11:38 (UTC)",
                 "history": false
             },
             {
@@ -186,7 +214,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-30 08:16:20 (UTC)",
+                "LastUpdated": "2025-12-30 12:21:40 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 16.804777282896936,
+                "Yesterday": 15.065507715938494,
+                "LastWeek": 11.689046897639853,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-30 12:21:43 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "D&G Sm\u00e5bolag",
+                "PPMCode": "140491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
+                "Current": 3.0892649627027984,
+                "Yesterday": 1.8508046976946555,
+                "LastWeek": 3.176259308070359,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2025-12-30 12:21:47 (UTC)",
                 "history": true
             },
             {
@@ -215,20 +271,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-12-29 16:13:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 20.55433356772953,
-                "Yesterday": 19.277380125358626,
-                "LastWeek": 19.573138137419484,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-29 16:13:11 (UTC)",
                 "history": true
             },
             {
