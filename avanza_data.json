@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 1.5674771244343662,
-                "Yesterday": -0.4567593523800271,
-                "LastWeek": -1.0969215286292648,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-31 12:20:33 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
                 "PPMCode": "313742",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-31 12:20:41 (UTC)",
+                "LastUpdated": "2025-12-31 14:11:09 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-31 12:20:43 (UTC)",
+                "LastUpdated": "2025-12-31 14:11:11 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-31 10:11:21 (UTC)",
+                "LastUpdated": "2025-12-31 12:20:33 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2025-12-31 10:11:30 (UTC)",
+                "LastUpdated": "2025-12-31 12:20:41 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Access Asien A",
+                "PPMCode": "978981",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/596635",
+                "Current": 2.5952794523347213,
+                "Yesterday": 1.113722284663318,
+                "LastWeek": 1.1571472361295525,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2025-12-31 12:20:43 (UTC)",
                 "history": true
             },
             {
@@ -179,14 +179,14 @@
                 "Name": "DNB SMB S",
                 "PPMCode": "290833",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 1.5674771244343662,
-                "Yesterday": -0.4567593523800271,
-                "LastWeek": -1.0969215286292648,
+                "Current": 3.8088739108389134,
+                "Yesterday": 2.7877714841057113,
+                "LastWeek": -1.181210219767017,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-31 12:20:51 (UTC)",
+                "LastUpdated": "2025-12-31 14:11:18 (UTC)",
                 "history": false
             },
             {
@@ -200,7 +200,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-31 12:20:52 (UTC)",
+                "LastUpdated": "2025-12-31 14:11:27 (UTC)",
                 "history": false
             },
             {
@@ -214,7 +214,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-31 10:11:39 (UTC)",
+                "LastUpdated": "2025-12-31 12:20:51 (UTC)",
                 "history": true
             },
             {
@@ -228,7 +228,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-31 10:11:41 (UTC)",
+                "LastUpdated": "2025-12-31 12:20:52 (UTC)",
                 "history": true
             },
             {
