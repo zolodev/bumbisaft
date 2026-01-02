@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Emerging Marketsfond",
+                "PPMCode": "950774",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
+                "Current": 5.587927606097963,
+                "Yesterday": 4.248177242078757,
+                "LastWeek": 3.9550985314121414,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-02 10:11:42 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
                 "PPMCode": "313742",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-02 08:16:09 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Access Asien A",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-02 08:16:10 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "\u00d6hman Emerging Markets A",
@@ -42,48 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-02 08:16:11 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 0.4499594774161376,
-                "Yesterday": -1.0431861321303746,
-                "LastWeek": -1.8293460074824828,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-02 06:18:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Access Asien A",
-                "PPMCode": "978981",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/596635",
-                "Current": 2.5952794523347213,
-                "Yesterday": 1.113722284663318,
-                "LastWeek": 1.1571472361295525,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-02 06:18:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "\u00d6hman Emerging Markets A",
-                "PPMCode": "295857",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364655",
-                "Current": 3.4461152882205637,
-                "Yesterday": 2.001531606794765,
-                "LastWeek": 2.109440267335005,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2025-12-31 16:13:40 (UTC)",
                 "history": true
             },
             {
@@ -214,7 +186,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-02 08:16:17 (UTC)",
+                "LastUpdated": "2026-01-02 10:11:52 (UTC)",
                 "history": false
             },
             {
@@ -228,7 +200,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-02 06:18:20 (UTC)",
+                "LastUpdated": "2026-01-02 08:16:17 (UTC)",
                 "history": true
             },
             {
