@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": -6.309049445710799,
+                "Yesterday": -8.622578692552148,
+                "LastWeek": -8.736926694280301,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-05 00:58:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": -8.726396972433232,
+                "Yesterday": -10.808723337234696,
+                "LastWeek": -10.920132134461474,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-05 00:59:00 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF China A2",
                 "PPMCode": "391896",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-02 22:10:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-02 22:10:40 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken Asien Tema (A1 SEK)",
@@ -42,48 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-02 22:10:43 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": -8.785868870881577,
-                "Yesterday": -10.64435069388071,
-                "LastWeek": -11.084088656239093,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-02 20:11:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Hong Kong China A USD Inc",
-                "PPMCode": "334409",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
-                "Current": -7.083379512981554,
-                "Yesterday": -9.30593440123711,
-                "LastWeek": -10.50626904450174,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-02 20:11:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Asien Tema (A1 SEK)",
-                "PPMCode": "504100",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
-                "Current": 3.043261215609071,
-                "Yesterday": 0.8806713824185882,
-                "LastWeek": -1.9695014552270513,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-02 20:11:35 (UTC)",
                 "history": true
             },
             {
@@ -298,21 +284,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-02 22:10:56 (UTC)",
+                "LastUpdated": "2026-01-05 00:59:11 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF Asian Dragon A2",
                 "PPMCode": "608463",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/58",
-                "Current": 1.0432733632481257,
+                "Current": 0.7917284429711309,
                 "Yesterday": -1.232109984162952,
                 "LastWeek": -3.700902996443192,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-02 22:10:57 (UTC)",
+                "LastUpdated": "2026-01-05 00:59:12 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-02 20:11:44 (UTC)",
+                "LastUpdated": "2026-01-02 22:10:56 (UTC)",
                 "history": true
             },
             {
@@ -340,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-02 20:11:46 (UTC)",
+                "LastUpdated": "2026-01-02 22:10:57 (UTC)",
                 "history": true
             },
             {
