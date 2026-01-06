@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": 5.707115578307068,
+                "Yesterday": 2.6614525854242888,
+                "LastWeek": 0.36353561275951957,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-06 18:16:37 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-06 16:14:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Mining A2",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-06 16:14:26 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -42,48 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-06 16:14:31 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 19.44866165474121,
-                "Yesterday": 15.09484356636419,
-                "LastWeek": 16.721578276949177,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-06 14:13:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 16.427843597782513,
-                "Yesterday": 13.08238455037418,
-                "LastWeek": 11.24108263420501,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-06 14:13:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 3.4388209661580427,
-                "Yesterday": 1.0737903937715754,
-                "LastWeek": -2.3431119797755495,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-05 20:13:14 (UTC)",
                 "history": true
             },
             {
@@ -274,6 +246,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "BGF Asian Dragon A2",
+                "PPMCode": "608463",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58",
+                "Current": 4.506718289882707,
+                "Yesterday": 2.655029467214589,
+                "LastWeek": -2.7986258076036536,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-01-06 18:16:45 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Emerging Markets A2",
+                "PPMCode": "231100",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2145",
+                "Current": 6.579763630315703,
+                "Yesterday": 4.641949746128151,
+                "LastWeek": -0.1635883402599893,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-01-06 18:16:48 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Global Emerging Mkts A Inc",
                 "PPMCode": "191080",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2138",
@@ -284,7 +284,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-06 16:14:42 (UTC)",
+                "LastUpdated": "2026-01-06 18:16:55 (UTC)",
                 "history": false
             },
             {
@@ -298,35 +298,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-06 16:14:44 (UTC)",
+                "LastUpdated": "2026-01-06 18:16:57 (UTC)",
                 "history": false
             },
             {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 4.4717091762987025,
-                "Yesterday": 2.6491963904349145,
-                "LastWeek": -1.7741541397633656,
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 16.21895530974304,
+                "Yesterday": 14.325451404662589,
+                "LastWeek": 11.30736975290456,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-06 14:13:21 (UTC)",
-                "history": true
+                "LastUpdated": "2026-01-06 18:16:58 (UTC)",
+                "history": false
             },
             {
                 "Name": "Barings Global Emerging Mkts A Inc",
                 "PPMCode": "191080",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2138",
-                "Current": 5.184556965122284,
-                "Yesterday": 3.3223405123811,
-                "LastWeek": -1.0326754809781034,
+                "Current": 6.4174247246738965,
+                "Yesterday": 5.258154055332759,
+                "LastWeek": -0.3023570977793277,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-06 14:13:25 (UTC)",
+                "LastUpdated": "2026-01-06 16:14:42 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 5.736931552620991,
+                "Yesterday": 4.56296612533981,
+                "LastWeek": -1.1083202757430675,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-01-06 16:14:44 (UTC)",
                 "history": true
             },
             {
@@ -425,20 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2025-12-30 22:10:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "D&G Sm\u00e5bolag",
-                "PPMCode": "140491",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
-                "Current": 3.0892649627027984,
-                "Yesterday": 1.8508046976946555,
-                "LastWeek": 3.176259308070359,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2025-12-30 16:14:18 (UTC)",
                 "history": true
             }
         ]
