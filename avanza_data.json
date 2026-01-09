@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-01-09 14:14:04 (UTC)",
+                "LastUpdated": "2026-01-09 16:14:00 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Indecap Sverige C",
+                "PPMCode": "106849",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
+                "Current": 7.676137757068272,
+                "Yesterday": 5.458431138983283,
+                "LastWeek": 4.186665732403737,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-09 14:14:04 (UTC)",
+                "history": true
             },
             {
                 "Name": "Evli Aktieindex B",
@@ -425,20 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-01-02 18:16:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 3.8088739108389134,
-                "Yesterday": 2.7877714841057113,
-                "LastWeek": -1.181210219767017,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-02 16:13:09 (UTC)",
                 "history": true
             }
         ]
