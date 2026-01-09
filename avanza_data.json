@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Indecap Sverige C",
+                "PPMCode": "106849",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/483296",
+                "Current": 7.676137757068272,
+                "Yesterday": 5.458431138983283,
+                "LastWeek": 4.186665732403737,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-09 14:14:04 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Evli Aktieindex B",
                 "PPMCode": "610410",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/416835",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-09 10:12:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -266,20 +280,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-02 18:16:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 5.587927606097963,
-                "Yesterday": 4.248177242078757,
-                "LastWeek": 3.9550985314121414,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-02 14:11:33 (UTC)",
                 "history": true
             }
         ]
