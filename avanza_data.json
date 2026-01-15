@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": 0.13846951625649048,
+                "Yesterday": -1.94487583001587,
+                "LastWeek": 0.014160740767657146,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-15 18:21:59 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": -3.22973892662489,
+                "Yesterday": -5.10277715675551,
+                "LastWeek": -5.6624470259238215,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-15 18:22:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag A",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": -2.3080288777072844,
+                "Yesterday": -3.9269306497484178,
+                "LastWeek": -2.2533362502734655,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-01-15 18:22:07 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Storebrand Japan A SEK",
                 "PPMCode": "176503",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-15 16:21:01 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Skandia Japan Exponering",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-15 16:21:02 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
@@ -42,48 +84,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-15 16:21:05 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 6.983358710700764,
-                "Yesterday": 5.232803955000537,
-                "LastWeek": 1.4494115306283073,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-15 14:15:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 7.216403337475585,
-                "Yesterday": 5.4707379134860075,
-                "LastWeek": 2.0208296348896337,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-15 14:15:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 7.173381374084174,
-                "Yesterday": 5.495708278126619,
-                "LastWeek": 2.2034679417017013,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-15 14:15:18 (UTC)",
                 "history": true
             },
             {
@@ -239,34 +239,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-09 08:16:35 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 10.207365809848461,
-                "Yesterday": 6.058046401063046,
-                "LastWeek": 6.442329201152518,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-08 18:15:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 6.637455762332377,
-                "Yesterday": 2.869730601632283,
-                "LastWeek": 3.8134675108938954,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-08 18:15:13 (UTC)",
-                "history": true
             }
         ]
     },
@@ -284,7 +256,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-15 16:21:08 (UTC)",
+                "LastUpdated": "2026-01-15 18:22:09 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 21.603511633296264,
+                "Yesterday": 20.10720130728366,
+                "LastWeek": 12.969898201286295,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-01-15 18:22:10 (UTC)",
                 "history": false
             },
             {
@@ -298,7 +284,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-15 16:21:10 (UTC)",
+                "LastUpdated": "2026-01-15 18:22:11 (UTC)",
                 "history": false
             },
             {
@@ -312,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-15 16:21:16 (UTC)",
+                "LastUpdated": "2026-01-15 18:22:16 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-15 16:21:17 (UTC)",
+                "LastUpdated": "2026-01-15 18:22:17 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-15 14:15:23 (UTC)",
+                "LastUpdated": "2026-01-15 16:21:08 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-15 14:15:25 (UTC)",
+                "LastUpdated": "2026-01-15 16:21:10 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-15 14:15:31 (UTC)",
+                "LastUpdated": "2026-01-15 16:21:16 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-15 14:15:33 (UTC)",
+                "LastUpdated": "2026-01-15 16:21:17 (UTC)",
                 "history": true
             },
             {
