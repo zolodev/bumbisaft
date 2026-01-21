@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-01-21 14:19:50 (UTC)",
+                "LastUpdated": "2026-01-21 16:23:06 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-01-21 12:24:25 (UTC)",
+                "LastUpdated": "2026-01-21 14:19:50 (UTC)",
                 "history": true
             },
             {
@@ -407,20 +407,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-14 20:11:02 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Japanese Equity Opps R JPY",
-                "PPMCode": "910109",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
-                "Current": 4.676580103298407,
-                "Yesterday": 3.4386187218719866,
-                "LastWeek": 0.8820827077412065,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-14 16:16:30 (UTC)",
-                "history": true
             }
         ]
     },
@@ -438,7 +424,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-21 14:20:01 (UTC)",
+                "LastUpdated": "2026-01-21 16:23:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 23.425764968192894,
+                "Yesterday": 24.04066730579732,
+                "LastWeek": 17.18644355375682,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-01-21 16:23:23 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-01-21 12:24:45 (UTC)",
+                "LastUpdated": "2026-01-21 14:20:01 (UTC)",
                 "history": true
             },
             {
