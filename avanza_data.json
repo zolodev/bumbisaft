@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": -2.9870816261029893,
+                "Yesterday": -4.080756917610291,
+                "LastWeek": -4.991430468465178,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-02 08:29:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Time Global",
+                "PPMCode": "439471",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
+                "Current": -9.465829785366294,
+                "Yesterday": -10.43760698766625,
+                "LastWeek": -9.457929157705307,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-02 08:29:37 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Fastighet A",
                 "PPMCode": "968420",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-02 06:49:53 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-02 06:49:55 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Skandia Time Global",
@@ -42,48 +70,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-02 06:49:57 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Fastighet A",
-                "PPMCode": "968420",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/347",
-                "Current": -4.336124401913874,
-                "Yesterday": -5.502392344497597,
-                "LastWeek": -3.154904306220095,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-02 04:11:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": -2.9870816261029893,
-                "Yesterday": -4.080756917610291,
-                "LastWeek": -4.991430468465178,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-02 04:11:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Time Global",
-                "PPMCode": "439471",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
-                "Current": -9.465829785366294,
-                "Yesterday": -10.43760698766625,
-                "LastWeek": -9.457929157705307,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-02 04:11:33 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 06:49:59 (UTC)",
+                "LastUpdated": "2026-02-02 08:29:40 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +354,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 06:50:08 (UTC)",
+                "LastUpdated": "2026-02-02 08:29:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 13.89045972066622,
+                "Yesterday": 15.722540986622976,
+                "LastWeek": 8.544900020536053,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-02 08:29:53 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 04:11:34 (UTC)",
+                "LastUpdated": "2026-02-02 06:49:59 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 04:11:42 (UTC)",
+                "LastUpdated": "2026-02-02 06:50:08 (UTC)",
                 "history": true
             },
             {
