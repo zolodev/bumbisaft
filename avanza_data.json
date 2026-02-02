@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-02 10:33:09 (UTC)",
+                "LastUpdated": "2026-02-02 12:31:50 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Skandia Time Global",
+                "PPMCode": "439471",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
+                "Current": -9.465829785366294,
+                "Yesterday": -10.43760698766625,
+                "LastWeek": -9.457929157705307,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-02 10:33:09 (UTC)",
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -28,20 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-02 08:29:34 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Time Global",
-                "PPMCode": "439471",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
-                "Current": -9.465829785366294,
-                "Yesterday": -10.43760698766625,
-                "LastWeek": -9.457929157705307,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-02 08:29:37 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 10:33:16 (UTC)",
+                "LastUpdated": "2026-02-02 12:32:01 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 10:33:19 (UTC)",
+                "LastUpdated": "2026-02-02 12:32:03 (UTC)",
                 "history": false
             },
             {
@@ -354,22 +354,8 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 10:33:21 (UTC)",
+                "LastUpdated": "2026-02-02 12:32:06 (UTC)",
                 "history": false
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 50.97288735318936,
-                "Yesterday": 50.86287659485939,
-                "LastWeek": 40.90198896007573,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 08:29:40 (UTC)",
-                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -382,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 08:29:49 (UTC)",
+                "LastUpdated": "2026-02-02 10:33:16 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +382,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 08:29:53 (UTC)",
+                "LastUpdated": "2026-02-02 10:33:19 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Emerging Marketsfond",
+                "PPMCode": "950774",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
+                "Current": 9.607647535137092,
+                "Yesterday": 9.498244732293122,
+                "LastWeek": 6.493094424010742,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-02 10:33:21 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 50.97288735318936,
+                "Yesterday": 50.86287659485939,
+                "LastWeek": 40.90198896007573,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-02 08:29:40 (UTC)",
                 "history": true
             },
             {
