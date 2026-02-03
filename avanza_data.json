@@ -3,17 +3,31 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": -11.312200891335337,
+                "Yesterday": -13.826429641308938,
+                "LastWeek": -11.538978586363152,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 04:04:00 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Healthscience A2",
                 "PPMCode": "374421",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 1.2057452314805894,
+                "Current": 2.509652740153567,
                 "Yesterday": -0.010220208765812281,
                 "LastWeek": 3.924075171449103,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-03 01:07:05 (UTC)",
+                "LastUpdated": "2026-02-03 04:04:02 (UTC)",
                 "history": false
             },
             {
@@ -27,21 +41,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-03 01:07:06 (UTC)",
+                "LastUpdated": "2026-02-03 04:04:03 (UTC)",
                 "history": false
             },
             {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 4.478465115533599,
+                "Current": 5.8245374587047705,
                 "Yesterday": 3.363498269122734,
                 "LastWeek": 8.443488588933207,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-03 01:07:07 (UTC)",
+                "LastUpdated": "2026-02-03 04:04:05 (UTC)",
                 "history": false
             },
             {
@@ -55,8 +69,64 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-03 01:07:09 (UTC)",
+                "LastUpdated": "2026-02-03 04:04:07 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF World Healthscience A2",
+                "PPMCode": "374421",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
+                "Current": 1.2057452314805894,
+                "Yesterday": -0.010220208765812281,
+                "LastWeek": 3.924075171449103,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:05 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 6.45016297707001,
+                "Yesterday": 3.858511265228115,
+                "LastWeek": 8.767800125853595,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:06 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 4.478465115533599,
+                "Yesterday": 3.363498269122734,
+                "LastWeek": 8.443488588933207,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:07 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 2.3814087206516525,
+                "Yesterday": 0.10781025395305355,
+                "LastWeek": 3.2606612362242484,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:09 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Premium Brands R EUR",
@@ -70,7 +140,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-03 01:07:13 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Skandia Time Global",
@@ -358,6 +428,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": -11.312200891335337,
+                "Yesterday": -13.826429641308938,
+                "LastWeek": -11.538978586363152,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-03 04:04:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 13.89045972066622,
+                "Yesterday": 15.722540986622976,
+                "LastWeek": 8.544900020536053,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-03 04:04:16 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
@@ -369,7 +467,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-03 01:07:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Alfred Berg Aktiv R (NOK)",
@@ -383,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-03 01:07:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Alfred Berg Norge R (NOK)",
@@ -397,20 +495,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-03 01:07:23 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 13.89045972066622,
-                "Yesterday": 15.722540986622976,
-                "LastWeek": 8.544900020536053,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 18:27:23 (UTC)",
                 "history": true
             },
             {
