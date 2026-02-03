@@ -3,6 +3,76 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Healthscience A2",
+                "PPMCode": "374421",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
+                "Current": 1.2057452314805894,
+                "Yesterday": -0.010220208765812281,
+                "LastWeek": 3.924075171449103,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 6.45016297707001,
+                "Yesterday": 3.858511265228115,
+                "LastWeek": 8.767800125853595,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 4.478465115533599,
+                "Yesterday": 3.363498269122734,
+                "LastWeek": 8.443488588933207,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 2.3814087206516525,
+                "Yesterday": 0.10781025395305355,
+                "LastWeek": 3.2606612362242484,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:09 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Premium Brands R EUR",
+                "PPMCode": "923383",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
+                "Current": -4.862219309726517,
+                "Yesterday": -6.65192570400016,
+                "LastWeek": -2.463452353572997,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-03 01:07:13 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Skandia Time Global",
                 "PPMCode": "439471",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
@@ -281,20 +351,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-01-27 18:22:26 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 15.687373930568157,
-                "Yesterday": 14.068878439555627,
-                "LastWeek": 12.033630068431988,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-01-26 20:13:55 (UTC)",
-                "history": true
             }
         ]
     },
@@ -312,8 +368,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 18:27:23 (UTC)",
+                "LastUpdated": "2026-02-03 01:07:18 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 7.02640844409923,
+                "Yesterday": 7.002288142650473,
+                "LastWeek": 4.484077741068085,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-03 01:07:21 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 6.963230045287472,
+                "Yesterday": 7.053931854410508,
+                "LastWeek": 4.257025628848974,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-03 01:07:23 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 13.89045972066622,
+                "Yesterday": 15.722540986622976,
+                "LastWeek": 8.544900020536053,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-02 18:27:23 (UTC)",
+                "history": true
             },
             {
                 "Name": "East Capital Global EM Sustainable A SEK",
@@ -327,7 +425,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-02 18:27:27 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -341,34 +439,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-02 18:27:29 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 10.76854415563374,
-                "Yesterday": 12.55594875777239,
-                "LastWeek": 5.541317667642733,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 16:23:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 13.89045972066622,
-                "Yesterday": 15.722540986622976,
-                "LastWeek": 8.544900020536053,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 16:23:22 (UTC)",
                 "history": true
             },
             {
