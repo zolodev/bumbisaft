@@ -13,8 +13,36 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 10:45:47 (UTC)",
+                "LastUpdated": "2026-02-09 12:39:36 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 12.189964988821357,
+                "Yesterday": 8.401182780573802,
+                "LastWeek": 6.719901925394464,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-09 12:39:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": -9.32949305526357,
+                "Yesterday": -12.551682574387875,
+                "LastWeek": -3.440132307390427,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-09 10:45:47 (UTC)",
+                "history": true
             },
             {
                 "Name": "Alfred Berg Norge R (NOK)",
@@ -28,34 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-09 10:45:50 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 11.756647850759252,
-                "Yesterday": 8.398951817502368,
-                "LastWeek": 6.740327167597209,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 10:45:54 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 12.189964988821357,
-                "Yesterday": 8.401182780573802,
-                "LastWeek": 6.719901925394464,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 08:36:43 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 08:36:47 (UTC)",
+                "LastUpdated": "2026-02-09 10:45:54 (UTC)",
                 "history": true
             },
             {
@@ -424,8 +424,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-09 10:46:02 (UTC)",
+                "LastUpdated": "2026-02-09 12:39:46 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Carnegie Indienfond A",
+                "PPMCode": "505586",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
+                "Current": -7.613424121577184,
+                "Yesterday": -7.506696686102904,
+                "LastWeek": -12.544579553509925,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-09 12:39:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sverige A SEK",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": 9.413404282275424,
+                "Yesterday": 8.665906499429859,
+                "LastWeek": 6.385404789053581,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-09 10:46:02 (UTC)",
+                "history": true
             },
             {
                 "Name": "Carnegie Indienfond A",
@@ -439,20 +467,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-09 10:46:04 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": -7.613424121577184,
-                "Yesterday": -7.506696686102904,
-                "LastWeek": -12.544579553509925,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-09 08:37:00 (UTC)",
                 "history": true
             },
             {
@@ -621,20 +635,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-02 18:27:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 9.607647535137092,
-                "Yesterday": 9.498244732293122,
-                "LastWeek": 6.493094424010742,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 12:32:06 (UTC)",
                 "history": true
             }
         ]
