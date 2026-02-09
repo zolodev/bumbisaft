@@ -13,21 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 14:44:14 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 12.189964988821357,
-                "Yesterday": 8.401182780573802,
-                "LastWeek": 6.719901925394464,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 14:44:17 (UTC)",
+                "LastUpdated": "2026-02-09 18:41:19 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 12:39:36 (UTC)",
+                "LastUpdated": "2026-02-09 14:44:14 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 12:39:38 (UTC)",
+                "LastUpdated": "2026-02-09 14:44:17 (UTC)",
                 "history": true
             },
             {
@@ -393,26 +379,54 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-03 01:07:13 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Skandia Time Global",
-                "PPMCode": "439471",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
-                "Current": -9.465829785366294,
-                "Yesterday": -10.43760698766625,
-                "LastWeek": -9.457929157705307,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-02 16:23:12 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 4.675096393740063,
+                "Yesterday": 2.3446359718757033,
+                "LastWeek": -1.1085280108868294,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-09 18:41:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 8.453764529156068,
+                "Yesterday": 7.7599640353023815,
+                "LastWeek": 2.7744344557167993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-09 18:41:29 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sverige A SEK",
+                "PPMCode": "806869",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
+                "Current": 9.413404282275424,
+                "Yesterday": 8.665906499429859,
+                "LastWeek": 6.385404789053581,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-09 18:41:31 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Lannebo Sverige A SEK",
                 "PPMCode": "806869",
@@ -425,7 +439,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-09 14:44:26 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Indienfond A",
@@ -439,34 +453,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-09 14:44:29 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Lannebo Sverige A SEK",
-                "PPMCode": "806869",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
-                "Current": 9.413404282275424,
-                "Yesterday": 8.665906499429859,
-                "LastWeek": 6.385404789053581,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-09 12:39:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": -7.613424121577184,
-                "Yesterday": -7.506696686102904,
-                "LastWeek": -12.544579553509925,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-09 12:39:48 (UTC)",
                 "history": true
             },
             {
@@ -621,20 +607,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-03 01:07:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global EM Sustainable A SEK",
-                "PPMCode": "623637",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
-                "Current": 3.7542817933647665,
-                "Yesterday": 3.0785607534613577,
-                "LastWeek": 0.9374626538995012,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-02 18:27:27 (UTC)",
                 "history": true
             }
         ]
