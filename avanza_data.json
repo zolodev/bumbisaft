@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-10 06:52:58 (UTC)",
+                "LastUpdated": "2026-02-10 08:37:03 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-10 04:22:47 (UTC)",
+                "LastUpdated": "2026-02-10 06:52:58 (UTC)",
                 "history": true
             },
             {
@@ -372,6 +372,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 4.369609654832321,
+                "Yesterday": 2.29731771917313,
+                "LastWeek": -0.7160393341092651,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-10 08:37:15 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 4.675096393740063,
+                "Yesterday": 2.3446359718757033,
+                "LastWeek": -1.1085280108868294,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-10 08:37:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 8.453764529156068,
+                "Yesterday": 7.7599640353023815,
+                "LastWeek": 2.7744344557167993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-10 08:37:18 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Skandia Japan Exponering",
                 "PPMCode": "582791",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
@@ -383,7 +425,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-10 06:53:07 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Japan Small & MidCap Opps A2",
@@ -397,7 +439,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-10 06:53:08 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sverige A SEK",
@@ -411,48 +453,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-10 06:53:11 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 4.675096393740063,
-                "Yesterday": 2.3446359718757033,
-                "LastWeek": -1.1085280108868294,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 04:22:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Japan Small & MidCap Opps A2",
-                "PPMCode": "159442",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
-                "Current": 8.453764529156068,
-                "Yesterday": 7.7599640353023815,
-                "LastWeek": 2.7744344557167993,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 04:23:00 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sverige A SEK",
-                "PPMCode": "806869",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1971",
-                "Current": 9.413404282275424,
-                "Yesterday": 8.665906499429859,
-                "LastWeek": 6.385404789053581,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 04:23:04 (UTC)",
                 "history": true
             },
             {
@@ -579,20 +579,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-03 16:39:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 7.02640844409923,
-                "Yesterday": 7.002288142650473,
-                "LastWeek": 4.484077741068085,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-03 08:24:56 (UTC)",
                 "history": true
             }
         ]
