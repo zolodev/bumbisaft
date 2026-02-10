@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 30.675119797283568,
+                "Yesterday": 27.02555303084887,
+                "LastWeek": 30.798402382571226,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-10 16:52:20 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -267,34 +281,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-03 18:40:23 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Japanese Equity Opps R JPY",
-                "PPMCode": "910109",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
-                "Current": 0.5775556981320173,
-                "Yesterday": -1.972220053574723,
-                "LastWeek": 0.17152851096552596,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-03 16:38:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 2.509652740153567,
-                "Yesterday": -0.010220208765812281,
-                "LastWeek": 3.924075171449103,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-03 16:38:53 (UTC)",
-                "history": true
             }
         ]
     },
@@ -312,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 14:50:56 (UTC)",
+                "LastUpdated": "2026-02-10 16:52:33 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 14:50:57 (UTC)",
+                "LastUpdated": "2026-02-10 16:52:36 (UTC)",
                 "history": false
             },
             {
@@ -340,21 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 14:50:58 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 3.8706662666599314,
-                "Yesterday": 1.977879760576939,
-                "LastWeek": -0.8795807742334112,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 14:51:00 (UTC)",
+                "LastUpdated": "2026-02-10 16:52:37 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 12:44:46 (UTC)",
+                "LastUpdated": "2026-02-10 14:50:56 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 12:44:48 (UTC)",
+                "LastUpdated": "2026-02-10 14:50:57 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 12:44:49 (UTC)",
+                "LastUpdated": "2026-02-10 14:50:58 (UTC)",
                 "history": true
             },
             {
@@ -410,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 12:44:52 (UTC)",
+                "LastUpdated": "2026-02-10 14:51:00 (UTC)",
                 "history": true
             },
             {
@@ -537,20 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-03 20:23:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 13.89045972066622,
-                "Yesterday": 15.722540986622976,
-                "LastWeek": 8.544900020536053,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-03 16:39:03 (UTC)",
                 "history": true
             }
         ]
