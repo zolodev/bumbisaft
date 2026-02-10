@@ -14,7 +14,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-10 18:51:06 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -112,20 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-06 20:20:45 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Japan Small & MidCap Opps A2",
-                "PPMCode": "159442",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
-                "Current": 7.142123170438919,
-                "Yesterday": 5.336983754978607,
-                "LastWeek": 2.359784000556906,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-06 18:32:22 (UTC)",
                 "history": true
             },
             {
@@ -253,20 +239,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-04 16:32:56 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": -7.208006394452145,
-                "Yesterday": -10.536945308550498,
-                "LastWeek": -9.44148789116062,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-03 20:23:24 (UTC)",
-                "history": true
             }
         ]
     },
@@ -284,8 +256,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 18:51:11 (UTC)",
+                "LastUpdated": "2026-02-10 20:33:48 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 4.369609654832321,
+                "Yesterday": 2.29731771917313,
+                "LastWeek": -0.7160393341092651,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-10 20:33:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 10.526290980858358,
+                "Yesterday": 7.264368911255266,
+                "LastWeek": 1.2023456689994103,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-10 18:51:11 (UTC)",
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
@@ -299,20 +299,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-10 18:51:20 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 4.369609654832321,
-                "Yesterday": 2.29731771917313,
-                "LastWeek": -0.7160393341092651,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 16:52:33 (UTC)",
                 "history": true
             },
             {
@@ -327,20 +313,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-10 16:52:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Japan Small & MidCap Opps A2",
-                "PPMCode": "159442",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
-                "Current": 8.453764529156068,
-                "Yesterday": 7.7599640353023815,
-                "LastWeek": 2.7744344557167993,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-10 16:52:37 (UTC)",
                 "history": true
             },
             {
@@ -467,20 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-04 01:02:58 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 12.242504974494327,
-                "Yesterday": 9.195478523663176,
-                "LastWeek": 5.99090684999178,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-03 20:23:39 (UTC)",
                 "history": true
             }
         ]
