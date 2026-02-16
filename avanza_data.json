@@ -13,7 +13,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-13 22:21:14 (UTC)",
+                "LastUpdated": "2026-02-16 01:07:46 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 18.60840295366126,
+                "Yesterday": 15.963250041247798,
+                "LastWeek": 16.77903956118898,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-16 01:07:48 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-13 22:21:22 (UTC)",
+                "LastUpdated": "2026-02-16 01:07:53 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-13 20:24:22 (UTC)",
+                "LastUpdated": "2026-02-13 22:21:14 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-13 20:24:27 (UTC)",
+                "LastUpdated": "2026-02-13 22:21:22 (UTC)",
                 "history": true
             },
             {
@@ -256,8 +270,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-13 22:21:27 (UTC)",
+                "LastUpdated": "2026-02-16 01:07:57 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 8.087379477101388,
+                "Yesterday": 6.465516377892494,
+                "LastWeek": -1.8602545379513218,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-16 01:07:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 24.43344081805509,
+                "Yesterday": 26.66643211554619,
+                "LastWeek": 22.61718207094356,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-16 01:08:08 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 8.830599744484731,
+                "Yesterday": 7.126832950591094,
+                "LastWeek": -1.8345757531133524,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-13 22:21:27 (UTC)",
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
@@ -271,7 +327,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-13 22:21:28 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
@@ -285,34 +341,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-13 20:24:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 8.830599744484731,
-                "Yesterday": 7.126832950591094,
-                "LastWeek": -1.8345757531133524,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-13 20:24:40 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 8.087379477101388,
-                "Yesterday": 6.465516377892494,
-                "LastWeek": -1.8602545379513218,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-13 20:24:41 (UTC)",
                 "history": true
             },
             {
