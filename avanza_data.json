@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-16 10:37:56 (UTC)",
+                "LastUpdated": "2026-02-16 12:35:07 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-16 10:37:58 (UTC)",
+                "LastUpdated": "2026-02-16 12:35:09 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-16 10:37:59 (UTC)",
+                "LastUpdated": "2026-02-16 12:35:12 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-16 08:32:53 (UTC)",
+                "LastUpdated": "2026-02-16 10:37:56 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-16 08:32:54 (UTC)",
+                "LastUpdated": "2026-02-16 10:37:58 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": -2.381596752368072,
+                "Yesterday": -4.140730717185388,
+                "LastWeek": -3.734776725304472,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-16 10:37:59 (UTC)",
                 "history": true
             },
             {
@@ -225,20 +239,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-09 14:44:17 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 11.756647850759252,
-                "Yesterday": 8.398951817502368,
-                "LastWeek": 6.740327167597209,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-09 10:45:54 (UTC)",
-                "history": true
             }
         ]
     },
@@ -256,7 +256,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-16 10:38:11 (UTC)",
+                "LastUpdated": "2026-02-16 12:35:20 (UTC)",
                 "history": false
             },
             {
@@ -270,21 +270,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-16 10:38:14 (UTC)",
+                "LastUpdated": "2026-02-16 12:35:23 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 24.43344081805509,
+                "Yesterday": 26.66643211554619,
+                "LastWeek": 22.61718207094356,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-16 10:38:11 (UTC)",
+                "history": true
             },
             {
                 "Name": "Storebrand Japan A SEK",
                 "PPMCode": "176503",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 8.830599744484731,
-                "Yesterday": 7.126832950591094,
-                "LastWeek": -1.8345757531133524,
-                "TrendDay": "\u25b2",
+                "Current": 6.902128069318075,
+                "Yesterday": 8.205073414335434,
+                "LastWeek": -0.012728712876502462,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-16 08:33:02 (UTC)",
+                "LastUpdated": "2026-02-16 10:38:14 (UTC)",
                 "history": true
             },
             {
@@ -299,20 +313,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-16 08:33:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 24.43344081805509,
-                "Yesterday": 26.66643211554619,
-                "LastWeek": 22.61718207094356,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-16 08:33:11 (UTC)",
                 "history": true
             },
             {
