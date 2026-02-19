@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 18:37:16 (UTC)",
+                "LastUpdated": "2026-02-19 20:19:57 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 18:37:17 (UTC)",
+                "LastUpdated": "2026-02-19 20:19:58 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
+                "PPMCode": "679837",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
+                "Current": 12.574705866588056,
+                "Yesterday": 8.471578270307939,
+                "LastWeek": 8.32685659153646,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-19 18:37:16 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 14.148387815634278,
+                "Yesterday": 10.069345314284552,
+                "LastWeek": 9.62389301375822,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-19 18:37:17 (UTC)",
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -42,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-19 18:37:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Alfred Berg Norge R (NOK)",
@@ -56,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-19 18:37:27 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Mining A2",
@@ -84,48 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-19 16:38:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 14.148387815634278,
-                "Yesterday": 10.069345314284552,
-                "LastWeek": 9.62389301375822,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 16:38:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 11.827405380756954,
-                "Yesterday": 8.698130414956676,
-                "LastWeek": 8.022685818513446,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 16:38:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 18.300121307735406,
-                "Yesterday": 15.249433680688856,
-                "LastWeek": 13.829744133482476,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 16:38:41 (UTC)",
                 "history": true
             },
             {
@@ -312,21 +298,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-19 18:37:40 (UTC)",
+                "LastUpdated": "2026-02-19 20:20:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 17.673097142370185,
+                "Yesterday": 17.30572280025289,
+                "LastWeek": 13.285616355796737,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-19 20:20:21 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 18.58896595546411,
+                "Yesterday": 18.085803686673497,
+                "LastWeek": 14.093706791358265,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-19 20:20:23 (UTC)",
                 "history": false
             },
             {
                 "Name": "East Capital Global Frontier Mkts A SEK",
                 "PPMCode": "870907",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
-                "Current": 14.94784906595494,
-                "Yesterday": 14.170713822891976,
-                "LastWeek": 8.15581703807068,
+                "Current": 15.27949841304398,
+                "Yesterday": 14.931927832698205,
+                "LastWeek": 9.154181285860851,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-19 16:38:45 (UTC)",
+                "LastUpdated": "2026-02-19 18:37:40 (UTC)",
                 "history": true
             },
             {
