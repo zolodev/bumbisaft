@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 12:36:00 (UTC)",
+                "LastUpdated": "2026-02-19 14:39:55 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 12:36:01 (UTC)",
+                "LastUpdated": "2026-02-19 14:39:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 14.148387815634278,
+                "Yesterday": 10.069345314284552,
+                "LastWeek": 9.62389301375822,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-19 14:39:58 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 12:36:04 (UTC)",
+                "LastUpdated": "2026-02-19 14:40:02 (UTC)",
                 "history": false
             },
             {
@@ -55,21 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 12:36:08 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 17.673078472531902,
-                "Yesterday": 14.71039904148101,
-                "LastWeek": 13.180120433957098,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 12:36:10 (UTC)",
+                "LastUpdated": "2026-02-19 14:40:09 (UTC)",
                 "history": false
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 10:31:45 (UTC)",
+                "LastUpdated": "2026-02-19 12:36:00 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 10:31:46 (UTC)",
+                "LastUpdated": "2026-02-19 12:36:01 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 10:31:49 (UTC)",
+                "LastUpdated": "2026-02-19 12:36:04 (UTC)",
                 "history": true
             },
             {
@@ -125,7 +125,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 10:31:51 (UTC)",
+                "LastUpdated": "2026-02-19 12:36:08 (UTC)",
                 "history": true
             },
             {
@@ -139,7 +139,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 10:31:53 (UTC)",
+                "LastUpdated": "2026-02-19 12:36:10 (UTC)",
                 "history": true
             },
             {
@@ -309,26 +309,26 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-12 16:44:14 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Japanese Equity Opps R JPY",
-                "PPMCode": "910109",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
-                "Current": 5.143071059630168,
-                "Yesterday": 2.525176334696837,
-                "LastWeek": -2.073583342187293,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-12 12:37:15 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "East Capital Global Frontier Mkts A SEK",
+                "PPMCode": "870907",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
+                "Current": 14.94784906595494,
+                "Yesterday": 14.170713822891976,
+                "LastWeek": 8.15581703807068,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-19 14:40:15 (UTC)",
+                "history": false
+            },
             {
                 "Name": "UB Infra A",
                 "PPMCode": "780411",
@@ -341,7 +341,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-19 12:36:13 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "East Capital Global Frontier Mkts A SEK",
@@ -355,34 +355,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-19 12:36:14 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "UB Infra A",
-                "PPMCode": "780411",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/600081",
-                "Current": 7.407551943268411,
-                "Yesterday": 6.3884151862276735,
-                "LastWeek": 2.6825623225510977,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-19 10:31:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global Frontier Mkts A SEK",
-                "PPMCode": "870907",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
-                "Current": 14.94784906595494,
-                "Yesterday": 14.170713822891976,
-                "LastWeek": 8.15581703807068,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-19 10:32:01 (UTC)",
                 "history": true
             },
             {
