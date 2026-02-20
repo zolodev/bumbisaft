@@ -3,17 +3,59 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Handelsbanken LatinAm Impact (A1 SEK)",
-                "PPMCode": "679837",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1358",
-                "Current": 12.574705866588056,
-                "Yesterday": 8.471578270307939,
-                "LastWeek": 8.32685659153646,
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 0.8585790467711901,
+                "Yesterday": -2.1153076065138663,
+                "LastWeek": -0.19819786715460558,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-20 16:24:38 (UTC)",
+                "LastUpdated": "2026-02-20 18:30:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "East Capital Global EM Sustainable A SEK",
+                "PPMCode": "623637",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
+                "Current": 11.77462144990296,
+                "Yesterday": 8.992515784497963,
+                "LastWeek": 5.928714373823848,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-20 18:30:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Asien Tema (A1 SEK)",
+                "PPMCode": "504100",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
+                "Current": 9.768898749871815,
+                "Yesterday": 7.130671489433108,
+                "LastWeek": 4.728299881606058,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-20 18:30:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Tillv\u00e4xtm Tema (A1 SEK)",
+                "PPMCode": "987842",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2155",
+                "Current": 8.736391912908253,
+                "Yesterday": 6.170295489891138,
+                "LastWeek": 5.023328149300162,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-20 18:30:44 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-20 16:24:49 (UTC)",
+                "LastUpdated": "2026-02-20 18:30:45 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +83,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-20 14:31:59 (UTC)",
+                "LastUpdated": "2026-02-20 16:24:38 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 5.436743107446532,
+                "Yesterday": 2.9502705488276115,
+                "LastWeek": 1.2818861118268363,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-02-20 16:24:49 (UTC)",
                 "history": true
             },
             {
@@ -56,20 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-02-20 14:32:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 5.436743107446532,
-                "Yesterday": 2.9502705488276115,
-                "LastWeek": 1.2818861118268363,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-02-20 12:31:33 (UTC)",
                 "history": true
             },
             {
@@ -298,8 +340,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-20 16:24:56 (UTC)",
+                "LastUpdated": "2026-02-20 18:30:51 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 20.849101607525135,
+                "Yesterday": 18.883717220941048,
+                "LastWeek": 16.730540502967077,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-20 18:30:54 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB SMB S",
+                "PPMCode": "290833",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
+                "Current": 15.323248020899024,
+                "Yesterday": 13.374827389122732,
+                "LastWeek": 10.307830980473287,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-20 16:24:56 (UTC)",
+                "history": true
             },
             {
                 "Name": "Franklin Natural Resources A(acc)USD",
@@ -313,20 +383,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-20 16:25:00 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 20.849101607525135,
-                "Yesterday": 18.883717220941048,
-                "LastWeek": 16.730540502967077,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-20 14:32:15 (UTC)",
                 "history": true
             },
             {
@@ -439,20 +495,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-17 08:31:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Japan Exponering",
-                "PPMCode": "582791",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
-                "Current": 8.140786045984823,
-                "Yesterday": 6.68535507985048,
-                "LastWeek": -1.4950730547060904,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-13 16:31:22 (UTC)",
                 "history": true
             }
         ]
