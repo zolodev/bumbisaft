@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-20 01:04:02 (UTC)",
+                "LastUpdated": "2026-02-20 04:04:12 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-20 01:04:04 (UTC)",
+                "LastUpdated": "2026-02-20 04:04:14 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 22:19:38 (UTC)",
+                "LastUpdated": "2026-02-20 01:04:02 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-02-19 22:19:39 (UTC)",
+                "LastUpdated": "2026-02-20 01:04:04 (UTC)",
                 "history": true
             },
             {
@@ -288,6 +288,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 20.849101607525135,
+                "Yesterday": 18.883717220941048,
+                "LastWeek": 16.730540502967077,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-02-20 04:04:24 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Alfred Berg Aktiv R (NOK)",
                 "PPMCode": "147348",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
@@ -299,7 +313,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-20 01:04:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "East Capital Global Frontier Mkts A SEK",
@@ -313,7 +327,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-20 01:04:22 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Alfred Berg Norge R (NOK)",
@@ -327,48 +341,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-02-20 01:04:23 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 17.673097142370185,
-                "Yesterday": 17.30572280025289,
-                "LastWeek": 13.285616355796737,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-19 22:19:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global Frontier Mkts A SEK",
-                "PPMCode": "870907",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
-                "Current": 15.27949841304398,
-                "Yesterday": 14.931927832698205,
-                "LastWeek": 9.154181285860851,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-19 22:19:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 18.58896595546411,
-                "Yesterday": 18.085803686673497,
-                "LastWeek": 14.093706791358265,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-02-19 22:20:01 (UTC)",
                 "history": true
             },
             {
