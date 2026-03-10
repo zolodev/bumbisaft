@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 6.87583534144594,
+                "Yesterday": 1.3664335809786372,
+                "LastWeek": 11.582916918471511,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-10 18:33:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "East Capital Global EM Sustainable A SEK",
+                "PPMCode": "623637",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
+                "Current": 10.097449849972744,
+                "Yesterday": 5.340809987060976,
+                "LastWeek": 16.574548334805414,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-10 18:33:29 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin US Opportunities A(acc)USD",
                 "PPMCode": "384107",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
@@ -407,54 +435,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-04 01:03:28 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": -6.24753728265493,
-                "Yesterday": -8.690431644628903,
-                "LastWeek": -5.0924359684330405,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-03 18:32:55 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources A2",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": 23.236213861149835,
-                "Yesterday": 20.188793529688766,
-                "LastWeek": 18.218506771866373,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-03 18:32:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 36.63850151661233,
-                "Yesterday": 33.58412837143343,
-                "LastWeek": 21.164890692938812,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-03 18:33:00 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Carnegie Sm\u00e5bolagsfond A",
+                "PPMCode": "584912",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
+                "Current": 0.38304927802334193,
+                "Yesterday": -2.188610146379763,
+                "LastWeek": 2.30171051669296,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-10 18:33:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "D&G Sm\u00e5bolag",
+                "PPMCode": "140491",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/157699",
+                "Current": -10.194666866045033,
+                "Yesterday": -11.97925357328362,
+                "LastWeek": -7.430649755899966,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-10 18:33:45 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Lannebo Teknik A SEK",
                 "PPMCode": "771030",
@@ -467,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-10 16:44:26 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag A",
@@ -481,20 +495,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-10 16:44:30 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Lannebo Teknik A SEK",
-                "PPMCode": "771030",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
-                "Current": -12.613430127041733,
-                "Yesterday": -12.749546279491828,
-                "LastWeek": -14.019963702359348,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-10 14:38:37 (UTC)",
                 "history": true
             },
             {
@@ -579,34 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-04 01:03:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 36.63850151661233,
-                "Yesterday": 33.58412837143343,
-                "LastWeek": 21.164890692938812,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-03 18:33:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 32.79957137145524,
-                "Yesterday": 30.736383691581842,
-                "LastWeek": 21.45383676124693,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-03 18:33:16 (UTC)",
                 "history": true
             }
         ]
