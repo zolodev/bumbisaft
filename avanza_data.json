@@ -14,7 +14,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-11 18:38:34 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
@@ -28,7 +28,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-11 18:38:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -42,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-11 18:38:39 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Emerging Markets A2",
@@ -56,7 +56,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-11 18:38:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Eastern Europe A USD Inc",
@@ -84,48 +84,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-11 16:37:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 23.2943178153458,
-                "Yesterday": 17.978113579071657,
-                "LastWeek": 31.652326061413262,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-11 16:37:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 27.020174485087512,
-                "Yesterday": 21.814826105706036,
-                "LastWeek": 35.746015169541714,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-11 16:37:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 11.928658752087399,
-                "Yesterday": 7.578780059916576,
-                "LastWeek": 15.921653652389855,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-11 01:02:17 (UTC)",
                 "history": true
             },
             {
@@ -442,6 +400,48 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 11.886721788482033,
+                "Yesterday": 8.57941286623836,
+                "LastWeek": 8.683126386448095,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-11 20:22:25 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Asienfond ex Japan A",
+                "PPMCode": "914945",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
+                "Current": 12.820739721088756,
+                "Yesterday": 10.198122019566389,
+                "LastWeek": 16.49247005227536,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-11 20:22:26 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Asien Tema (A1 SEK)",
+                "PPMCode": "504100",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
+                "Current": 11.144090922147418,
+                "Yesterday": 9.091257264867227,
+                "LastWeek": 14.923258107448214,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-11 20:22:28 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "AMF Aktiefond Sm\u00e5bolag",
                 "PPMCode": "269357",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
@@ -593,20 +593,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-09 18:36:31 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Longevity R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": -16.249339045649272,
-                "Yesterday": -17.80750653025363,
-                "LastWeek": -19.291932559525076,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-04 20:21:51 (UTC)",
                 "history": true
             }
         ]
