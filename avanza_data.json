@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Aktiespararna Topp Sverige A",
+                "PPMCode": "290072",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1961",
+                "Current": 8.301164262993714,
+                "Yesterday": 5.0795780915295445,
+                "LastWeek": 13.704725835296216,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-12 10:28:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 11.886721788482033,
+                "Yesterday": 8.57941286623836,
+                "LastWeek": 8.683126386448095,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-12 10:28:05 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Tillv\u00e4xtmarknad Aktiv A",
                 "PPMCode": "206250",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2156",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-12 08:29:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Aktiespararna Topp Sverige A",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-12 08:29:22 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -42,48 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-12 08:29:23 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Tillv\u00e4xtmarknad Aktiv A",
-                "PPMCode": "206250",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2156",
-                "Current": 7.6155314745567555,
-                "Yesterday": 4.353537796325302,
-                "LastWeek": 13.838904680482525,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-12 06:39:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Aktiespararna Topp Sverige A",
-                "PPMCode": "290072",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1961",
-                "Current": 8.301164262993714,
-                "Yesterday": 5.0795780915295445,
-                "LastWeek": 13.704725835296216,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-12 06:39:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 11.886721788482033,
-                "Yesterday": 8.57941286623836,
-                "LastWeek": 8.683126386448095,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-12 06:39:08 (UTC)",
                 "history": true
             },
             {
