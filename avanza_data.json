@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-12 12:32:28 (UTC)",
+                "LastUpdated": "2026-03-12 14:40:15 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 11.886721788482033,
+                "Yesterday": 8.57941286623836,
+                "LastWeek": 8.683126386448095,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-12 12:32:28 (UTC)",
+                "history": true
             },
             {
                 "Name": "Aktiespararna Topp Sverige A",
@@ -28,20 +42,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-12 10:28:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 11.886721788482033,
-                "Yesterday": 8.57941286623836,
-                "LastWeek": 8.683126386448095,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-12 10:28:05 (UTC)",
                 "history": true
             },
             {
@@ -420,34 +420,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-05 19:05:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Listed Private Equity A",
-                "PPMCode": "341362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": -13.164768905055443,
-                "Yesterday": -15.181318237048119,
-                "LastWeek": -11.931132182886977,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-05 14:36:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Sm\u00e5bolagsfond A",
-                "PPMCode": "584912",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
-                "Current": 0.7080035574172441,
-                "Yesterday": -1.605815322941907,
-                "LastWeek": 1.1215966266498956,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-05 14:36:51 (UTC)",
                 "history": true
             }
         ]
