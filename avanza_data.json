@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-13 10:24:04 (UTC)",
+                "LastUpdated": "2026-03-13 12:31:50 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-13 10:24:05 (UTC)",
+                "LastUpdated": "2026-03-13 12:31:52 (UTC)",
                 "history": false
             },
             {
@@ -41,22 +41,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-13 10:24:08 (UTC)",
+                "LastUpdated": "2026-03-13 12:31:55 (UTC)",
                 "history": false
             },
             {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 11.145699397712661,
-                "Yesterday": 8.147797252486967,
-                "LastWeek": 15.266968938214795,
+                "Name": "Evli Finland Select B",
+                "PPMCode": "570044",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
+                "Current": 6.071067318580663,
+                "Yesterday": 4.199622985093679,
+                "LastWeek": 4.573825330664778,
                 "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-13 08:27:04 (UTC)",
-                "history": true
+                "LastUpdated": "2026-03-13 12:31:57 (UTC)",
+                "history": false
             },
             {
                 "Name": "BGF World Energy A2",
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-13 08:27:10 (UTC)",
+                "LastUpdated": "2026-03-13 10:24:04 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-13 08:27:13 (UTC)",
+                "LastUpdated": "2026-03-13 10:24:05 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 20.935882078800997,
+                "Yesterday": 18.78775775119127,
+                "LastWeek": 17.48261045018177,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-13 10:24:08 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 11.145699397712661,
+                "Yesterday": 8.147797252486967,
+                "LastWeek": 15.266968938214795,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-13 08:27:04 (UTC)",
                 "history": true
             },
             {
@@ -441,6 +469,20 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "JPM China A (dist) USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": -0.9314948875343757,
+                "Yesterday": -1.2538569255082277,
+                "LastWeek": -4.101384090492622,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-13 12:32:06 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Swedbank Robur Access Asien A",
                 "PPMCode": "978981",
