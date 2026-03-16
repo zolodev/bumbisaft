@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": 3.2780754234087524,
+                "Yesterday": 1.6681370901993497,
+                "LastWeek": 0.5576942970446878,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-16 14:52:26 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Evli Finland Select B",
                 "PPMCode": "570044",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
@@ -14,34 +28,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-16 12:43:05 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": 3.2780754234087524,
-                "Yesterday": 1.6681370901993497,
-                "LastWeek": 0.5576942970446878,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-16 12:43:08 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Evli Finland Select B",
-                "PPMCode": "570044",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1674",
-                "Current": 6.071067318580663,
-                "Yesterday": 4.199622985093679,
-                "LastWeek": 4.573825330664778,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-16 10:42:54 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-16 10:42:59 (UTC)",
+                "LastUpdated": "2026-03-16 12:43:08 (UTC)",
                 "history": true
             },
             {
@@ -393,34 +379,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-09 20:20:37 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 9.972617482065575,
-                "Yesterday": 7.252469832712688,
-                "LastWeek": 14.750602842853521,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-09 14:40:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": -4.044932014021348,
-                "Yesterday": -5.648719666293484,
-                "LastWeek": -4.845357877666176,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-09 14:40:47 (UTC)",
-                "history": true
             }
         ]
     },
@@ -438,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 12:43:14 (UTC)",
+                "LastUpdated": "2026-03-16 14:52:33 (UTC)",
                 "history": false
             },
             {
@@ -452,21 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 12:43:18 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": 3.2780754234087524,
-                "Yesterday": 1.6681370901993497,
-                "LastWeek": 0.5576942970446878,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 12:43:21 (UTC)",
+                "LastUpdated": "2026-03-16 14:52:37 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 10:43:03 (UTC)",
+                "LastUpdated": "2026-03-16 12:43:14 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 10:43:06 (UTC)",
+                "LastUpdated": "2026-03-16 12:43:18 (UTC)",
                 "history": true
             },
             {
@@ -508,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 10:43:09 (UTC)",
+                "LastUpdated": "2026-03-16 12:43:21 (UTC)",
                 "history": true
             },
             {
