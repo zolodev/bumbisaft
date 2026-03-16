@@ -14,7 +14,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-16 14:52:26 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Finland Select B",
@@ -28,20 +28,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-16 12:43:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": 3.2780754234087524,
-                "Yesterday": 1.6681370901993497,
-                "LastWeek": 0.5576942970446878,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-16 12:43:08 (UTC)",
                 "history": true
             },
             {
@@ -386,6 +372,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 14.255154241342154,
+                "Yesterday": 13.211599388977389,
+                "LastWeek": 13.230232543420147,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-16 16:52:03 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
@@ -396,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 14:52:33 (UTC)",
+                "LastUpdated": "2026-03-16 16:52:05 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 14:52:37 (UTC)",
+                "LastUpdated": "2026-03-16 16:52:13 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 12:43:14 (UTC)",
+                "LastUpdated": "2026-03-16 14:52:33 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 12:43:18 (UTC)",
+                "LastUpdated": "2026-03-16 14:52:37 (UTC)",
                 "history": true
             },
             {
