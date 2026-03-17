@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-17 18:44:23 (UTC)",
+                "LastUpdated": "2026-03-17 20:27:25 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-17 18:44:25 (UTC)",
+                "LastUpdated": "2026-03-17 20:27:28 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-17 16:53:36 (UTC)",
+                "LastUpdated": "2026-03-17 18:44:23 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Nordea Kinafond",
+                "PPMCode": "653097",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
+                "Current": 8.30685806566311,
+                "Yesterday": 6.445541111909511,
+                "LastWeek": 4.119523778920178,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-17 18:44:25 (UTC)",
                 "history": true
             },
             {
@@ -56,20 +70,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-17 16:53:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": 8.30685806566311,
-                "Yesterday": 6.445541111909511,
-                "LastWeek": 4.119523778920178,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-17 16:53:40 (UTC)",
                 "history": true
             },
             {
@@ -393,26 +393,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-11 16:37:46 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 7.483743387055417,
-                "Yesterday": 3.6968412609002534,
-                "LastWeek": 14.139412912979552,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-10 20:21:11 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 33.26013004349137,
+                "Yesterday": 32.46938159102062,
+                "LastWeek": 25.47507380135594,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-17 20:27:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 13.479521334001134,
+                "Yesterday": 13.211599388977389,
+                "LastWeek": 13.230232543420147,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-17 20:27:42 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Barings Asia Growth ClassA USD Inc",
                 "PPMCode": "477729",
@@ -425,7 +439,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-17 18:44:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Asian Dragon A2",
@@ -439,7 +453,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-17 18:44:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Sustainable Energy A2",
@@ -453,7 +467,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-17 18:44:38 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -467,48 +481,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-17 16:53:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 13.479521334001134,
-                "Yesterday": 13.211599388977389,
-                "LastWeek": 13.230232543420147,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-17 16:53:55 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Asian Dragon A2",
-                "PPMCode": "608463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58",
-                "Current": 10.008812355901092,
-                "Yesterday": 8.131588191825024,
-                "LastWeek": 8.777400225756253,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 20:26:09 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Sustainable Energy A2",
-                "PPMCode": "553578",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/547",
-                "Current": 9.755639292296381,
-                "Yesterday": 8.579160800552257,
-                "LastWeek": 8.233720162329139,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-16 18:45:21 (UTC)",
                 "history": true
             },
             {
@@ -705,20 +677,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-11 06:37:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": -4.995297616412048,
-                "Yesterday": -5.847549454421499,
-                "LastWeek": -8.597636432402908,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-10 20:21:34 (UTC)",
                 "history": true
             }
         ]
