@@ -7,15 +7,10 @@ on:
         branches:
             - main # This means the workflow will also run on every push to the 'main' branch
 
-
-
 jobs:
     update_data:
         name: Update data
         runs-on: ubuntu-latest
-        
-        env:
-            FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
         steps:
             - name: Check out code
