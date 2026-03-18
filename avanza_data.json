@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-18 18:41:46 (UTC)",
+                "LastUpdated": "2026-03-18 20:24:21 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-18 18:41:47 (UTC)",
+                "LastUpdated": "2026-03-18 20:24:22 (UTC)",
                 "history": false
             },
             {
@@ -41,8 +41,64 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-18 18:41:49 (UTC)",
+                "LastUpdated": "2026-03-18 20:24:24 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "SEB Asienfond ex Japan A",
+                "PPMCode": "914945",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
+                "Current": 16.344346354089776,
+                "Yesterday": 12.8199828751956,
+                "LastWeek": 7.921042185413736,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-18 20:24:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 16.473512798189997,
+                "Yesterday": 12.647280547913198,
+                "LastWeek": 9.985080245888046,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-18 18:41:46 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 4.659349625722508,
+                "Yesterday": 2.140946010184299,
+                "LastWeek": 2.240213226854917,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-18 18:41:47 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Global Emerging Mkts A Inc",
+                "PPMCode": "191080",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2138",
+                "Current": 14.473093937957351,
+                "Yesterday": 11.747669304316311,
+                "LastWeek": 10.468148254557025,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-18 18:41:49 (UTC)",
+                "history": true
             },
             {
                 "Name": "Handelsbanken Asien Tema (A1 SEK)",
@@ -56,7 +112,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-18 18:41:56 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Japanese Equity Opps R JPY",
@@ -400,6 +456,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 24.691645162609753,
+                "Yesterday": 22.779496261065066,
+                "LastWeek": 18.275066690218964,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-18 20:24:40 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Energy A2",
                 "PPMCode": "517748",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
@@ -410,35 +480,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-18 18:42:01 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 22.939205459259238,
-                "Yesterday": 22.592038890846027,
-                "LastWeek": 18.69476614810415,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-18 18:42:05 (UTC)",
+                "LastUpdated": "2026-03-18 20:24:41 (UTC)",
                 "history": false
             },
             {
                 "Name": "Alfred Berg Aktiv R (NOK)",
                 "PPMCode": "147348",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 19.83696384515055,
-                "Yesterday": 19.522784806726722,
-                "LastWeek": 16.384395044546512,
+                "Current": 21.46464905500981,
+                "Yesterday": 19.515770766667483,
+                "LastWeek": 15.647257959602467,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-18 18:42:09 (UTC)",
+                "LastUpdated": "2026-03-18 20:24:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 16.473512798189997,
+                "Yesterday": 12.647280547913198,
+                "LastWeek": 9.985080245888046,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-18 20:24:49 (UTC)",
                 "history": false
             },
             {
@@ -452,21 +522,63 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-18 18:42:10 (UTC)",
+                "LastUpdated": "2026-03-18 20:24:50 (UTC)",
                 "history": false
             },
             {
                 "Name": "BGF World Energy A2",
                 "PPMCode": "517748",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 33.26013004349137,
-                "Yesterday": 32.46938159102062,
-                "LastWeek": 25.47507380135594,
+                "Current": 32.4563784826741,
+                "Yesterday": 32.68673740177441,
+                "LastWeek": 26.407321973498977,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-18 18:42:01 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 22.939205459259238,
+                "Yesterday": 22.592038890846027,
+                "LastWeek": 18.69476614810415,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-18 16:48:04 (UTC)",
+                "LastUpdated": "2026-03-18 18:42:05 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 19.83696384515055,
+                "Yesterday": 19.522784806726722,
+                "LastWeek": 16.384395044546512,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-18 18:42:09 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pareto Aksje Norge B",
+                "PPMCode": "165755",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
+                "Current": 17.691652423379853,
+                "Yesterday": 17.518593718465205,
+                "LastWeek": 14.465408415213929,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-18 18:42:10 (UTC)",
                 "history": true
             },
             {
@@ -481,20 +593,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-18 16:48:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 22.939205459259238,
-                "Yesterday": 22.592038890846027,
-                "LastWeek": 18.69476614810415,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-18 16:48:09 (UTC)",
                 "history": true
             },
             {
@@ -537,34 +635,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-18 16:48:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 19.83696384515055,
-                "Yesterday": 19.522784806726722,
-                "LastWeek": 16.384395044546512,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-18 16:48:15 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pareto Aksje Norge B",
-                "PPMCode": "165755",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": 17.691652423379853,
-                "Yesterday": 17.518593718465205,
-                "LastWeek": 14.465408415213929,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-18 16:48:16 (UTC)",
                 "history": true
             },
             {
@@ -705,20 +775,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-13 01:04:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Asien Tema (A1 SEK)",
-                "PPMCode": "504100",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
-                "Current": 11.144090922147418,
-                "Yesterday": 9.091257264867227,
-                "LastWeek": 14.923258107448214,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-11 20:22:28 (UTC)",
                 "history": true
             }
         ]
