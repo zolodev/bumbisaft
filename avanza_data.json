@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-19 08:29:21 (UTC)",
+                "LastUpdated": "2026-03-19 10:28:49 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-19 08:29:22 (UTC)",
+                "LastUpdated": "2026-03-19 10:28:50 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-19 08:29:23 (UTC)",
+                "LastUpdated": "2026-03-19 10:28:51 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-19 08:29:30 (UTC)",
+                "LastUpdated": "2026-03-19 10:29:00 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-19 06:43:07 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:21 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-19 06:43:08 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:22 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-19 06:43:10 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:23 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-19 06:43:17 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:30 (UTC)",
                 "history": true
             },
             {
@@ -421,34 +421,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-12 18:37:13 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Aktiespararna Topp Sverige A",
-                "PPMCode": "290072",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1961",
-                "Current": 8.301164262993714,
-                "Yesterday": 5.0795780915295445,
-                "LastWeek": 13.704725835296216,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-12 10:28:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Tillv\u00e4xtmarknad Aktiv A",
-                "PPMCode": "206250",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2156",
-                "Current": 7.6155314745567555,
-                "Yesterday": 4.353537796325302,
-                "LastWeek": 13.838904680482525,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-12 08:29:20 (UTC)",
-                "history": true
             }
         ]
     },
@@ -466,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 08:29:34 (UTC)",
+                "LastUpdated": "2026-03-19 10:29:04 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 08:29:35 (UTC)",
+                "LastUpdated": "2026-03-19 10:29:05 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +466,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 08:29:36 (UTC)",
+                "LastUpdated": "2026-03-19 10:29:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pareto Aksje Norge B",
+                "PPMCode": "165755",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
+                "Current": 18.82439149835145,
+                "Yesterday": 17.33372119662518,
+                "LastWeek": 13.233040489608856,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-19 10:29:13 (UTC)",
                 "history": false
             },
             {
@@ -508,21 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 08:29:42 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pareto Aksje Norge B",
-                "PPMCode": "165755",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": 17.691652423379853,
-                "Yesterday": 17.518593718465205,
-                "LastWeek": 14.465408415213929,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 08:29:43 (UTC)",
+                "LastUpdated": "2026-03-19 10:29:16 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 06:43:23 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:34 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 06:43:24 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:35 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 06:43:25 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:36 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 06:43:32 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:42 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-19 06:43:34 (UTC)",
+                "LastUpdated": "2026-03-19 08:29:43 (UTC)",
                 "history": true
             },
             {
