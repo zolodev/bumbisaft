@@ -3,6 +3,76 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "D&G Aktiefond",
+                "PPMCode": "291906",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1919",
+                "Current": -8.37832650378825,
+                "Yesterday": -10.201248847070623,
+                "LastWeek": -3.579772652554189,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-23 16:43:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag A",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": -9.383407456212597,
+                "Yesterday": -10.42661834953056,
+                "LastWeek": -5.809037500686314,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-23 16:43:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Europa A USD Inc",
+                "PPMCode": "155259",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/596",
+                "Current": -1.5348877980364592,
+                "Yesterday": -2.4442948684928307,
+                "LastWeek": -0.04292860705196442,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-23 16:43:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 10.898409514257065,
+                "Yesterday": 9.949849548645947,
+                "LastWeek": 11.296747385012186,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-23 16:43:40 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 1.5004101609709786,
+                "Yesterday": 0.7248443277706832,
+                "LastWeek": 2.83138909763422,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-23 16:43:42 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Europa A USD Inc",
                 "PPMCode": "155259",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/596",
@@ -14,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-23 14:47:32 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -28,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-23 14:47:34 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Eastern Europe A USD Inc",
@@ -42,48 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-23 14:47:36 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Europa A USD Inc",
-                "PPMCode": "155259",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/596",
-                "Current": -1.5348877980364592,
-                "Yesterday": -2.4442948684928307,
-                "LastWeek": -0.04292860705196442,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-23 12:38:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 10.898409514257065,
-                "Yesterday": 9.949849548645947,
-                "LastWeek": 11.296747385012186,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-23 12:38:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 1.5004101609709786,
-                "Yesterday": 0.7248443277706832,
-                "LastWeek": 2.83138909763422,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-23 12:38:41 (UTC)",
                 "history": true
             },
             {
@@ -463,20 +491,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-16 20:25:56 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": 3.2780754234087524,
-                "Yesterday": 1.6681370901993497,
-                "LastWeek": 0.5576942970446878,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-16 14:52:26 (UTC)",
-                "history": true
             }
         ]
     },
@@ -494,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-23 14:47:46 (UTC)",
+                "LastUpdated": "2026-03-23 16:43:50 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-23 14:47:53 (UTC)",
+                "LastUpdated": "2026-03-23 16:43:56 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-23 14:47:54 (UTC)",
+                "LastUpdated": "2026-03-23 16:43:57 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-23 14:47:59 (UTC)",
+                "LastUpdated": "2026-03-23 16:44:02 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +564,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-23 12:38:47 (UTC)",
+                "LastUpdated": "2026-03-23 14:47:46 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 18.994506365444572,
+                "Yesterday": 21.176896303035342,
+                "LastWeek": 14.90114477085242,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-23 14:47:53 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 22.034938615896085,
+                "Yesterday": 24.612910206046266,
+                "LastWeek": 17.29289931241591,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-23 14:47:54 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Asienfond ex Japan A",
+                "PPMCode": "914945",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
+                "Current": 12.750422674961314,
+                "Yesterday": 12.701137795301292,
+                "LastWeek": 12.354185298091911,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-23 14:47:59 (UTC)",
                 "history": true
             },
             {
@@ -565,34 +621,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-23 12:38:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 18.994506365444572,
-                "Yesterday": 21.176896303035342,
-                "LastWeek": 14.90114477085242,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-23 12:38:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 22.034938615896085,
-                "Yesterday": 24.612910206046266,
-                "LastWeek": 17.29289931241591,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-23 12:38:54 (UTC)",
                 "history": true
             },
             {
