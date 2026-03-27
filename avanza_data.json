@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 8.250250920040155,
+                "Yesterday": 5.975242556038814,
+                "LastWeek": 8.76547340247576,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-27 14:42:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Indienfond A",
+                "PPMCode": "505586",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
+                "Current": -12.421290911536067,
+                "Yesterday": -14.118243747518019,
+                "LastWeek": -12.178335516003399,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-27 14:42:21 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Emerging Marketsfond",
                 "PPMCode": "950774",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-27 12:37:00 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
@@ -421,20 +449,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-20 18:32:04 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 14.378117026024995,
-                "Yesterday": 11.917520879075525,
-                "LastWeek": 8.168704478197267,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-20 14:35:13 (UTC)",
-                "history": true
             }
         ]
     },
@@ -452,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 12:37:04 (UTC)",
+                "LastUpdated": "2026-03-27 14:42:26 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +480,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 12:37:05 (UTC)",
+                "LastUpdated": "2026-03-27 14:42:28 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 12:37:06 (UTC)",
+                "LastUpdated": "2026-03-27 14:42:30 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +508,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 12:37:07 (UTC)",
+                "LastUpdated": "2026-03-27 14:42:32 (UTC)",
                 "history": false
             },
             {
@@ -508,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 12:37:08 (UTC)",
+                "LastUpdated": "2026-03-27 14:42:33 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 12:37:09 (UTC)",
+                "LastUpdated": "2026-03-27 14:42:34 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 12:37:13 (UTC)",
+                "LastUpdated": "2026-03-27 14:42:39 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 12:37:15 (UTC)",
+                "LastUpdated": "2026-03-27 14:42:42 (UTC)",
                 "history": false
             },
             {
@@ -564,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 10:36:54 (UTC)",
+                "LastUpdated": "2026-03-27 12:37:04 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +592,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 10:36:55 (UTC)",
+                "LastUpdated": "2026-03-27 12:37:05 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 10:36:57 (UTC)",
+                "LastUpdated": "2026-03-27 12:37:06 (UTC)",
                 "history": true
             },
             {
@@ -606,7 +620,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 10:36:58 (UTC)",
+                "LastUpdated": "2026-03-27 12:37:07 (UTC)",
                 "history": true
             },
             {
@@ -620,7 +634,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 10:37:00 (UTC)",
+                "LastUpdated": "2026-03-27 12:37:08 (UTC)",
                 "history": true
             },
             {
@@ -634,7 +648,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 10:37:01 (UTC)",
+                "LastUpdated": "2026-03-27 12:37:09 (UTC)",
                 "history": true
             },
             {
@@ -648,7 +662,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 10:37:05 (UTC)",
+                "LastUpdated": "2026-03-27 12:37:13 (UTC)",
                 "history": true
             },
             {
@@ -662,7 +676,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-27 08:38:15 (UTC)",
+                "LastUpdated": "2026-03-27 12:37:15 (UTC)",
                 "history": true
             },
             {
