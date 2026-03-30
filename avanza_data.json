@@ -3,6 +3,76 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 8.515046407474111,
+                "Yesterday": 5.834933668922768,
+                "LastWeek": 7.845294870301575,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-30 16:43:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": 5.087511366643815,
+                "Yesterday": 2.3715933091097643,
+                "LastWeek": -0.1098439115930661,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-30 16:43:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 41.515158267061175,
+                "Yesterday": 38.62708152106175,
+                "LastWeek": 33.59231090540735,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-30 16:44:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 24.925971401306523,
+                "Yesterday": 22.861353905081668,
+                "LastWeek": 20.374585263796714,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-30 16:44:02 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "East Capital Global Frontier Mkts A SEK",
+                "PPMCode": "870907",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
+                "Current": 6.003160565838611,
+                "Yesterday": 4.407681084388399,
+                "LastWeek": 8.348057911266448,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-30 16:44:05 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Energy A2",
                 "PPMCode": "517748",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
@@ -14,7 +84,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-30 14:55:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Natural Resources A(acc)USD",
@@ -28,7 +98,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-30 14:55:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "East Capital Global Frontier Mkts A SEK",
@@ -42,48 +112,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-30 14:55:24 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 41.515158267061175,
-                "Yesterday": 38.62708152106175,
-                "LastWeek": 33.59231090540735,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-30 12:50:34 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 24.925971401306523,
-                "Yesterday": 22.861353905081668,
-                "LastWeek": 20.374585263796714,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-30 12:50:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global Frontier Mkts A SEK",
-                "PPMCode": "870907",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
-                "Current": 6.003160565838611,
-                "Yesterday": 4.407681084388399,
-                "LastWeek": 8.348057911266448,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-30 12:50:40 (UTC)",
                 "history": true
             },
             {
@@ -519,40 +547,96 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-23 18:37:36 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Barings Europa A USD Inc",
-                "PPMCode": "155259",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/596",
-                "Current": -1.5348877980364592,
-                "Yesterday": -2.4442948684928307,
-                "LastWeek": -0.04292860705196442,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-23 16:43:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Eastern Europe A USD Inc",
-                "PPMCode": "983593",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 1.5004101609709786,
-                "Yesterday": 0.7248443277706832,
-                "LastWeek": 2.83138909763422,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-23 16:43:42 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 8.515046407474111,
+                "Yesterday": 5.834933668922768,
+                "LastWeek": 7.845294870301575,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-30 16:44:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": 5.087511366643815,
+                "Yesterday": 2.3715933091097643,
+                "LastWeek": -0.1098439115930661,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-30 16:44:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -2.1068758314382356,
+                "Yesterday": -1.9679895546307007,
+                "LastWeek": 2.952630928263041,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-30 16:44:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 24.925971401306523,
+                "Yesterday": 22.861353905081668,
+                "LastWeek": 20.374585263796714,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-30 16:44:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 6.41589346573181,
+                "Yesterday": 6.137152741611527,
+                "LastWeek": 8.786129240920703,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-30 16:44:18 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Natural Resources A2",
+                "PPMCode": "536806",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
+                "Current": 19.27009354766861,
+                "Yesterday": 17.868719389005143,
+                "LastWeek": 16.692689475525764,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-03-30 16:44:19 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
@@ -565,7 +649,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-30 14:55:30 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin Natural Resources A(acc)USD",
@@ -579,7 +663,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-30 14:55:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Mining A2",
@@ -593,7 +677,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-30 14:55:32 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Natural Resources A2",
@@ -607,7 +691,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-30 14:55:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -621,76 +705,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-30 14:55:36 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -2.1068758314382356,
-                "Yesterday": -1.9679895546307007,
-                "LastWeek": 2.952630928263041,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 12:50:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 24.925971401306523,
-                "Yesterday": 22.861353905081668,
-                "LastWeek": 20.374585263796714,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 12:50:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 6.41589346573181,
-                "Yesterday": 6.137152741611527,
-                "LastWeek": 8.786129240920703,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 12:50:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Natural Resources A2",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": 19.27009354766861,
-                "Yesterday": 17.868719389005143,
-                "LastWeek": 16.692689475525764,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 12:50:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 12.321208674966885,
-                "Yesterday": 13.208389307059523,
-                "LastWeek": 12.033567689327402,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 12:50:52 (UTC)",
                 "history": true
             },
             {
