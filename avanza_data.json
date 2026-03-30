@@ -13,8 +13,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-03-30 10:52:56 (UTC)",
+                "LastUpdated": "2026-03-30 12:50:34 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Franklin Natural Resources A(acc)USD",
+                "PPMCode": "532558",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
+                "Current": 24.925971401306523,
+                "Yesterday": 22.861353905081668,
+                "LastWeek": 20.374585263796714,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-30 12:50:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "East Capital Global Frontier Mkts A SEK",
+                "PPMCode": "870907",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
+                "Current": 6.003160565838611,
+                "Yesterday": 4.407681084388399,
+                "LastWeek": 8.348057911266448,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-30 12:50:40 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 41.515158267061175,
+                "Yesterday": 38.62708152106175,
+                "LastWeek": 33.59231090540735,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-03-30 10:52:56 (UTC)",
+                "history": true
             },
             {
                 "Name": "Franklin Natural Resources A(acc)USD",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-30 10:52:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "East Capital Global Frontier Mkts A SEK",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-30 10:53:02 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -56,48 +98,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-30 09:01:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 41.515158267061175,
-                "Yesterday": 38.62708152106175,
-                "LastWeek": 33.59231090540735,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-30 09:01:30 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin Natural Resources A(acc)USD",
-                "PPMCode": "532558",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/112622",
-                "Current": 24.925971401306523,
-                "Yesterday": 22.861353905081668,
-                "LastWeek": 20.374585263796714,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-30 09:01:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global Frontier Mkts A SEK",
-                "PPMCode": "870907",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/524110",
-                "Current": 6.003160565838611,
-                "Yesterday": 4.407681084388399,
-                "LastWeek": 8.348057911266448,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-30 09:01:38 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +564,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 10:53:08 (UTC)",
+                "LastUpdated": "2026-03-30 12:50:46 (UTC)",
                 "history": false
             },
             {
@@ -578,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 10:53:09 (UTC)",
+                "LastUpdated": "2026-03-30 12:50:46 (UTC)",
                 "history": false
             },
             {
@@ -592,7 +592,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 10:53:10 (UTC)",
+                "LastUpdated": "2026-03-30 12:50:47 (UTC)",
                 "history": false
             },
             {
@@ -606,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 10:53:11 (UTC)",
+                "LastUpdated": "2026-03-30 12:50:48 (UTC)",
                 "history": false
             },
             {
@@ -620,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 10:53:14 (UTC)",
+                "LastUpdated": "2026-03-30 12:50:52 (UTC)",
                 "history": false
             },
             {
@@ -634,7 +634,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 10:53:15 (UTC)",
+                "LastUpdated": "2026-03-30 12:50:52 (UTC)",
                 "history": false
             },
             {
@@ -648,7 +648,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 09:01:46 (UTC)",
+                "LastUpdated": "2026-03-30 10:53:08 (UTC)",
                 "history": true
             },
             {
@@ -662,7 +662,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 09:01:47 (UTC)",
+                "LastUpdated": "2026-03-30 10:53:09 (UTC)",
                 "history": true
             },
             {
@@ -676,7 +676,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 09:01:48 (UTC)",
+                "LastUpdated": "2026-03-30 10:53:10 (UTC)",
                 "history": true
             },
             {
@@ -690,7 +690,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 09:01:50 (UTC)",
+                "LastUpdated": "2026-03-30 10:53:11 (UTC)",
                 "history": true
             },
             {
@@ -704,7 +704,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 09:01:54 (UTC)",
+                "LastUpdated": "2026-03-30 10:53:14 (UTC)",
                 "history": true
             },
             {
@@ -718,7 +718,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-30 09:01:55 (UTC)",
+                "LastUpdated": "2026-03-30 10:53:15 (UTC)",
                 "history": true
             },
             {
@@ -901,20 +901,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-23 18:37:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 15.4805355235764,
-                "Yesterday": 16.529229350407697,
-                "LastWeek": 11.22549293955645,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-23 12:38:49 (UTC)",
                 "history": true
             }
         ]
