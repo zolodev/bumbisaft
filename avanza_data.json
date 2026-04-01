@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 4.524839749315148,
+                "Yesterday": 1.3949319917284355,
+                "LastWeek": 0.16688666951857678,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-01 16:42:19 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 7.013609812606752,
+                "Yesterday": 2.0895669642798014,
+                "LastWeek": -0.6340947086318989,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-01 16:42:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 14.906711830157471,
+                "Yesterday": 9.660427499876123,
+                "LastWeek": 0.6899640892189524,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-01 16:42:21 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Franklin US Opportunities A(acc)USD",
                 "PPMCode": "384107",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
@@ -14,34 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-01 14:56:12 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 5.46406150216644,
-                "Yesterday": 1.632262414467331,
-                "LastWeek": -5.918792729838618,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-01 14:56:14 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": -5.480539072515534,
-                "Yesterday": -9.094176902329233,
-                "LastWeek": -7.1497004191948434,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-01 12:51:32 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-01 12:51:33 (UTC)",
+                "LastUpdated": "2026-04-01 14:56:14 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:17 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:25 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +550,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:19 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 14.906711830157471,
+                "Yesterday": 9.660427499876123,
+                "LastWeek": 0.6899640892189524,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-01 16:42:29 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:21 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:30 (UTC)",
                 "history": false
             },
             {
@@ -564,21 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:22 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": 6.026484713414799,
-                "Yesterday": 6.090514443393515,
-                "LastWeek": -0.18454499124252158,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:23 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:32 (UTC)",
                 "history": false
             },
             {
@@ -592,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:24 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:33 (UTC)",
                 "history": false
             },
             {
@@ -606,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 12:51:39 (UTC)",
+                "LastUpdated": "2026-04-01 14:56:17 (UTC)",
                 "history": true
             },
             {
@@ -620,7 +634,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 12:51:40 (UTC)",
+                "LastUpdated": "2026-04-01 14:56:19 (UTC)",
                 "history": true
             },
             {
@@ -634,7 +648,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 12:51:42 (UTC)",
+                "LastUpdated": "2026-04-01 14:56:21 (UTC)",
                 "history": true
             },
             {
@@ -648,7 +662,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 12:51:44 (UTC)",
+                "LastUpdated": "2026-04-01 14:56:22 (UTC)",
                 "history": true
             },
             {
@@ -662,7 +676,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 12:51:45 (UTC)",
+                "LastUpdated": "2026-04-01 14:56:23 (UTC)",
                 "history": true
             },
             {
@@ -676,7 +690,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 12:51:46 (UTC)",
+                "LastUpdated": "2026-04-01 14:56:24 (UTC)",
                 "history": true
             },
             {
