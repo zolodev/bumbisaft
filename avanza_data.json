@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": -3.065938986868728,
+                "Yesterday": -6.0280933789240585,
+                "LastWeek": -0.8501083433243363,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-01 18:43:27 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-01 16:42:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Japanese Equity Opps R JPY",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-01 16:42:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -42,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-01 16:42:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Franklin US Opportunities A(acc)USD",
@@ -269,20 +283,6 @@
                 "history": true
             },
             {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 9.028243984002,
-                "Yesterday": 5.834933668922768,
-                "LastWeek": 7.845294870301575,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-31 14:52:51 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "BGF World Mining A2",
                 "PPMCode": "481911",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
@@ -491,34 +491,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-25 20:27:02 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Allianz Europe Small Cap Equity AT EUR",
-                "PPMCode": "538751",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/288001",
-                "Current": -6.48991616547441,
-                "Yesterday": -9.817392391991811,
-                "LastWeek": -3.5410175740609953,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-25 16:51:58 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China Equity A USD",
-                "PPMCode": "753731",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
-                "Current": -3.2288197031949553,
-                "Yesterday": -5.864233454097449,
-                "LastWeek": 1.5033218990646742,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-25 16:52:05 (UTC)",
-                "history": true
             }
         ]
     },
@@ -529,14 +501,14 @@
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 5.46406150216644,
-                "Yesterday": 1.632262414467331,
-                "LastWeek": -5.918792729838618,
+                "Current": 9.2405371285526,
+                "Yesterday": 5.46406150216644,
+                "LastWeek": -3.719676478333759,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 16:42:25 (UTC)",
+                "LastUpdated": "2026-04-01 18:43:34 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 16:42:27 (UTC)",
+                "LastUpdated": "2026-04-01 18:43:36 (UTC)",
                 "history": false
             },
             {
@@ -564,49 +536,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 16:42:29 (UTC)",
+                "LastUpdated": "2026-04-01 18:43:39 (UTC)",
                 "history": false
             },
             {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 11.844976633426828,
-                "Yesterday": 9.230733195843362,
-                "LastWeek": 1.2966424878279277,
+                "Name": "Pareto Aksje Norge B",
+                "PPMCode": "165755",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
+                "Current": 17.22282468363168,
+                "Yesterday": 15.730009152987249,
+                "LastWeek": 12.751515341433384,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 16:42:30 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 22.17331171592142,
-                "Yesterday": 19.965164395324393,
-                "LastWeek": 17.182140204927208,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 16:42:32 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 25.809693745778223,
-                "Yesterday": 23.43459286294303,
-                "LastWeek": 20.22279689767612,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 16:42:33 (UTC)",
+                "LastUpdated": "2026-04-01 18:43:41 (UTC)",
                 "history": false
             },
             {
@@ -620,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:17 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:25 (UTC)",
                 "history": true
             },
             {
@@ -634,7 +578,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:19 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:27 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 14.906711830157471,
+                "Yesterday": 9.660427499876123,
+                "LastWeek": 0.6899640892189524,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-01 16:42:29 (UTC)",
                 "history": true
             },
             {
@@ -648,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:21 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:30 (UTC)",
                 "history": true
             },
             {
@@ -662,7 +620,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:22 (UTC)",
+                "LastUpdated": "2026-04-01 16:42:32 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 25.809693745778223,
+                "Yesterday": 23.43459286294303,
+                "LastWeek": 20.22279689767612,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-01 16:42:33 (UTC)",
                 "history": true
             },
             {
@@ -677,20 +649,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-01 14:56:23 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 25.809693745778223,
-                "Yesterday": 23.43459286294303,
-                "LastWeek": 20.22279689767612,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 14:56:24 (UTC)",
                 "history": true
             },
             {
@@ -733,20 +691,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-31 16:45:40 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 9.348531516669867,
-                "Yesterday": 9.028243984002,
-                "LastWeek": 4.818501726403741,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-31 16:45:43 (UTC)",
                 "history": true
             },
             {
