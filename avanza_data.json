@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 6.281611534213131,
+                "Yesterday": 1.8748909947096233,
+                "LastWeek": -0.5086913551537702,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-02 04:17:56 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
@@ -494,21 +508,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 01:13:09 (UTC)",
+                "LastUpdated": "2026-04-02 04:18:01 (UTC)",
                 "history": false
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 14.906711830157471,
+                "Current": 13.987886099011227,
                 "Yesterday": 9.660427499876123,
                 "LastWeek": 0.6899640892189524,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 01:13:13 (UTC)",
+                "LastUpdated": "2026-04-02 04:18:04 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +536,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 01:13:17 (UTC)",
+                "LastUpdated": "2026-04-02 04:18:07 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +550,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 01:13:21 (UTC)",
+                "LastUpdated": "2026-04-02 04:18:09 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": -11.699809409305471,
+                "Yesterday": -13.92951559906275,
+                "LastWeek": -17.588993558171136,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-02 04:18:11 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 22:25:36 (UTC)",
+                "LastUpdated": "2026-04-02 01:13:09 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 22:25:40 (UTC)",
+                "LastUpdated": "2026-04-02 01:13:13 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 22:25:44 (UTC)",
+                "LastUpdated": "2026-04-02 01:13:17 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 22:25:48 (UTC)",
+                "LastUpdated": "2026-04-02 01:13:21 (UTC)",
                 "history": true
             },
             {
@@ -775,20 +803,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-26 14:55:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Tundra Sustainable Frontier Fund A SEK",
-                "PPMCode": "861229",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/404075",
-                "Current": 0.8416953721731322,
-                "Yesterday": -1.6174928860266689,
-                "LastWeek": -0.4672757226299243,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-26 01:14:52 (UTC)",
                 "history": true
             }
         ]
