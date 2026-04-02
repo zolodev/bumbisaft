@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-02 18:39:38 (UTC)",
+                "LastUpdated": "2026-04-02 20:23:21 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-02 18:39:40 (UTC)",
+                "LastUpdated": "2026-04-02 20:23:23 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 6.138118368747308,
+                "Yesterday": 2.232666843801021,
+                "LastWeek": -0.17185472574699626,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-02 18:39:38 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 6.585112062672301,
+                "Yesterday": 2.743751293868968,
+                "LastWeek": 0.10766351779820194,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-02 18:39:40 (UTC)",
+                "history": true
             },
             {
                 "Name": "Skandia Japan Exponering",
@@ -42,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-02 16:43:20 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
-                "PPMCode": "470104",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
-                "Current": 6.138118368747308,
-                "Yesterday": 2.232666843801021,
-                "LastWeek": -0.17185472574699626,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-02 16:43:31 (UTC)",
                 "history": true
             },
             {
@@ -505,20 +519,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-03-27 10:36:49 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Storebrand Japan A SEK",
-                "PPMCode": "176503",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
-                "Current": 4.370523784254026,
-                "Yesterday": 1.5778808948291998,
-                "LastWeek": 4.6982876205702615,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-03-27 06:54:37 (UTC)",
-                "history": true
             }
         ]
     },
@@ -536,7 +536,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 18:39:43 (UTC)",
+                "LastUpdated": "2026-04-02 20:23:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 13.501343321437076,
+                "Yesterday": 13.021595444581907,
+                "LastWeek": 3.0793533724574886,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-02 20:23:32 (UTC)",
                 "history": false
             },
             {
@@ -550,8 +564,78 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 18:39:46 (UTC)",
+                "LastUpdated": "2026-04-02 20:23:33 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pareto Aksje Norge B",
+                "PPMCode": "165755",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
+                "Current": 17.22282468363168,
+                "Yesterday": 15.730009152987249,
+                "LastWeek": 12.751515341433384,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-02 20:23:35 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Evli Sverige Sm\u00e5bolag B",
+                "PPMCode": "420463",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
+                "Current": -9.089965731094104,
+                "Yesterday": -11.44912721302348,
+                "LastWeek": -15.840476222547828,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-02 20:23:38 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": 11.21272921429887,
+                "Yesterday": 9.200180516281094,
+                "LastWeek": 7.226207683412521,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-02 20:23:40 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 11.008141397983982,
+                "Yesterday": 11.296661583410852,
+                "LastWeek": -2.7319307788228087,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-02 18:39:43 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 13.882608826171072,
+                "Yesterday": 13.711905870673045,
+                "LastWeek": 3.4407813284230584,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-02 18:39:46 (UTC)",
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -565,7 +649,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-02 18:39:47 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pareto Aksje Norge B",
@@ -579,7 +663,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-02 18:39:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
@@ -593,7 +677,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-02 18:39:51 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
@@ -607,90 +691,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-02 18:39:52 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 9.2405371285526,
-                "Yesterday": 5.46406150216644,
-                "LastWeek": -3.719676478333759,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 16:43:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 13.501343321437076,
-                "Yesterday": 13.021595444581907,
-                "LastWeek": 3.0793533724574886,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 16:43:40 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pareto Aksje Norge B",
-                "PPMCode": "165755",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": 17.22282468363168,
-                "Yesterday": 15.730009152987249,
-                "LastWeek": 12.751515341433384,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 16:43:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 14.06652763324305,
-                "Yesterday": 11.844976633426828,
-                "LastWeek": 4.488241521348982,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 16:43:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Sverige Sm\u00e5bolag B",
-                "PPMCode": "420463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
-                "Current": -9.089965731094104,
-                "Yesterday": -11.44912721302348,
-                "LastWeek": -15.840476222547828,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 16:43:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -11.699809409305471,
-                "Yesterday": -13.92951559906275,
-                "LastWeek": -17.588993558171136,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 16:43:49 (UTC)",
                 "history": true
             },
             {
@@ -845,20 +845,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-03-27 16:41:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sverige Plus E",
-                "PPMCode": "490292",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
-                "Current": 1.2775735294117652,
-                "Yesterday": 1.0386029411764797,
-                "LastWeek": 2.6838235294117663,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-03-26 18:50:01 (UTC)",
                 "history": true
             }
         ]
