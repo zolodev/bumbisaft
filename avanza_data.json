@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-07 18:44:19 (UTC)",
+                "LastUpdated": "2026-04-07 20:34:00 (UTC)",
                 "history": false
             },
             {
@@ -27,21 +27,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-07 18:44:22 (UTC)",
+                "LastUpdated": "2026-04-07 20:34:02 (UTC)",
                 "history": false
             },
             {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": 5.727012925476848,
-                "Yesterday": 4.0833505814591335,
-                "LastWeek": 2.207972257715583,
+                "Name": "BGF India A2",
+                "PPMCode": "768499",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
+                "Current": -11.486095750915943,
+                "Yesterday": -14.78515161195397,
+                "LastWeek": -12.439539649785257,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-07 16:43:50 (UTC)",
+                "LastUpdated": "2026-04-07 18:44:19 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-07 16:43:52 (UTC)",
+                "LastUpdated": "2026-04-07 18:44:22 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": 5.727012925476848,
+                "Yesterday": 4.0833505814591335,
+                "LastWeek": 2.207972257715583,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-07 16:43:50 (UTC)",
                 "history": true
             },
             {
@@ -358,6 +372,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 8.234967317626497,
+                "Yesterday": 7.440660086451201,
+                "LastWeek": 0.023239228263277744,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-07 20:34:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Asienfond ex Japan A",
+                "PPMCode": "914945",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
+                "Current": 7.28419783390392,
+                "Yesterday": 3.9027871338445554,
+                "LastWeek": 5.036588629379791,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-07 20:34:17 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Asienfond ex Japan A",
                 "PPMCode": "914945",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
@@ -369,7 +411,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-07 18:44:36 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
