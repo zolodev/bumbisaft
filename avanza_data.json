@@ -13,21 +13,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-08 16:50:07 (UTC)",
+                "LastUpdated": "2026-04-08 19:00:24 (UTC)",
                 "history": false
             },
             {
-                "Name": "Barings Europa A USD Inc",
-                "PPMCode": "155259",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/596",
-                "Current": 4.9945515533806155,
-                "Yesterday": 0.5378196388915131,
-                "LastWeek": -3.4234349585202675,
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": -0.5005776237080506,
+                "Yesterday": -4.462233666539376,
+                "LastWeek": -6.512471232696913,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-08 16:50:09 (UTC)",
+                "LastUpdated": "2026-04-08 19:00:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 3.65431313208904,
+                "Yesterday": -0.28727341370681214,
+                "LastWeek": 3.699684893784081,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-08 19:00:29 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-08 15:00:02 (UTC)",
+                "LastUpdated": "2026-04-08 16:50:07 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Europa A USD Inc",
+                "PPMCode": "155259",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/596",
+                "Current": 4.9945515533806155,
+                "Yesterday": 0.5378196388915131,
+                "LastWeek": -3.4234349585202675,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-08 16:50:09 (UTC)",
                 "history": true
             },
             {
@@ -183,26 +211,26 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-01 20:33:11 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": -3.065938986868728,
-                "Yesterday": -6.0280933789240585,
-                "LastWeek": -0.8501083433243363,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-01 18:43:27 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "SEB Asienfond ex Japan A",
+                "PPMCode": "914945",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
+                "Current": 7.28419783390392,
+                "Yesterday": 3.9027871338445554,
+                "LastWeek": 5.036588629379791,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-08 19:00:40 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
@@ -313,20 +341,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-02 18:39:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 4.183695689487765,
-                "Yesterday": 0.7157534213724319,
-                "LastWeek": -1.5885351475811171,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-01 18:43:36 (UTC)",
                 "history": true
             }
         ]
