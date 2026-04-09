@@ -3,17 +3,17 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Avanza Emerging Markets",
-                "PPMCode": "715955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
-                "Current": 6.961944762632065,
-                "Yesterday": 1.2218403970981393,
-                "LastWeek": -0.7572864961181098,
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 7.345977428838143,
+                "Yesterday": 4.851452062992633,
+                "LastWeek": 2.9204550419942357,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-09 16:55:21 (UTC)",
+                "LastUpdated": "2026-04-09 18:44:46 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-09 15:11:59 (UTC)",
+                "LastUpdated": "2026-04-09 18:44:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 6.961944762632065,
+                "Yesterday": 1.2218403970981393,
+                "LastWeek": -0.7572864961181098,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-09 16:55:21 (UTC)",
                 "history": true
             },
             {
@@ -274,6 +288,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 2.6253900746832928,
+                "Yesterday": 1.9899437717402098,
+                "LastWeek": -7.087198516654296,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-09 18:44:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 7.345977428838143,
+                "Yesterday": 4.851452062992633,
+                "LastWeek": 2.9204550419942357,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-09 18:45:04 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF India A2",
                 "PPMCode": "768499",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
@@ -453,20 +495,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-07 01:16:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -11.699809409305471,
-                "Yesterday": -13.92951559906275,
-                "LastWeek": -17.588993558171136,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-02 18:39:52 (UTC)",
                 "history": true
             }
         ]
