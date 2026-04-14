@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Financials A2",
+                "PPMCode": "410258",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/541",
+                "Current": -2.0714603229313258,
+                "Yesterday": -4.84475051950341,
+                "LastWeek": -8.368792528324532,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-14 18:56:30 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Listed Private Equity A",
+                "PPMCode": "341362",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
+                "Current": -12.91493138251222,
+                "Yesterday": -15.30392413886759,
+                "LastWeek": -15.436428665889057,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-14 18:56:31 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-14 16:53:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
@@ -459,14 +487,14 @@
                 "Name": "BGF World Technology A2",
                 "PPMCode": "446088",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 1.6561673105533539,
-                "Yesterday": 1.8571711334064933,
-                "LastWeek": -8.612686792371434,
-                "TrendDay": "\u25bc",
+                "Current": 6.354957337124957,
+                "Yesterday": 3.702273000482345,
+                "LastWeek": -3.834604433616239,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-14 16:53:33 (UTC)",
+                "LastUpdated": "2026-04-14 18:56:44 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-14 16:53:37 (UTC)",
+                "LastUpdated": "2026-04-14 18:56:45 (UTC)",
                 "history": false
             },
             {
@@ -494,21 +522,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-14 15:05:03 (UTC)",
+                "LastUpdated": "2026-04-14 16:53:33 (UTC)",
                 "history": true
             },
             {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 5.807924689722417,
-                "Yesterday": 5.265979705849376,
-                "LastWeek": -4.204670826657269,
+                "Current": 10.208779067997147,
+                "Yesterday": 6.985233101880224,
+                "LastWeek": -0.14881179378102571,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-14 15:05:11 (UTC)",
+                "LastUpdated": "2026-04-14 16:53:37 (UTC)",
                 "history": true
             },
             {
