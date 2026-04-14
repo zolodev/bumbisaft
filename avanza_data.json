@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 10.208779067997147,
+                "Yesterday": 6.985233101880224,
+                "LastWeek": -0.14881179378102571,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-14 16:53:21 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-14 15:04:52 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Teknologi S",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-14 15:04:53 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Teknik A SEK",
@@ -42,48 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-14 15:04:55 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 1.5617081718450074,
-                "Yesterday": -0.2655189396372688,
-                "LastWeek": -5.711512244562927,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-14 12:57:18 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Teknologi S",
-                "PPMCode": "183343",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
-                "Current": -1.8919576470308521,
-                "Yesterday": -3.5515171537373837,
-                "LastWeek": -8.115610032618752,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-14 12:57:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Teknik A SEK",
-                "PPMCode": "771030",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
-                "Current": -12.15777262180975,
-                "Yesterday": -13.64269141531323,
-                "LastWeek": -12.482598607888637,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-14 12:57:20 (UTC)",
                 "history": true
             },
             {
@@ -477,20 +449,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-08 16:50:09 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": 5.727012925476848,
-                "Yesterday": 4.0833505814591335,
-                "LastWeek": 2.207972257715583,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-07 16:43:50 (UTC)",
-                "history": true
             }
         ]
     },
@@ -508,21 +466,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-14 15:05:03 (UTC)",
+                "LastUpdated": "2026-04-14 16:53:33 (UTC)",
                 "history": false
             },
             {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
-                "Current": 5.807924689722417,
-                "Yesterday": 5.265979705849376,
-                "LastWeek": -4.204670826657269,
+                "Current": 10.208779067997147,
+                "Yesterday": 6.985233101880224,
+                "LastWeek": -0.14881179378102571,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-14 15:05:11 (UTC)",
+                "LastUpdated": "2026-04-14 16:53:37 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-14 12:57:25 (UTC)",
+                "LastUpdated": "2026-04-14 15:05:03 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-14 12:57:31 (UTC)",
+                "LastUpdated": "2026-04-14 15:05:11 (UTC)",
                 "history": true
             },
             {
@@ -677,34 +635,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-08 15:00:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 13.882608826171072,
-                "Yesterday": 13.711905870673045,
-                "LastWeek": 3.4407813284230584,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-07 16:44:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Evli Sverige Sm\u00e5bolag B",
-                "PPMCode": "420463",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/137448",
-                "Current": -9.089965731094104,
-                "Yesterday": -11.44912721302348,
-                "LastWeek": -15.840476222547828,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-07 16:44:08 (UTC)",
                 "history": true
             }
         ]
