@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-16 01:24:24 (UTC)",
+                "LastUpdated": "2026-04-16 04:42:35 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-16 01:24:24 (UTC)",
+                "LastUpdated": "2026-04-16 04:42:36 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-15 22:31:55 (UTC)",
+                "LastUpdated": "2026-04-16 01:24:24 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-15 22:31:56 (UTC)",
+                "LastUpdated": "2026-04-16 01:24:24 (UTC)",
                 "history": true
             },
             {
@@ -393,26 +393,68 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-10 07:13:30 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 2.830400436836172,
-                "Yesterday": -1.738126872050284,
-                "LastWeek": -4.057638265523938,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-09 04:23:10 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 6.634405252744468,
+                "Yesterday": 5.3573911770073215,
+                "LastWeek": -0.17314305666525748,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-16 04:42:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Sm\u00e5bolagsfond Sverige A",
+                "PPMCode": "856682",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2008",
+                "Current": 3.2657609394419813,
+                "Yesterday": 1.66716667380962,
+                "LastWeek": -2.4128916127373348,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-16 04:42:44 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Small Cap Opportunities A",
+                "PPMCode": "694539",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
+                "Current": 0.7248491242049395,
+                "Yesterday": -1.1076850560716465,
+                "LastWeek": -4.31374309450394,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-16 04:42:47 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Humle Sm\u00e5bolagsfond A",
+                "PPMCode": "712299",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/209089",
+                "Current": 2.0456603798411623,
+                "Yesterday": 0.398177263305259,
+                "LastWeek": -3.5265916502557357,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-16 04:42:49 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Barings Asia Growth ClassA USD Inc",
                 "PPMCode": "477729",
@@ -425,7 +467,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-16 01:24:29 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Sm\u00e5bolagsfond Sverige A",
@@ -439,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-16 01:24:30 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Small Cap Opportunities A",
@@ -453,7 +495,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-16 01:24:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Humle Sm\u00e5bolagsfond A",
@@ -467,62 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-16 01:24:35 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 6.702484623117559,
-                "Yesterday": 5.3573911770073215,
-                "LastWeek": -0.17314305666525748,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-15 22:32:00 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Sm\u00e5bolagsfond Sverige A",
-                "PPMCode": "856682",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2008",
-                "Current": 3.2657609394419813,
-                "Yesterday": 1.66716667380962,
-                "LastWeek": -2.4128916127373348,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-15 22:32:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Small Cap Opportunities A",
-                "PPMCode": "694539",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2003",
-                "Current": 0.7248491242049395,
-                "Yesterday": -1.1076850560716465,
-                "LastWeek": -4.31374309450394,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-15 22:32:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Humle Sm\u00e5bolagsfond A",
-                "PPMCode": "712299",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/209089",
-                "Current": 2.0456603798411623,
-                "Yesterday": 0.398177263305259,
-                "LastWeek": -3.5265916502557357,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-15 22:32:05 (UTC)",
                 "history": true
             },
             {
