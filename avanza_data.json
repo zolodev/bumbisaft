@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 22:26:47 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:28 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 22:26:48 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:30 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 22:26:50 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:32 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 22:26:53 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:35 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 22:26:54 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:36 (UTC)",
                 "history": false
             },
             {
@@ -83,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 22:26:56 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:39 (UTC)",
                 "history": false
             },
             {
@@ -97,7 +97,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 22:26:58 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Aktiefond Stabil",
+                "PPMCode": "339184",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2016",
+                "Current": 3.10781878268395,
+                "Yesterday": 0.4378995740363517,
+                "LastWeek": -2.1596580354944868,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-20 01:24:42 (UTC)",
                 "history": false
             },
             {
@@ -111,7 +125,91 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 20:33:31 (UTC)",
+                "LastUpdated": "2026-04-17 22:26:47 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 2.0994623846322824,
+                "Yesterday": -0.9838573725553993,
+                "LastWeek": -6.92383428130246,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-17 22:26:48 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": -0.8848884105708277,
+                "Yesterday": -3.788496450662582,
+                "LastWeek": -7.669395253780338,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-17 22:26:50 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "D&G Aktiefond",
+                "PPMCode": "291906",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1919",
+                "Current": 1.5107093175246942,
+                "Yesterday": -1.3247188264531593,
+                "LastWeek": -4.071858749451369,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-17 22:26:53 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken Sverige Selektiv",
+                "PPMCode": "459652",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/508255",
+                "Current": 3.72180845484108,
+                "Yesterday": 0.8706598132801918,
+                "LastWeek": -0.9241581873492024,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-17 22:26:54 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Sweden Equity C (SEK)",
+                "PPMCode": "846527",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1907",
+                "Current": 4.4508304059531465,
+                "Yesterday": 1.6764015049159193,
+                "LastWeek": -0.04936706229603549,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-17 22:26:56 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Sverige Expanderad",
+                "PPMCode": "158261",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1984",
+                "Current": 4.415910649457899,
+                "Yesterday": 1.699410343446066,
+                "LastWeek": 0.08184895058831478,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-17 22:26:58 (UTC)",
                 "history": true
             },
             {
@@ -126,62 +224,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-17 20:33:33 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 2.0994623846322824,
-                "Yesterday": -0.9838573725553993,
-                "LastWeek": -6.92383428130246,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 20:33:34 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Aktiefond Sm\u00e5land",
-                "PPMCode": "272898",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
-                "Current": -0.8848884105708277,
-                "Yesterday": -3.788496450662582,
-                "LastWeek": -7.669395253780338,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 20:33:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "D&G Aktiefond",
-                "PPMCode": "291906",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1919",
-                "Current": 1.5107093175246942,
-                "Yesterday": -1.3247188264531593,
-                "LastWeek": -4.071858749451369,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 20:33:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Sverige Selektiv",
-                "PPMCode": "459652",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/508255",
-                "Current": 3.72180845484108,
-                "Yesterday": 0.8706598132801918,
-                "LastWeek": -0.9241581873492024,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-17 20:33:39 (UTC)",
                 "history": true
             },
             {
@@ -424,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-17 22:27:05 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:51 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +480,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-17 22:27:07 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:54 (UTC)",
                 "history": false
             },
             {
@@ -452,7 +494,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-17 22:27:09 (UTC)",
+                "LastUpdated": "2026-04-20 01:24:56 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-17 20:33:49 (UTC)",
+                "LastUpdated": "2026-04-17 22:27:05 (UTC)",
                 "history": true
             },
             {
@@ -480,21 +522,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-17 20:33:51 (UTC)",
+                "LastUpdated": "2026-04-17 22:27:07 (UTC)",
                 "history": true
             },
             {
                 "Name": "Lannebo Sm\u00e5bolag A",
                 "PPMCode": "842690",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": 4.329608938547486,
-                "Yesterday": 2.687150837988828,
-                "LastWeek": -4.189944134078212,
+                "Current": 7.770949720670389,
+                "Yesterday": 4.329608938547486,
+                "LastWeek": -1.575418994413404,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-16 18:55:59 (UTC)",
+                "LastUpdated": "2026-04-17 22:27:09 (UTC)",
                 "history": true
             },
             {
