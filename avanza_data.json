@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 20.212766893287775,
+                "Yesterday": 17.559676495388445,
+                "LastWeek": 29.92645983755337,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-21 12:57:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Sverige Exponering",
+                "PPMCode": "292193",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/403595",
+                "Current": 4.90002370979215,
+                "Yesterday": 2.644959034748023,
+                "LastWeek": -3.5222213440817587,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-21 12:57:16 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Sverige A",
                 "PPMCode": "607226",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1870",
@@ -14,34 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-21 10:57:16 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 20.212766893287775,
-                "Yesterday": 17.559676495388445,
-                "LastWeek": 29.92645983755337,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-21 10:57:22 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Sverige A",
-                "PPMCode": "607226",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1870",
-                "Current": 3.6384789663829578,
-                "Yesterday": 0.8168513869328362,
-                "LastWeek": -1.5112362990631214,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-21 09:15:27 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-21 09:15:35 (UTC)",
+                "LastUpdated": "2026-04-21 10:57:22 (UTC)",
                 "history": true
             },
             {
