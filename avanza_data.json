@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-21 09:15:27 (UTC)",
+                "LastUpdated": "2026-04-21 10:57:16 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-21 09:15:35 (UTC)",
+                "LastUpdated": "2026-04-21 10:57:22 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-21 07:19:41 (UTC)",
+                "LastUpdated": "2026-04-21 09:15:27 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 20.212766893287775,
+                "Yesterday": 17.559676495388445,
+                "LastWeek": 29.92645983755337,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-21 09:15:35 (UTC)",
                 "history": true
             },
             {
@@ -350,20 +364,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-14 15:04:55 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": 14.73883097951144,
-                "Yesterday": 12.290424727844266,
-                "LastWeek": 7.759156236704986,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-14 10:54:43 (UTC)",
                 "history": true
             }
         ]
