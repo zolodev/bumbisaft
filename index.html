@@ -12,8 +12,13 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 ```
-/* ── Dark theme (default) ── */
+/* ── Shared tokens ── */
 :root {
+  --radius: 14px;
+  --mono:   'DM Mono', monospace;
+  --sans:   'Sora', sans-serif;
+
+  /* dark values (default) */
   --bg:         #0d0f14;
   --surface:    #151820;
   --border:     #1f2330;
@@ -28,12 +33,27 @@
   --daily-soft: rgba(99,102,241,.14);
   --weekly:     #f59e0b;
   --weekly-soft:rgba(245,158,11,.14);
-  --radius:     14px;
-  --mono:       'DM Mono', monospace;
-  --sans:       'Sora', sans-serif;
 }
 
-/* ── Light theme ── */
+/* ── Explicit dark ── */
+[data-theme="dark"] {
+  --bg:         #0d0f14;
+  --surface:    #151820;
+  --border:     #1f2330;
+  --muted:      #3a3f52;
+  --text:       #e8eaf2;
+  --subtle:     #6b7280;
+  --up:         #22c55e;
+  --up-soft:    rgba(34,197,94,.12);
+  --down:       #ef4444;
+  --down-soft:  rgba(239,68,68,.12);
+  --daily:      #6366f1;
+  --daily-soft: rgba(99,102,241,.14);
+  --weekly:     #f59e0b;
+  --weekly-soft:rgba(245,158,11,.14);
+}
+
+/* ── Explicit light ── */
 [data-theme="light"] {
   --bg:         #f4f5f7;
   --surface:    #ffffff;
@@ -51,9 +71,9 @@
   --weekly-soft:rgba(217,119,6,.10);
 }
 
-/* ── System preference ── */
+/* ── System: no data-theme set, follow OS ── */
 @media (prefers-color-scheme: light) {
-  :root:not([data-theme="dark"]):not([data-theme="light"]) {
+  :root:not([data-theme]) {
     --bg:         #f4f5f7;
     --surface:    #ffffff;
     --border:     #e2e4ea;
@@ -84,84 +104,51 @@ body {
   transition: background .2s, color .2s;
 }
 
-/* ── Header ── */
 header {
   padding: 1.1rem 1.25rem .9rem;
-  position: sticky;
-  top: 0;
-  z-index: 10;
+  position: sticky; top: 0; z-index: 10;
   background: var(--bg);
   border-bottom: 1px solid var(--border);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: .75rem;
+  display: flex; align-items: center; justify-content: space-between; gap: .75rem;
   transition: background .2s, border-color .2s;
 }
 .logo { font-size: 1rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
 .logo span { color: var(--daily); }
-
-.header-right { display: flex; align-items: center; gap: .6rem; }
+.header-right { display: flex; align-items: center; gap: .6rem; flex-shrink: 0; }
 
 .updated-badge {
-  font-family: var(--mono);
-  font-size: .68rem;
-  color: var(--subtle);
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 100px;
-  padding: .25rem .65rem;
-  white-space: nowrap;
+  font-family: var(--mono); font-size: .68rem; color: var(--subtle);
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 100px; padding: .25rem .65rem; white-space: nowrap;
   transition: background .2s, border-color .2s;
 }
 
 /* ── Theme toggle ── */
 .theme-toggle {
-  display: flex;
-  align-items: center;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 100px;
-  padding: .2rem;
-  gap: .15rem;
+  display: flex; align-items: center;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 100px; padding: .2rem; gap: .1rem;
   transition: background .2s, border-color .2s;
 }
 .theme-btn {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 28px;
-  height: 28px;
-  border-radius: 100px;
-  border: none;
-  background: transparent;
-  cursor: pointer;
-  color: var(--subtle);
-  font-size: .8rem;
-  transition: background .15s, color .15s;
-  -webkit-tap-highlight-color: transparent;
+  display: flex; align-items: center; justify-content: center;
+  width: 28px; height: 28px; border-radius: 100px;
+  border: none; background: transparent; cursor: pointer;
+  font-size: .82rem; line-height: 1;
+  transition: background .15s; -webkit-tap-highlight-color: transparent;
+  color: inherit;
 }
-.theme-btn:hover { color: var(--text); }
-.theme-btn.active {
-  background: var(--border);
-  color: var(--text);
-}
-[data-theme="dark"]  .theme-btn[data-mode="dark"]   { background: var(--border); color: var(--text); }
-[data-theme="light"] .theme-btn[data-mode="light"]  { background: var(--border); color: var(--text); }
+.theme-btn.active { background: var(--border); }
 
 /* ── Explainer ── */
 .explainer {
-  margin: 1rem 1rem 0;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1rem 1.1rem;
-  transition: background .2s, border-color .2s;
+  margin: 1rem 1rem 0; background: var(--surface);
+  border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 1rem 1.1rem; transition: background .2s, border-color .2s;
 }
 .explainer-title {
-  font-size: .68rem; font-weight: 700;
-  text-transform: uppercase; letter-spacing: .1em;
-  color: var(--muted); margin-bottom: .75rem;
+  font-size: .68rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .1em; color: var(--muted); margin-bottom: .75rem;
 }
 .explainer-row { display: flex; gap: .65rem; margin-bottom: .55rem; }
 .explainer-row:last-child { margin-bottom: 0; }
@@ -177,8 +164,7 @@ header {
 
 /* ── Legend ── */
 .legend {
-  display: flex; gap: .6rem;
-  padding: .85rem 1.25rem;
+  display: flex; gap: .6rem; padding: .85rem 1.25rem;
   overflow-x: auto; scrollbar-width: none;
 }
 .legend::-webkit-scrollbar { display: none; }
@@ -196,7 +182,6 @@ header {
 .legend-chip.up     .dot { background: var(--up); }
 .legend-chip.down   .dot { background: var(--down); }
 
-/* ── Section header ── */
 .section-header {
   display: flex; align-items: center; gap: .75rem;
   padding: 1.4rem 1.25rem .6rem;
@@ -210,7 +195,6 @@ header {
 .section-label.weeklys { background: var(--weekly-soft); color: var(--weekly); border: 1px solid rgba(245,158,11,.3); }
 .section-count { font-size: .75rem; color: var(--subtle); }
 
-/* ── Fund list & card ── */
 .fund-list { padding: 0 1rem; display: flex; flex-direction: column; gap: .5rem; }
 
 .fund-card {
@@ -230,40 +214,33 @@ header {
 
 .trend-badge {
   font-size: .72rem; font-weight: 700;
-  padding: .18rem .52rem; border-radius: 6px;
-  white-space: nowrap; flex-shrink: 0;
+  padding: .18rem .52rem; border-radius: 6px; white-space: nowrap; flex-shrink: 0;
 }
 .trend-badge.up   { background: var(--up-soft);   color: var(--up); }
 .trend-badge.down { background: var(--down-soft); color: var(--down); }
 
 .fund-meta { display: flex; align-items: center; gap: .45rem; margin-top: .22rem; flex-wrap: wrap; }
 .ppm-code {
-  font-family: var(--mono); font-size: .66rem;
-  color: var(--subtle); background: var(--bg);
-  border: 1px solid var(--border); border-radius: 4px;
+  font-family: var(--mono); font-size: .66rem; color: var(--subtle);
+  background: var(--bg); border: 1px solid var(--border); border-radius: 4px;
   padding: .08rem .32rem; transition: background .2s, border-color .2s;
 }
 .fund-time { font-size: .65rem; color: var(--muted); }
 
-.fund-stats {
-  display: grid; grid-template-columns: repeat(3, 1fr);
-  gap: .4rem; margin-top: .72rem;
-}
+.fund-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: .4rem; margin-top: .72rem; }
 .stat {
   background: var(--bg); border: 1px solid var(--border);
   border-radius: 8px; padding: .42rem .45rem; text-align: center;
   transition: background .2s, border-color .2s;
 }
 .stat-label {
-  font-size: .58rem; text-transform: uppercase;
-  letter-spacing: .07em; color: var(--muted);
-  font-weight: 600; margin-bottom: .18rem;
+  font-size: .58rem; text-transform: uppercase; letter-spacing: .07em;
+  color: var(--muted); font-weight: 600; margin-bottom: .18rem;
 }
 .stat-value { font-family: var(--mono); font-size: .88rem; font-weight: 500; }
 .stat-value.up   { color: var(--up); }
 .stat-value.down { color: var(--down); }
 
-/* ── Divider ── */
 .section-divider {
   display: flex; align-items: center; gap: .75rem;
   padding: .4rem 1.25rem; margin-top: .6rem;
@@ -273,15 +250,12 @@ header {
 }
 .section-divider span { font-size: .62rem; color: var(--muted); letter-spacing: .1em; text-transform: uppercase; }
 
-/* ── History toggle ── */
 .history-toggle {
   display: flex; align-items: center; justify-content: center; gap: .5rem;
   margin: 1rem 1rem 0; padding: .72rem;
   background: var(--surface); border: 1px solid var(--border);
-  border-radius: var(--radius);
-  font-size: .78rem; font-weight: 600;
-  color: var(--subtle); cursor: pointer;
-  width: calc(100% - 2rem);
+  border-radius: var(--radius); font-size: .78rem; font-weight: 600;
+  color: var(--subtle); cursor: pointer; width: calc(100% - 2rem);
   transition: color .15s, border-color .15s, background .2s;
   letter-spacing: .03em; font-family: var(--sans);
   -webkit-tap-highlight-color: transparent;
@@ -299,9 +273,8 @@ header {
 }
 
 .history-label {
-  font-size: .63rem; color: var(--muted);
-  text-transform: uppercase; letter-spacing: .08em;
-  font-weight: 600; padding: .6rem 1.25rem .3rem;
+  font-size: .63rem; color: var(--muted); text-transform: uppercase;
+  letter-spacing: .08em; font-weight: 600; padding: .6rem 1.25rem .3rem;
 }
 
 .loading { padding: 3rem 1.25rem; text-align: center; color: var(--muted); font-size: .85rem; }
@@ -316,15 +289,9 @@ header {
   <div class="header-right">
     <div class="updated-badge" id="lastUpdated">Laddar…</div>
     <div class="theme-toggle">
-      <button class="theme-btn" data-mode="light" onclick="setTheme('light')" title="Ljust">
-        ☀️
-      </button>
-      <button class="theme-btn active" data-mode="system" onclick="setTheme('system')" title="System">
-        💻
-      </button>
-      <button class="theme-btn" data-mode="dark" onclick="setTheme('dark')" title="Mörkt">
-        🌙
-      </button>
+      <button class="theme-btn" data-mode="light"  onclick="setTheme('light')"  title="Ljust">☀️</button>
+      <button class="theme-btn" data-mode="system" onclick="setTheme('system')" title="System">💻</button>
+      <button class="theme-btn" data-mode="dark"   onclick="setTheme('dark')"   title="Mörkt">🌙</button>
     </div>
   </div>
 </header>
@@ -356,33 +323,33 @@ const DATA_URL = 'https://raw.githubusercontent.com/zolodev/bumbisaft/refs/heads
 // ── Theme ──
 function setTheme(mode) {
   localStorage.setItem('theme', mode);
-  applyTheme(mode);
-  document.querySelectorAll('.theme-btn').forEach(b => {
-    b.classList.toggle('active', b.dataset.mode === mode);
-  });
-}
-
-function applyTheme(mode) {
   if (mode === 'system') {
     document.documentElement.removeAttribute('data-theme');
   } else {
     document.documentElement.setAttribute('data-theme', mode);
   }
+  document.querySelectorAll('.theme-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.mode === mode);
+  });
 }
 
-// Init theme from storage, default = system
-const savedTheme = localStorage.getItem('theme') || 'system';
-applyTheme(savedTheme);
+// Apply saved theme immediately (before paint)
+const saved = localStorage.getItem('theme') || 'system';
+if (saved === 'system') {
+  document.documentElement.removeAttribute('data-theme');
+} else {
+  document.documentElement.setAttribute('data-theme', saved);
+}
+
+// Mark correct button active once DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.theme-btn').forEach(b => {
-    b.classList.toggle('active', b.dataset.mode === savedTheme);
+    b.classList.toggle('active', b.dataset.mode === saved);
   });
 });
 
-// ── Data ──
-function pct(v) {
-  return (v >= 0 ? '+' : '') + v.toFixed(2) + '%';
-}
+// ── Helpers ──
+function pct(v) { return (v >= 0 ? '+' : '') + v.toFixed(2) + '%'; }
 
 function formatTime(s) {
   const m = s.match(/(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2})/);
