@@ -1,210 +1,350 @@
 <!DOCTYPE html>
-<html lang="en">
 
+<html lang="sv">
 <head>
-    <link rel="icon" type="image/x-icon" href="https://zolodev.github.io/bumbisaft/favicon.ico">
-    <title>Avanza</title>
-    <link href="app.css" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="https://zolodev.github.io/bumbisaft/favicon.ico">
+  <title>Fondöversikt · Avanza</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Sora:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+```
+:root {
+  --bg:         #0d0f14;
+  --surface:    #151820;
+  --border:     #1f2330;
+  --muted:      #3a3f52;
+  --text:       #e8eaf2;
+  --subtle:     #6b7280;
+  --up:         #22c55e;
+  --up-soft:    rgba(34,197,94,.12);
+  --down:       #ef4444;
+  --down-soft:  rgba(239,68,68,.12);
+  --daily:      #6366f1;
+  --daily-soft: rgba(99,102,241,.14);
+  --weekly:     #f59e0b;
+  --weekly-soft:rgba(245,158,11,.14);
+  --radius:     14px;
+  --mono:       'DM Mono', monospace;
+  --sans:       'Sora', sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.5;
+  min-height: 100dvh;
+  padding-bottom: 3rem;
+}
+
+header {
+  padding: 1.25rem 1.25rem 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75rem;
+}
+.logo { font-size: 1rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+.logo span { color: var(--daily); }
+
+.updated-badge {
+  font-family: var(--mono);
+  font-size: .68rem;
+  color: var(--subtle);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  padding: .25rem .65rem;
+  white-space: nowrap;
+}
+
+.explainer {
+  margin: 1rem 1rem 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem;
+}
+.explainer-title {
+  font-size: .68rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .1em;
+  color: var(--muted); margin-bottom: .75rem;
+}
+.explainer-row { display: flex; gap: .65rem; margin-bottom: .55rem; }
+.explainer-row:last-child { margin-bottom: 0; }
+.explainer-icon {
+  width: 30px; height: 30px; border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: .9rem; flex-shrink: 0;
+}
+.explainer-icon.daily  { background: var(--daily-soft); }
+.explainer-icon.weekly { background: var(--weekly-soft); }
+.explainer-text { font-size: .78rem; color: var(--subtle); line-height: 1.5; }
+.explainer-text strong { color: var(--text); font-weight: 600; }
+
+.legend {
+  display: flex; gap: .6rem;
+  padding: .85rem 1.25rem;
+  overflow-x: auto; scrollbar-width: none;
+}
+.legend::-webkit-scrollbar { display: none; }
+.legend-chip {
+  display: flex; align-items: center; gap: .4rem;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 100px; padding: .35rem .8rem;
+  font-size: .72rem; font-weight: 600;
+  white-space: nowrap; letter-spacing: .04em; flex-shrink: 0;
+}
+.legend-chip .dot { width: 7px; height: 7px; border-radius: 50%; }
+.legend-chip.daily  .dot { background: var(--daily); }
+.legend-chip.weekly .dot { background: var(--weekly); }
+.legend-chip.up     .dot { background: var(--up); }
+.legend-chip.down   .dot { background: var(--down); }
+
+.section-header {
+  display: flex; align-items: center; gap: .75rem;
+  padding: 1.4rem 1.25rem .6rem;
+}
+.section-label {
+  font-size: .68rem; font-weight: 700;
+  letter-spacing: .12em; text-transform: uppercase;
+  padding: .28rem .75rem; border-radius: 100px;
+}
+.section-label.dailys  { background: var(--daily-soft);  color: var(--daily);  border: 1px solid rgba(99,102,241,.3); }
+.section-label.weeklys { background: var(--weekly-soft); color: var(--weekly); border: 1px solid rgba(245,158,11,.3); }
+.section-count { font-size: .75rem; color: var(--subtle); }
+
+.fund-list { padding: 0 1rem; display: flex; flex-direction: column; gap: .5rem; }
+
+.fund-card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: .95rem 1.05rem;
+  text-decoration: none; color: inherit; display: block;
+  transition: border-color .18s, transform .15s;
+  -webkit-tap-highlight-color: transparent;
+}
+.fund-card:active { transform: scale(.983); }
+.fund-card:hover  { border-color: var(--muted); }
+.fund-card.dailys  { border-left: 3px solid var(--daily); }
+.fund-card.weeklys { border-left: 3px solid var(--weekly); }
+
+.fund-top {
+  display: flex; align-items: flex-start;
+  justify-content: space-between; gap: .5rem;
+}
+.fund-name { font-size: .86rem; font-weight: 600; line-height: 1.3; flex: 1; }
+
+.trend-badge {
+  font-size: .72rem; font-weight: 700;
+  padding: .18rem .52rem; border-radius: 6px;
+  white-space: nowrap; flex-shrink: 0;
+}
+.trend-badge.up   { background: var(--up-soft);   color: var(--up); }
+.trend-badge.down { background: var(--down-soft); color: var(--down); }
+
+.fund-meta {
+  display: flex; align-items: center;
+  gap: .45rem; margin-top: .22rem; flex-wrap: wrap;
+}
+.ppm-code {
+  font-family: var(--mono); font-size: .66rem;
+  color: var(--subtle); background: var(--bg);
+  border: 1px solid var(--border); border-radius: 4px;
+  padding: .08rem .32rem;
+}
+.fund-time { font-size: .65rem; color: var(--muted); }
+
+.fund-stats {
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  gap: .4rem; margin-top: .72rem;
+}
+.stat {
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: 8px; padding: .42rem .45rem; text-align: center;
+}
+.stat-label {
+  font-size: .58rem; text-transform: uppercase;
+  letter-spacing: .07em; color: var(--muted);
+  font-weight: 600; margin-bottom: .18rem;
+}
+.stat-value { font-family: var(--mono); font-size: .88rem; font-weight: 500; }
+.stat-value.up   { color: var(--up); }
+.stat-value.down { color: var(--down); }
+
+.section-divider {
+  display: flex; align-items: center; gap: .75rem;
+  padding: .4rem 1.25rem; margin-top: .6rem;
+}
+.section-divider::before, .section-divider::after {
+  content: ''; flex: 1; height: 1px; background: var(--border);
+}
+.section-divider span {
+  font-size: .62rem; color: var(--muted);
+  letter-spacing: .1em; text-transform: uppercase;
+}
+
+.history-toggle {
+  display: flex; align-items: center; justify-content: center; gap: .5rem;
+  margin: 1rem 1rem 0;
+  padding: .72rem;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: .78rem; font-weight: 600;
+  color: var(--subtle); cursor: pointer;
+  width: calc(100% - 2rem);
+  transition: color .15s, border-color .15s;
+  letter-spacing: .03em;
+  font-family: var(--sans);
+  -webkit-tap-highlight-color: transparent;
+}
+.history-toggle:hover { color: var(--text); border-color: var(--muted); }
+.history-toggle .arrow { transition: transform .25s; display: flex; }
+.history-toggle.open .arrow { transform: rotate(180deg); }
+
+.history-section { display: none; }
+.history-section.open { display: block; animation: fadeIn .22s ease; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.history-label {
+  font-size: .63rem; color: var(--muted);
+  text-transform: uppercase; letter-spacing: .08em;
+  font-weight: 600; padding: .6rem 1.25rem .3rem;
+}
+
+.loading {
+  padding: 3rem 1.25rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: .85rem;
+}
+```
+
+  </style>
 </head>
-
 <body>
-    <div class="banner">
-        <h1>Avanza</h1>
-        <span class="banner-divider">/</span>
-        <a href="./skandia.html">Skandia</a>
+
+<header>
+  <div class="logo">Fond<span>·</span>översikt</div>
+  <div class="updated-badge" id="lastUpdated">Laddar…</div>
+</header>
+
+<div class="explainer">
+  <div class="explainer-title">Vad är skillnaden?</div>
+  <div class="explainer-row">
+    <div class="explainer-icon daily">📅</div>
+    <div class="explainer-text"><strong>DAILYS</strong> — fonder som uppdateras och analyseras dagligen. Fokus på kortsiktiga rörelser dag för dag.</div>
+  </div>
+  <div class="explainer-row">
+    <div class="explainer-icon weekly">📆</div>
+    <div class="explainer-text"><strong>WEEKLYS</strong> — fonder som följs veckovis. Fokus på trenden under hela veckan, mer lämpade för längre horisonter.</div>
+  </div>
+</div>
+
+<div class="legend">
+  <div class="legend-chip daily"><span class="dot"></span> DAILYS</div>
+  <div class="legend-chip weekly"><span class="dot"></span> WEEKLYS</div>
+  <div class="legend-chip up"><span class="dot"></span> Positiv</div>
+  <div class="legend-chip down"><span class="dot"></span> Negativ</div>
+</div>
+
+<div id="app"><div class="loading">Hämtar fonddata…</div></div>
+
+<script>
+const DATA_URL = 'https://raw.githubusercontent.com/zolodev/bumbisaft/refs/heads/main/avanza_data.json';
+
+function pct(v) {
+  const s = v >= 0 ? '+' : '';
+  return s + v.toFixed(2) + '%';
+}
+
+function formatTime(s) {
+  const m = s.match(/(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2})/);
+  if (!m) return s;
+  const mo = ['jan','feb','mar','apr','maj','jun','jul','aug','sep','okt','nov','dec'];
+  return `${parseInt(m[3])} ${mo[parseInt(m[2])-1]} · ${m[4]}:${m[5]}`;
+}
+
+function card(fund, cat) {
+  const dayUp = fund.TrendDay === '\u25b2';
+  const cls = cat.toLowerCase();
+  return `<a class="fund-card ${cls}" href="${fund.URL}" target="_blank" rel="noopener">
+    <div class="fund-top">
+      <div class="fund-name">${fund.Name}</div>
+      <div class="trend-badge ${dayUp?'up':'down'}">${dayUp?'▲':'▼'} dag</div>
     </div>
-
-    <div id="dataContainer" class="data-container"></div>
-
-    <!-- The accordion container -->
-    <div class="accordion">
-        <!-- Each accordion item -->
-        <div class="accordion-item">
-            <button class="accordion-button" type="button">History</button>
-            <div id="historyContainer" class="accordion-content"></div>
-        </div>
+    <div class="fund-meta">
+      <span class="ppm-code">${fund.PPMCode}</span>
+      <span class="fund-time">${formatTime(fund.LastUpdated)}</span>
+      ${fund.TrendAwesome ? `<span style="font-size:.78rem">${fund.TrendAwesome}</span>` : ''}
     </div>
+    <div class="fund-stats">
+      <div class="stat"><div class="stat-label">Idag</div><div class="stat-value ${fund.Current>=0?'up':'down'}">${pct(fund.Current)}</div></div>
+      <div class="stat"><div class="stat-label">Igår</div><div class="stat-value ${fund.Yesterday>=0?'up':'down'}">${pct(fund.Yesterday)}</div></div>
+      <div class="stat"><div class="stat-label">Vecka</div><div class="stat-value ${fund.LastWeek>=0?'up':'down'}">${pct(fund.LastWeek)}</div></div>
+    </div>
+  </a>`;
+}
 
-    <script>
-        var data = "";
+function render(data) {
+  let html = '';
+  let latest = '';
+  data.forEach((group, gi) => {
+    const active  = group.FundData.filter(f => !f.history);
+    const history = group.FundData.filter(f =>  f.history);
+    const cat = group.Label;
+    const cls = cat.toLowerCase();
+    group.FundData.forEach(f => { if (!latest || f.LastUpdated > latest) latest = f.LastUpdated; });
+    if (gi > 0) html += `<div class="section-divider"><span>vs</span></div>`;
+    html += `<div class="section-header">
+      <span class="section-label ${cls}">${cat}</span>
+      <span class="section-count">${active.length} aktiva fonder</span>
+    </div>
+    <div class="fund-list">${active.map(f => card(f, cat)).join('')}</div>`;
+    if (history.length) {
+      const id = 'h' + gi;
+      html += `<button class="history-toggle" onclick="tog(this,'${id}')">
+        <span class="arrow"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></span>
+        Historik &nbsp;·&nbsp; ${history.length} poster
+      </button>
+      <div id="${id}" class="history-section">
+        <div class="history-label">Tidigare mätningar</div>
+        <div class="fund-list" style="opacity:.65">${history.map(f => card(f, cat)).join('')}</div>
+      </div>`;
+    }
+  });
+  document.getElementById('app').innerHTML = html;
+  if (latest) document.getElementById('lastUpdated').textContent = formatTime(latest);
+}
 
-        // URL of the JSON data
-        const url = 'https://raw.githubusercontent.com/zolodev/auto-python/main/avanza_data.json';
+function tog(btn, id) {
+  btn.classList.toggle('open');
+  document.getElementById(id).classList.toggle('open');
+}
 
-        // Fetch the JSON data from the URL
-        fetch(url)
-            .then(response => response.json())
-            .then(rec_data => {
-                // Convert the JSON data to a string with indentation
-                data = rec_data;
+fetch(DATA_URL)
+  .then(r => r.json())
+  .then(render)
+  .catch(() => {
+    document.getElementById('app').innerHTML = '<div class="loading">Kunde inte hämta fonddata.</div>';
+    document.getElementById('lastUpdated').textContent = '—';
+  });
+</script>
 
-                // Iterate over the data
-                data.forEach(item => {
-                    // Create a div for the label
-                    const labelDiv = document.createElement('div');
-                    labelDiv.className = 'label';
-                    labelDiv.textContent = item.Label;
-                    document.getElementById('dataContainer').appendChild(labelDiv);
-
-                    const containerDiv = document.createElement('div');
-                    containerDiv.className = 'data-item-container';
-                    document.getElementById('dataContainer').appendChild(containerDiv);
-
-
-                    // HISTORY Part
-                    // Create a div for the label
-                    const historyLabelDiv = document.createElement('div');
-                    historyLabelDiv.className = 'label';
-                    historyLabelDiv.textContent = item.Label;
-                    document.getElementById('historyContainer').appendChild(historyLabelDiv);
-
-                    const historyContainerDiv = document.createElement('div');
-                    historyContainerDiv.className = 'data-item-container';
-                    document.getElementById('historyContainer').appendChild(historyContainerDiv);
-
-                    // Iterate over the FundData array
-                    item.FundData.forEach(fund => {
-                        if (fund.history === true) { return; }
-
-                        // Create a div for each fund
-                        const div = document.createElement('div');
-                        div.className = 'data-item';
-
-                        const trendDay = fund['TrendDay'];
-                        const trendDayGood = trendDay === '\u25b2';
-                        const trendWeek = fund['TrendWeek'];
-                        const trendWeekGood = trendWeek === '\u25b2';
-
-                        // Build the content
-                        div.innerHTML += `
-                        <div class='data-item-name'>${fund['Name']}</div>
-                        <div class='data-item-ppmcode'>${fund['PPMCode']}</div>
-                        <div class='data-item-worth'>
-                            <div class='data-item-worth-label'>Worth</div>
-                            <div class='data-item-worth-container'>
-                                <div class="data-item-worth-current">
-                                    <div>Current</div>
-                                    <div><strong>${fund['Current'].toFixed(3)}</strong></div>
-                                </div>
-                                <div class="data-item-worth-yesterday">
-                                    <div>Yesterday</div>
-                                    <div><strong>${fund['Yesterday'].toFixed(3)}</strong></div>
-                                </div>
-                                <div class="data-item-worth-lastweek">
-                                    <div>Last week</div>
-                                    <div><strong>${fund['LastWeek'].toFixed(3)}</strong></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class='data-item-trend'>
-                            <div class='data-item-trend-label'>Trend</div>
-                            <div class='data-item-trend-container'>
-                                <div class="data-item-trend-day">
-                                    <div>Day</div>
-                                    <div class="${trendDayGood ? 'data-item-trend-up' : 'data-item-trend-down'}">${trendDay}</div>
-                                </div>
-                                <div class="data-item-trend-week">
-                                    <div>Week</div>
-                                    <div class="${trendWeekGood ? 'data-item-trend-up' : 'data-item-trend-down'}">${trendWeek}</div>
-                                </div>
-                                <div class="data-item-trend-awe">
-                                    <div>${fund['TrendAwesome']}</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class='data-item-updated'><em>${fund['LastUpdated']}</em></div>
-                        <div class='data-item-link'>
-                            <a href='${fund['URL']}' target='_blank'>${fund['URL']}</a>
-                        </div>
-                        `;
-
-                        // Append the div to the container
-                        containerDiv.appendChild(div);
-                    });
-
-                    // Adding History
-                    item.FundData.forEach(fund => {
-                        if (fund.history === false) { return; }
-
-                        // Create a div for each fund
-                        const div = document.createElement('div');
-                        div.className = 'data-item-avanza-history-item';
-
-                        const trendDay = fund['TrendDay'];
-                        const trendDayGood = trendDay === '\u25b2';
-                        const trendWeek = fund['TrendWeek'];
-                        const trendWeekGood = trendWeek === '\u25b2';
-
-                        // Build the content
-                        div.innerHTML += `
-                        <div class='data-item-name'>${fund['Name']}</div>
-                        <div class='data-item-ppmcode'>${fund['PPMCode']}</div>
-                        <div class='data-item-worth'>
-                            <div class='data-item-worth-label'>Worth</div>
-                            <div class='data-item-worth-container'>
-                                <div class="data-item-worth-current">
-                                    <div>Current</div>
-                                    <div><strong>${fund['Current'].toFixed(3)}</strong></div>
-                                </div>
-                                <div class="data-item-worth-yesterday">
-                                    <div>Yesterday</div>
-                                    <div><strong>${fund['Yesterday'].toFixed(3)}</strong></div>
-                                </div>
-                                <div class="data-item-worth-lastweek">
-                                    <div>Last week</div>
-                                    <div><strong>${fund['LastWeek'].toFixed(3)}</strong></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class='data-item-trend'>
-                            <div class='data-item-trend-label'>Trend</div>
-                            <div class='data-item-trend-container'>
-                                <div class="data-item-trend-day">
-                                    <div>Day</div>
-                                    <div class="${trendDayGood ? 'data-item-trend-up' : 'data-item-trend-down'}">${trendDay}</div>
-                                </div>
-                                <div class="data-item-trend-week">
-                                    <div>Week</div>
-                                    <div class="${trendWeekGood ? 'data-item-trend-up' : 'data-item-trend-down'}">${trendWeek}</div>
-                                </div>
-                                <div class="data-item-trend-awe">
-                                    <div>${fund['TrendAwesome']}</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class='data-item-updated'><em>${fund['LastUpdated']}</em></div>
-                        <div class='data-item-link'>
-                            <a href='${fund['URL']}' target='_blank'>${fund['URL']}</a>
-                        </div>
-                        `;
-
-                        // Append the div to the container
-                        historyContainerDiv.appendChild(div);
-                    });
-                });
-            })
-            .catch(error => console.error('Error:', error));
-
-        // Get all the accordion items
-        const accordions = document.querySelectorAll('.accordion-item');
-
-        // Add an event listener to each accordion item
-        accordions.forEach((accordion) => {
-            const button = accordion.querySelector('.accordion-button');
-            const content = accordion.querySelector('.accordion-content');
-
-            // Toggle the content when the button is clicked
-            button.addEventListener('click', () => {
-                if (accordion.classList.contains('open')) {
-                    accordion.classList.remove('open');
-                    content.style.display = 'none';
-                } else {
-                    accordion.classList.add('open');
-                    content.style.display = 'block';
-                }
-            });
-        });
-    </script>
 </body>
-
 </html>
