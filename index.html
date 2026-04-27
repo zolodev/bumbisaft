@@ -199,14 +199,22 @@ header {
 .fund-card {
   background: var(--surface); border: 1px solid var(--border);
   border-radius: var(--radius); padding: .95rem 1.05rem;
-  text-decoration: none; color: inherit; display: block;
-  transition: border-color .18s, transform .15s, background .2s;
-  -webkit-tap-highlight-color: transparent;
+  color: inherit; display: block;
+  transition: border-color .18s, background .2s;
+  position: relative;
 }
-.fund-card:active { transform: scale(.983); }
-.fund-card:hover  { border-color: var(--muted); }
 .fund-card.dailys  { border-left: 3px solid var(--daily); }
 .fund-card.weeklys { border-left: 3px solid var(--weekly); }
+.fund-card:hover  { border-color: var(--muted); }
+
+/* Invisible overlay link covering the whole card */
+.fund-card-link {
+  position: absolute; inset: 0; border-radius: var(--radius);
+  z-index: 1; -webkit-tap-highlight-color: transparent;
+}
+
+/* Everything that should be clickable above the overlay */
+.fund-top, .fund-meta, .fund-stats { position: relative; z-index: 2; }
 
 .fund-top { display: flex; align-items: flex-start; justify-content: space-between; gap: .5rem; }
 .fund-name { font-size: .88rem; font-weight: 600; line-height: 1.3; flex: 1; color: var(--text); }
@@ -425,14 +433,14 @@ const copyIcon = `<svg class="copy-icon" viewBox="0 0 16 16" fill="none" stroke=
 function card(fund, cat) {
   const dayUp = fund.TrendDay === '\u25b2';
   const cls = cat.toLowerCase();
-  const ppmId = 'ppm_' + Math.random().toString(36).slice(2);
-  return `<a class="fund-card ${cls}" href="${fund.URL}" target="_blank" rel="noopener">
+  return `<div class="fund-card ${cls}">
+    <a class="fund-card-link" href="${fund.URL}" target="_blank" rel="noopener" aria-label="${fund.Name}"></a>
     <div class="fund-top">
       <div class="fund-name">${fund.Name}</div>
       <div class="trend-badge ${dayUp?'up':'down'}">${dayUp?'▲':'▼'} dag</div>
     </div>
     <div class="fund-meta">
-      <span class="ppm-code" id="${ppmId}" onclick="copyPPM(this,'${fund.PPMCode}',event)" title="Kopiera PPM-kod">
+      <span class="ppm-code" onclick="copyPPM(this,'${fund.PPMCode}')" title="Kopiera PPM-kod">
         ${copyIcon}
         <span class="copy-label">${fund.PPMCode}</span>
       </span>
@@ -444,7 +452,7 @@ function card(fund, cat) {
       <div class="stat"><div class="stat-label">Igår</div><div class="stat-value ${fund.Yesterday>=0?'up':'down'}">${pct(fund.Yesterday)}</div></div>
       <div class="stat"><div class="stat-label">Vecka</div><div class="stat-value ${fund.LastWeek>=0?'up':'down'}">${pct(fund.LastWeek)}</div></div>
     </div>
-  </a>`;
+  </div>`;
 }
 
 function render(data) {
