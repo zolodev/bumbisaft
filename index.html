@@ -24,7 +24,7 @@
   --border:     #1f2330;
   --muted:      #3a3f52;
   --text:       #e8eaf2;
-  --subtle:     #6b7280;
+  --subtle:     #9ba3b5;
   --up:         #22c55e;
   --up-soft:    rgba(34,197,94,.12);
   --down:       #ef4444;
@@ -35,14 +35,13 @@
   --weekly-soft:rgba(245,158,11,.14);
 }
 
-/* ── Explicit dark ── */
 [data-theme="dark"] {
   --bg:         #0d0f14;
   --surface:    #151820;
   --border:     #1f2330;
   --muted:      #3a3f52;
   --text:       #e8eaf2;
-  --subtle:     #6b7280;
+  --subtle:     #9ba3b5;
   --up:         #22c55e;
   --up-soft:    rgba(34,197,94,.12);
   --down:       #ef4444;
@@ -53,41 +52,40 @@
   --weekly-soft:rgba(245,158,11,.14);
 }
 
-/* ── Explicit light ── */
+/* ── Light theme — high contrast, clean ── */
 [data-theme="light"] {
-  --bg:         #f4f5f7;
+  --bg:         #eef0f5;
   --surface:    #ffffff;
-  --border:     #e2e4ea;
-  --muted:      #c0c4d0;
-  --text:       #111318;
-  --subtle:     #6b7280;
-  --up:         #16a34a;
-  --up-soft:    rgba(22,163,74,.10);
-  --down:       #dc2626;
-  --down-soft:  rgba(220,38,38,.10);
-  --daily:      #4f46e5;
-  --daily-soft: rgba(79,70,229,.10);
-  --weekly:     #d97706;
-  --weekly-soft:rgba(217,119,6,.10);
+  --border:     #d0d4de;
+  --muted:      #8892a4;
+  --text:       #0d1017;
+  --subtle:     #3d4559;
+  --up:         #15803d;
+  --up-soft:    rgba(21,128,61,.10);
+  --down:       #b91c1c;
+  --down-soft:  rgba(185,28,28,.10);
+  --daily:      #4338ca;
+  --daily-soft: rgba(67,56,202,.09);
+  --weekly:     #b45309;
+  --weekly-soft:rgba(180,83,9,.09);
 }
 
-/* ── System: no data-theme set, follow OS ── */
 @media (prefers-color-scheme: light) {
   :root:not([data-theme]) {
-    --bg:         #f4f5f7;
+    --bg:         #eef0f5;
     --surface:    #ffffff;
-    --border:     #e2e4ea;
-    --muted:      #c0c4d0;
-    --text:       #111318;
-    --subtle:     #6b7280;
-    --up:         #16a34a;
-    --up-soft:    rgba(22,163,74,.10);
-    --down:       #dc2626;
-    --down-soft:  rgba(220,38,38,.10);
-    --daily:      #4f46e5;
-    --daily-soft: rgba(79,70,229,.10);
-    --weekly:     #d97706;
-    --weekly-soft:rgba(217,119,6,.10);
+    --border:     #d0d4de;
+    --muted:      #8892a4;
+    --text:       #0d1017;
+    --subtle:     #3d4559;
+    --up:         #15803d;
+    --up-soft:    rgba(21,128,61,.10);
+    --down:       #b91c1c;
+    --down-soft:  rgba(185,28,28,.10);
+    --daily:      #4338ca;
+    --daily-soft: rgba(67,56,202,.09);
+    --weekly:     #b45309;
+    --weekly-soft:rgba(180,83,9,.09);
   }
 }
 
@@ -175,6 +173,7 @@ header {
   font-size: .72rem; font-weight: 600;
   white-space: nowrap; letter-spacing: .04em; flex-shrink: 0;
   transition: background .2s, border-color .2s;
+  color: var(--text);
 }
 .legend-chip .dot { width: 7px; height: 7px; border-radius: 50%; }
 .legend-chip.daily  .dot { background: var(--daily); }
@@ -193,7 +192,7 @@ header {
 }
 .section-label.dailys  { background: var(--daily-soft);  color: var(--daily);  border: 1px solid rgba(99,102,241,.3); }
 .section-label.weeklys { background: var(--weekly-soft); color: var(--weekly); border: 1px solid rgba(245,158,11,.3); }
-.section-count { font-size: .75rem; color: var(--subtle); }
+.section-count { font-size: .75rem; color: var(--subtle); font-weight: 600; }
 
 .fund-list { padding: 0 1rem; display: flex; flex-direction: column; gap: .5rem; }
 
@@ -210,7 +209,7 @@ header {
 .fund-card.weeklys { border-left: 3px solid var(--weekly); }
 
 .fund-top { display: flex; align-items: flex-start; justify-content: space-between; gap: .5rem; }
-.fund-name { font-size: .86rem; font-weight: 600; line-height: 1.3; flex: 1; }
+.fund-name { font-size: .88rem; font-weight: 600; line-height: 1.3; flex: 1; color: var(--text); }
 
 .trend-badge {
   font-size: .72rem; font-weight: 700;
@@ -219,12 +218,39 @@ header {
 .trend-badge.up   { background: var(--up-soft);   color: var(--up); }
 .trend-badge.down { background: var(--down-soft); color: var(--down); }
 
-.fund-meta { display: flex; align-items: center; gap: .45rem; margin-top: .22rem; flex-wrap: wrap; }
+.fund-meta { display: flex; align-items: center; gap: .45rem; margin-top: .3rem; flex-wrap: wrap; }
+
+/* ── PPM Code — copyable ── */
 .ppm-code {
-  font-family: var(--mono); font-size: .66rem; color: var(--subtle);
-  background: var(--bg); border: 1px solid var(--border); border-radius: 4px;
-  padding: .08rem .32rem; transition: background .2s, border-color .2s;
+  font-family: var(--mono); font-size: .68rem;
+  color: var(--subtle);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: .1rem .38rem;
+  cursor: pointer;
+  display: inline-flex; align-items: center; gap: .3rem;
+  transition: background .15s, border-color .15s, color .15s;
+  user-select: none;
+  position: relative;
 }
+.ppm-code:hover {
+  background: var(--border);
+  color: var(--text);
+  border-color: var(--muted);
+}
+.ppm-code .copy-icon {
+  width: 10px; height: 10px; opacity: .5; flex-shrink: 0;
+  transition: opacity .15s;
+}
+.ppm-code:hover .copy-icon { opacity: 1; }
+.ppm-code.copied {
+  background: var(--up-soft);
+  border-color: var(--up);
+  color: var(--up);
+}
+.ppm-code .copy-label { font-size: .6rem; }
+
 .fund-time { font-size: .65rem; color: var(--muted); }
 
 .fund-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: .4rem; margin-top: .72rem; }
@@ -234,8 +260,8 @@ header {
   transition: background .2s, border-color .2s;
 }
 .stat-label {
-  font-size: .58rem; text-transform: uppercase; letter-spacing: .07em;
-  color: var(--muted); font-weight: 600; margin-bottom: .18rem;
+  font-size: .6rem; text-transform: uppercase; letter-spacing: .07em;
+  color: var(--muted); font-weight: 700; margin-bottom: .18rem;
 }
 .stat-value { font-family: var(--mono); font-size: .88rem; font-weight: 500; }
 .stat-value.up   { color: var(--up); }
@@ -278,6 +304,20 @@ header {
 }
 
 .loading { padding: 3rem 1.25rem; text-align: center; color: var(--muted); font-size: .85rem; }
+
+/* ── Copy toast ── */
+#copy-toast {
+  position: fixed; bottom: 1.5rem; left: 50%; transform: translateX(-50%) translateY(10px);
+  background: var(--text); color: var(--bg);
+  font-family: var(--mono); font-size: .72rem; font-weight: 500;
+  padding: .45rem 1rem; border-radius: 100px;
+  opacity: 0; pointer-events: none;
+  transition: opacity .2s, transform .2s;
+  white-space: nowrap; z-index: 100;
+}
+#copy-toast.show {
+  opacity: 1; transform: translateX(-50%) translateY(0);
+}
 ```
 
   </style>
@@ -316,6 +356,7 @@ header {
 </div>
 
 <div id="app"><div class="loading">Hämtar fonddata…</div></div>
+<div id="copy-toast">Kopierat!</div>
 
 <script>
 const DATA_URL = 'https://raw.githubusercontent.com/zolodev/bumbisaft/refs/heads/main/avanza_data.json';
@@ -333,7 +374,6 @@ function setTheme(mode) {
   });
 }
 
-// Apply saved theme immediately (before paint)
 const saved = localStorage.getItem('theme') || 'system';
 if (saved === 'system') {
   document.documentElement.removeAttribute('data-theme');
@@ -341,12 +381,31 @@ if (saved === 'system') {
   document.documentElement.setAttribute('data-theme', saved);
 }
 
-// Mark correct button active once DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.theme-btn').forEach(b => {
     b.classList.toggle('active', b.dataset.mode === saved);
   });
 });
+
+// ── Copy PPM ──
+let toastTimer;
+function copyPPM(el, code, e) {
+  e.preventDefault();
+  e.stopPropagation();
+  navigator.clipboard.writeText(code).then(() => {
+    el.classList.add('copied');
+    el.querySelector('.copy-label').textContent = 'Kopierat!';
+    const toast = document.getElementById('copy-toast');
+    toast.textContent = `${code} kopierat`;
+    toast.classList.add('show');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => {
+      el.classList.remove('copied');
+      el.querySelector('.copy-label').textContent = code;
+      toast.classList.remove('show');
+    }, 1800);
+  });
+}
 
 // ── Helpers ──
 function pct(v) { return (v >= 0 ? '+' : '') + v.toFixed(2) + '%'; }
@@ -358,16 +417,25 @@ function formatTime(s) {
   return `${parseInt(m[3])} ${mo[parseInt(m[2])-1]} · ${m[4]}:${m[5]}`;
 }
 
+const copyIcon = `<svg class="copy-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="5" y="5" width="8" height="9" rx="1.5"/>
+  <path d="M11 5V3.5A1.5 1.5 0 0 0 9.5 2h-6A1.5 1.5 0 0 0 2 3.5v7A1.5 1.5 0 0 0 3.5 12H5"/>
+</svg>`;
+
 function card(fund, cat) {
   const dayUp = fund.TrendDay === '\u25b2';
   const cls = cat.toLowerCase();
+  const ppmId = 'ppm_' + Math.random().toString(36).slice(2);
   return `<a class="fund-card ${cls}" href="${fund.URL}" target="_blank" rel="noopener">
     <div class="fund-top">
       <div class="fund-name">${fund.Name}</div>
       <div class="trend-badge ${dayUp?'up':'down'}">${dayUp?'▲':'▼'} dag</div>
     </div>
     <div class="fund-meta">
-      <span class="ppm-code">${fund.PPMCode}</span>
+      <span class="ppm-code" id="${ppmId}" onclick="copyPPM(this,'${fund.PPMCode}',event)" title="Kopiera PPM-kod">
+        ${copyIcon}
+        <span class="copy-label">${fund.PPMCode}</span>
+      </span>
       <span class="fund-time">${formatTime(fund.LastUpdated)}</span>
       ${fund.TrendAwesome ? `<span style="font-size:.78rem">${fund.TrendAwesome}</span>` : ''}
     </div>
