@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-28 19:16:40 (UTC)",
+                "LastUpdated": "2026-04-28 20:56:42 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 6.51958381589729,
+                "Yesterday": 5.2379175234791,
+                "LastWeek": 7.642311358673892,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-28 19:16:40 (UTC)",
+                "history": true
             },
             {
                 "Name": "Allianz Global Water AT EUR",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-28 19:16:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Biotech R USD",
@@ -267,20 +281,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-22 18:55:53 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 12.68073274346542,
-                "Yesterday": 10.724619015472049,
-                "LastWeek": 7.40314290808283,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-21 20:38:36 (UTC)",
-                "history": true
             }
         ]
     },
@@ -298,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-28 19:16:58 (UTC)",
+                "LastUpdated": "2026-04-28 20:56:53 (UTC)",
                 "history": false
             },
             {
@@ -312,8 +312,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-28 19:17:01 (UTC)",
+                "LastUpdated": "2026-04-28 20:56:55 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 22.627673650506352,
+                "Yesterday": 22.30768242769816,
+                "LastWeek": 15.668611179104918,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-28 19:16:58 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 14.588247321800216,
+                "Yesterday": 15.520779325100953,
+                "LastWeek": 8.481878792747125,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-28 19:17:01 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -344,20 +372,6 @@
                 "history": true
             },
             {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 15.226274501234618,
-                "Yesterday": 11.396397380707835,
-                "LastWeek": 6.825747146530298,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-28 05:21:00 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Pictet-Clean Energy Transition R USD",
                 "PPMCode": "887497",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
@@ -369,20 +383,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-27 17:13:17 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 22.256655479802298,
-                "Yesterday": 22.156789067014415,
-                "LastWeek": 20.52618007348525,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-27 17:13:24 (UTC)",
                 "history": true
             },
             {
