@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 9.781960996749717,
+                "Yesterday": 6.545232936078003,
+                "LastWeek": 3.8060831049646255,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-28 08:03:10 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Teknologi S",
+                "PPMCode": "183343",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509086",
+                "Current": 8.275721961000608,
+                "Yesterday": 6.168292990509352,
+                "LastWeek": 3.771021542956348,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-04-28 08:03:18 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -14,34 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-28 05:20:48 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 9.781960996749717,
-                "Yesterday": 6.545232936078003,
-                "LastWeek": 3.8060831049646255,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-28 05:20:49 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 15.226274501234618,
-                "Yesterday": 11.396397380707835,
-                "LastWeek": 6.825747146530298,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-28 01:48:18 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-04-28 01:48:21 (UTC)",
+                "LastUpdated": "2026-04-28 05:20:49 (UTC)",
                 "history": true
             },
             {
@@ -281,26 +281,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-04-21 10:57:16 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Lannebo Sweden All Cap A",
-                "PPMCode": "904904",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/430255",
-                "Current": 1.2427940405779716,
-                "Yesterday": -1.0631129744703058,
-                "LastWeek": -2.9198173242494616,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-21 07:19:49 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 17.884907094826914,
+                "Yesterday": 16.808967977359234,
+                "LastWeek": 10.193224257136146,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-28 08:03:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 13.455437361699868,
+                "Yesterday": 13.850009331093885,
+                "LastWeek": 8.427310778746438,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-04-28 08:03:29 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
@@ -313,7 +327,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-28 05:21:00 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -327,7 +341,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-28 05:21:03 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
@@ -341,48 +355,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-04-28 05:21:04 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 15.226274501234618,
-                "Yesterday": 11.396397380707835,
-                "LastWeek": 6.825747146530298,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-28 01:48:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 18.484487992376614,
-                "Yesterday": 16.808967977359234,
-                "LastWeek": 10.193224257136146,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-28 01:48:42 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 13.455437361699868,
-                "Yesterday": 13.850009331093885,
-                "LastWeek": 8.427310778746438,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-04-28 01:48:43 (UTC)",
                 "history": true
             },
             {
