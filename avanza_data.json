@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-07 17:41:34 (UTC)",
+                "LastUpdated": "2026-05-07 19:22:51 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-07 17:41:36 (UTC)",
+                "LastUpdated": "2026-05-07 19:22:54 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-07 17:41:39 (UTC)",
+                "LastUpdated": "2026-05-07 19:22:55 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-07 17:41:42 (UTC)",
+                "LastUpdated": "2026-05-07 19:22:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 8.770462711872595,
+                "Yesterday": 4.623107380166724,
+                "LastWeek": 6.080016194076698,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-07 19:23:01 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +83,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-07 15:56:29 (UTC)",
+                "LastUpdated": "2026-05-07 17:41:34 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-07 15:56:31 (UTC)",
+                "LastUpdated": "2026-05-07 17:41:36 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-07 15:56:33 (UTC)",
+                "LastUpdated": "2026-05-07 17:41:39 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +125,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-07 15:56:36 (UTC)",
+                "LastUpdated": "2026-05-07 17:41:42 (UTC)",
                 "history": true
             },
             {
@@ -309,26 +323,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-05-01 01:52:44 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": -1.9939264013113882,
-                "Yesterday": -3.2380040690814744,
-                "LastWeek": -0.9655054504384187,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-04-30 19:03:50 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Handelsbanken Asien Tema (A1 SEK)",
+                "PPMCode": "504100",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
+                "Current": 23.168322142850766,
+                "Yesterday": 21.305129145023287,
+                "LastWeek": 12.715129949665183,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-07 19:23:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Tillv\u00e4xtm Tema (A1 SEK)",
+                "PPMCode": "987842",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2155",
+                "Current": 16.181764203807457,
+                "Yesterday": 14.727056815229874,
+                "LastWeek": 8.01016810776709,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-07 19:23:10 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Technology A2",
                 "PPMCode": "446088",
