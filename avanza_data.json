@@ -13,21 +13,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-11 16:22:26 (UTC)",
+                "LastUpdated": "2026-05-11 19:25:02 (UTC)",
                 "history": false
             },
             {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 28.786180778297005,
-                "Yesterday": 25.763419252618004,
-                "LastWeek": 20.353982300884997,
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -4.025929663511506,
+                "Yesterday": -4.3083039278987965,
+                "LastWeek": -10.659075309852597,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-11 16:22:33 (UTC)",
+                "LastUpdated": "2026-05-11 19:25:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 14.733305552662005,
+                "Yesterday": 17.03562871132401,
+                "LastWeek": 12.480466715283,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-11 19:25:05 (UTC)",
                 "history": false
             },
             {
@@ -41,21 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-11 12:33:20 (UTC)",
+                "LastUpdated": "2026-05-11 16:22:26 (UTC)",
                 "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 25.763419252618004,
-                "Yesterday": 26.441241256714004,
-                "LastWeek": 19.428063531321005,
-                "TrendDay": "\u25bc",
+                "Current": 28.786180778297005,
+                "Yesterday": 25.763419252618004,
+                "LastWeek": 20.353982300884997,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-11 12:33:25 (UTC)",
+                "LastUpdated": "2026-05-11 16:22:33 (UTC)",
                 "history": true
             },
             {
@@ -337,26 +351,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-05-05 17:11:26 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken Asien Tema (A1 SEK)",
-                "PPMCode": "504100",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
-                "Current": 15.102799457373905,
-                "Yesterday": 11.398671623121496,
-                "LastWeek": 9.56642765278976,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-05-04 17:19:32 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -4.025929663511506,
+                "Yesterday": -4.3083039278987965,
+                "LastWeek": -10.659075309852597,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-11 19:25:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 20.468418441742,
+                "Yesterday": 21.357410684974003,
+                "LastWeek": 12.574117995114994,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-11 19:25:21 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Technology A2",
                 "PPMCode": "446088",
@@ -369,7 +397,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-11 16:22:41 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Asian Equities Ex Japan R USD",
@@ -383,34 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-11 16:22:46 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 33.360197512202994,
-                "Yesterday": 31.645371296877002,
-                "LastWeek": 21.161897031845,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-11 12:33:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Asian Equities Ex Japan R USD",
-                "PPMCode": "917955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/187",
-                "Current": 21.711373700630993,
-                "Yesterday": 20.902115251402993,
-                "LastWeek": 12.355264066007003,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-11 12:33:38 (UTC)",
                 "history": true
             },
             {
@@ -495,20 +495,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-06 08:03:55 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 24.63268495418186,
-                "Yesterday": 24.018652169461745,
-                "LastWeek": 16.67231724111944,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-04 17:19:49 (UTC)",
                 "history": true
             }
         ]
