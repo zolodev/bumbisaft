@@ -13,8 +13,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-19 19:40:23 (UTC)",
+                "LastUpdated": "2026-05-19 21:09:51 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Longevity R USD",
+                "PPMCode": "688986",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
+                "Current": -2.891891722172204,
+                "Yesterday": -4.3520024921779985,
+                "LastWeek": -5.0237204829481925,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-19 19:40:23 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Digital R USD",
@@ -28,20 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-05-19 17:55:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Longevity R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": -2.1278821764110036,
-                "Yesterday": -3.5994805408715003,
-                "LastWeek": -4.276483352508894,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-05-19 14:30:56 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:27 (UTC)",
+                "LastUpdated": "2026-05-19 21:09:53 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:28 (UTC)",
+                "LastUpdated": "2026-05-19 21:09:54 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:29 (UTC)",
+                "LastUpdated": "2026-05-19 21:09:55 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:30 (UTC)",
+                "LastUpdated": "2026-05-19 21:09:56 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:35 (UTC)",
+                "LastUpdated": "2026-05-19 21:10:00 (UTC)",
                 "history": false
             },
             {
@@ -396,21 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:36 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 12.835591836741006,
-                "Yesterday": 11.617464726008002,
-                "LastWeek": 7.753486182960005,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:37 (UTC)",
+                "LastUpdated": "2026-05-19 21:10:01 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:38 (UTC)",
+                "LastUpdated": "2026-05-19 21:10:03 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +424,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 19:40:39 (UTC)",
+                "LastUpdated": "2026-05-19 21:10:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Skandia Time Global",
+                "PPMCode": "439471",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
+                "Current": 19.991531932494,
+                "Yesterday": 19.610468894623992,
+                "LastWeek": 15.816577719136001,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-19 21:10:05 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 12.835591836741006,
+                "Yesterday": 11.617464726008002,
+                "LastWeek": 7.753486182960005,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-19 21:10:06 (UTC)",
                 "history": false
             },
             {
@@ -452,21 +466,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 17:55:35 (UTC)",
+                "LastUpdated": "2026-05-19 19:40:27 (UTC)",
                 "history": true
             },
             {
                 "Name": "Pictet-Security R USD",
                 "PPMCode": "968891",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 18.61843128463801,
-                "Yesterday": 16.963817099094992,
-                "LastWeek": 11.165244727357003,
+                "Current": 17.505618811359998,
+                "Yesterday": 15.866527300363998,
+                "LastWeek": 10.122353925414009,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 17:55:37 (UTC)",
+                "LastUpdated": "2026-05-19 19:40:28 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Longevity R USD",
+                "PPMCode": "688986",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
+                "Current": -2.891891722172204,
+                "Yesterday": -4.3520024921779985,
+                "LastWeek": -5.0237204829481925,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-19 19:40:29 (UTC)",
                 "history": true
             },
             {
@@ -480,35 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 17:55:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 13.298804285852004,
-                "Yesterday": 12.075676522106004,
-                "LastWeek": 8.195835581962001,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 17:55:45 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 14.731441550454003,
-                "Yesterday": 13.485636875304008,
-                "LastWeek": 9.562565725104996,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 17:55:46 (UTC)",
+                "LastUpdated": "2026-05-19 19:40:30 (UTC)",
                 "history": true
             },
             {
@@ -522,7 +522,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 17:55:48 (UTC)",
+                "LastUpdated": "2026-05-19 19:40:35 (UTC)",
                 "history": true
             },
             {
@@ -536,7 +536,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 17:55:50 (UTC)",
+                "LastUpdated": "2026-05-19 19:40:36 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Aktiv R (NOK)",
+                "PPMCode": "147348",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
+                "Current": 12.835591836741006,
+                "Yesterday": 11.617464726008002,
+                "LastWeek": 7.753486182960005,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-19 19:40:37 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 15.056902775483996,
+                "Yesterday": 14.13389197263199,
+                "LastWeek": 9.228041844493,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-19 19:40:38 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-19 17:55:53 (UTC)",
+                "LastUpdated": "2026-05-19 19:40:39 (UTC)",
                 "history": true
             },
             {
