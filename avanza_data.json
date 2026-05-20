@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-20 21:28:41 (UTC)",
+                "LastUpdated": "2026-05-20 23:02:41 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-20 21:28:44 (UTC)",
+                "LastUpdated": "2026-05-20 23:02:44 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 2.101397279819994,
+                "Yesterday": 5.042905708292001,
+                "LastWeek": 5.0773270549510015,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-20 21:28:41 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 5.004998182477993,
+                "Yesterday": 3.3230340482229983,
+                "LastWeek": 3.2768387253100077,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-20 21:28:44 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Longevity R USD",
@@ -42,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-05-20 18:08:26 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 4.091613070577004,
-                "Yesterday": 2.5039481815440015,
-                "LastWeek": 3.6399563601939917,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-05-20 18:08:30 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-20 21:28:50 (UTC)",
+                "LastUpdated": "2026-05-20 23:02:50 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-20 21:28:51 (UTC)",
+                "LastUpdated": "2026-05-20 23:02:51 (UTC)",
                 "history": false
             },
             {
@@ -354,36 +368,8 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-20 21:28:59 (UTC)",
+                "LastUpdated": "2026-05-20 23:02:59 (UTC)",
                 "history": false
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 17.940061930989994,
-                "Yesterday": 17.505618811359998,
-                "LastWeek": 9.018701976811009,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-20 18:08:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Longevity R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": -1.0702457209713976,
-                "Yesterday": -2.891891722172204,
-                "LastWeek": -5.900121833568901,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-20 18:08:39 (UTC)",
-                "history": true
             },
             {
                 "Name": "BGF World Energy A2",
@@ -396,7 +382,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-20 18:08:41 (UTC)",
+                "LastUpdated": "2026-05-20 21:28:50 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 16.048434120790006,
+                "Yesterday": 17.838915827176006,
+                "LastWeek": 11.24987780220201,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-20 21:28:51 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Longevity R USD",
+                "PPMCode": "688986",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
+                "Current": -0.732968923212793,
+                "Yesterday": -2.5608253808572954,
+                "LastWeek": -5.579311316967996,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-20 21:28:59 (UTC)",
                 "history": true
             },
             {
