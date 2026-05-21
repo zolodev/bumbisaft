@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 30.54766827359699,
+                "Yesterday": 30.053790801693996,
+                "LastWeek": 31.378800569959004,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-21 17:48:49 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Lannebo Sweden Micro Cap A",
                 "PPMCode": "416867",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2010",
@@ -330,17 +344,17 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 17.155086329640998,
-                "Yesterday": 16.707157522391007,
-                "LastWeek": 9.293681012037997,
+                "Name": "Carnegie Sm\u00e5bolagsfond A",
+                "PPMCode": "584912",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334856",
+                "Current": 12.768159921062997,
+                "Yesterday": 12.137865246335004,
+                "LastWeek": 10.955420831579996,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-21 14:35:51 (UTC)",
+                "LastUpdated": "2026-05-21 17:48:55 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-21 14:35:57 (UTC)",
+                "LastUpdated": "2026-05-21 17:49:00 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +382,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-21 10:56:14 (UTC)",
+                "LastUpdated": "2026-05-21 17:49:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 17.155086329640998,
+                "Yesterday": 16.707157522391007,
+                "LastWeek": 9.293681012037997,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-21 14:35:51 (UTC)",
                 "history": true
             },
             {
@@ -382,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-21 10:56:18 (UTC)",
+                "LastUpdated": "2026-05-21 14:35:57 (UTC)",
                 "history": true
             },
             {
