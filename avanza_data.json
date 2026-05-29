@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-29 11:17:19 (UTC)",
+                "LastUpdated": "2026-05-29 14:34:58 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-29 11:17:23 (UTC)",
+                "LastUpdated": "2026-05-29 14:35:03 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-29 07:44:08 (UTC)",
+                "LastUpdated": "2026-05-29 11:17:19 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Fondita Global Megatrends B",
+                "PPMCode": "202002",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
+                "Current": 19.040956680854997,
+                "Yesterday": 17.176302754275003,
+                "LastWeek": 12.763113449927005,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-29 11:17:23 (UTC)",
                 "history": true
             },
             {
@@ -56,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-05-29 07:44:11 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Global Megatrends B",
-                "PPMCode": "202002",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
-                "Current": 17.176302754275003,
-                "Yesterday": 18.593165444206004,
-                "LastWeek": 13.145891958548999,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-05-29 07:44:12 (UTC)",
                 "history": true
             },
             {
@@ -288,6 +288,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "East Capital Global EM Sustainable A SEK",
+                "PPMCode": "623637",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
+                "Current": 18.081053358107003,
+                "Yesterday": 17.314517169073007,
+                "LastWeek": 8.336159419943998,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-29 14:35:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 11.829977103269993,
+                "Yesterday": 11.008043210238993,
+                "LastWeek": 8.231080843068995,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-29 14:35:17 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Emerging Marketsfond",
                 "PPMCode": "950774",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
@@ -299,7 +327,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-29 11:17:32 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "East Capital Global EM Sustainable A SEK",
@@ -313,7 +341,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-29 11:17:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Tillv\u00e4xtmarknad Aktiv A",
@@ -358,20 +386,6 @@
                 "history": true
             },
             {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 14.667642172323994,
-                "Yesterday": 13.352886995854005,
-                "LastWeek": 9.197842564720995,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-29 07:44:35 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Storebrand Emerging Markets Plus A SEK",
                 "PPMCode": "429316",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/663195",
@@ -397,20 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-27 11:27:08 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global EM Sustainable A SEK",
-                "PPMCode": "623637",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
-                "Current": 14.245529647039001,
-                "Yesterday": 11.135278739655005,
-                "LastWeek": 8.440646674244999,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-27 07:54:44 (UTC)",
                 "history": true
             },
             {
@@ -509,34 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-22 22:48:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Norge R (NOK)",
-                "PPMCode": "183178",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
-                "Current": 13.899537957706997,
-                "Yesterday": 13.216388234037005,
-                "LastWeek": 10.005521248891,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-22 14:11:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Alfred Berg Aktiv R (NOK)",
-                "PPMCode": "147348",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340461",
-                "Current": 12.469666629753991,
-                "Yesterday": 11.696659570913999,
-                "LastWeek": 8.566605546557003,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-22 14:11:50 (UTC)",
                 "history": true
             }
         ]
