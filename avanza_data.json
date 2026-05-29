@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -22.8353694341941,
+                "Yesterday": -20.032702350743005,
+                "LastWeek": -20.205721647320296,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-29 18:24:44 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 38.931721148513006,
+                "Yesterday": 39.95986707538499,
+                "LastWeek": 31.039641473895006,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-05-29 18:24:48 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Longevity R USD",
                 "PPMCode": "688986",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
@@ -14,34 +42,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-05-29 14:34:58 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Fondita Global Megatrends B",
-                "PPMCode": "202002",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
-                "Current": 19.040956680854997,
-                "Yesterday": 17.176302754275003,
-                "LastWeek": 12.763113449927005,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-05-29 14:35:03 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Longevity R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": -0.3336953099314087,
-                "Yesterday": -2.2189566052936973,
-                "LastWeek": -0.03690947810189755,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-05-29 11:17:19 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-05-29 11:17:23 (UTC)",
+                "LastUpdated": "2026-05-29 14:35:03 (UTC)",
                 "history": true
             },
             {
@@ -267,26 +267,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-05-25 02:09:36 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Asian Equities Ex Japan R USD",
-                "PPMCode": "917955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/187",
-                "Current": 18.492438684439,
-                "Yesterday": 14.481899683219998,
-                "LastWeek": 17.580337075152002,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-05-22 17:42:51 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Avanza Emerging Markets",
+                "PPMCode": "715955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/944976",
+                "Current": 11.829977103269993,
+                "Yesterday": 11.008043210238993,
+                "LastWeek": 8.231080843068995,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-29 18:24:59 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "East Capital Global EM Sustainable A SEK",
+                "PPMCode": "623637",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
+                "Current": 18.081053358107003,
+                "Yesterday": 17.314517169073007,
+                "LastWeek": 8.336159419943998,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-05-29 18:25:01 (UTC)",
+                "history": false
+            },
             {
                 "Name": "East Capital Global EM Sustainable A SEK",
                 "PPMCode": "623637",
@@ -299,7 +313,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-29 14:35:13 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -313,7 +327,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-29 14:35:17 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Emerging Marketsfond",
@@ -327,20 +341,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-05-29 11:17:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global EM Sustainable A SEK",
-                "PPMCode": "623637",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
-                "Current": 18.081053358107003,
-                "Yesterday": 17.314517169073007,
-                "LastWeek": 8.336159419943998,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-05-29 11:17:37 (UTC)",
                 "history": true
             },
             {
