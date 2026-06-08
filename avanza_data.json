@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-08 02:31:40 (UTC)",
+                "LastUpdated": "2026-06-08 08:42:48 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-08 02:31:43 (UTC)",
+                "LastUpdated": "2026-06-08 08:42:51 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-05 22:55:36 (UTC)",
+                "LastUpdated": "2026-06-08 02:31:40 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-05 22:55:38 (UTC)",
+                "LastUpdated": "2026-06-08 02:31:43 (UTC)",
                 "history": true
             },
             {
@@ -312,8 +312,64 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-08 02:31:54 (UTC)",
+                "LastUpdated": "2026-06-08 08:43:02 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 6.061855592899993,
+                "Yesterday": 5.029286026942009,
+                "LastWeek": 2.5909480875400006,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-08 08:43:03 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 30.42018540794001,
+                "Yesterday": 32.558821289523,
+                "LastWeek": 23.885132562347007,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-08 08:43:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Teknik A SEK",
+                "PPMCode": "771030",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
+                "Current": 20.093701197649004,
+                "Yesterday": 20.614263404359008,
+                "LastWeek": 14.992191566985003,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-08 08:43:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 39.454696046024004,
+                "Yesterday": 42.047650671183,
+                "LastWeek": 31.596737727303008,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-08 02:31:54 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Energy A2",
@@ -327,7 +383,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-08 02:31:56 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond",
@@ -341,7 +397,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-08 02:31:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Teknik A SEK",
@@ -355,7 +411,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-08 02:32:05 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Security R USD",
@@ -369,62 +425,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-05 22:55:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 39.454696046024004,
-                "Yesterday": 42.047650671183,
-                "LastWeek": 31.596737727303008,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-05 22:55:48 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 6.061855592899993,
-                "Yesterday": 5.029286026942009,
-                "LastWeek": 2.5909480875400006,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-05 22:55:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 30.42018540794001,
-                "Yesterday": 32.558821289523,
-                "LastWeek": 23.885132562347007,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-05 22:55:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Teknik A SEK",
-                "PPMCode": "771030",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
-                "Current": 20.093701197649004,
-                "Yesterday": 20.614263404359008,
-                "LastWeek": 14.992191566985003,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-05 22:55:56 (UTC)",
                 "history": true
             },
             {
