@@ -3,17 +3,31 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 2.2670829442270044,
-                "Yesterday": -0.4590212320268074,
-                "LastWeek": -0.028038726797603886,
+                "Name": "Carnegie Indienfond A",
+                "PPMCode": "505586",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
+                "Current": -4.523680806551401,
+                "Yesterday": -6.172520471090793,
+                "LastWeek": -4.607390823175192,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-08 13:56:52 (UTC)",
+                "LastUpdated": "2026-06-08 17:17:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": -1.9624049497029956,
+                "Yesterday": -3.5753081755212954,
+                "LastWeek": -4.524630425555006,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-08 17:17:43 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-08 08:42:48 (UTC)",
+                "LastUpdated": "2026-06-08 13:56:52 (UTC)",
                 "history": true
             },
             {
@@ -267,20 +281,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-01 20:08:00 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -20.362505909194997,
-                "Yesterday": -22.8353694341941,
-                "LastWeek": -21.572882498117597,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-01 15:45:26 (UTC)",
-                "history": true
             }
         ]
     },
@@ -298,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-08 13:57:02 (UTC)",
+                "LastUpdated": "2026-06-08 17:17:45 (UTC)",
                 "history": false
             },
             {
@@ -312,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-08 13:57:04 (UTC)",
+                "LastUpdated": "2026-06-08 17:17:47 (UTC)",
                 "history": false
             },
             {
@@ -326,22 +326,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-08 13:57:09 (UTC)",
+                "LastUpdated": "2026-06-08 17:17:50 (UTC)",
                 "history": false
             },
             {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 39.454696046024004,
-                "Yesterday": 42.047650671183,
-                "LastWeek": 31.596737727303008,
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 4.736329552116003,
+                "Yesterday": 3.5592128461379975,
+                "LastWeek": 1.0286622957680083,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-08 17:17:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF US Mid-Cap Value A2",
+                "PPMCode": "625236",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1604",
+                "Current": 7.772450953410007,
+                "Yesterday": 8.128196137316008,
+                "LastWeek": 5.168538850911009,
                 "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-08 08:43:02 (UTC)",
-                "history": true
+                "LastUpdated": "2026-06-08 17:17:55 (UTC)",
+                "history": false
             },
             {
                 "Name": "BGF World Energy A2",
@@ -354,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-08 08:43:03 (UTC)",
+                "LastUpdated": "2026-06-08 13:57:02 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +382,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-08 08:43:06 (UTC)",
+                "LastUpdated": "2026-06-08 13:57:04 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": 5.193893076732001,
+                "Yesterday": 4.078282367650008,
+                "LastWeek": 2.1115224336259963,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-08 13:57:09 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 39.454696046024004,
+                "Yesterday": 42.047650671183,
+                "LastWeek": 31.596737727303008,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-08 08:43:02 (UTC)",
                 "history": true
             },
             {
