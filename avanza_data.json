@@ -6,14 +6,14 @@
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 32.63540026963299,
-                "Yesterday": 40.76129936056301,
-                "LastWeek": 31.857380642149003,
-                "TrendDay": "\u25bc",
+                "Current": 35.618687534363,
+                "Yesterday": 32.63540026963299,
+                "LastWeek": 33.559533941389,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-09 09:44:39 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:34 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-09 09:44:45 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:39 (UTC)",
                 "history": false
             },
             {
@@ -41,8 +41,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-09 09:44:48 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:43 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 32.63540026963299,
+                "Yesterday": 40.76129936056301,
+                "LastWeek": 31.857380642149003,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-09 09:44:39 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "UB Infra A",
+                "PPMCode": "780411",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/600081",
+                "Current": 0.5173814230720017,
+                "Yesterday": -0.8312923760928971,
+                "LastWeek": -0.10333176492060374,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-09 09:44:45 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 4.736329552116003,
+                "Yesterday": 3.5592128461379975,
+                "LastWeek": 1.0286622957680083,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-09 09:44:48 (UTC)",
+                "history": true
             },
             {
                 "Name": "Spiltan Globalfond Investmentbolag",
@@ -56,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-09 09:44:50 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "UB Infra A",
-                "PPMCode": "780411",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/600081",
-                "Current": 0.5173814230720017,
-                "Yesterday": -0.8312923760928971,
-                "LastWeek": -0.10333176492060374,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-09 05:59:45 (UTC)",
                 "history": true
             },
             {
@@ -84,34 +112,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-09 05:59:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 4.736329552116003,
-                "Yesterday": 3.5592128461379975,
-                "LastWeek": 1.0286622957680083,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-09 05:59:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Globalfond Investmentbolag",
-                "PPMCode": "465147",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/693994",
-                "Current": 3.5629535371599923,
-                "Yesterday": 2.4074010386219924,
-                "LastWeek": 0.980156137153008,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-09 05:59:48 (UTC)",
                 "history": true
             },
             {
@@ -283,20 +283,6 @@
                 "history": true
             },
             {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 41.125211250604,
-                "Yesterday": 35.844700627715994,
-                "LastWeek": 28.125754466440995,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-03 02:37:16 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Lannebo Teknik A SEK",
                 "PPMCode": "771030",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
@@ -354,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 09:44:53 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:46 (UTC)",
                 "history": false
             },
             {
@@ -368,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 09:44:56 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:47 (UTC)",
                 "history": false
             },
             {
@@ -382,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 09:44:59 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:50 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 09:45:02 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:52 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 09:45:04 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:54 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +410,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 09:45:07 (UTC)",
+                "LastUpdated": "2026-06-09 12:29:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "UB Infra A",
+                "PPMCode": "780411",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/600081",
+                "Current": 0.5173814230720017,
+                "Yesterday": -0.8312923760928971,
+                "LastWeek": -0.10333176492060374,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-09 12:29:59 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 05:59:54 (UTC)",
+                "LastUpdated": "2026-06-09 09:44:53 (UTC)",
                 "history": true
             },
             {
@@ -452,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 05:59:56 (UTC)",
+                "LastUpdated": "2026-06-09 09:44:56 (UTC)",
                 "history": true
             },
             {
@@ -466,21 +466,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 06:00:00 (UTC)",
+                "LastUpdated": "2026-06-09 09:44:59 (UTC)",
                 "history": true
             },
             {
                 "Name": "Swedbank Robur Healthcare A",
                 "PPMCode": "928341",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": -0.8294166436273007,
-                "Yesterday": -1.990599944705591,
-                "LastWeek": -3.455902681780499,
-                "TrendDay": "\u25b2",
+                "Current": 0.028042624789995897,
+                "Yesterday": 0.5888951205830018,
+                "LastWeek": -1.3740886146943012,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 06:00:02 (UTC)",
+                "LastUpdated": "2026-06-09 09:45:02 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +494,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-09 06:00:03 (UTC)",
+                "LastUpdated": "2026-06-09 09:45:04 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Clean Energy Transition R USD",
+                "PPMCode": "887497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
+                "Current": 32.88857181887999,
+                "Yesterday": 34.18289481668,
+                "LastWeek": 29.098527316290003,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-09 09:45:07 (UTC)",
                 "history": true
             },
             {
@@ -579,20 +593,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-05 22:55:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Clean Energy Transition R USD",
-                "PPMCode": "887497",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
-                "Current": 32.304862491372006,
-                "Yesterday": 34.898426547628006,
-                "LastWeek": 28.273917298354007,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-05 21:15:05 (UTC)",
                 "history": true
             },
             {
