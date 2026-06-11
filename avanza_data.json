@@ -6,6 +6,20 @@
                 "Name": "Barings Global Resources A USD Inc",
                 "PPMCode": "262741",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": 3.419171263875996,
+                "Yesterday": 1.6715972522969968,
+                "LastWeek": 4.433217640256007,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-11 23:12:26 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
                 "Current": 1.6715972522969968,
                 "Yesterday": 3.485554531846992,
                 "LastWeek": 3.6290442424170033,
@@ -14,7 +28,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-11 20:07:32 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Europa A USD Inc",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-11 20:07:38 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Biotech R USD",
@@ -438,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-11 20:07:43 (UTC)",
+                "LastUpdated": "2026-06-11 23:12:33 (UTC)",
                 "history": false
             },
             {
@@ -452,8 +466,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-11 20:07:44 (UTC)",
+                "LastUpdated": "2026-06-11 23:12:34 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Premium Brands R EUR",
+                "PPMCode": "923383",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
+                "Current": 6.434878339363004,
+                "Yesterday": 5.111641435989004,
+                "LastWeek": 1.5796720024659954,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-11 23:12:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 1.151361976973003,
+                "Yesterday": 1.5164279696710037,
+                "LastWeek": -2.471215950575697,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-11 20:07:43 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 6.136875396773994,
+                "Yesterday": 6.655143961035992,
+                "LastWeek": 2.1406706696179936,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-11 20:07:44 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Premium Brands R EUR",
@@ -467,7 +523,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-11 20:07:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Biotech R USD",
@@ -509,48 +565,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-11 17:30:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 1.151361976973003,
-                "Yesterday": 1.5164279696710037,
-                "LastWeek": -2.471215950575697,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-11 17:30:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 6.136875396773994,
-                "Yesterday": 6.655143961035992,
-                "LastWeek": 2.1406706696179936,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-11 17:30:28 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Premium Brands R EUR",
-                "PPMCode": "923383",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
-                "Current": 4.7726955950770025,
-                "Yesterday": 4.954851678031991,
-                "LastWeek": 1.9256555086720073,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-11 17:30:32 (UTC)",
                 "history": true
             },
             {
