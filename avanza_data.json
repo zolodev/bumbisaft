@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-12 21:22:07 (UTC)",
+                "LastUpdated": "2026-06-12 23:05:33 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-12 21:22:16 (UTC)",
+                "LastUpdated": "2026-06-12 23:05:39 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-12 19:49:21 (UTC)",
+                "LastUpdated": "2026-06-12 21:22:07 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-12 19:49:29 (UTC)",
+                "LastUpdated": "2026-06-12 21:22:16 (UTC)",
                 "history": true
             },
             {
@@ -438,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-12 21:22:27 (UTC)",
+                "LastUpdated": "2026-06-12 23:05:46 (UTC)",
                 "history": false
             },
             {
@@ -452,8 +452,64 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-12 21:22:29 (UTC)",
+                "LastUpdated": "2026-06-12 23:05:47 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": -3.975270923225707,
+                "Yesterday": -4.998129467999406,
+                "LastWeek": -1.6533027466585009,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-12 23:05:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 7.230912760662996,
+                "Yesterday": 6.038380446105003,
+                "LastWeek": 0.25090895012199327,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-12 23:05:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Premium Brands R EUR",
+                "PPMCode": "923383",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
+                "Current": 7.1155643965970015,
+                "Yesterday": 5.7838649579659975,
+                "LastWeek": 2.2293074181240082,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-12 21:22:27 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 2.098489087856997,
+                "Yesterday": 0.7834359261330064,
+                "LastWeek": -4.448796866256307,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-12 21:22:29 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -481,34 +537,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-12 19:49:32 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Premium Brands R EUR",
-                "PPMCode": "923383",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
-                "Current": 6.434878339363004,
-                "Yesterday": 5.111641435989004,
-                "LastWeek": 1.5796720024659954,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-12 16:36:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 0.7834359261330064,
-                "Yesterday": 1.147174034694999,
-                "LastWeek": -2.8259653049804,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-12 12:47:41 (UTC)",
                 "history": true
             },
             {
@@ -691,20 +719,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-08 08:43:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 29.773895182287998,
-                "Yesterday": 32.52268637438299,
-                "LastWeek": 23.859931705932997,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-05 22:55:46 (UTC)",
                 "history": true
             }
         ]
