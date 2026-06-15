@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 33.799351139167996,
+                "Yesterday": 28.227643229071,
+                "LastWeek": 38.793236028619994,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-15 02:35:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -19.160330816510104,
+                "Yesterday": -22.359459648049096,
+                "LastWeek": -12.63102379360411,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-15 02:35:07 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Templeton Emerging Markets A(acc)USD",
                 "PPMCode": "425067",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
@@ -14,34 +42,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-12 23:05:33 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 33.799351139167996,
-                "Yesterday": 28.227643229071,
-                "LastWeek": 38.793236028619994,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-12 23:05:39 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Templeton Emerging Markets A(acc)USD",
-                "PPMCode": "425067",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
-                "Current": 23.366628775263997,
-                "Yesterday": 17.182727247058992,
-                "LastWeek": 28.467405586797994,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-12 21:22:07 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-12 21:22:16 (UTC)",
+                "LastUpdated": "2026-06-12 23:05:39 (UTC)",
                 "history": true
             },
             {
@@ -428,6 +428,20 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Templeton Emerging Markets A(acc)USD",
+                "PPMCode": "425067",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
+                "Current": 25.357916035171,
+                "Yesterday": 26.237369098189994,
+                "LastWeek": 31.587140274430002,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-15 02:35:11 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Pictet-Premium Brands R EUR",
                 "PPMCode": "923383",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
@@ -439,7 +453,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-12 23:05:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Healthcare A",
@@ -453,7 +467,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-12 23:05:47 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Latin American A2",
@@ -467,7 +481,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-12 23:05:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Health Care S",
@@ -481,48 +495,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-12 23:05:51 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Premium Brands R EUR",
-                "PPMCode": "923383",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
-                "Current": 7.1155643965970015,
-                "Yesterday": 5.7838649579659975,
-                "LastWeek": 2.2293074181240082,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-12 21:22:27 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 2.098489087856997,
-                "Yesterday": 0.7834359261330064,
-                "LastWeek": -4.448796866256307,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-12 21:22:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": -3.975270923225707,
-                "Yesterday": -4.998129467999406,
-                "LastWeek": -1.6533027466585009,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-12 19:49:31 (UTC)",
                 "history": true
             },
             {
@@ -551,20 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-12 12:47:43 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 6.136875396773994,
-                "Yesterday": 6.655143961035992,
-                "LastWeek": 2.1406706696179936,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-12 08:14:25 (UTC)",
                 "history": true
             },
             {
