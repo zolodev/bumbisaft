@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 23.344546324825004,
+                "Yesterday": 20.729964218267995,
+                "LastWeek": 13.564791201578991,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-17 16:48:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Holberg Global A",
+                "PPMCode": "282632",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74108",
+                "Current": 6.869431288454998,
+                "Yesterday": 5.176981445520997,
+                "LastWeek": 5.603668925434995,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-17 16:48:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 14.665507809503996,
+                "Yesterday": 12.855645594213003,
+                "LastWeek": 18.085840640097995,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-17 16:48:54 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Teknologifond",
                 "PPMCode": "194092",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
@@ -382,7 +424,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-17 13:34:36 (UTC)",
+                "LastUpdated": "2026-06-17 16:49:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 7.139628256088999,
+                "Yesterday": 6.073112912199995,
+                "LastWeek": 7.909534856348001,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-17 16:49:02 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-17 08:51:45 (UTC)",
+                "LastUpdated": "2026-06-17 13:34:36 (UTC)",
                 "history": true
             },
             {
