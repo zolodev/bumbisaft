@@ -14,7 +14,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-17 08:51:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Emerging Marketsfond",
@@ -28,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-17 08:51:42 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
@@ -241,20 +241,6 @@
                 "history": true
             },
             {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 26.601073345228997,
-                "Yesterday": 21.476446034454003,
-                "LastWeek": 26.207513416781005,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-11 08:25:42 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Storebrand Emerging Markets Plus A SEK",
                 "PPMCode": "429316",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/663195",
@@ -396,8 +382,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-17 08:51:45 (UTC)",
+                "LastUpdated": "2026-06-17 13:34:36 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -6.045245752564097,
+                "Yesterday": -7.147197960557004,
+                "LastWeek": -11.345005441277099,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-17 08:51:45 (UTC)",
+                "history": true
             },
             {
                 "Name": "SEB Emerging Marketsfond",
@@ -411,7 +411,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-17 08:51:49 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli GEM B",
@@ -425,7 +425,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-17 08:51:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -439,20 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-17 08:51:56 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 26.328600405670006,
-                "Yesterday": 23.286004056844995,
-                "LastWeek": 24.602723848117,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-17 02:34:27 (UTC)",
                 "history": true
             },
             {
