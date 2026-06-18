@@ -13,21 +13,49 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-18 12:43:58 (UTC)",
+                "LastUpdated": "2026-06-18 16:48:47 (UTC)",
                 "history": false
             },
             {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 23.344546324825004,
-                "Yesterday": 20.729964218267995,
-                "LastWeek": 13.564791201578991,
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 9.471719756480997,
+                "Yesterday": 8.267686730128007,
+                "LastWeek": 5.632770009927008,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-18 12:44:08 (UTC)",
+                "LastUpdated": "2026-06-18 16:48:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "AMF Aktiefond Asien Stilla havet",
+                "PPMCode": "823096",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/143369",
+                "Current": 17.20859285623201,
+                "Yesterday": 16.776407779328,
+                "LastWeek": 10.987670013972002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-18 16:48:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Indienfond A",
+                "PPMCode": "505586",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
+                "Current": 2.405539665376,
+                "Yesterday": 1.4978360590739976,
+                "LastWeek": -3.4237486097234973,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-18 16:49:01 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-18 08:28:18 (UTC)",
+                "LastUpdated": "2026-06-18 12:43:58 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +83,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-18 08:28:26 (UTC)",
+                "LastUpdated": "2026-06-18 12:44:08 (UTC)",
                 "history": true
             },
             {
@@ -281,20 +309,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-11 17:30:19 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Evli GEM B",
-                "PPMCode": "367987",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/864973",
-                "Current": 10.026693813385009,
-                "Yesterday": 7.525672145087993,
-                "LastWeek": 10.405479992475994,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-11 13:48:50 (UTC)",
-                "history": true
             }
         ]
     },
@@ -312,21 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-18 12:44:15 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 8.331817128951007,
-                "Yesterday": 7.139628256088999,
-                "LastWeek": 2.1328949144699982,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-18 12:44:26 (UTC)",
+                "LastUpdated": "2026-06-18 16:49:07 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-18 08:28:30 (UTC)",
+                "LastUpdated": "2026-06-18 12:44:15 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-18 08:28:38 (UTC)",
+                "LastUpdated": "2026-06-18 12:44:26 (UTC)",
                 "history": true
             },
             {
@@ -579,20 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-11 17:30:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": -0.22432226040389652,
-                "Yesterday": -1.4461626574940056,
-                "LastWeek": -3.6177930507866036,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-11 13:49:01 (UTC)",
                 "history": true
             }
         ]
