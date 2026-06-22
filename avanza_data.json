@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
+                "PPMCode": "687509",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
+                "Current": 14.574396609644008,
+                "Yesterday": 14.574396609644008,
+                "LastWeek": 10.041862628559993,
+                "TrendDay": "-",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-22 19:16:36 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Templeton Emerging Markets A(acc)USD",
                 "PPMCode": "425067",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
@@ -13,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-22 15:11:03 (UTC)",
+                "LastUpdated": "2026-06-22 19:16:39 (UTC)",
                 "history": false
             },
             {
@@ -27,21 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-22 15:11:04 (UTC)",
+                "LastUpdated": "2026-06-22 19:16:40 (UTC)",
                 "history": false
             },
             {
                 "Name": "SEB Teknologifond",
                 "PPMCode": "194092",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 26.506693031263,
-                "Yesterday": 25.722572208492,
-                "LastWeek": 23.760240853337,
+                "Current": 31.357608610052996,
+                "Yesterday": 26.506693031263,
+                "LastWeek": 24.245892497524004,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-22 15:11:10 (UTC)",
+                "LastUpdated": "2026-06-22 19:16:45 (UTC)",
                 "history": false
             },
             {
@@ -55,21 +69,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-22 09:36:20 (UTC)",
+                "LastUpdated": "2026-06-22 15:11:03 (UTC)",
                 "history": true
             },
             {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 34.58132430343399,
-                "Yesterday": 34.17571496926599,
-                "LastWeek": 32.55180536641001,
+                "Current": 40.62792152821199,
+                "Yesterday": 34.58132430343399,
+                "LastWeek": 31.477051050829996,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-06-22 09:36:21 (UTC)",
+                "LastUpdated": "2026-06-22 15:11:04 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB Teknologifond",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 26.506693031263,
+                "Yesterday": 25.722572208492,
+                "LastWeek": 23.760240853337,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-22 15:11:10 (UTC)",
                 "history": true
             },
             {
@@ -241,20 +269,6 @@
                 "history": true
             },
             {
-                "Name": "SEB Teknologifond",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 28.070641921317,
-                "Yesterday": 24.602539583365996,
-                "LastWeek": 29.507207629148997,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-17 08:51:37 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "SEB Emerging Marketsfond",
                 "PPMCode": "950774",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
@@ -323,26 +337,26 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-16 14:50:03 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": -2.593961629761707,
-                "Yesterday": -5.686408142238597,
-                "LastWeek": 6.245490099420003,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-15 15:34:58 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Tillv\u00e4xtmarknad Index A",
+                "PPMCode": "434274",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/487076",
+                "Current": 15.417159835622005,
+                "Yesterday": 13.075000087287009,
+                "LastWeek": 8.637134138464008,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-22 19:16:56 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Technology A2",
                 "PPMCode": "446088",
@@ -355,7 +369,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-22 15:11:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Asian Equities Ex Japan R USD",
@@ -369,20 +383,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-22 15:11:22 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 51.513681234022,
-                "Yesterday": 49.288798792867,
-                "LastWeek": 35.78914628184501,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-22 09:36:38 (UTC)",
                 "history": true
             },
             {
@@ -509,20 +509,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-16 14:50:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Templeton Emerging Markets A(acc)USD",
-                "PPMCode": "425067",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
-                "Current": 25.357916035171,
-                "Yesterday": 26.237369098189994,
-                "LastWeek": 31.587140274430002,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-15 15:35:19 (UTC)",
                 "history": true
             }
         ]
