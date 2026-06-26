@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 21.495091870120998,
+                "Yesterday": 19.179461364220003,
+                "LastWeek": 16.220600162212996,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-06-26 10:41:40 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Asia Growth ClassA USD Inc",
                 "PPMCode": "477729",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
@@ -242,7 +256,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 07:40:35 (UTC)",
+                "LastUpdated": "2026-06-26 10:41:47 (UTC)",
                 "history": false
             },
             {
@@ -256,21 +270,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 07:40:37 (UTC)",
+                "LastUpdated": "2026-06-26 10:41:50 (UTC)",
                 "history": false
             },
             {
                 "Name": "Swedbank Robur Healthcare A",
                 "PPMCode": "928341",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 8.532718362641008,
-                "Yesterday": 7.004900547708003,
-                "LastWeek": 2.6520611127129996,
+                "Current": 9.59930815797101,
+                "Yesterday": 8.532718362641008,
+                "LastWeek": 2.334966849236007,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 07:40:38 (UTC)",
+                "LastUpdated": "2026-06-26 10:41:52 (UTC)",
                 "history": false
             },
             {
@@ -284,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 07:40:41 (UTC)",
+                "LastUpdated": "2026-06-26 10:41:55 (UTC)",
                 "history": false
             },
             {
@@ -298,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 07:40:45 (UTC)",
+                "LastUpdated": "2026-06-26 10:41:59 (UTC)",
                 "history": false
             },
             {
@@ -312,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 02:06:45 (UTC)",
+                "LastUpdated": "2026-06-26 07:40:35 (UTC)",
                 "history": true
             },
             {
@@ -326,7 +340,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 02:06:47 (UTC)",
+                "LastUpdated": "2026-06-26 07:40:37 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 8.532718362641008,
+                "Yesterday": 7.004900547708003,
+                "LastWeek": 2.6520611127129996,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-06-26 07:40:38 (UTC)",
                 "history": true
             },
             {
@@ -340,21 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 02:06:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 10.119918104708995,
-                "Yesterday": 8.569757238958992,
-                "LastWeek": 4.153261187482003,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 02:06:52 (UTC)",
+                "LastUpdated": "2026-06-26 07:40:41 (UTC)",
                 "history": true
             },
             {
@@ -368,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-26 02:06:54 (UTC)",
+                "LastUpdated": "2026-06-26 07:40:45 (UTC)",
                 "history": true
             },
             {
