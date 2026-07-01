@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 12:25:48 (UTC)",
+                "LastUpdated": "2026-07-01 16:13:51 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 12:25:53 (UTC)",
+                "LastUpdated": "2026-07-01 16:13:55 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +41,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 12:25:55 (UTC)",
+                "LastUpdated": "2026-07-01 16:13:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Clean Energy Transition R USD",
+                "PPMCode": "887497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
+                "Current": 35.78466276334,
+                "Yesterday": 32.22810988289201,
+                "LastWeek": 36.53374071168201,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-01 16:14:00 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 08:00:47 (UTC)",
+                "LastUpdated": "2026-07-01 12:25:48 (UTC)",
                 "history": true
             },
             {
@@ -69,7 +83,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 08:00:55 (UTC)",
+                "LastUpdated": "2026-07-01 12:25:53 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +97,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 08:00:57 (UTC)",
+                "LastUpdated": "2026-07-01 12:25:55 (UTC)",
                 "history": true
             },
             {
@@ -302,20 +316,6 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 17.226821962207996,
-                "Yesterday": 17.030072416592994,
-                "LastWeek": 7.445744106428992,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:25:59 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
@@ -326,7 +326,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:26:02 (UTC)",
+                "LastUpdated": "2026-07-01 16:14:04 (UTC)",
                 "history": false
             },
             {
@@ -340,7 +340,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:26:04 (UTC)",
+                "LastUpdated": "2026-07-01 16:14:06 (UTC)",
                 "history": false
             },
             {
@@ -354,7 +354,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:26:07 (UTC)",
+                "LastUpdated": "2026-07-01 16:14:09 (UTC)",
                 "history": false
             },
             {
@@ -368,8 +368,78 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:26:09 (UTC)",
+                "LastUpdated": "2026-07-01 16:14:11 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 17.226821962207996,
+                "Yesterday": 17.030072416592994,
+                "LastWeek": 7.445744106428992,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-01 12:25:59 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 21.596806035759002,
+                "Yesterday": 20.25788591517001,
+                "LastWeek": 9.061387307834993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-01 12:26:02 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Healthscience A2",
+                "PPMCode": "374421",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
+                "Current": 10.119891131551995,
+                "Yesterday": 11.163647873066001,
+                "LastWeek": 1.933503005045004,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-01 12:26:04 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond A (SEK)",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 11.874051842589997,
+                "Yesterday": 12.186656509285003,
+                "LastWeek": 2.4768665979219984,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-01 12:26:07 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 9.261589083504004,
+                "Yesterday": 9.692248137034003,
+                "LastWeek": 0.39678699311400123,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-01 12:26:09 (UTC)",
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Healthcare A",
@@ -386,48 +456,6 @@
                 "history": true
             },
             {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 17.226821962207996,
-                "Yesterday": 17.030072416592994,
-                "LastWeek": 7.445744106428992,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 08:01:06 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 21.596806035759002,
-                "Yesterday": 20.25788591517001,
-                "LastWeek": 9.061387307834993,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 08:01:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 10.119891131551995,
-                "Yesterday": 11.163647873066001,
-                "LastWeek": 1.933503005045004,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 08:01:13 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Pictet-Longevity R USD",
                 "PPMCode": "688986",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
@@ -439,34 +467,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-30 19:29:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 10.599370624255007,
-                "Yesterday": 9.538213841376,
-                "LastWeek": 1.2270387627049968,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-30 16:14:00 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond A (SEK)",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 12.920081967291008,
-                "Yesterday": 12.158249603352997,
-                "LastWeek": 3.1468138550940057,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-30 16:14:01 (UTC)",
                 "history": true
             },
             {
