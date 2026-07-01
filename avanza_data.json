@@ -3,34 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": 59.205267712306,
-                "Yesterday": 52.68454711365899,
-                "LastWeek": 59.839196664660996,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 16:13:51 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": 14.512166739934,
-                "Yesterday": 10.964288484910995,
-                "LastWeek": 14.654392180187006,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 16:13:55 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Pictet-Security R USD",
                 "PPMCode": "968891",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
@@ -41,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 16:13:56 (UTC)",
+                "LastUpdated": "2026-07-01 19:27:22 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 16:14:00 (UTC)",
+                "LastUpdated": "2026-07-01 19:27:29 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +41,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 12:25:48 (UTC)",
+                "LastUpdated": "2026-07-01 16:13:51 (UTC)",
                 "history": true
             },
             {
@@ -83,7 +55,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 12:25:53 (UTC)",
+                "LastUpdated": "2026-07-01 16:13:55 (UTC)",
                 "history": true
             },
             {
@@ -97,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-01 12:25:55 (UTC)",
+                "LastUpdated": "2026-07-01 16:13:56 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Clean Energy Transition R USD",
+                "PPMCode": "887497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
+                "Current": 35.78466276334,
+                "Yesterday": 32.22810988289201,
+                "LastWeek": 36.53374071168201,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-01 16:14:00 (UTC)",
                 "history": true
             },
             {
@@ -295,20 +281,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-24 21:15:16 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "East Capital Global EM Sustainable A SEK",
-                "PPMCode": "623637",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
-                "Current": 39.822165106723006,
-                "Yesterday": 35.528214601894,
-                "LastWeek": 24.662125856518998,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-24 17:45:32 (UTC)",
-                "history": true
             }
         ]
     },
@@ -326,8 +298,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 16:14:04 (UTC)",
+                "LastUpdated": "2026-07-01 19:27:36 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "SEB L\u00e4kemedelsfond A (SEK)",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 11.874051842589997,
+                "Yesterday": 12.186656509285003,
+                "LastWeek": 2.4768665979219984,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-01 19:27:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": 21.596806035759002,
+                "Yesterday": 20.25788591517001,
+                "LastWeek": 9.061387307834993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-01 16:14:04 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Healthscience A2",
@@ -341,7 +341,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-01 16:14:06 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB L\u00e4kemedelsfond A (SEK)",
@@ -355,7 +355,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-01 16:14:09 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
@@ -369,7 +369,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-01 16:14:11 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Health Care S",
@@ -383,62 +383,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-01 12:25:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 21.596806035759002,
-                "Yesterday": 20.25788591517001,
-                "LastWeek": 9.061387307834993,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:26:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 10.119891131551995,
-                "Yesterday": 11.163647873066001,
-                "LastWeek": 1.933503005045004,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:26:04 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB L\u00e4kemedelsfond A (SEK)",
-                "PPMCode": "229922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
-                "Current": 11.874051842589997,
-                "Yesterday": 12.186656509285003,
-                "LastWeek": 2.4768665979219984,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:26:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 9.261589083504004,
-                "Yesterday": 9.692248137034003,
-                "LastWeek": 0.39678699311400123,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-01 12:26:09 (UTC)",
                 "history": true
             },
             {
@@ -481,48 +425,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-06-25 10:32:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 30.751916776891996,
-                "Yesterday": 27.77466626351201,
-                "LastWeek": 17.174213178660995,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-24 19:24:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Asian Equities Ex Japan R USD",
-                "PPMCode": "917955",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/187",
-                "Current": 40.75499000448401,
-                "Yesterday": 38.55907757146701,
-                "LastWeek": 26.808744118592003,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-24 19:24:19 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "East Capital Global EM Sustainable A SEK",
-                "PPMCode": "623637",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/367456",
-                "Current": 39.822165106723006,
-                "Yesterday": 35.528214601894,
-                "LastWeek": 24.662125856518998,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-06-24 17:45:53 (UTC)",
                 "history": true
             }
         ]
