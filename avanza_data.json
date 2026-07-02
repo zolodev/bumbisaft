@@ -13,8 +13,36 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-02 17:42:30 (UTC)",
+                "LastUpdated": "2026-07-02 19:05:59 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "AMF Aktiefond Sm\u00e5bolag",
+                "PPMCode": "269357",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2801",
+                "Current": 9.016349214914007,
+                "Yesterday": 6.732135470065003,
+                "LastWeek": 4.677242396445999,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-02 19:06:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -14.943776859374703,
+                "Yesterday": -16.656018168332192,
+                "LastWeek": -9.9669135937576,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-02 17:42:30 (UTC)",
+                "history": true
             },
             {
                 "Name": "Handelsbanken Svenska Sm\u00e5bolag (A1 SEK)",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-02 17:42:39 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -42,20 +70,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-02 17:42:40 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -14.633123845810205,
-                "Yesterday": -16.351618817379805,
-                "LastWeek": -9.638083455528104,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-02 15:58:25 (UTC)",
                 "history": true
             },
             {
@@ -288,6 +302,62 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 38.407476827648004,
+                "Yesterday": 36.10289485589699,
+                "LastWeek": 34.235791820317004,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-02 19:06:13 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 46.95761621510601,
+                "Yesterday": 46.040361036140006,
+                "LastWeek": 40.697484675573,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-02 19:06:14 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": -14.943776859374703,
+                "Yesterday": -16.656018168332192,
+                "LastWeek": -9.9669135937576,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-02 19:06:16 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Longevity R USD",
+                "PPMCode": "688986",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
+                "Current": 9.069314844293002,
+                "Yesterday": 7.1505429868979995,
+                "LastWeek": 2.2727315460499993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-02 19:06:17 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
@@ -299,7 +369,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-02 17:42:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Security R USD",
@@ -313,34 +383,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-02 17:42:45 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 37.63723746231501,
-                "Yesterday": 35.345480518488,
-                "LastWeek": 33.488767935,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-02 17:42:47 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 46.567091288383,
-                "Yesterday": 45.652273621816,
-                "LastWeek": 40.32359541206901,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-02 15:58:31 (UTC)",
                 "history": true
             },
             {
@@ -354,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-02 15:58:34 (UTC)",
+                "LastUpdated": "2026-07-02 17:42:47 (UTC)",
                 "history": true
             },
             {
