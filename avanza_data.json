@@ -14,20 +14,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-06 18:02:51 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Asienfond ex Japan A",
-                "PPMCode": "914945",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
-                "Current": 32.54043204482099,
-                "Yesterday": 29.102487055367,
-                "LastWeek": 32.94453046115699,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-06 14:53:45 (UTC)",
                 "history": true
             },
             {
@@ -225,26 +211,26 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-06-30 19:28:49 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "BGF China A2",
-                "PPMCode": "391896",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
-                "Current": 5.472466785449996,
-                "Yesterday": 6.976762005189994,
-                "LastWeek": 6.895900431146002,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-06-29 19:40:09 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 2.140426726259993,
+                "Yesterday": 0.16193923338700186,
+                "LastWeek": -3.9291734989852922,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-06 21:18:49 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Pictet-Digital R USD",
                 "PPMCode": "296749",
@@ -257,7 +243,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-06 18:02:58 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -271,20 +257,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-06 18:03:02 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Digital R USD",
-                "PPMCode": "296749",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
-                "Current": 37.026855714773994,
-                "Yesterday": 38.407476827648004,
-                "LastWeek": 35.808245076297005,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-06 14:53:56 (UTC)",
                 "history": true
             },
             {
