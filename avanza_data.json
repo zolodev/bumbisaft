@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Templeton Emerging Markets A(acc)USD",
+                "PPMCode": "425067",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
+                "Current": 27.268035974793005,
+                "Yesterday": 22.287974665612,
+                "LastWeek": 29.33504382167601,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-07 05:57:35 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Asienfond ex Japan A",
                 "PPMCode": "914945",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
@@ -228,21 +242,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-07 01:55:43 (UTC)",
+                "LastUpdated": "2026-07-07 05:57:56 (UTC)",
                 "history": false
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
                 "PPMCode": "320176",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 2.140426726259993,
-                "Yesterday": 0.16193923338700186,
-                "LastWeek": -3.9291734989852922,
+                "Current": 2.6006785687720004,
+                "Yesterday": 2.140426726259993,
+                "LastWeek": -2.743958046316893,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-06 22:55:20 (UTC)",
+                "LastUpdated": "2026-07-07 01:55:43 (UTC)",
                 "history": true
             },
             {
