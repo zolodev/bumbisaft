@@ -3,20 +3,6 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Templeton Emerging Markets A(acc)USD",
-                "PPMCode": "425067",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
-                "Current": 27.268035974793005,
-                "Yesterday": 22.287974665612,
-                "LastWeek": 29.33504382167601,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-08 01:25:31 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
@@ -27,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-08 01:25:33 (UTC)",
+                "LastUpdated": "2026-07-08 04:56:26 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-08 01:25:36 (UTC)",
+                "LastUpdated": "2026-07-08 04:56:29 (UTC)",
                 "history": false
             },
             {
@@ -55,7 +41,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-08 01:25:38 (UTC)",
+                "LastUpdated": "2026-07-08 04:56:31 (UTC)",
                 "history": false
             },
             {
@@ -69,7 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-08 01:25:41 (UTC)",
+                "LastUpdated": "2026-07-08 04:56:34 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 11.072224752501006,
+                "Yesterday": 8.768607522104995,
+                "LastWeek": 7.637174293439002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-08 04:56:38 (UTC)",
                 "history": false
             },
             {
@@ -83,35 +83,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-07 22:49:30 (UTC)",
+                "LastUpdated": "2026-07-08 01:25:31 (UTC)",
                 "history": true
             },
             {
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": 18.231638464746993,
-                "Yesterday": 18.139291325766006,
-                "LastWeek": 13.806549269566004,
+                "Current": 22.111174289475002,
+                "Yesterday": 18.231638464746993,
+                "LastWeek": 16.357392448254995,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-07 22:49:33 (UTC)",
+                "LastUpdated": "2026-07-08 01:25:33 (UTC)",
                 "history": true
             },
             {
                 "Name": "Pictet-Longevity R USD",
                 "PPMCode": "688986",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": 8.513267308172999,
-                "Yesterday": 8.693201587672993,
-                "LastWeek": 3.834457147245994,
-                "TrendDay": "\u25bc",
+                "Current": 11.481291786822002,
+                "Yesterday": 8.513267308172999,
+                "LastWeek": 5.714048839636998,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-07 22:49:37 (UTC)",
+                "LastUpdated": "2026-07-08 01:25:36 (UTC)",
                 "history": true
             },
             {
@@ -125,7 +125,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-07 22:49:41 (UTC)",
+                "LastUpdated": "2026-07-08 01:25:38 (UTC)",
                 "history": true
             },
             {
@@ -139,7 +139,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-07 22:49:44 (UTC)",
+                "LastUpdated": "2026-07-08 01:25:41 (UTC)",
                 "history": true
             },
             {
@@ -368,8 +368,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-08 01:25:49 (UTC)",
+                "LastUpdated": "2026-07-08 04:56:44 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
+                "PPMCode": "313742",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
+                "Current": 3.364020055519995,
+                "Yesterday": 3.3487427475550064,
+                "LastWeek": -1.3337047747251018,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-08 04:56:46 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Fastighetsfond Norden A",
+                "PPMCode": "320176",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
+                "Current": 2.7228825265190064,
+                "Yesterday": 2.409087012582004,
+                "LastWeek": -2.8494126193386,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-08 04:56:50 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Longevity R USD",
+                "PPMCode": "688986",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
+                "Current": 11.481291786822002,
+                "Yesterday": 8.513267308172999,
+                "LastWeek": 5.714048839636998,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-08 01:25:49 (UTC)",
+                "history": true
             },
             {
                 "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
@@ -383,7 +425,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-08 01:25:50 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Fastighetsfond Norden A",
@@ -397,48 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-08 01:25:54 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Longevity R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": 8.513267308172999,
-                "Yesterday": 8.693201587672993,
-                "LastWeek": 3.834457147245994,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-07 22:49:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsfond A",
-                "PPMCode": "313742",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/350",
-                "Current": 3.364020055519995,
-                "Yesterday": 3.3487427475550064,
-                "LastWeek": -1.3337047747251018,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-07 22:49:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Fastighetsfond Norden A",
-                "PPMCode": "320176",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/324195",
-                "Current": 2.7228825265190064,
-                "Yesterday": 2.409087012582004,
-                "LastWeek": -2.8494126193386,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-07 22:50:02 (UTC)",
                 "history": true
             },
             {
