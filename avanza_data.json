@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 14.956507109608994,
+                "Yesterday": 17.539376926026996,
+                "LastWeek": 17.844916849638995,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-14 17:00:03 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "BGF World Energy A2",
                 "PPMCode": "517748",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
@@ -13,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 15:14:25 (UTC)",
+                "LastUpdated": "2026-07-14 17:00:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag A",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 4.748893382142996,
+                "Yesterday": 2.787037543001006,
+                "LastWeek": 5.3336247882019965,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-14 17:00:10 (UTC)",
                 "history": false
             },
             {
@@ -27,49 +55,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 15:14:30 (UTC)",
+                "LastUpdated": "2026-07-14 17:00:13 (UTC)",
                 "history": false
             },
             {
-                "Name": "BGF Natural Resources A2",
-                "PPMCode": "536806",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316507",
-                "Current": -4.025240875928394,
-                "Yesterday": -5.245621326806595,
-                "LastWeek": -5.0614789143983945,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 0.841796191040994,
+                "Yesterday": 1.4047894836090018,
+                "LastWeek": 3.760471944617002,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 15:14:34 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Premium Brands R EUR",
-                "PPMCode": "923383",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
-                "Current": 9.745248576305004,
-                "Yesterday": 8.382375189026007,
-                "LastWeek": 9.738842635045003,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 15:14:36 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": -3.944939314053099,
-                "Yesterday": -4.806758017569991,
-                "LastWeek": -6.901832010478392,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 15:14:38 (UTC)",
+                "LastUpdated": "2026-07-14 17:00:16 (UTC)",
                 "history": false
             },
             {
@@ -83,21 +83,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 13:02:28 (UTC)",
+                "LastUpdated": "2026-07-14 15:14:25 (UTC)",
                 "history": true
             },
             {
                 "Name": "Pareto Aksje Norge B",
                 "PPMCode": "165755",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": -3.124024003464492,
-                "Yesterday": -2.6339582184651955,
-                "LastWeek": -6.1107623159033935,
-                "TrendDay": "\u25bc",
+                "Current": -1.6654712578056934,
+                "Yesterday": -3.124024003464492,
+                "LastWeek": -4.716938448699402,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 13:02:31 (UTC)",
+                "LastUpdated": "2026-07-14 15:14:30 (UTC)",
                 "history": true
             },
             {
@@ -111,7 +111,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 13:02:33 (UTC)",
+                "LastUpdated": "2026-07-14 15:14:34 (UTC)",
                 "history": true
             },
             {
@@ -125,7 +125,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-14 13:02:34 (UTC)",
+                "LastUpdated": "2026-07-14 15:14:36 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": -3.944939314053099,
+                "Yesterday": -4.806758017569991,
+                "LastWeek": -6.901832010478392,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-14 15:14:38 (UTC)",
                 "history": true
             },
             {
@@ -396,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-14 15:14:41 (UTC)",
+                "LastUpdated": "2026-07-14 17:00:17 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +424,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-14 15:14:47 (UTC)",
+                "LastUpdated": "2026-07-14 17:00:22 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +438,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-14 15:14:49 (UTC)",
+                "LastUpdated": "2026-07-14 17:00:24 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +452,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-14 15:14:56 (UTC)",
+                "LastUpdated": "2026-07-14 17:00:28 (UTC)",
                 "history": false
             },
             {
@@ -452,21 +466,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-14 13:02:39 (UTC)",
+                "LastUpdated": "2026-07-14 15:14:41 (UTC)",
                 "history": true
             },
             {
                 "Name": "Pareto Aksje Norge B",
                 "PPMCode": "165755",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/202568",
-                "Current": -3.124024003464492,
-                "Yesterday": -2.6339582184651955,
-                "LastWeek": -6.1107623159033935,
-                "TrendDay": "\u25bc",
+                "Current": -1.6654712578056934,
+                "Yesterday": -3.124024003464492,
+                "LastWeek": -4.716938448699402,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-14 13:02:43 (UTC)",
+                "LastUpdated": "2026-07-14 15:14:47 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": -3.944939314053099,
+                "Yesterday": -4.806758017569991,
+                "LastWeek": -6.901832010478392,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-14 15:14:49 (UTC)",
                 "history": true
             },
             {
@@ -480,7 +508,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-14 13:02:48 (UTC)",
+                "LastUpdated": "2026-07-14 15:14:56 (UTC)",
                 "history": true
             },
             {
@@ -579,20 +607,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-08 15:55:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -11.522336257110291,
-                "Yesterday": -10.807544179480901,
-                "LastWeek": -16.456479178362496,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-07 16:15:59 (UTC)",
                 "history": true
             }
         ]
