@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-20 01:51:11 (UTC)",
+                "LastUpdated": "2026-07-20 05:27:33 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-20 01:51:17 (UTC)",
+                "LastUpdated": "2026-07-20 05:27:39 (UTC)",
                 "history": false
             },
             {
@@ -41,21 +41,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-17 22:36:54 (UTC)",
+                "LastUpdated": "2026-07-20 01:51:11 (UTC)",
                 "history": true
             },
             {
                 "Name": "Carnegie Listed Private Equity A",
                 "PPMCode": "341362",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": 2.938511416474994,
-                "Yesterday": 4.228371935033993,
-                "LastWeek": 1.6036986365489976,
-                "TrendDay": "\u25bc",
+                "Current": 4.668127552449005,
+                "Yesterday": 2.938511416474994,
+                "LastWeek": 0.3789564423589945,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-17 22:36:59 (UTC)",
+                "LastUpdated": "2026-07-20 01:51:17 (UTC)",
                 "history": true
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 01:51:24 (UTC)",
+                "LastUpdated": "2026-07-20 05:27:45 (UTC)",
                 "history": false
             },
             {
@@ -480,8 +480,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 01:51:27 (UTC)",
+                "LastUpdated": "2026-07-20 05:27:47 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 11.094632859095,
+                "Yesterday": 9.525334074785006,
+                "LastWeek": 7.452671804884995,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-20 05:27:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": -0.13528232380449481,
+                "Yesterday": 0.44885981282199283,
+                "LastWeek": -6.5289330734102995,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-20 01:51:24 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Spiltan Aktiefond Sm\u00e5land",
+                "PPMCode": "272898",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
+                "Current": -2.143131340824202,
+                "Yesterday": -1.668220455169794,
+                "LastWeek": -6.9492733753826,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-20 01:51:27 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Energy A2",
@@ -495,48 +537,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-20 01:51:28 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": 0.44885981282199283,
-                "Yesterday": -1.9605530618918054,
-                "LastWeek": -3.9821566083732067,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-17 22:37:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Spiltan Aktiefond Sm\u00e5land",
-                "PPMCode": "272898",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
-                "Current": -1.668220455169794,
-                "Yesterday": -3.3320537428024,
-                "LastWeek": -4.505621058400593,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-17 22:37:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 11.094632859095,
-                "Yesterday": 9.525334074785006,
-                "LastWeek": 7.452671804884995,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-17 22:37:06 (UTC)",
                 "history": true
             },
             {
