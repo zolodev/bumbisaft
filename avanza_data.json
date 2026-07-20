@@ -3,6 +3,90 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 15.551991398400006,
+                "Yesterday": 19.732601009566007,
+                "LastWeek": 23.798406322201007,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-20 19:21:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China Equity A USD",
+                "PPMCode": "753731",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
+                "Current": -0.250913908820894,
+                "Yesterday": -2.934637170204405,
+                "LastWeek": 1.108933967571993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-20 19:21:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-China Equities R USD",
+                "PPMCode": "882126",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/118",
+                "Current": -4.443778537788603,
+                "Yesterday": -1.4808913746250074,
+                "LastWeek": -0.6748852347562934,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-20 19:22:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Asian Equities Ex Japan R USD",
+                "PPMCode": "917955",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/187",
+                "Current": 12.099882256630009,
+                "Yesterday": 16.957616642043995,
+                "LastWeek": 20.358132272535006,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-20 19:22:04 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Hong Kong China A USD Inc",
+                "PPMCode": "334409",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/68",
+                "Current": -3.424449236630298,
+                "Yesterday": -5.707751968060202,
+                "LastWeek": -3.0981014062191026,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-20 19:22:06 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF China A2",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": -1.799704950503492,
+                "Yesterday": 1.5272833211380021,
+                "LastWeek": 3.1774936564269955,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-20 19:22:08 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz China Equity A USD",
                 "PPMCode": "753731",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/286894",
@@ -14,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-20 17:16:10 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -28,7 +112,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-20 17:16:13 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Listed Private Equity A",
@@ -414,45 +498,17 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -0.13528232380449481,
-                "Yesterday": 0.44885981282199283,
-                "LastWeek": -6.5289330734102995,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 17:16:18 (UTC)",
-                "history": false
-            },
-            {
                 "Name": "Spiltan Aktiefond Sm\u00e5land",
                 "PPMCode": "272898",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
-                "Current": -2.143131340824202,
-                "Yesterday": -1.668220455169794,
-                "LastWeek": -6.9492733753826,
+                "Current": -1.1806793890534937,
+                "Yesterday": -0.701097610950892,
+                "LastWeek": -6.034091286678503,
                 "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 17:16:21 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 11.094632859095,
-                "Yesterday": 9.525334074785006,
-                "LastWeek": 7.452671804884995,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 17:16:22 (UTC)",
+                "LastUpdated": "2026-07-20 19:22:18 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +522,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 17:16:25 (UTC)",
+                "LastUpdated": "2026-07-20 19:22:20 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 0.6080599393329976,
+                "Yesterday": 1.1965501334910005,
+                "LastWeek": -5.833181900785293,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-20 19:22:22 (UTC)",
                 "history": false
             },
             {
@@ -480,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 17:16:27 (UTC)",
+                "LastUpdated": "2026-07-20 19:22:24 (UTC)",
                 "history": false
             },
             {
@@ -494,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 15:43:08 (UTC)",
+                "LastUpdated": "2026-07-20 17:16:18 (UTC)",
                 "history": true
             },
             {
@@ -508,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 15:43:12 (UTC)",
+                "LastUpdated": "2026-07-20 17:16:21 (UTC)",
                 "history": true
             },
             {
@@ -522,21 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 15:43:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": 1.7751943047480019,
-                "Yesterday": 0.7341127294100078,
-                "LastWeek": -3.103650969890896,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 15:43:19 (UTC)",
+                "LastUpdated": "2026-07-20 17:16:22 (UTC)",
                 "history": true
             },
             {
@@ -550,7 +606,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-20 15:43:21 (UTC)",
+                "LastUpdated": "2026-07-20 17:16:25 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 2.5751072961369936,
+                "Yesterday": 1.525843229152997,
+                "LastWeek": -2.3420837831432983,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-20 17:16:27 (UTC)",
                 "history": true
             },
             {
