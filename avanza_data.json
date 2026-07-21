@@ -6,6 +6,20 @@
                 "Name": "Allianz China A Shares AT USD",
                 "PPMCode": "933359",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 7.507792319819,
+                "Yesterday": 6.743214455122998,
+                "LastWeek": 18.938437358903993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-21 20:56:12 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
                 "Current": 12.61269104923,
                 "Yesterday": 7.507792319819,
                 "LastWeek": 15.285660589584005,
@@ -14,7 +28,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-21 19:00:47 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Emerging Markets A2",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-21 19:01:00 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -353,20 +367,6 @@
                 "history": true
             },
             {
-                "Name": "Allianz China A Shares AT USD",
-                "PPMCode": "933359",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
-                "Current": 18.094925682445993,
-                "Yesterday": 14.956507109608994,
-                "LastWeek": 19.684416342068996,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-15 15:16:01 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Pictet-Security R USD",
                 "PPMCode": "968891",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
@@ -453,34 +453,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-07-21 19:01:06 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Sm\u00e5bolagsfond",
-                "PPMCode": "152181",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
-                "Current": -0.6115545366892002,
-                "Yesterday": 0.6080599393329976,
-                "LastWeek": -4.495450034249497,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-21 19:01:08 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Spiltan Aktiefond Sm\u00e5land",
-                "PPMCode": "272898",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/132510",
-                "Current": -1.3501390011894,
-                "Yesterday": -1.1806793890534937,
-                "LastWeek": -5.0992944720667035,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-21 17:04:56 (UTC)",
                 "history": true
             },
             {
@@ -494,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-21 17:04:57 (UTC)",
+                "LastUpdated": "2026-07-21 19:01:08 (UTC)",
                 "history": true
             },
             {
