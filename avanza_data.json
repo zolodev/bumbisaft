@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-22 11:40:19 (UTC)",
+                "LastUpdated": "2026-07-22 13:17:36 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-22 08:05:11 (UTC)",
+                "LastUpdated": "2026-07-22 11:40:19 (UTC)",
                 "history": true
             },
             {
@@ -393,48 +393,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-16 17:00:43 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 40.576365154010006,
-                "Yesterday": 37.839235761162996,
-                "LastWeek": 40.359075353397,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-15 13:05:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -20.774288070408502,
-                "Yesterday": -22.2858209494064,
-                "LastWeek": -15.900514133148208,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-15 13:05:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Sm\u00e5bolag A",
-                "PPMCode": "842690",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
-                "Current": 4.748893382142996,
-                "Yesterday": 2.787037543001006,
-                "LastWeek": 5.3336247882019965,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-15 13:05:55 (UTC)",
-                "history": true
             }
         ]
     },
@@ -452,8 +410,22 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-22 11:40:33 (UTC)",
+                "LastUpdated": "2026-07-22 13:17:51 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Holberg Norge A",
+                "PPMCode": "318469",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/74107",
+                "Current": 3.149068051040995,
+                "Yesterday": 1.8809646196639915,
+                "LastWeek": -0.5315351725073924,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-22 11:40:33 (UTC)",
+                "history": true
             },
             {
                 "Name": "Spiltan Aktiefond Sm\u00e5land",
