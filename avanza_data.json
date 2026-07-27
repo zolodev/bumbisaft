@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 8.669262304134008,
+                "Yesterday": 10.670861493842002,
+                "LastWeek": 13.586036176385004,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-27 16:05:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 13.214089312572996,
+                "Yesterday": 14.657199972351991,
+                "LastWeek": 15.60253218919799,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-27 16:06:00 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "NORRON Nordic Multi Strategy RC SEK",
+                "PPMCode": "133116",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/273828",
+                "Current": -0.7549105834065994,
+                "Yesterday": -2.2867194371152073,
+                "LastWeek": -1.5024919378482082,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-27 16:06:04 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "NORRON Nordic Multi Strategy RC SEK",
                 "PPMCode": "133116",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/273828",
@@ -14,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-27 12:48:12 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli Sverige Sm\u00e5bolag B",
@@ -28,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-27 12:48:14 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -56,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-27 09:24:34 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "NORRON Nordic Multi Strategy RC SEK",
-                "PPMCode": "133116",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/273828",
-                "Current": -0.7549105834065994,
-                "Yesterday": -2.2867194371152073,
-                "LastWeek": -1.5024919378482082,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-27 09:24:39 (UTC)",
                 "history": true
             },
             {
@@ -449,20 +477,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-20 19:22:08 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Carnegie Listed Private Equity A",
-                "PPMCode": "341362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/198508",
-                "Current": 4.668127552449005,
-                "Yesterday": 2.938511416474994,
-                "LastWeek": 0.3789564423589945,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-20 15:42:55 (UTC)",
-                "history": true
             }
         ]
     },
@@ -480,21 +494,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 12:48:22 (UTC)",
+                "LastUpdated": "2026-07-27 16:06:07 (UTC)",
                 "history": false
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": -7.165508602660102,
-                "Yesterday": -5.487272037440398,
-                "LastWeek": -7.487596907506995,
+                "Current": -7.282163281869107,
+                "Yesterday": -5.606035568060106,
+                "LastWeek": -7.603846854516597,
                 "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 12:48:27 (UTC)",
+                "LastUpdated": "2026-07-27 16:06:10 (UTC)",
                 "history": false
             },
             {
@@ -508,21 +522,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 12:48:29 (UTC)",
+                "LastUpdated": "2026-07-27 16:06:13 (UTC)",
                 "history": false
             },
             {
-                "Name": "Barings Global Resources A USD Inc",
-                "PPMCode": "262741",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
-                "Current": 1.6884927002209953,
-                "Yesterday": 2.936116516837992,
-                "LastWeek": -1.358674676161809,
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": 8.669262304134008,
+                "Yesterday": 10.670861493842002,
+                "LastWeek": 13.586036176385004,
                 "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
+                "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 12:48:31 (UTC)",
+                "LastUpdated": "2026-07-27 16:06:18 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +550,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 12:48:37 (UTC)",
+                "LastUpdated": "2026-07-27 16:06:20 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 09:24:46 (UTC)",
+                "LastUpdated": "2026-07-27 12:48:22 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 09:24:52 (UTC)",
+                "LastUpdated": "2026-07-27 12:48:27 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 09:24:53 (UTC)",
+                "LastUpdated": "2026-07-27 12:48:29 (UTC)",
                 "history": true
             },
             {
@@ -592,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 09:24:55 (UTC)",
+                "LastUpdated": "2026-07-27 12:48:31 (UTC)",
                 "history": true
             },
             {
@@ -606,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-27 09:25:01 (UTC)",
+                "LastUpdated": "2026-07-27 12:48:37 (UTC)",
                 "history": true
             },
             {
