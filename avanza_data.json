@@ -3,6 +3,48 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "JPM China A dist USD",
+                "PPMCode": "233585",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
+                "Current": 2.381600148947,
+                "Yesterday": 0.45565703899099386,
+                "LastWeek": 0.38219765636700687,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-30 11:43:57 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Water AT EUR",
+                "PPMCode": "878694",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
+                "Current": 3.716198043744007,
+                "Yesterday": 1.983951763712994,
+                "LastWeek": 2.3653360614439953,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-30 11:44:01 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF China A2",
+                "PPMCode": "391896",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/186308",
+                "Current": 0.20838732048499875,
+                "Yesterday": -1.4120252112799971,
+                "LastWeek": -1.0697520683762924,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-30 11:44:03 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "DNB Health Care S",
                 "PPMCode": "255001",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
@@ -14,34 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-30 08:04:14 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "JPM China A dist USD",
-                "PPMCode": "233585",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73",
-                "Current": 2.381600148947,
-                "Yesterday": 0.45565703899099386,
-                "LastWeek": 0.38219765636700687,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-30 08:04:16 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 21.15724320781201,
-                "Yesterday": 18.876644791540002,
-                "LastWeek": 16.407048955604004,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-30 04:45:20 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +69,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-07-30 04:45:22 (UTC)",
+                "LastUpdated": "2026-07-30 08:04:16 (UTC)",
                 "history": true
             },
             {
@@ -508,7 +522,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-30 08:04:20 (UTC)",
+                "LastUpdated": "2026-07-30 11:44:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Globalfond Investmentbolag",
+                "PPMCode": "465147",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/693994",
+                "Current": 10.977837521110995,
+                "Yesterday": 8.971840209560996,
+                "LastWeek": 8.248026746631004,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-30 11:44:09 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 22.455355899756995,
+                "Yesterday": 20.150322512276997,
+                "LastWeek": 17.654266733759997,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-07-30 11:44:12 (UTC)",
                 "history": false
             },
             {
@@ -522,7 +564,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-30 08:04:27 (UTC)",
+                "LastUpdated": "2026-07-30 11:44:14 (UTC)",
                 "history": false
             },
             {
@@ -536,7 +578,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-30 08:04:28 (UTC)",
+                "LastUpdated": "2026-07-30 11:44:16 (UTC)",
                 "history": false
             },
             {
@@ -550,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-30 04:45:26 (UTC)",
+                "LastUpdated": "2026-07-30 08:04:20 (UTC)",
                 "history": true
             },
             {
@@ -564,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-30 04:45:31 (UTC)",
+                "LastUpdated": "2026-07-30 08:04:27 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-30 04:45:33 (UTC)",
+                "LastUpdated": "2026-07-30 08:04:28 (UTC)",
                 "history": true
             },
             {
