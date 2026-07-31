@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 7.396038825282994,
+                "Yesterday": 0.42321058390700267,
+                "LastWeek": 9.879868012746993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-31 22:48:59 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Asienfond ex Japan A",
+                "PPMCode": "914945",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
+                "Current": 14.777238757881006,
+                "Yesterday": 7.282837795572996,
+                "LastWeek": 14.581503259223991,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-07-31 22:49:00 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Asienfond ex Japan A",
                 "PPMCode": "914945",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-31 20:51:00 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Asia Growth ClassA USD Inc",
@@ -28,20 +56,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-31 20:51:01 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 7.396038825282994,
-                "Yesterday": 0.42321058390700267,
-                "LastWeek": 9.879868012746993,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-31 19:04:36 (UTC)",
                 "history": true
             },
             {
@@ -578,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:06 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:04 (UTC)",
                 "history": false
             },
             {
@@ -592,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:07 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:06 (UTC)",
                 "history": false
             },
             {
@@ -606,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:09 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:07 (UTC)",
                 "history": false
             },
             {
@@ -620,21 +634,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:13 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:10 (UTC)",
                 "history": false
             },
             {
                 "Name": "Lannebo Sverige Plus E",
                 "PPMCode": "490292",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
-                "Current": 9.318522436777002,
-                "Yesterday": 9.300890416981002,
-                "LastWeek": 4.108260601232996,
-                "TrendDay": "\u25b2",
+                "Current": 9.080490170135999,
+                "Yesterday": 9.318522436777002,
+                "LastWeek": 6.224102970962995,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:14 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:11 (UTC)",
                 "history": false
             },
             {
@@ -648,7 +662,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 19:04:46 (UTC)",
+                "LastUpdated": "2026-07-31 20:51:06 (UTC)",
                 "history": true
             },
             {
@@ -662,21 +676,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 19:04:48 (UTC)",
+                "LastUpdated": "2026-07-31 20:51:07 (UTC)",
                 "history": true
             },
             {
                 "Name": "Skandia Time Global",
                 "PPMCode": "439471",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
-                "Current": 9.276502072592994,
-                "Yesterday": 10.510291937758993,
-                "LastWeek": 9.400768677714003,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
+                "Current": 10.975404088371997,
+                "Yesterday": 9.276502072592994,
+                "LastWeek": 8.713751875094003,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 19:04:51 (UTC)",
+                "LastUpdated": "2026-07-31 20:51:09 (UTC)",
                 "history": true
             },
             {
@@ -690,7 +704,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 19:04:56 (UTC)",
+                "LastUpdated": "2026-07-31 20:51:13 (UTC)",
                 "history": true
             },
             {
@@ -704,7 +718,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 19:04:57 (UTC)",
+                "LastUpdated": "2026-07-31 20:51:14 (UTC)",
                 "history": true
             },
             {
