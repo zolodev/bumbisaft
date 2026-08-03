@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Asienfond ex Japan A",
+                "PPMCode": "914945",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
+                "Current": 14.777238757881006,
+                "Yesterday": 7.282837795572996,
+                "LastWeek": 14.581503259223991,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-08-03 01:30:21 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Asia Growth ClassA USD Inc",
+                "PPMCode": "477729",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
+                "Current": 7.396038825282994,
+                "Yesterday": 0.42321058390700267,
+                "LastWeek": 9.879868012746993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-08-03 01:30:22 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Asia Growth ClassA USD Inc",
                 "PPMCode": "477729",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-31 22:48:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Asienfond ex Japan A",
@@ -28,34 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-31 22:49:00 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "SEB Asienfond ex Japan A",
-                "PPMCode": "914945",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
-                "Current": 7.282837795572996,
-                "Yesterday": 9.173188985150992,
-                "LastWeek": 14.796759548864994,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-31 20:51:00 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Barings Asia Growth ClassA USD Inc",
-                "PPMCode": "477729",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/142",
-                "Current": 7.396038825282994,
-                "Yesterday": 0.42321058390700267,
-                "LastWeek": 9.879868012746993,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-31 20:51:01 (UTC)",
                 "history": true
             },
             {
@@ -561,20 +561,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-07-27 05:37:14 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Nordea Kinafond",
-                "PPMCode": "653097",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/26767",
-                "Current": -0.026411705319096656,
-                "Yesterday": -1.9242370425125044,
-                "LastWeek": -0.7656290391119001,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-07-24 22:51:03 (UTC)",
-                "history": true
             }
         ]
     },
@@ -585,14 +571,14 @@
                 "Name": "D&G Global All Cap",
                 "PPMCode": "541235",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/316079",
-                "Current": 3.8834469913259997,
-                "Yesterday": 3.531817965432001,
-                "LastWeek": 3.017559268857003,
+                "Current": 6.122352843825992,
+                "Yesterday": 3.8834469913259997,
+                "LastWeek": 2.8350152522949976,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 22:49:04 (UTC)",
+                "LastUpdated": "2026-08-03 01:30:26 (UTC)",
                 "history": false
             },
             {
@@ -606,7 +592,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 22:49:06 (UTC)",
+                "LastUpdated": "2026-08-03 01:30:28 (UTC)",
                 "history": false
             },
             {
@@ -620,7 +606,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 22:49:07 (UTC)",
+                "LastUpdated": "2026-08-03 01:30:30 (UTC)",
                 "history": false
             },
             {
@@ -634,7 +620,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 22:49:10 (UTC)",
+                "LastUpdated": "2026-08-03 01:30:33 (UTC)",
                 "history": false
             },
             {
@@ -648,7 +634,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 22:49:11 (UTC)",
+                "LastUpdated": "2026-08-03 01:30:34 (UTC)",
                 "history": false
             },
             {
@@ -662,7 +648,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:06 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:04 (UTC)",
                 "history": true
             },
             {
@@ -676,7 +662,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:07 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:06 (UTC)",
                 "history": true
             },
             {
@@ -690,7 +676,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:09 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:07 (UTC)",
                 "history": true
             },
             {
@@ -704,21 +690,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:13 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:10 (UTC)",
                 "history": true
             },
             {
                 "Name": "Lannebo Sverige Plus E",
                 "PPMCode": "490292",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/155953",
-                "Current": 9.318522436777002,
-                "Yesterday": 9.300890416981002,
-                "LastWeek": 4.108260601232996,
-                "TrendDay": "\u25b2",
+                "Current": 9.080490170135999,
+                "Yesterday": 9.318522436777002,
+                "LastWeek": 6.224102970962995,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-07-31 20:51:14 (UTC)",
+                "LastUpdated": "2026-07-31 22:49:11 (UTC)",
                 "history": true
             },
             {
