@@ -14,20 +14,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-08-13 16:42:45 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
-                "PPMCode": "687509",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
-                "Current": -11.237972775240506,
-                "Yesterday": -13.512614729747693,
-                "LastWeek": -16.002305679953896,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-08-13 14:48:57 (UTC)",
                 "history": true
             },
             {
@@ -389,14 +375,28 @@
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": -2.490803956871605,
-                "Yesterday": -4.609631880075595,
-                "LastWeek": -19.884583142256197,
+                "Current": -2.3571892722144003,
+                "Yesterday": -4.478920578240595,
+                "LastWeek": -19.774802766722196,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-08-13 16:42:50 (UTC)",
+                "LastUpdated": "2026-08-13 18:44:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 26.316608319473,
+                "Yesterday": 24.056286692290996,
+                "LastWeek": 16.038085497698994,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-08-13 18:44:51 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-08-13 14:49:00 (UTC)",
+                "LastUpdated": "2026-08-13 16:42:50 (UTC)",
                 "history": true
             },
             {
