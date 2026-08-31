@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Spiltan Globalfond Investmentbolag",
+                "PPMCode": "465147",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/693994",
+                "Current": 11.068468958022004,
+                "Yesterday": 9.322782230675001,
+                "LastWeek": 7.892949327537008,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-08-31 18:20:35 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "SEB Teknologifond A (SEK)",
                 "PPMCode": "194092",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
@@ -14,7 +28,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-08-31 10:12:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Spiltan Globalfond Investmentbolag",
@@ -28,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-08-31 10:12:30 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Teknik A SEK",
@@ -42,20 +56,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-08-31 02:03:39 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond A (SEK)",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 4.572246982379002,
-                "Yesterday": 2.301676702366003,
-                "LastWeek": 2.7680744860289996,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-08-31 02:03:48 (UTC)",
                 "history": true
             },
             {
@@ -330,6 +330,34 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "Lannebo Teknik A SEK",
+                "PPMCode": "771030",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
+                "Current": 10.550045085841994,
+                "Yesterday": 10.595130748773009,
+                "LastWeek": 5.410279531287998,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-08-31 18:20:43 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Digital R USD",
+                "PPMCode": "296749",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/396",
+                "Current": 12.635441837285999,
+                "Yesterday": 11.430285249506996,
+                "LastWeek": 7.808276400796004,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-08-31 18:20:50 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Allianz Global Metals and Mining A EUR",
                 "PPMCode": "502922",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
@@ -341,7 +369,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-08-31 10:12:35 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Teknik A SEK",
@@ -355,7 +383,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-08-31 10:12:39 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Danske Invest Europe Small Cap A-SEK",
@@ -369,7 +397,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-08-31 10:12:42 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Security R USD",
@@ -383,48 +411,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-08-31 10:12:48 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Allianz Global Metals and Mining A EUR",
-                "PPMCode": "502922",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
-                "Current": 12.954199284171008,
-                "Yesterday": 11.445618371145992,
-                "LastWeek": 1.1480095800890013,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-08-31 02:04:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Teknik A SEK",
-                "PPMCode": "771030",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
-                "Current": 11.703096539458002,
-                "Yesterday": 6.921675774275009,
-                "LastWeek": 7.559198542794002,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-08-31 02:04:05 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Danske Invest Europe Small Cap A-SEK",
-                "PPMCode": "571399",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1607583",
-                "Current": 5.584901507647992,
-                "Yesterday": 4.655001650710001,
-                "LastWeek": 1.265544183999009,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-08-31 02:04:09 (UTC)",
                 "history": true
             },
             {
@@ -509,20 +495,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-08-25 14:32:58 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 13.971991719345006,
-                "Yesterday": 14.872722831358004,
-                "LastWeek": 12.275141712882997,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-08-24 12:22:30 (UTC)",
                 "history": true
             }
         ]
