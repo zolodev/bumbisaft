@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-01 08:58:06 (UTC)",
+                "LastUpdated": "2026-09-01 14:22:19 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-01 08:58:15 (UTC)",
+                "LastUpdated": "2026-09-01 14:22:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Alfred Berg Norge R (NOK)",
+                "PPMCode": "183178",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1340460",
+                "Current": 8.477276129337005,
+                "Yesterday": 7.168160884829995,
+                "LastWeek": 4.888597985053002,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-01 14:22:31 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +55,21 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-01 02:24:40 (UTC)",
+                "LastUpdated": "2026-09-01 08:58:06 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": 11.542665667244002,
+                "Yesterday": 10.107711039113001,
+                "LastWeek": 8.862629181299999,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-01 08:58:15 (UTC)",
                 "history": true
             },
             {
@@ -309,40 +337,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-08-25 14:32:34 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "DNB SMB S",
-                "PPMCode": "290833",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1509085",
-                "Current": -1.4383720207708939,
-                "Yesterday": -3.3830929001665933,
-                "LastWeek": -3.8675239701431017,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-08-25 12:23:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Danske Invest Europe Small Cap A-SEK",
-                "PPMCode": "571399",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1607583",
-                "Current": 2.7234790248190075,
-                "Yesterday": 0.988359323523,
-                "LastWeek": 2.822314957171002,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-08-25 12:23:07 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Lannebo Teknik A SEK",
+                "PPMCode": "771030",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
+                "Current": 8.204675782969007,
+                "Yesterday": 8.160564622677994,
+                "LastWeek": 3.1760035289050026,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-01 14:22:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": -3.062742788228097,
+                "Yesterday": -2.4280664174195046,
+                "LastWeek": -5.1329545513597985,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-01 14:22:45 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Lannebo Teknik A SEK",
                 "PPMCode": "771030",
@@ -355,7 +383,7 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-01 08:58:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -369,34 +397,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-01 08:58:29 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Lannebo Teknik A SEK",
-                "PPMCode": "771030",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
-                "Current": 10.550045085841994,
-                "Yesterday": 10.595130748773009,
-                "LastWeek": 5.410279531287998,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-01 02:24:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": -3.062742788228097,
-                "Yesterday": -2.4280664174195046,
-                "LastWeek": -5.1329545513597985,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-01 02:24:55 (UTC)",
                 "history": true
             },
             {
