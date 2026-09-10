@@ -3,6 +3,20 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "SEB Teknologifond A (SEK)",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 4.762545026209991,
+                "Yesterday": 3.3419078776330027,
+                "LastWeek": 2.961234839339995,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-10 06:46:41 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Handelsbanken H\u00e5llbar Energi (A1 SEK)",
                 "PPMCode": "687509",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/512559",
@@ -267,34 +281,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-03 12:18:50 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd Tema (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 17.975190888116995,
-                "Yesterday": 16.065041475369,
-                "LastWeek": 17.333400979183004,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-03 06:37:21 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 19.848848974135,
-                "Yesterday": 18.00793708126799,
-                "LastWeek": 19.077753079422,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-03 06:37:24 (UTC)",
-                "history": true
             }
         ]
     },
@@ -312,7 +298,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-10 01:52:31 (UTC)",
+                "LastUpdated": "2026-09-10 06:46:46 (UTC)",
                 "history": false
             },
             {
@@ -326,7 +312,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-09 23:37:43 (UTC)",
+                "LastUpdated": "2026-09-10 01:52:31 (UTC)",
                 "history": true
             },
             {
@@ -453,34 +439,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-03 12:19:00 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Teknik A SEK",
-                "PPMCode": "771030",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2338",
-                "Current": 2.381965121057001,
-                "Yesterday": 4.338579327997995,
-                "LastWeek": -0.2977456400819938,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-03 06:37:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Lannebo Emerging Markets A",
-                "PPMCode": "295857",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364655",
-                "Current": 0.590566085354003,
-                "Yesterday": 0.06814224061799905,
-                "LastWeek": -1.3148928652550058,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-03 06:37:40 (UTC)",
                 "history": true
             }
         ]
