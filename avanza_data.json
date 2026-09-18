@@ -407,26 +407,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-11 20:09:52 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Skandia Nordamerika Exponering",
-                "PPMCode": "256362",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/411236",
-                "Current": 5.5553307707870045,
-                "Yesterday": 5.621417492751006,
-                "LastWeek": 5.262661002090008,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-11 17:24:02 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Fondita Global Megatrends B",
+                "PPMCode": "202002",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
+                "Current": 10.685397112554002,
+                "Yesterday": 8.285364313404006,
+                "LastWeek": 7.938963975981005,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-18 20:05:51 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 13.241106719367998,
+                "Yesterday": 11.998870694522994,
+                "LastWeek": 9.937888198757992,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-18 20:05:56 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Pictet-Security R USD",
                 "PPMCode": "968891",
@@ -439,7 +453,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-18 17:20:57 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Fondita Global Megatrends B",
@@ -453,7 +467,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-18 17:20:59 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Longevity R USD",
@@ -467,7 +481,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-18 17:21:02 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Swedbank Robur Healthcare A",
@@ -481,62 +495,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-18 17:21:07 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 8.024078083162003,
-                "Yesterday": 7.285129852926002,
-                "LastWeek": 2.7757909671000016,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 12:25:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Global Megatrends B",
-                "PPMCode": "202002",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
-                "Current": 8.285364313404006,
-                "Yesterday": 7.8909186129149935,
-                "LastWeek": 7.510530606662996,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 12:25:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Longevity R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": 15.496041015760001,
-                "Yesterday": 14.631854352013999,
-                "LastWeek": 12.089128597122999,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 12:25:52 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 13.241106719367998,
-                "Yesterday": 11.998870694522994,
-                "LastWeek": 9.937888198757992,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 12:25:55 (UTC)",
                 "history": true
             },
             {
