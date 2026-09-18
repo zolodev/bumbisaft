@@ -365,48 +365,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-14 09:20:06 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "AMF Aktiefond Nordamerika",
-                "PPMCode": "520692",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/96927",
-                "Current": 4.060799680529999,
-                "Yesterday": 4.161882893221992,
-                "LastWeek": 3.7800129785860013,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-11 20:09:49 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken USA Index (A1 SEK)",
-                "PPMCode": "929224",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/315115",
-                "Current": 5.616392824093,
-                "Yesterday": 5.699938014853997,
-                "LastWeek": 5.404385673344005,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-11 20:09:51 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Amerika Tema (A1 SEK)",
-                "PPMCode": "840033",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1464",
-                "Current": 4.366919810103991,
-                "Yesterday": 4.515912059378007,
-                "LastWeek": 4.631664567999996,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-11 20:09:52 (UTC)",
-                "history": true
             }
         ]
     },
@@ -424,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 20:05:51 (UTC)",
+                "LastUpdated": "2026-09-18 23:43:49 (UTC)",
                 "history": false
             },
             {
@@ -438,8 +396,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 20:05:56 (UTC)",
+                "LastUpdated": "2026-09-18 23:43:54 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Fondita Global Megatrends B",
+                "PPMCode": "202002",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
+                "Current": 10.685397112554002,
+                "Yesterday": 8.285364313404006,
+                "LastWeek": 7.938963975981005,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-18 20:05:51 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 13.241106719367998,
+                "Yesterday": 11.998870694522994,
+                "LastWeek": 9.937888198757992,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-18 20:05:56 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Security R USD",
@@ -456,20 +442,6 @@
                 "history": true
             },
             {
-                "Name": "Fondita Global Megatrends B",
-                "PPMCode": "202002",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
-                "Current": 10.685397112554002,
-                "Yesterday": 8.285364313404006,
-                "LastWeek": 7.938963975981005,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 17:20:59 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Pictet-Longevity R USD",
                 "PPMCode": "688986",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
@@ -481,20 +453,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-18 17:21:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 13.241106719367998,
-                "Yesterday": 11.998870694522994,
-                "LastWeek": 9.937888198757992,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 17:21:07 (UTC)",
                 "history": true
             },
             {
@@ -733,20 +691,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-14 02:06:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Asienfond ex Japan A (SEK)",
-                "PPMCode": "914945",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/166",
-                "Current": 9.321027904682996,
-                "Yesterday": 8.903283438102008,
-                "LastWeek": 7.461360428346997,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-11 23:39:02 (UTC)",
                 "history": true
             }
         ]
