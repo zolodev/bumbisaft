@@ -3,17 +3,17 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "DNB Global Emerging Markets S",
-                "PPMCode": "326660",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2619752",
-                "Current": -1.120079428661702,
-                "Yesterday": -3.8818276997957946,
-                "LastWeek": -1.6315272371048923,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "Name": "Allianz Global Metals and Mining A EUR",
+                "PPMCode": "502922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/334858",
+                "Current": 7.957739233855992,
+                "Yesterday": 8.646926767124006,
+                "LastWeek": 9.302862624898008,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-23 14:29:53 (UTC)",
+                "LastUpdated": "2026-09-23 19:17:27 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-23 08:53:35 (UTC)",
+                "LastUpdated": "2026-09-23 14:29:53 (UTC)",
                 "history": true
             },
             {
@@ -270,8 +270,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-23 14:30:04 (UTC)",
+                "LastUpdated": "2026-09-23 19:17:34 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "SEB Teknologifond A (SEK)",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 3.8633833325269915,
+                "Yesterday": 2.893145969547004,
+                "LastWeek": -2.1326003303658947,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-23 19:17:39 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 3.074672084955,
+                "Yesterday": 1.8891629054020087,
+                "LastWeek": -3.8625988139737997,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-23 14:30:04 (UTC)",
+                "history": true
             },
             {
                 "Name": "BGF World Technology A2",
@@ -285,7 +313,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-23 14:30:08 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond A (SEK)",
@@ -299,48 +327,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-23 14:30:10 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 1.8891629054020087,
-                "Yesterday": -0.7956819133590942,
-                "LastWeek": -4.578143822478705,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-23 08:53:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Technology A2",
-                "PPMCode": "446088",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
-                "Current": -3.245309321334698,
-                "Yesterday": -5.0522238475523045,
-                "LastWeek": -8.879684062141404,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-23 08:53:50 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond A (SEK)",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 3.8826792167349957,
-                "Yesterday": 1.4134900114959965,
-                "LastWeek": -1.9505470059394976,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-22 17:48:40 (UTC)",
                 "history": true
             },
             {
@@ -467,20 +453,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-17 08:58:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Skandia Time Global",
-                "PPMCode": "439471",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/373",
-                "Current": 13.664230915808002,
-                "Yesterday": 13.980712829939002,
-                "LastWeek": 12.524233235570993,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-16 19:10:46 (UTC)",
                 "history": true
             }
         ]
