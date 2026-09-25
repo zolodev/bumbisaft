@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-25 02:15:35 (UTC)",
+                "LastUpdated": "2026-09-25 09:09:44 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +27,35 @@
                 "TrendWeek": "\u25bc",
                 "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-25 02:15:41 (UTC)",
+                "LastUpdated": "2026-09-25 09:09:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 7.5697211155379955,
+                "Yesterday": 6.666666666667006,
+                "LastWeek": 5.179282868526006,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-25 09:09:52 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Premium Brands R EUR",
+                "PPMCode": "923383",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
+                "Current": -3.945875173803906,
+                "Yesterday": -4.708708517068699,
+                "LastWeek": -5.429993958843807,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-25 09:09:54 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-24 22:48:00 (UTC)",
+                "LastUpdated": "2026-09-25 02:15:35 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 18.751956954431005,
+                "Yesterday": 17.682254391160004,
+                "LastWeek": 19.430533739953006,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-25 02:15:41 (UTC)",
                 "history": true
             },
             {
@@ -56,20 +98,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-24 22:48:03 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 18.751956954431005,
-                "Yesterday": 17.682254391160004,
-                "LastWeek": 19.430533739953006,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-24 22:48:07 (UTC)",
                 "history": true
             },
             {
@@ -197,54 +225,54 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-18 12:25:42 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Franklin US Opportunities A(acc)USD",
-                "PPMCode": "384107",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1512",
-                "Current": 2.9616663281759976,
-                "Yesterday": 0.7805060874330048,
-                "LastWeek": 1.0362821905269994,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-18 06:55:44 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Templeton Emerging Markets A(acc)USD",
-                "PPMCode": "425067",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2187",
-                "Current": 2.127274775559999,
-                "Yesterday": 0.07141827419900437,
-                "LastWeek": 2.513550914921998,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-18 06:55:47 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": 6.088398463383,
-                "Yesterday": 4.254780608676993,
-                "LastWeek": 6.122243849790993,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-18 06:55:52 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "SEB Teknologifond A (SEK)",
+                "PPMCode": "194092",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
+                "Current": 7.473022593644001,
+                "Yesterday": 7.173722749435001,
+                "LastWeek": -0.3679512328919918,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-25 09:09:58 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "DNB Global Emerging Markets S",
+                "PPMCode": "326660",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2619752",
+                "Current": 4.442809139402998,
+                "Yesterday": 3.779085931655009,
+                "LastWeek": -1.3209181177360914,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-25 09:10:01 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Swedbank Robur Technology A",
+                "PPMCode": "283408",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
+                "Current": 7.155169173437007,
+                "Yesterday": 7.054218193728993,
+                "LastWeek": -1.377873478351903,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-25 09:10:04 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
@@ -257,7 +285,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-25 02:15:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond A (SEK)",
@@ -271,7 +299,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-25 02:15:51 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Global Emerging Markets S",
@@ -285,48 +313,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-25 02:15:56 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 6.864236140861994,
-                "Yesterday": 6.763559249421997,
-                "LastWeek": -1.6456387627452933,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-24 22:48:11 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond A (SEK)",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 7.473022593644001,
-                "Yesterday": 7.173722749435001,
-                "LastWeek": -0.3679512328919918,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-24 22:48:14 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Global Emerging Markets S",
-                "PPMCode": "326660",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2619752",
-                "Current": 4.442809139402998,
-                "Yesterday": 3.779085931655009,
-                "LastWeek": -1.3209181177360914,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-24 22:48:19 (UTC)",
                 "history": true
             },
             {
@@ -411,20 +397,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-21 09:22:38 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF Japan Small & MidCap Opps A2",
-                "PPMCode": "159442",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
-                "Current": 5.196344532693002,
-                "Yesterday": 4.013480148347007,
-                "LastWeek": 2.100046292547995,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-18 06:56:11 (UTC)",
                 "history": true
             }
         ]
