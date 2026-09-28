@@ -13,7 +13,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-28 02:20:32 (UTC)",
+                "LastUpdated": "2026-09-28 18:52:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Japan Index",
+                "PPMCode": "470104",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1268",
+                "Current": 5.738035236947999,
+                "Yesterday": 3.3156043344349926,
+                "LastWeek": 3.7458655798049945,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-28 18:52:42 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Storebrand Japan A SEK",
+                "PPMCode": "176503",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1288",
+                "Current": 4.195572519531997,
+                "Yesterday": 1.8955770762069915,
+                "LastWeek": 2.0196258701330043,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-28 18:52:43 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-28 02:20:36 (UTC)",
+                "LastUpdated": "2026-09-28 18:52:45 (UTC)",
                 "history": false
             },
             {
@@ -41,7 +69,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-25 22:54:46 (UTC)",
+                "LastUpdated": "2026-09-28 02:20:32 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 7.0978247327999995,
+                "Yesterday": 4.742940586239001,
+                "LastWeek": 5.060874117768998,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-28 02:20:36 (UTC)",
                 "history": true
             },
             {
@@ -84,20 +126,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-25 14:49:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Japanese Equity Opps R JPY",
-                "PPMCode": "910109",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
-                "Current": 4.742940586239001,
-                "Yesterday": 5.172216447702994,
-                "LastWeek": 4.450224149233,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-25 14:49:58 (UTC)",
                 "history": true
             },
             {
@@ -260,6 +288,62 @@
         "Label": "WEEKLYS",
         "FundData": [
             {
+                "Name": "DNB Global Emerging Markets S",
+                "PPMCode": "326660",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2619752",
+                "Current": 2.8084918789420046,
+                "Yesterday": 3.428444521308993,
+                "LastWeek": -3.870816664697304,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-28 18:52:55 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "L\u00e4nsf\u00f6rs\u00e4kringar Asienfond A",
+                "PPMCode": "385401",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/146",
+                "Current": 0.5488885714219942,
+                "Yesterday": 1.062371275427995,
+                "LastWeek": -5.276906099929802,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-28 18:52:59 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Technology A2",
+                "PPMCode": "446088",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/431",
+                "Current": 3.4396872082379923,
+                "Yesterday": 1.8658292236499983,
+                "LastWeek": -4.385695462435306,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-28 18:53:01 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Handelsbanken Asien Tema (A1 SEK)",
+                "PPMCode": "504100",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/135",
+                "Current": 1.7354263627030013,
+                "Yesterday": 2.1186663511369987,
+                "LastWeek": -3.7798112066456087,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-28 18:53:03 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Swedbank Robur Technology A",
                 "PPMCode": "283408",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
@@ -271,7 +355,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-28 02:20:44 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond A (SEK)",
@@ -285,7 +369,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-28 02:20:48 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Global Emerging Markets S",
@@ -299,48 +383,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-28 02:20:50 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 7.4467456733379915,
-                "Yesterday": 7.155169173437007,
-                "LastWeek": -1.8767216706313046,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-25 22:55:01 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Teknologifond A (SEK)",
-                "PPMCode": "194092",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/364",
-                "Current": 7.584875194024007,
-                "Yesterday": 7.417596117581998,
-                "LastWeek": -0.926789207531292,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-25 22:55:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Global Emerging Markets S",
-                "PPMCode": "326660",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2619752",
-                "Current": 2.8084918789420046,
-                "Yesterday": 3.428444521308993,
-                "LastWeek": -3.870816664697304,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-25 22:55:10 (UTC)",
                 "history": true
             },
             {
@@ -369,62 +411,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-22 06:59:25 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Fondita Global Megatrends B",
-                "PPMCode": "202002",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2294",
-                "Current": 10.685397112554002,
-                "Yesterday": 8.285364313404006,
-                "LastWeek": 7.938963975981005,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-21 09:22:29 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 13.241106719367998,
-                "Yesterday": 11.998870694522994,
-                "LastWeek": 9.937888198757992,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-21 09:22:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 13.43333293985899,
-                "Yesterday": 13.109593361011992,
-                "LastWeek": 9.106652107895007,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-21 09:22:37 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Longevity R USD",
-                "PPMCode": "688986",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
-                "Current": 16.70733810721,
-                "Yesterday": 17.044778195797008,
-                "LastWeek": 12.027299748196,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-21 09:22:38 (UTC)",
                 "history": true
             }
         ]
