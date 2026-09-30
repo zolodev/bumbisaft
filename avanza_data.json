@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 9.128795956248997,
+                "Yesterday": 7.724400140462002,
+                "LastWeek": 2.7986034200699943,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-30 07:38:48 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "C Worldwide Sweden Small Cap 1A",
+                "PPMCode": "721035",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
+                "Current": 3.9279542735610087,
+                "Yesterday": 2.7010501129869953,
+                "LastWeek": 3.2513624883689953,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-30 07:38:50 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "C Worldwide Sweden Small Cap 1A",
                 "PPMCode": "721035",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
@@ -14,34 +42,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-30 00:49:40 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Lannebo Marknad Pacific A",
-                "PPMCode": "642298",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/167",
-                "Current": 6.637806637811991,
-                "Yesterday": 5.393513590233997,
-                "LastWeek": 5.842973056091997,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-30 00:49:41 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "C Worldwide Sweden Small Cap 1A",
-                "PPMCode": "721035",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/221608",
-                "Current": 2.7010501129869953,
-                "Yesterday": 3.8083211484780075,
-                "LastWeek": 4.645753024059996,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25bc",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-29 20:18:10 (UTC)",
                 "history": true
             },
             {
@@ -55,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-29 20:18:12 (UTC)",
+                "LastUpdated": "2026-09-30 00:49:41 (UTC)",
                 "history": true
             },
             {
@@ -323,20 +323,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-23 08:53:39 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Swedbank Robur Technology A",
-                "PPMCode": "283408",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/363",
-                "Current": 3.160137356310006,
-                "Yesterday": 0.4418015452580039,
-                "LastWeek": -3.3878431290437034,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-23 02:12:30 (UTC)",
-                "history": true
             }
         ]
     },
@@ -354,35 +340,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 00:49:48 (UTC)",
+                "LastUpdated": "2026-09-30 07:38:54 (UTC)",
                 "history": false
             },
             {
                 "Name": "SEB Asset Selection C (H-SEK)",
                 "PPMCode": "639633",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
-                "Current": 6.384644613063993,
-                "Yesterday": 6.238989510529991,
-                "LastWeek": 2.800262524612008,
+                "Current": 7.910442531621993,
+                "Yesterday": 7.762698403429004,
+                "LastWeek": 4.274652246528003,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 00:49:50 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "D&G Global All Cap",
-                "PPMCode": "541235",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316079",
-                "Current": 13.253979240080008,
-                "Yesterday": 12.863970364594007,
-                "LastWeek": 8.784887054291994,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 00:49:52 (UTC)",
+                "LastUpdated": "2026-09-30 07:38:56 (UTC)",
                 "history": false
             },
             {
@@ -396,21 +368,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 00:49:54 (UTC)",
+                "LastUpdated": "2026-09-30 07:38:57 (UTC)",
                 "history": false
             },
             {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 4.844911561137997,
-                "Yesterday": 3.9733401691869954,
-                "LastWeek": 2.8197897974879926,
+                "Name": "D&G Global All Cap",
+                "PPMCode": "541235",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316079",
+                "Current": 13.253979240080008,
+                "Yesterday": 12.863970364594007,
+                "LastWeek": 8.784887054291994,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 00:49:59 (UTC)",
+                "LastUpdated": "2026-09-30 07:38:59 (UTC)",
                 "history": false
             },
             {
@@ -424,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 00:50:00 (UTC)",
+                "LastUpdated": "2026-09-30 07:39:02 (UTC)",
                 "history": false
             },
             {
@@ -438,7 +410,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-29 20:18:19 (UTC)",
+                "LastUpdated": "2026-09-30 00:49:48 (UTC)",
                 "history": true
             },
             {
@@ -452,35 +424,63 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-29 20:18:21 (UTC)",
+                "LastUpdated": "2026-09-30 00:49:50 (UTC)",
                 "history": true
             },
             {
                 "Name": "D&G Global All Cap",
                 "PPMCode": "541235",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/316079",
-                "Current": 12.863970364594007,
-                "Yesterday": 12.067619420311003,
-                "LastWeek": 8.387094765571,
+                "Current": 13.253979240080008,
+                "Yesterday": 12.863970364594007,
+                "LastWeek": 8.784887054291994,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-29 20:18:22 (UTC)",
+                "LastUpdated": "2026-09-30 00:49:52 (UTC)",
                 "history": true
             },
             {
                 "Name": "Pictet-Security R USD",
                 "PPMCode": "968891",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 7.724400140462002,
-                "Yesterday": 8.078707116217993,
-                "LastWeek": 2.770952752763005,
-                "TrendDay": "\u25bc",
+                "Current": 9.128795956248997,
+                "Yesterday": 7.724400140462002,
+                "LastWeek": 2.7986034200699943,
+                "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
+                "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-29 20:18:25 (UTC)",
+                "LastUpdated": "2026-09-30 00:49:54 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 4.844911561137997,
+                "Yesterday": 3.9733401691869954,
+                "LastWeek": 2.8197897974879926,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-30 00:49:59 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF World Healthscience A2",
+                "PPMCode": "374421",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
+                "Current": 6.624694458329995,
+                "Yesterday": 6.493827457634997,
+                "LastWeek": 4.017151939742998,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-30 00:50:00 (UTC)",
                 "history": true
             },
             {
