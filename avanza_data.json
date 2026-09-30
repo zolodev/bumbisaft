@@ -3,17 +3,45 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 9.128795956248997,
-                "Yesterday": 7.724400140462002,
-                "LastWeek": 2.7986034200699943,
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 5.931446304301007,
+                "Yesterday": 6.5520970471990045,
+                "LastWeek": 4.415083693816996,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-30 20:22:31 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF Japan Small & MidCap Opps A2",
+                "PPMCode": "159442",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1339",
+                "Current": 4.005221972545005,
+                "Yesterday": 4.817021743874993,
+                "LastWeek": 4.023694961104994,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-09-30 20:22:33 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 8.989484164653003,
+                "Yesterday": 7.223767767783992,
+                "LastWeek": 5.4308496132169966,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-30 14:22:27 (UTC)",
+                "LastUpdated": "2026-09-30 20:22:40 (UTC)",
                 "history": false
             },
             {
@@ -27,7 +55,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-09-30 07:38:48 (UTC)",
+                "LastUpdated": "2026-09-30 14:22:27 (UTC)",
                 "history": true
             },
             {
@@ -295,26 +323,82 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-09-24 18:01:58 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "DNB Global Emerging Markets S",
-                "PPMCode": "326660",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2619752",
-                "Current": -1.120079428661702,
-                "Yesterday": -3.8818276997957946,
-                "LastWeek": -1.6315272371048923,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-09-23 14:29:53 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "Skandia Japan Exponering",
+                "PPMCode": "582791",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1263",
+                "Current": 5.931446304301007,
+                "Yesterday": 6.5520970471990045,
+                "LastWeek": 4.415083693816996,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-30 20:22:46 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Japanese Equity Opps R JPY",
+                "PPMCode": "910109",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1324",
+                "Current": 8.989484164653003,
+                "Yesterday": 7.223767767783992,
+                "LastWeek": 5.4308496132169966,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-30 20:22:49 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "SEB Asset Selection C (H-SEK)",
+                "PPMCode": "639633",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
+                "Current": 7.405732310493003,
+                "Yesterday": 7.147702958930004,
+                "LastWeek": 3.7556317080379995,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-30 20:22:53 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "D&G Global All Cap",
+                "PPMCode": "541235",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/316079",
+                "Current": 13.412053719684009,
+                "Yesterday": 12.657820747934,
+                "LastWeek": 9.236280750002006,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-30 20:22:56 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 5.769706705273002,
+                "Yesterday": 4.408539542817999,
+                "LastWeek": -0.36563641908420325,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-09-30 20:23:00 (UTC)",
+                "history": false
+            },
             {
                 "Name": "SEB Asset Selection C (H-SEK)",
                 "PPMCode": "639633",
@@ -327,7 +411,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-30 14:22:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pictet-Security R USD",
@@ -341,7 +425,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-30 14:22:32 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "D&G Global All Cap",
@@ -355,7 +439,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-30 14:22:34 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Healthscience A2",
@@ -369,7 +453,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-30 14:22:37 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Avanza Emerging Markets",
@@ -383,62 +467,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-09-30 07:38:54 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "SEB Asset Selection C (H-SEK)",
-                "PPMCode": "639633",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/73884",
-                "Current": 7.910442531621993,
-                "Yesterday": 7.762698403429004,
-                "LastWeek": 4.274652246528003,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 07:38:56 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Security R USD",
-                "PPMCode": "968891",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
-                "Current": 9.128795956248997,
-                "Yesterday": 7.724400140462002,
-                "LastWeek": 2.7986034200699943,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 07:38:57 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "D&G Global All Cap",
-                "PPMCode": "541235",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/316079",
-                "Current": 13.253979240080008,
-                "Yesterday": 12.863970364594007,
-                "LastWeek": 8.784887054291994,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 07:38:59 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Healthscience A2",
-                "PPMCode": "374421",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/475",
-                "Current": 6.624694458329995,
-                "Yesterday": 6.493827457634997,
-                "LastWeek": 4.017151939742998,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-09-30 07:39:02 (UTC)",
                 "history": true
             },
             {
