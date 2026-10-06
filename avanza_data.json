@@ -3,6 +3,34 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "DNB Global Emerging Markets S",
+                "PPMCode": "326660",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2619752",
+                "Current": 5.5010930058809935,
+                "Yesterday": 2.8940487846229916,
+                "LastWeek": 3.9526271881459976,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-06 21:58:08 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 12.837055400875997,
+                "Yesterday": 10.786798209619992,
+                "LastWeek": 5.764228244417991,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-06 21:58:10 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Handelsbanken Tillv\u00e4xtmarknad (A1 SEK)",
                 "PPMCode": "987842",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2155",
@@ -14,7 +42,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-06 16:20:33 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "DNB Global Emerging Markets S",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-06 16:20:35 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "East Capital Global EM Sustainable A SEK",
@@ -42,20 +70,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-06 08:15:35 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken Tillv\u00e4xtmarknad (A1 SEK)",
-                "PPMCode": "987842",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2155",
-                "Current": 4.525799942344001,
-                "Yesterday": 1.9207719500480016,
-                "LastWeek": 2.8295732123629933,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-06 08:15:39 (UTC)",
                 "history": true
             },
             {
@@ -273,6 +287,48 @@
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": 20.236899388657005,
+                "Yesterday": 20.152406746307005,
+                "LastWeek": 3.8481761333890065,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-06 21:58:18 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Security R USD",
+                "PPMCode": "968891",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/58850",
+                "Current": 12.837055400875997,
+                "Yesterday": 10.786798209619992,
+                "LastWeek": 5.764228244417991,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-06 21:58:26 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Clean Energy Transition R USD",
+                "PPMCode": "887497",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/86287",
+                "Current": -0.42119601616459473,
+                "Yesterday": -1.7619267826798932,
+                "LastWeek": -6.127621504798408,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-06 21:58:29 (UTC)",
+                "history": false
+            },
             {
                 "Name": "Pictet-Security R USD",
                 "PPMCode": "968891",
