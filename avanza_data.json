@@ -3,6 +3,76 @@
         "Label": "DAILYS",
         "FundData": [
             {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 21.931679160324002,
+                "Yesterday": 18.33725929984899,
+                "LastWeek": 21.767338955079996,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-09 21:57:28 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 11.607472364185996,
+                "Yesterday": 12.081757270730996,
+                "LastWeek": 13.929793975252997,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-09 21:57:32 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Global Resources A USD Inc",
+                "PPMCode": "262741",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
+                "Current": 15.593967255116004,
+                "Yesterday": 13.180048321118992,
+                "LastWeek": 13.564012380984003,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-09 21:57:36 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Barings Eastern Europe A USD Inc",
+                "PPMCode": "983593",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
+                "Current": 8.426094911353994,
+                "Yesterday": 6.190690805125996,
+                "LastWeek": 13.91070812944101,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-09 21:57:37 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Fidelity Asia Pacific Opps A-Acc-EUR",
+                "PPMCode": "994095",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/133428",
+                "Current": -4.816814594077605,
+                "Yesterday": -3.401055290380391,
+                "LastWeek": -2.273089016068006,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-09 21:57:38 (UTC)",
+                "history": false
+            },
+            {
                 "Name": "Barings Global Resources A USD Inc",
                 "PPMCode": "262741",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/493",
@@ -14,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:18 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Eastern Europe A USD Inc",
@@ -28,7 +98,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:20 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "AMF Aktiefond Sverige",
@@ -42,7 +112,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:24 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Lannebo Sverige Plus E",
@@ -56,7 +126,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:25 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz China Equity A USD",
@@ -70,7 +140,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:27 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "D&G Sm\u00e5bolag",
@@ -84,7 +154,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:29 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "D&G Aktiefond",
@@ -98,7 +168,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:31 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Barings Hong Kong China A USD Inc",
@@ -112,7 +182,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:34 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Carnegie Listed Private Equity A",
@@ -126,7 +196,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-09 17:39:35 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Evli GEM B",
@@ -393,26 +463,40 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-03 00:47:54 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB Nordamerika Sm\u00e5 och Medelstora Bolag",
-                "PPMCode": "916354",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1599",
-                "Current": -1.749175446511108,
-                "Yesterday": -1.4496156854569018,
-                "LastWeek": -2.2534364924703003,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-02 20:13:21 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF Latin American A2",
+                "PPMCode": "661066",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
+                "Current": 24.196048596101992,
+                "Yesterday": 22.383371114353995,
+                "LastWeek": 7.2034649631190035,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-09 21:57:41 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 19.741085296448,
+                "Yesterday": 18.12248248768199,
+                "LastWeek": 13.785213994286005,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-09 21:57:45 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
@@ -425,7 +509,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-10-09 17:39:39 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Energy A2",
@@ -439,34 +523,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-10-09 17:39:42 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF Latin American A2",
-                "PPMCode": "661066",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 22.163311503856004,
-                "Yesterday": 21.969882520704996,
-                "LastWeek": 6.134917203024997,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-09 10:59:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 17.902322975344994,
-                "Yesterday": 16.360707556895996,
-                "LastWeek": 13.777279110756007,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-09 10:59:16 (UTC)",
                 "history": true
             },
             {
