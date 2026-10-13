@@ -14,7 +14,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-13 11:14:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Gold A2 USD",
@@ -351,20 +351,6 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-07 07:50:29 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "Handelsbanken Tillv\u00e4xtmarknad (A1 SEK)",
-                "PPMCode": "987842",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2155",
-                "Current": 4.525799942344001,
-                "Yesterday": 1.9207719500480016,
-                "LastWeek": 2.8295732123629933,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-06 16:20:33 (UTC)",
-                "history": true
             }
         ]
     },
@@ -382,7 +368,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-13 11:14:52 (UTC)",
+                "LastUpdated": "2026-10-13 18:36:41 (UTC)",
                 "history": false
             },
             {
@@ -396,7 +382,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-13 11:14:58 (UTC)",
+                "LastUpdated": "2026-10-13 18:36:48 (UTC)",
                 "history": false
             },
             {
@@ -410,7 +396,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-13 11:15:00 (UTC)",
+                "LastUpdated": "2026-10-13 18:36:51 (UTC)",
                 "history": false
             },
             {
@@ -424,21 +410,35 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-13 02:45:22 (UTC)",
+                "LastUpdated": "2026-10-13 11:14:52 (UTC)",
                 "history": true
             },
             {
                 "Name": "BGF Latin American A2",
                 "PPMCode": "661066",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1376",
-                "Current": 24.196048596101992,
-                "Yesterday": 22.383371114353995,
-                "LastWeek": 7.2034649631190035,
+                "Current": 21.952481899556005,
+                "Yesterday": 20.301973270165,
+                "LastWeek": 4.700966146364008,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-12 11:25:02 (UTC)",
+                "LastUpdated": "2026-10-13 11:14:58 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Longevity R USD",
+                "PPMCode": "688986",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2983",
+                "Current": 11.764664708124,
+                "Yesterday": 10.517221545824995,
+                "LastWeek": 9.715568934921993,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-13 11:15:00 (UTC)",
                 "history": true
             },
             {
