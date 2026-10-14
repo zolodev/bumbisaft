@@ -3,31 +3,45 @@
         "Label": "DAILYS",
         "FundData": [
             {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": -0.8678433103851058,
-                "Yesterday": -2.196854551812594,
-                "LastWeek": -2.648931109251407,
+                "Name": "Handelsbanken H\u00e4lsov\u00e5rd (A1 SEK)",
+                "PPMCode": "644005",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
+                "Current": 7.221829621358992,
+                "Yesterday": 5.281874757796996,
+                "LastWeek": 6.132172247940998,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-10-14 14:45:11 (UTC)",
+                "LastUpdated": "2026-10-14 19:48:04 (UTC)",
                 "history": false
             },
             {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": 4.092710839351002,
-                "Yesterday": 2.755570897898997,
-                "LastWeek": 2.4299210737909926,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "Name": "SEB L\u00e4kemedelsfond A (SEK)",
+                "PPMCode": "229922",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/473",
+                "Current": 5.218315764429008,
+                "Yesterday": 6.786056540483005,
+                "LastWeek": 5.349185433737002,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-10-14 14:45:13 (UTC)",
+                "LastUpdated": "2026-10-14 19:48:07 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Lannebo Sm\u00e5bolag A",
+                "PPMCode": "842690",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2014",
+                "Current": 1.439899833039999,
+                "Yesterday": 1.4868530884780011,
+                "LastWeek": 2.3059265442180004,
+                "TrendDay": "\u25bc",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-14 19:48:08 (UTC)",
                 "history": false
             },
             {
@@ -41,8 +55,64 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-10-14 14:45:18 (UTC)",
+                "LastUpdated": "2026-10-14 19:48:15 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Premium Brands R EUR",
+                "PPMCode": "923383",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
+                "Current": -0.8261119611465074,
+                "Yesterday": -0.9454239159604912,
+                "LastWeek": -2.8096943088215083,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-14 19:48:17 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Carnegie Indienfond A",
+                "PPMCode": "505586",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
+                "Current": -0.8678433103851058,
+                "Yesterday": -2.196854551812594,
+                "LastWeek": -2.648931109251407,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-14 14:45:11 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "BGF India A2",
+                "PPMCode": "768499",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
+                "Current": 4.092710839351002,
+                "Yesterday": 2.755570897898997,
+                "LastWeek": 2.4299210737909926,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-14 14:45:13 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Nordea Indienfond",
+                "PPMCode": "469692",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/43947",
+                "Current": 2.548536770535993,
+                "Yesterday": 1.3342888950519955,
+                "LastWeek": 0.9006203305649978,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-14 14:45:18 (UTC)",
+                "history": true
             },
             {
                 "Name": "Pictet-Indian Equities R USD",
@@ -56,7 +126,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-14 14:45:19 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "C Worldwide Sweden Small Cap 1A",
@@ -70,7 +140,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-14 14:45:21 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Water AT EUR",
@@ -84,7 +154,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-14 14:45:22 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Pareto Aksje Norge B",
@@ -98,7 +168,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-14 14:45:23 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Delphi Nordic A",
@@ -126,34 +196,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-14 09:06:02 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Carnegie Indienfond A",
-                "PPMCode": "505586",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/3101",
-                "Current": -0.8678433103851058,
-                "Yesterday": -2.196854551812594,
-                "LastWeek": -2.648931109251407,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-14 09:06:07 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF India A2",
-                "PPMCode": "768499",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/56067",
-                "Current": 4.092710839351002,
-                "Yesterday": 2.755570897898997,
-                "LastWeek": 2.4299210737909926,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-13 23:28:19 (UTC)",
                 "history": true
             },
             {
@@ -435,26 +477,54 @@
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-08 01:24:38 (UTC)",
                 "history": true
-            },
-            {
-                "Name": "SEB Emerging Marketsfond",
-                "PPMCode": "950774",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2164",
-                "Current": 5.718968515597007,
-                "Yesterday": 3.4049318577150003,
-                "LastWeek": 3.859698907845996,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-07 14:50:22 (UTC)",
-                "history": true
             }
         ]
     },
     {
         "Label": "WEEKLYS",
         "FundData": [
+            {
+                "Name": "BGF World Energy A2",
+                "PPMCode": "517748",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
+                "Current": 18.34217656131999,
+                "Yesterday": 17.86276267413899,
+                "LastWeek": 12.063244588737998,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-14 19:48:19 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Spiltan Sm\u00e5bolagsfond",
+                "PPMCode": "152181",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
+                "Current": 7.060869815216993,
+                "Yesterday": 6.484442943084996,
+                "LastWeek": 6.342133066923998,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-14 19:48:27 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Pictet-Premium Brands R EUR",
+                "PPMCode": "923383",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
+                "Current": -0.8261119611465074,
+                "Yesterday": -0.9454239159604912,
+                "LastWeek": -2.8096943088215083,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-14 19:48:32 (UTC)",
+                "history": false
+            },
             {
                 "Name": "BGF World Energy A2",
                 "PPMCode": "517748",
@@ -467,7 +537,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-10-14 14:45:25 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF Natural Resources A2",
@@ -481,20 +551,6 @@
                 "TrendAwesome": "",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-10-14 14:45:38 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "BGF World Energy A2",
-                "PPMCode": "517748",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/540",
-                "Current": 19.50322871255201,
-                "Yesterday": 19.019111307646998,
-                "LastWeek": 13.162694294535996,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-14 09:06:11 (UTC)",
                 "history": true
             },
             {
