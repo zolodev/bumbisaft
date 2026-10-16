@@ -6,6 +6,34 @@
                 "Name": "BGF World Gold A2 USD",
                 "PPMCode": "338590",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
+                "Current": 26.234926470724,
+                "Yesterday": 21.003818545621996,
+                "LastWeek": 24.006878622716997,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-16 22:17:24 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Mining A2",
+                "PPMCode": "481911",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
+                "Current": 12.482773503653007,
+                "Yesterday": 8.678808561830992,
+                "LastWeek": 12.969649825349006,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-16 22:17:26 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "BGF World Gold A2 USD",
+                "PPMCode": "338590",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
                 "Current": 21.003818545621996,
                 "Yesterday": 22.422238603026997,
                 "LastWeek": 25.541815032078997,
@@ -14,7 +42,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-16 19:05:54 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Mining A2",
@@ -28,7 +56,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-16 19:05:55 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "Allianz Global Metals and Mining A EUR",
@@ -42,7 +70,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-16 19:06:01 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Financials A2",
@@ -56,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-16 19:06:03 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Healthscience A2",
@@ -367,34 +395,6 @@
                 "history": true
             },
             {
-                "Name": "BGF World Gold A2 USD",
-                "PPMCode": "338590",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/492",
-                "Current": 21.931679160324002,
-                "Yesterday": 18.33725929984899,
-                "LastWeek": 21.767338955079996,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-12 11:24:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "BGF World Mining A2",
-                "PPMCode": "481911",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/2821",
-                "Current": 14.302283238568997,
-                "Yesterday": 11.607472364185996,
-                "LastWeek": 13.070822401672993,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-12 11:24:57 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Barings Eastern Europe A USD Inc",
                 "PPMCode": "983593",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/2579",
@@ -438,21 +438,21 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 19:06:08 (UTC)",
+                "LastUpdated": "2026-10-16 22:17:37 (UTC)",
                 "history": false
             },
             {
                 "Name": "Pictet-Premium Brands R EUR",
                 "PPMCode": "923383",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
-                "Current": -0.8563425909946999,
-                "Yesterday": -1.6701335144396035,
-                "LastWeek": -4.6632552494993975,
+                "Current": 0.8459368381450076,
+                "Yesterday": -0.8563425909946999,
+                "LastWeek": -4.514165708148503,
                 "TrendDay": "\u25b2",
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 19:06:09 (UTC)",
+                "LastUpdated": "2026-10-16 22:17:38 (UTC)",
                 "history": false
             },
             {
@@ -466,7 +466,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 19:06:11 (UTC)",
+                "LastUpdated": "2026-10-16 22:17:40 (UTC)",
                 "history": false
             },
             {
@@ -480,8 +480,64 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 19:06:14 (UTC)",
+                "LastUpdated": "2026-10-16 22:17:42 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Franklin India A(acc)USD",
+                "PPMCode": "170894",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
+                "Current": 1.878247407843992,
+                "Yesterday": 0.6149989312119941,
+                "LastWeek": -0.06423168751580305,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-16 19:06:08 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Pictet-Premium Brands R EUR",
+                "PPMCode": "923383",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
+                "Current": -0.8563425909946999,
+                "Yesterday": -1.6701335144396035,
+                "LastWeek": -4.6632552494993975,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-16 19:06:09 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 7.297994386807003,
+                "Yesterday": 6.050589440731001,
+                "LastWeek": 3.304670102880991,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-16 19:06:11 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "Swedbank Robur Healthcare A",
+                "PPMCode": "928341",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
+                "Current": 10.620871862616005,
+                "Yesterday": 9.643328929987002,
+                "LastWeek": 6.261558784676,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-16 19:06:14 (UTC)",
+                "history": true
             },
             {
                 "Name": "Handelsbanken H\u00e4lsov\u00e5rd (A1 SEK)",
@@ -495,7 +551,7 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-10-16 19:06:16 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "BGF World Healthscience A2",
@@ -512,62 +568,6 @@
                 "history": true
             },
             {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": 1.878247407843992,
-                "Yesterday": 0.6149989312119941,
-                "LastWeek": -0.06423168751580305,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 14:23:10 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 7.297994386807003,
-                "Yesterday": 6.050589440731001,
-                "LastWeek": 3.304670102880991,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 14:23:13 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Swedbank Robur Healthcare A",
-                "PPMCode": "928341",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/453",
-                "Current": 10.620871862616005,
-                "Yesterday": 9.643328929987002,
-                "LastWeek": 6.261558784676,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 14:23:16 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Handelsbanken H\u00e4lsov\u00e5rd (A1 SEK)",
-                "PPMCode": "644005",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/464",
-                "Current": 8.506830384456007,
-                "Yesterday": 6.556262884849002,
-                "LastWeek": 5.525475181821003,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 14:23:20 (UTC)",
-                "history": true
-            },
-            {
                 "Name": "Spiltan Sm\u00e5bolagsfond",
                 "PPMCode": "152181",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/1996",
@@ -579,20 +579,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-10-16 08:34:12 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Pictet-Premium Brands R EUR",
-                "PPMCode": "923383",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/20949",
-                "Current": 0.521803320869003,
-                "Yesterday": -0.3032996992198969,
-                "LastWeek": -3.3380273079248943,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 08:34:14 (UTC)",
                 "history": true
             },
             {
