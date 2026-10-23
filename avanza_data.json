@@ -13,7 +13,7 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-10-23 19:36:41 (UTC)",
+                "LastUpdated": "2026-10-23 22:43:04 (UTC)",
                 "history": false
             },
             {
@@ -27,8 +27,50 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "DAILYS",
-                "LastUpdated": "2026-10-23 19:36:43 (UTC)",
+                "LastUpdated": "2026-10-23 22:43:06 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Allianz China A Shares AT USD",
+                "PPMCode": "933359",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1011686",
+                "Current": -13.120298265851396,
+                "Yesterday": -14.683526983635891,
+                "LastWeek": -9.271807244377396,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25bc",
+                "TrendAwesome": "",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-23 22:43:08 (UTC)",
+                "history": false
+            },
+            {
+                "Name": "Allianz Global Water AT EUR",
+                "PPMCode": "878694",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/909774",
+                "Current": 4.2710416332269965,
+                "Yesterday": 2.2250716869320057,
+                "LastWeek": 2.769103334352003,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-23 19:36:41 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "DNB Health Care S",
+                "PPMCode": "255001",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
+                "Current": 9.153317653599007,
+                "Yesterday": 7.105785122808992,
+                "LastWeek": 2.5133257279009924,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "DAILYS",
+                "LastUpdated": "2026-10-23 19:36:43 (UTC)",
+                "history": true
             },
             {
                 "Name": "Allianz China A Shares AT USD",
@@ -42,7 +84,7 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-23 19:36:46 (UTC)",
-                "history": false
+                "history": true
             },
             {
                 "Name": "SEB Teknologifond A (SEK)",
@@ -56,20 +98,6 @@
                 "TrendAwesome": "",
                 "Label": "DAILYS",
                 "LastUpdated": "2026-10-23 14:30:36 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 7.105785122808992,
-                "Yesterday": 7.5374847665840035,
-                "LastWeek": 4.371500117929009,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "DAILYS",
-                "LastUpdated": "2026-10-23 14:30:37 (UTC)",
                 "history": true
             },
             {
@@ -333,14 +361,14 @@
                 "Name": "Pictet-Biotech R USD",
                 "PPMCode": "260919",
                 "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -5.8653064931158045,
-                "Yesterday": -6.605800870893308,
-                "LastWeek": -9.2466643051746,
-                "TrendDay": "\u25b2",
+                "Current": -8.119408527673695,
+                "Yesterday": -5.8653064931158045,
+                "LastWeek": -8.9980655997133,
+                "TrendDay": "\u25bc",
                 "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
+                "TrendAwesome": "",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-23 19:36:52 (UTC)",
+                "LastUpdated": "2026-10-23 22:43:14 (UTC)",
                 "history": false
             },
             {
@@ -354,8 +382,36 @@
                 "TrendWeek": "\u25b2",
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-23 19:36:55 (UTC)",
+                "LastUpdated": "2026-10-23 22:43:18 (UTC)",
                 "history": false
+            },
+            {
+                "Name": "Pictet-Biotech R USD",
+                "PPMCode": "260919",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
+                "Current": -5.8653064931158045,
+                "Yesterday": -6.605800870893308,
+                "LastWeek": -9.2466643051746,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-23 19:36:52 (UTC)",
+                "history": true
+            },
+            {
+                "Name": "UB Infra A",
+                "PPMCode": "780411",
+                "URL": "https://www.avanza.se/fonder/om-fonden.html/600081",
+                "Current": -1.8054590372542045,
+                "Yesterday": -3.4749161952040053,
+                "LastWeek": -5.183270764752996,
+                "TrendDay": "\u25b2",
+                "TrendWeek": "\u25b2",
+                "TrendAwesome": "\ud83d\udcaa",
+                "Label": "WEEKLYS",
+                "LastUpdated": "2026-10-23 19:36:55 (UTC)",
+                "history": true
             },
             {
                 "Name": "DNB Health Care S",
@@ -369,48 +425,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-10-23 19:37:01 (UTC)",
-                "history": false
-            },
-            {
-                "Name": "Pictet-Biotech R USD",
-                "PPMCode": "260919",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/459",
-                "Current": -6.080710839630792,
-                "Yesterday": -6.819510776160295,
-                "LastWeek": -9.454331236899106,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-23 14:30:45 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "UB Infra A",
-                "PPMCode": "780411",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/600081",
-                "Current": -3.4749161952040053,
-                "Yesterday": -3.689462687794294,
-                "LastWeek": -5.125991286770804,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-23 14:30:46 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "DNB Health Care S",
-                "PPMCode": "255001",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/1506920",
-                "Current": 7.105785122808992,
-                "Yesterday": 7.5374847665840035,
-                "LastWeek": 4.371500117929009,
-                "TrendDay": "\u25bc",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-23 14:30:49 (UTC)",
                 "history": true
             },
             {
@@ -579,20 +593,6 @@
                 "TrendAwesome": "\ud83d\udcaa",
                 "Label": "WEEKLYS",
                 "LastUpdated": "2026-10-19 16:40:53 (UTC)",
-                "history": true
-            },
-            {
-                "Name": "Franklin India A(acc)USD",
-                "PPMCode": "170894",
-                "URL": "https://www.avanza.se/fonder/om-fonden.html/70371",
-                "Current": 1.878247407843992,
-                "Yesterday": 0.6149989312119941,
-                "LastWeek": -0.06423168751580305,
-                "TrendDay": "\u25b2",
-                "TrendWeek": "\u25b2",
-                "TrendAwesome": "\ud83d\udcaa",
-                "Label": "WEEKLYS",
-                "LastUpdated": "2026-10-16 22:17:37 (UTC)",
                 "history": true
             }
         ]
