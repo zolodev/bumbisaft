@@ -74,10 +74,10 @@ def get_history_data(github_user:str = "zolodev",
     response = requests.get(url)
     #data = json.loads(response.text)
     if response.status_code != 200 or not response.text.strip():
-    raise RuntimeError(
-        f"Avanza returned {response.status_code} "
-        f"({response.headers.get('content-type')}): {response.text[:300]!r}"
-    )
+        raise RuntimeError(
+            f"Avanza returned {response.status_code} "
+            f"({response.headers.get('content-type')}): {response.text[:300]!r}"
+        )
     data = response.json()
 
     
