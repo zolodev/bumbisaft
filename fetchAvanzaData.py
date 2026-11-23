@@ -72,7 +72,14 @@ def get_history_data(github_user:str = "zolodev",
 
     url = f"https://api.github.com/repos/{github_user}/{repo}/commits?path={file}&since={timestamp_since}&until={timestamp_until}"
     response = requests.get(url)
-    data = json.loads(response.text)
+    #data = json.loads(response.text)
+    if response.status_code != 200 or not response.text.strip():
+    raise RuntimeError(
+        f"Avanza returned {response.status_code} "
+        f"({response.headers.get('content-type')}): {response.text[:300]!r}"
+    )
+    data = response.json()
+
     
     list_sha = []
     for single_sha in data:
